@@ -6,46 +6,6 @@
 {"key":"360_spider","name":"360影视(官源)","type":3,"api":"csp_YS360","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/json/360.json"},
 {"key":"sogou_spider","name":"搜狗影视(官源)","type":3,"api":"csp_YSSogou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/json/sogou.json"},
 
-    {
-      "key": "csp_appysv2_9e国语",
-      "name": "9E国语2",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://vod.9e03.com/lvdou_api.php/v1.vod"
-    }, 
-    {
-      "key": "csp_GitCafe",
-      "name": "小纸条",
-      "type": 3,
-      "api": "csp_GitCafe",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-        {
-      "key": "csp_AppYs_秒播",
-      "name": "秒播",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://mkk.gotka.top/api.php/v1.vod"
-    },
-        {
-      "key": "csp_xpath_zx",
-      "name": "在线之家(XP)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json"
-    },
-    
         {
             "ext": "",
             "filterable": 1,
@@ -107,7 +67,76 @@
             "filterable": 1,
             "ext": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/json/cokemv.json"
         },
-
+   {
+      "key": "csp_xpath_qiyou",
+      "name": "奇优电影(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/qiyou.json"
+    },
+    {
+      "key": "csp_xpath_kuqi",
+      "name": "酷奇MV(XP)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/kuqimv.json"
+    }, 
+    {
+      "key": "csp_appysv2_9e国语",
+      "name": "9E国语",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://vod.9e03.com/lvdou_api.php/v1.vod"
+    }, 
+    {
+      "key": "六度",
+      "name": "六度(XPM)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/6dtv.json"
+    },
+    {
+      "key": "csp_xpath_unss",
+      "name": "九洲影视(XPMF)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/%E4%B9%9D%E5%B7%9E.json"
+    },
+     {
+      "key": "csp_AppYs_秒播",
+      "name": "秒播",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://mkk.gotka.top/api.php/v1.vod"
+    },
+        {
+      "key": "csp_xpath_zx",
+      "name": "在线之家(XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/json/zxzjtv.json"
+    },
         {
             "key": "csp_xpath_libv",
             "name": "Libvio(XPMac)",
@@ -528,10 +557,9 @@
   ],
 
 
-//"spider": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/custom_spider_20220412.jar"
+"spider": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/custom_spider_20220412.jar"
 //"spider": "img+https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/spider"
 //"spider": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/custom_spider_ts.jar"
 //"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/spider5.jar"
-"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/customspider2.jar"
 
 }
