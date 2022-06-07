@@ -8,7 +8,7 @@
 
   { // 解析自己找
       "key": "360-2",
-      "name": "360-2",
+      "name": "360-3",
       "type": 3,
       "api": "csp_SP360",
       "searchable": 1,
@@ -521,9 +521,9 @@
   ],
 
 
-//"spider": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/custom_spider_20220412.jar"
+"spider": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/custom_spider_20220412.jar"
 //"spider": "img+https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/spider"
-"spider": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/custom_spider_ts.jar"
+//"spider": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/custom_spider_ts.jar"
 //"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/spider5.jar"
 
 }
