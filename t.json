@@ -69,13 +69,13 @@
         },
    {
       "key": "csp_xpath_qiyou",
-      "name": "奇优电影(XP)",
+      "name": "奇优电影2(XP)",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/qiyou.json"
+      "ext": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/json/qiyou.json"
     },
     {
       "key": "csp_xpath_kuqi",
@@ -85,7 +85,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/kuqimv.json"
+      "ext": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/json/kuqimv.json"
     }, 
     {
       "key": "csp_appysv2_9e国语",
@@ -105,7 +105,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/6dtv.json"
+      "ext": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/json/6dtv.json"
     },
     {
       "key": "csp_xpath_unss",
@@ -115,7 +115,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/%E4%B9%9D%E5%B7%9E.json"
+      "ext": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/json/jiuzhou.json"
     },
      {
       "key": "csp_AppYs_秒播",
