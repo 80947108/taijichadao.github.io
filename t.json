@@ -8,7 +8,7 @@
 
   { // 解析自己找
       "key": "360-2",
-      "name": "360-3",
+      "name": "360-1",
       "type": 3,
       "api": "csp_SP360",
       "searchable": 1,
