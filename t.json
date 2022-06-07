@@ -4,7 +4,7 @@
 
 {"key":"2345_spider2","name":"2345影视(官源)","type":3,"api":"csp_YS2345","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/json/2345.json"},
 {"key":"360_spider","name":"360影视(官源)","type":3,"api":"csp_YS360","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/json/360.json"},
-{"key":"sogou_spider","name":"搜狗影视(官源)","type":3,"api":"csp_YSSogou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/json/sogou.json"},
+{"key":"sogou_spider","name":"搜狗影视(官源)","type":3,"api":"csp_YSSogou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/json/sogou2.json"},
 
   { // 解析自己找
       "key": "360-2",
