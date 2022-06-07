@@ -69,7 +69,7 @@
         },
    {
       "key": "csp_xpath_qiyou",
-      "name": "奇优电影2(XP)",
+      "name": "奇优电影(XP)",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -106,16 +106,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/json/6dtv.json"
-    },
-    {
-      "key": "csp_xpath_unss",
-      "name": "九洲影视(XPMF)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/json/jiuzhou.json"
     },
      {
       "key": "csp_AppYs_秒播",
