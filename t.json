@@ -2,7 +2,7 @@
   "sites": [ 
   { 
       "key": "360",
-      "name": "360-1",
+      "name": "360",
       "type": 3,
       "api": "csp_SP360",
       "searchable": 1,
@@ -97,16 +97,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-	  
-	  {
-		"key": "小宝影院",
-		"name": "小宝影院",
-		"type": 3,
-		"api": "csp_Xiaoh",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1
-	}, 
 	  
    {
       "key": "csp_xpath_qiyou",
@@ -578,9 +568,9 @@
   ],
 	
 //"spider": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/spider_ts_20220601.jar"
-"spider": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/spider_ts_20220607.jar"
+//"spider": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/spider_ts_20220607.jar"
 //"spider": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/spider_sd_20220412.jar"
-//"spider":"https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/spider_maomi_20220608.jar"
+"spider":"https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/spider_maomi_20220608.jar"
 //"spider": "img+https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/spider"
 //"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/spider5.jar"
 
