@@ -28,7 +28,15 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
+{
+		"key": "Kuaikan",
+		"name": "快看",
+		"type": 3,
+		"api": "csp_Kuaikan",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1
+	},
     {
       "key": "csp_biubiu_ysgc",
       "name": "影视工厂(XB)",
@@ -49,7 +57,15 @@
       "filterable": 0,
       "ext": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/XBiubiu/555.json"
     },
-
+ {
+		"key": "小宝影院",
+		"name": "小宝影院",
+		"type": 3,
+		"api": "csp_Xiaoh",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1
+	},
         {
         "ext": "http://inews.gtimg.com/newsapp_ls/0/14742062458/0",
          "filterable": 1,
@@ -557,11 +573,12 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-
-//"spider": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/custom_spider_20220601.jar"
-//"spider": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/custom_spider_20220412.jar"
+	
+//"spider": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/spider_ts_20220601.jar"
+//"spider": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/spider_ts_20220607.jar"
+//"spider": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/spider_sd_20220412.jar"
+"spider":"https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/spider_maomi_20220608.jar"
 //"spider": "img+https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/spider"
 //"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/spider5.jar"
-"spider":"https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/spider_maomi_20220608.jar"
 
 }
