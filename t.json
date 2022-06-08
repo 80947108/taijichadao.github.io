@@ -4,46 +4,7 @@
 
 {"key":"2345_spider2","name":"2345影视(官源)","type":3,"api":"csp_YS2345","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/json/2345.json"},
 {"key":"360_spider","name":"360影视(官源)","type":3,"api":"csp_YS360","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/json/360.json"},
-{"key":"sogou_spider","name":"搜狗影视(官源)","type":3,"api":"csp_YSSogou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/json/sogou2.json"},
-
-  { // 解析自己找
-      "key": "360-2",
-      "name": "360-2",
-      "type": 3,
-      "api": "csp_SP360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "LiteApple",
-      "name": "小苹果",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_biubiu_ysgc",
-      "name": "影视工厂(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/XBiubiu/ysgc.json"
-    },
-    {
-      "key": "csp_biubiu_555",
-      "name": "555影院(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/XBiubiu/555.json"
-    },
+{"key":"sogou_spider","name":"搜狗影视(官源)","type":3,"api":"csp_YSSogou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/json/sogou.json"},
 
         {
             "ext": "",
@@ -243,9 +204,9 @@
 {"name":"灯塔","type":1,"url":"http://www.hwh.ink/home/api?type=ys&uid=991882&key=acghklnvEFJKWX5689&url="},
 {"name":"心鸾","type":1,"url":"http://yaluan.520say.cn/home/api?type=ys&uid=77767&key=fhkortuENSUXZ02689&url="},
 {"name":"解析1","type":1,"url":"http://13.70.40.183:1819/5000.php?url="},
-{"name":"解析3","type":1,"url":"https://php.cloudhai.cn/vip.php?url="},
-{"name":"解析4","type":1,"url":"http://htp.behds.cn/applunxun/znjson.php?url="},
-{"name":"解析5","type":1,"url":"https://json.hfyrw.com/mao.go?url="},
+{"name":"解析2","type":1,"url":"https://php.cloudhai.cn/vip.php?url="},
+{"name":"解析3","type":1,"url":"http://htp.behds.cn/applunxun/znjson.php?url="},
+{"name":"解析4","type":1,"url":"https://json.hfyrw.com/mao.go?url="},
 {"name":"看呀","type":1,"url":"http://api.vip123kan.vip/?url="}
     
   ],
@@ -521,9 +482,9 @@
   ],
 
 
-//"spider": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/custom_spider_20220412.jar"
+"spider": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/custom_spider_20220412.jar"
 //"spider": "img+https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/spider"
-"spider": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/custom_spider_ts.jar"
+//"spider": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/custom_spider_20220601.jar"
 //"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/spider5.jar"
 
 }
