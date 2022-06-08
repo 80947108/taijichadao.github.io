@@ -51,14 +51,14 @@
     },
 
         {
-		"ext": "http://inews.gtimg.com/newsapp_ls/0/14742062458/0",
-		"filterable": 1,
-		"quickSearch": 1,
-		"name": "Auete影院(SP)",
-		"api": "csp_Auete",
-		"type": 3,
-		"key": "auete_spider",
-		"searchable": 1
+        "ext": "http://inews.gtimg.com/newsapp_ls/0/14742062458/0",
+         "filterable": 1,
+         "quickSearch": 1,
+         "name": "Auete影院(SP)",
+          "api": "csp_Auete",
+          "type": 3,
+           "key": "auete_spider",
+	"searchable": 1
 	},
     {
       "key": "Auete",
@@ -169,27 +169,6 @@
       "filterable": 1,
       "ext": "https://300ys.xyz/mogai_api.php/v1.vod"
     },
-
-    {
-      "key": "789看片",
-      "name": "789看片(XP)",
-      "type": 3,
-      "api": "csp_XPathRec",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/json/789ba.json"
-    },
-    {
-      "key": "Gimy",
-      "name": "Gimy(XP)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/json/Gimy.json"
-    },
     {
       "key": "乐猪TV",
       "name": "乐猪TV(XP)",
@@ -200,16 +179,7 @@
       "filterable": 0,
       "ext": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/json/lezhutv.json"
     },
-    {
-      "key": "Age动漫",
-      "name": "Age动漫(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/json/agefans.json"
-    },
+
 {"key":"csp_XPathMacFilter_极品","name":"极品","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/json/jpys.json"},
   {"key":"csp_appysv2_天空影视V2","name":"天空影视V2(M)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tkys.tv/xgapp.php/v2/"},
   {"key":"csp_appysv2_段友影视1","name":"段友影视1(M)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shangjihuoke.com/api.php/tv.vod"},
@@ -245,16 +215,6 @@
             "type": 3,
             "key": "mjxq_spider",
             "searchable": 1
-        },
-        {
-            "key": "csp_appysv2_1080kk",
-            "name": "1080kk(M2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://123.250idc.com/mogai_api.php/v1.vod"
         },
 
         {
