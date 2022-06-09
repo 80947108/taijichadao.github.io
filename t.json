@@ -231,10 +231,19 @@
             "searchable": 1
         },
 	  
-{"key":"push_agent（阿里）","name":"推送（阿里）","type":3,"api":"csp_Ali","searchable":0,"quickSearch":0,"filterable":0,"ext":""}
-{"key":"push_agent","name":"推送ts","type":"3","api":"csp_PushAgent","searchable":"0","quickSearch":"0","filterable":"0"} 
-  
-  ],
+{"key":"push_agent","name":"推送（阿里）","type":3,"api":"csp_Ali","searchable":0,"quickSearch":0,"filterable":0,"ext":""},
+	  
+        {
+            "key":"push_agent",
+            "name":"推送ts",
+            "type":"3",
+            "api":"csp_PushAgent",
+            "searchable":"0",
+            "quickSearch":"0",
+            "filterable":"0"
+        }
+
+ ],
 
 
   "lives": [
@@ -565,9 +574,9 @@
     "cms.qdwght.com"
   ],
 
-//"spider":"https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/spider_maomi_20220608.jar"	
-"spider": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/spider_ts_20220607.jar"
+"spider":"https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/spider_maomi_20220608.jar"	
 //"spider": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/spider_ts_20220601.jar"
+//"spider": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/spider_ts_20220607.jar"
 //"spider": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/spider_sd_20220412.jar"
 //"spider": "img+https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/spider"
 //"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/spider5.jar"
