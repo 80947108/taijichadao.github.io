@@ -248,7 +248,7 @@
 
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
-"proxy://do=live&type=txt&ext=https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/tv/live2.txt"
+"proxy://do=live&type=txt&ext="https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/tv/live2.txt""
 ]}]}],
 
 "parses":[
