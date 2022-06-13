@@ -246,10 +246,13 @@
 
  ],
 
-
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":[
-"proxy://do=live&type=txt&ext="https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/tv/live2.txt""
-]}]}],
+	"lives": [{
+		"group": "redirect",
+		"channels": [{
+			"name": "redirect",
+			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly90YW5nc2FuOTk5OTkuZ2l0aHViLmlvL2wvbGl2ZS5ibXA="]
+		}]
+	}],
 
 "parses":[
 
