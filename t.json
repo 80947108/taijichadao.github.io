@@ -2,7 +2,7 @@
   "sites": [ 
   { 
       "key": "360",
-      "name": "360测试2",
+      "name": "360测试",
       "type": 3,
       "api": "csp_SP360",
       "searchable": 1,
@@ -560,9 +560,9 @@
 //"spider": "clan://cat/spider_maomi_20220608.jar"
 //"spider":"https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/spider_maomi_20220608.jar"	
 //"spider": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/spider_ts_20220601.jar"
-//"spider": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/spider_ts_20220607.jar"
+"spider": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/spider_ts_20220607.jar"
 //"spider": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/spider_sd_20220412.jar"
 //"spider": "img+https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/spider"
 //"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/spider5.jar"
-"spider": "https://notabug.org/qaz/xiaoming/raw/master/tangsan/tangsan0607.jar"
+
 }
