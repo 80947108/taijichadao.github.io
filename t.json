@@ -2,7 +2,7 @@
   "sites": [ 
   { 
       "key": "360",
-      "name": "360测试",
+      "name": "360测试1",
       "type": 3,
       "api": "csp_SP360",
       "searchable": 1,
@@ -246,13 +246,9 @@
 
  ],
 
-	"lives": [{
-		"group": "redirect",
-		"channels": [{
-			"name": "redirect",
-			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly90YW5nc2FuOTk5OTkuZ2l0aHViLmlvL2wvbGl2ZS5ibXA="]
-		}]
-	}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":[
+"proxy://do=live&type=txt&ext=https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/tv/live.txt"
+]}]}],
 
 "parses":[
 
@@ -560,9 +556,10 @@
 //"spider": "clan://cat/spider_maomi_20220608.jar"
 //"spider":"https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/spider_maomi_20220608.jar"	
 //"spider": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/spider_ts_20220601.jar"
-"spider": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/spider_ts_20220607.jar"
+//"spider": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/spider_ts_20220607.jar"
 //"spider": "https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/spider_sd_20220412.jar"
 //"spider": "img+https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/spider"
 //"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/spider5.jar"
+"spider":"https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/spider/baddychen0608.jar"
 
 }
