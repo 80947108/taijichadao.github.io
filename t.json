@@ -198,8 +198,8 @@
     },
 
 {"key":"csp_XPathMacFilter_极品","name":"极品(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/json/jpys.json"},
-{"key":"csp_xpath_虎牙直播","name":"虎牙直播(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/json/huya.json"},
-
+{"key":"csp_xpath_虎牙直播","name":"虎牙直播g(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/json/huya.json"},
+{"key":"csp_xpath_huyam","name":"虎牙直播m（XP）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://xingtianxia.coding.net/p/mao/d/mao/git/raw/master/json/huya2.json"},
 // ⇩⇩ APPYSV2 ⇩⇩
 
     { 
