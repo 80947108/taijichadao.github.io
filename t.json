@@ -50,10 +50,10 @@
 {"key":"sogou_spider","name":"搜狗影视(SP官源)","type":3,"api":"csp_YSSogou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xingtianxia.coding.net/p/ys/d/mao/git/raw/master/json/sogou.json"},
 //------------
 
-{"key":"push_agent","name":"推送（阿里）","type":3,"api":"csp_Ali","searchable":0,"quickSearch":0,"filterable":0}
+//{"key":"push_agent","name":"推送（阿里）","type":3,"api":"csp_Ali","searchable":0,"quickSearch":0,"filterable":0}
 
 //下面直链推送要用爬虫 tangsan.jar
-//{"key":"push_agent","name":"推送ts","type":"3","api":"csp_PushAgent","searchable":"0","quickSearch":"0","filterable":"0"}
+{"key":"push_agent","name":"推送ts","type":"3","api":"csp_PushAgent","searchable":"0","quickSearch":"0","filterable":"0"}
 
 ],
 
