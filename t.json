@@ -6,7 +6,7 @@
 
 // ⇩⇩ jar包内东东 ⇩⇩
 "sites":[
-{"key":"csp_SP360","name":"360(ts)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_SP360","name":"360(sd)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"csp_Kunyu77","name":"七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -170,8 +170,8 @@
 ],
 
 //"spider":"https://xingtianxia.coding.net/p/ys/d/mao/git/raw/master/spider/baddychen.jar"
-"spider": "https://xingtianxia.coding.net/p/ys/d/mao/git/raw/master/spider/tangsan.jar"
-//"spider": "https://xingtianxia.coding.net/p/ys/d/mao/git/raw/master/spider/saoda.jar"
+//"spider": "https://xingtianxia.coding.net/p/ys/d/mao/git/raw/master/spider/tangsan.jar"
+"spider": "https://xingtianxia.coding.net/p/ys/d/mao/git/raw/master/spider/saoda.jar"
 //"spider": "img+https://xingtianxia.coding.net/p/ys/d/mao/git/raw/master/spider/spider"
 
 }
