@@ -215,6 +215,11 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS新闻,https://tv.puboat.com/live.m3u8?c=22
 TVBS新闻,rtmp://59.124.75.138:1935/sat/tv551
 TVBS新闻,rtmp://219.80.97.35/sat/tv551
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8 
+台视新闻,https://epg.pm/stream/0156ad3eb422b313212e69a07c29e20f051fff6f0832d1e5f0443f8a283c613e.php
+台视新闻,https://epg.pm/stream/8655006acfa3857ec51f6427fa2ea9ca167b38fc53ae84d1645bc0ce8b4060ba.m3u8
+台视新闻,https://epg.pm/stream/65359096614195a46e5b795083c53a30763f4a74de54d47a987ffabdf612d8a3.m3u8
+台视新闻,https://epg.pm/stream/e3e908b3a9db0385d0af327e649962542feb341c4fb3b438e11cc4c6b6dfc4eb.m3u8
 台视,rtmp://59.124.75.138:1935/sat/tv071
 台视,rtmp://219.80.97.35/sat/tv071
 台视,https://epg.pm/stream/6783dfd61b407be6150488a7a8b12c5c3868dd62f51d54df8f7ced3d42f8e748.m3u8
@@ -241,7 +246,6 @@ TVB J2,http://120.84.96.152:808/hls/86/index.m3u8
 澳门综艺,http://103.233.191.133:1935/ch6/hd_ch6.live/playlist.m3u8 
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8 
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8 
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8 
 中天新闻,http://152.69.224.242:9500/jmsytb.m3u8?c=1   
 中视新闻,http://50.7.220.74:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd 
 中视经典,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841 
