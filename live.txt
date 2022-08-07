@@ -1,4 +1,4 @@
-📺港、澳、台,#genre#
+港澳台,#genre#
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8#http://iptv.tvfix.org/hls/fhzw.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8#http://iptv.tvfix.org/hls/fhzx.m3u8
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8 
@@ -104,7 +104,7 @@ ELEVEN2,rtmp://219.80.97.35/sat/tv741#rtmp://59.124.75.138:1935/sat/tv741
 NHK综合频道,https://nhk1.mov3.co/hls/nhk.m3u8
 CNN新闻频道,https://cnn-cnninternational-1-gb.samsung.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8
 
-💝央、卫标清,#genre#
+央卫视标清,#genre#
 CCTV-1 综合,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
 CCTV-1 综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 CCTV-1 综合,http://39.134.115.163:8080/PLTV/88888910/224/3221226221/index.m3u8
@@ -205,6 +205,14 @@ CCTV-央视文化精品,http://117.148.179.147/PLTV/88888888/224/3221231561/inde
 CCTV-世界地理,http://117.148.179.147/PLTV/88888888/224/3221231537/index.m3u8
 CCTV-风云剧场,http://117.148.179.147/PLTV/88888888/224/3221231604/index.m3u8
 CCTV-电视指南,http://117.148.179.147/PLTV/88888888/224/3221231571/index.m3u8
+湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
+湖南卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225745/index.m3u8
+湖南卫视,http://39.134.65.162/PLTV/88888888/224/3221225506/index.m3u8
+湖南卫视,http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
+湖南卫视,http://39.134.66.110/PLTV/88888888/224/3221225977/index.m3u8
+湖南卫视,http://39.134.66.110/PLTV/88888888/224/3221225506/index.m3u8
+湖南卫视,http://59.44.10.113:9901/tsfile/live/1106_1.m3u8
+湖南卫视,http://39.134.66.2/PLTV/88888888/224/3221225506/index.m3u8
 北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
 北京卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225673/index.m3u8
 北京卫视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/bjwshd/4000000/mnf.m3u8
@@ -218,14 +226,6 @@ CCTV-电视指南,http://117.148.179.147/PLTV/88888888/224/3221231571/index.m3u8
 深圳卫视,http://140.207.241.3:8080/live/program/live/szwshd/4000000/mnf.m3u8
 深圳卫视,http://59.44.10.113:9901/tsfile/live/1023_1.m3u8
 深圳卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
-湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
-湖南卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225745/index.m3u8
-湖南卫视,http://39.134.65.162/PLTV/88888888/224/3221225506/index.m3u8
-湖南卫视,http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
-湖南卫视,http://39.134.66.110/PLTV/88888888/224/3221225977/index.m3u8
-湖南卫视,http://39.134.66.110/PLTV/88888888/224/3221225506/index.m3u8
-湖南卫视,http://59.44.10.113:9901/tsfile/live/1106_1.m3u8
-湖南卫视,http://39.134.66.2/PLTV/88888888/224/3221225506/index.m3u8
 浙江卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225744/index.m3u8
 浙江卫视,http://39.134.66.110/PLTV/88888888/224/3221225880/index.m3u8
 浙江卫视,http://140.207.241.3:8080/live/program/live/zjwshd/4000000/mnf.m3u8
@@ -331,7 +331,7 @@ CCTV-电视指南,http://117.148.179.147/PLTV/88888888/224/3221231571/index.m3u8
 中国教育2,http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8
 中国教育4,http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8
 
-💖央、卫蓝光,#genre#
+央卫视蓝光,#genre#
 CCTV1[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
 CCTV1[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225918/index.m3u8
 CCTV1[1920*1080],http://39.134.66.48/PLTV/88888888/224/3221225816/index.m3u8
@@ -419,6 +419,9 @@ CCTV17[1920*1080],http://39.134.66.46/PLTV/88888888/224/3221225708/index.m3u8
 CCTV17[1920*1080],http://39.134.65.181/PLTV/88888888/224/3221225708/index.m3u8
 CCTV17[1920*1080],http://39.134.65.183/PLTV/88888888/224/3221225708/index.m3u8
 CCTV17[1920*1080],http://117.148.179.167/PLTV/88888888/224/3221231772/1.m3u8 
+湖南卫视[1920*1080],http://117.148.179.172/PLTV/88888888/224/3221231729/1.m3u8
+湖南卫视[1920*1080],http://117.148.179.135/PLTV/88888888/224/3221230206/1.m3u8
+湖南卫视[1920*1080],http://117.148.179.148/PLTV/88888888/224/3221230824/1.m3u8
 江西卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888910/224/3221225705/index.m3u8
 湖南卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225745/index.m3u8
 江苏卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225743/index.m3u8
@@ -429,9 +432,6 @@ CCTV17[1920*1080],http://117.148.179.167/PLTV/88888888/224/3221231772/1.m3u8
 辽宁卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225735/index.m3u8
 江苏卫视[1920*1080],http://117.148.179.175/PLTV/88888888/224/3221231447/1.m3u8
 北京卫视[1920*1080],http://117.148.179.168/PLTV/88888888/224/3221231732/1.m3u8
-湖南卫视[1920*1080],http://117.148.179.172/PLTV/88888888/224/3221231729/1.m3u8
-湖南卫视[1920*1080],http://117.148.179.135/PLTV/88888888/224/3221230206/1.m3u8
-湖南卫视[1920*1080],http://117.148.179.148/PLTV/88888888/224/3221230824/1.m3u8
 广东卫视[1920*1080],http://117.148.179.141/PLTV/88888888/224/3221231891/1.m3u8
 江西卫视[1920*1080],http://117.148.179.141/PLTV/88888888/224/3221231964/1.m3u8
 浙江卫视[1920*1080],http://117.148.179.140/PLTV/88888888/224/3221229352/1.m3u8
@@ -497,7 +497,7 @@ CCTV17[1920*1080],http://117.148.179.167/PLTV/88888888/224/3221231772/1.m3u8
 江苏卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225743/index.m3u8
 深圳卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225741/index.m3u8
 
-💥4K超高清,#genre# 
+4K超高清,#genre# 
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8  
 CCTV4K,http://open.live-web.timetv.cn/live03/cctv4k.m3u8  
 CCTV8K,http://117.148.179.148/PLTV/88888888/224/3221233350/1.m3u8 
@@ -525,8 +525,8 @@ CCTV8K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/1.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8  
 苏州4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8 
 
-🎨地方台,#genre#
-湖南,http://39.135.32.24:6610/000000001000/1000000001000009115/1.m3u8?xtkg?zhund
+地方台,#genre#
+湖南教育,http://pull.hnedutv.com/live/hnedutv1206.m3u8?zhund
 金鹰纪实,http://39.135.32.24:6610/000000001000/1000000002000011724/1.m3u8?xtkg?zhund
 金鹰纪实,http://tvindexlive01.yn.ysten.com:8080/ysten-business/live/HD-3600k-1080P-jinyingjishi/1.m3u8;{User-Agent@0151?zhund}
 金鹰纪实,http://39.135.32.6:6610/PLTV/77777777/224/3221225699/index.m3u8?servicetype=1&IASHttpSessionId=OTT?zhund
@@ -554,7 +554,6 @@ CCTV8K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/1.m3u8
 湖南电影,http://124.232.231.246:6610/000000001001/201600010005/index.m3u8?A=&IASHttpSessionId=OTT?zhund
 湖南电影,rtmp://fms.yyrtv.com/livepkgr/hndy210130?zhund
 湖南电影,http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/hndy210130.m3u8?zhund
-湖南教育,http://pull.hnedutv.com/live/hnedutv1206.m3u8?zhund
 湘潭新闻综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8?zhund
 湘潭公共频道,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8?zhund
 娄底综合频道,http://119.39.242.52:1935/live/zonghe/playlist.m3u8?zhund
@@ -628,7 +627,7 @@ CCTV8K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/1.m3u8
 永顺综合频道,http://liveplay.rednet.cn/live/yongshun_tv_55433f.m3u8?zhund
 云溪新闻综合,http://liveplay.rednet.cn/live/yunxi_tv.m3u8?zhund
 
-🎏景区 ,#genre#
+景区 ,#genre#
 峨眉山普贤菩萨,http://gcalic.v.myalicdn.com/gc/gccntv241-slf01_1/index.m3u8
 宁夏大漠孤烟,http://gcksc.v.kcdnvip.com/gc/tjhh01_1/index.m3u8
 福建华安土楼,http://gccncc.v.wscdns.com/gc/syns01_1/index.m3u8
