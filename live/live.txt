@@ -201,8 +201,6 @@ CCTV17[农业],http://117.148.179.167/PLTV/88888888/224/3221231772/1.m3u8
 凤凰中文,https://epg.pm/stream/fa45fb4237a9bede16a2dda1d6dd914ca564b9ea3e4118b63ac97a59682307d0.m3u8
 凤凰中文,https://epg.pm/stream/e27eb9d2778977c8081aef96e35040d6795cbc512a1b4cd7a5fddbbd18dd92df.m3u8
 凤凰中文,https://epg.pm/stream/beac0c4569a0e630824c26712cf51db5df536d3d5db482c623e262ced6f14c1c.m3u8
-TVBS新闻,https://epg.pm/stream/215ede58359c29ec190657d813abcc47baf7316e7ed87c97638c7bb733df304a.m3u8
-TVBS新闻,https://epg.pm/stream/b25d1fa77951f24d82b6f83f0a6eb8e9a9d4f22fc734ff47c86e3ac7a9d3e65a.m3u8
 TVBS新闻,rtmp://59.124.75.150/sat/tv551
 TVBS新闻,rtmp://59.124.75.138:1935/sat/tv551
 TVBS新闻,rtmp://59.124.75.138/sat/tv551
@@ -215,6 +213,8 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS新闻,https://tv.puboat.com/live.m3u8?c=22
 TVBS新闻,rtmp://59.124.75.138:1935/sat/tv551
 TVBS新闻,rtmp://219.80.97.35/sat/tv551
+TVBS新闻,https://epg.pm/stream/215ede58359c29ec190657d813abcc47baf7316e7ed87c97638c7bb733df304a.m3u8
+TVBS新闻,https://epg.pm/stream/b25d1fa77951f24d82b6f83f0a6eb8e9a9d4f22fc734ff47c86e3ac7a9d3e65a.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8 
 台视新闻,https://epg.pm/stream/8655006acfa3857ec51f6427fa2ea9ca167b38fc53ae84d1645bc0ce8b4060ba.m3u8
 台视,rtmp://59.124.75.138:1935/sat/tv071
