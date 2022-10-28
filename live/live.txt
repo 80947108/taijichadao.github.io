@@ -90,10 +90,6 @@ CGTN-英语,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN-纪录,http://39.135.138.58:18890/PLTV/88888888/224/3221225645/index.m3u8
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CCTV4K,http://open.live-web.timetv.cn/live03/cctv4k.m3u8
-中国教育1,http://39.135.138.58:18890/PLTV/88888888/224/3221225661/index.m3u8
-中国教育1,http://39.135.138.58:18890/ysten-businessmobile/live/jiaoyutv/1.m3u8
-中国教育1,http://111.20.35.103:6610/yinhe/2/ch00000090990000001063/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
-中国教育1,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225563/2/index.m3u8?fmt=ts2hls
 
 卫视,#genre#
 湖南卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225745/index.m3u8
@@ -249,9 +245,6 @@ FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 原住民族,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
 
 地方台,#genre#
-湖南教育,http://223.151.51.27:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南教育,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel43021/2300.m3u8
-湖南教育,https://epg.pm/stream/bac24ff8aaebdd980fa09d40dc4077a24650cd0038376fceada069040fc0f3dc.m3u8
 金鹰纪实,http://124.232.231.246:6610/000000001001/201600020008/index.m3u8?A=&IASHttpSessionId=OTT?zhund
 金鹰纪实,https://epg.pm/stream/732bbf2677de3e22a011886ab23f0c155f5634ee3197005c64233fb0518d49cf.m3u8
 金鹰纪实,https://epg.pm/stream/2e20686128cef8c40216182c807c5752031a4961fc8e06500f7534bc1074a763.m3u8
@@ -305,6 +298,16 @@ FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 新化新闻综合,http://play-dgv-xhncloud.voc.com.cn/live/5243_nRI1mM.m3u8?zhund
 桑植新闻综合,http://play-dgv-xhncloud.voc.com.cn/live/5243_NbaWW5.m3u8?zhund
 洪江市综合,http://liveplay.rednet.cn/live/hongjiang_tv_ced5a7.m3u8?zhund
+
+专题,#genre#
+茶频道,http://klglive.imgo.tv/nn_live/nn_x64/aWQ9Q1BETVBQMzYwJmNkbmV4X2lkPWtsY2QtbGl2ZQ,,/CPDMPP360.m3u8
+中国教育1,http://39.135.138.58:18890/PLTV/88888888/224/3221225661/index.m3u8
+中国教育1,http://39.135.138.58:18890/ysten-businessmobile/live/jiaoyutv/1.m3u8
+中国教育1,http://111.20.35.103:6610/yinhe/2/ch00000090990000001063/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+中国教育1,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225563/2/index.m3u8?fmt=ts2hls
+湖南教育,http://223.151.51.27:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南教育,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel43021/2300.m3u8
+湖南教育,https://epg.pm/stream/bac24ff8aaebdd980fa09d40dc4077a24650cd0038376fceada069040fc0f3dc.m3u8
 
 景区,#genre#
 峨眉山普贤菩萨,http://gcalic.v.myalicdn.com/gc/gccntv241-slf01_1/index.m3u8
