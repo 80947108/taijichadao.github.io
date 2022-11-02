@@ -45,5 +45,5 @@
   "scVodId": "@href",
   "scVodIdR": "/v_show/(\\w+).html",
   "scVodImg": "@data-original",
-  "scVodMark": "",
+  "scVodMark": ""
 }
