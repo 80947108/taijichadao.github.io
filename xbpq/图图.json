@@ -46,7 +46,7 @@
     "搜索链接": "href=\"&&\"",
     "搜索链接前缀": "",
 
-    "分类url": "http://45.207.11.9:7798/api.php/v1.vod?type={cateId}&page={catePg}",
+    "分类url": "http://45.207.11.9:5628/api.php/v1.vod?type={cateId}&page={catePg}",
 
     "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
  
