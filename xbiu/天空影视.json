@@ -1,0 +1,10 @@
+{
+	"homeUrl": "https://tkznp.com/vodshow/id/{cateId}/page/{catePg}.html",
+	"cateManual": {
+		"电影": "1",
+		"电视剧": "2",
+		"综艺": "3",
+		"动漫": "4",
+		"bilibili": "29"
+	}
+}
