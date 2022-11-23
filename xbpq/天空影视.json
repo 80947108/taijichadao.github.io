@@ -1,5 +1,7 @@
 {
 "免嗅":"1",
+"线路数组": "class=\"module-tab-item&&</div>",
 "线路标题": "<span>&&</span>",
+"播放数组":"class=\"module-play-list-content&&</div>",
 "分类url":"https://tkznp.com/vodshow/id/{cateId}/page/{catePg}.html"
 }
