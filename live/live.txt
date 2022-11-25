@@ -12,7 +12,7 @@ CCTV16-4K-25PHLG源,http://live.cooltv.top/tv/aishang.php?id=cctv164k
 咪咕体育-4K,http://39.135.42.203:80/000000001000/3000000010000005180/index.m3u8
 咪咕体育-4K,http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
 
-🪅  港•澳•台,#genre#
+📺港•澳•台,#genre#
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8 
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8 
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8 
