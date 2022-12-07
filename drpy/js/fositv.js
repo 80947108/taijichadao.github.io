@@ -2,7 +2,7 @@ var rule = {
 title: 'fositv',
 host: 'https://fositv.com',
 url: '/vod_____show/fyclass--time------fypage---.html',     
-searchUrl: '/vod_____search/**----------fypage---.html',
+searchUrl: '/vod_____search/-------------.html?wd=**',
 searchable: 1,
 quickSearch: 1,
 filterable: 1,
