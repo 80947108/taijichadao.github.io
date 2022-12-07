@@ -9,7 +9,7 @@
 "线路名标题前": "data-toggle=\"tab\">",
 "线路名标题后": "<",
  "搜索url": "https://fositv.com/vod____search/{wd}----------{pg}---.html",
-  "搜索模式": "1",
+
   "搜索数组": "<li class=\"clearfix\">&&</li>",
   "搜索图片": "data-original=\"&&\"",
   "搜索标题": "title=\"&&\"",
