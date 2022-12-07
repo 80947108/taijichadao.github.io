@@ -8,9 +8,5 @@
 "线路名截取数组后": "</li>",
 "线路名标题前": "data-toggle=\"tab\">",
 "线路名标题后": "<",
- "搜索url": "https://fositv.com/vod____search/{wd}----------{pg}---.html",
-
-  "搜索数组": "<li class=\"clearfix\">&&</li>",
-
 "播放数组":"class=\"myui-content__list scrollbar sort-list clearfix&&</div>"
 }
