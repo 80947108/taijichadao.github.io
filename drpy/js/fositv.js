@@ -1,0 +1,15 @@
+var rule = {
+title: 'fositv',
+host: 'https://fositv.com',
+url: '/vod_____show/fyclass--time------fypage---.html',     
+searchUrl: '/vod_____search/**----------fypage---.html',
+searchable: 2,
+quickSearch: 0,
+filterable: 0,
+headers: {'User-Agent': 'MOBILE_UA',},
+class_name:'电影&电视剧&综艺&动漫&记录',
+class_url:'1&2&3&4&5',
+推荐:'.myui-vodlist__box;a&&title;.lazyload&&data-original;.pic-text&&Text;a&&href',
+一级:'.myui-vodlist__box;a&&title;.lazyload&&data-original;.pic-text&&Text;a&&href',
+二级: {"title":"h3&&a&&Text","img":".lazyload&&data-original","desc":";;.text-collapse p:eq(2)&&Text;.text-collapse p:eq(1)&&Text;.text-collapse p:eq(0)&&Text","content":".data&&Text","tabs":"ul.nav-tabs&&li","lists":".myui-content__list:eq(#id) a"},
+}
