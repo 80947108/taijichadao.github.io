@@ -1,7 +1,7 @@
 var rule = {
 title: 'fositv',
 host: 'https://fositv.com',
-url: '/vod_____type/fyclass-fypage.html',     
+url: '/vod_____show/fyclass--time------fypage---.html',     
 searchUrl: '/vod_____search/**----------fypage---.html',
 searchable: 2,
 quickSearch: 0,
