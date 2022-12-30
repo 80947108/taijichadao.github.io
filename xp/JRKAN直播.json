@@ -18,14 +18,14 @@
 "cateVodId": "/li[@class='lab_channel']/a[1]/@href",
 
 // "cateVodIdR"取值为网站中直播①的值，不是直播②或直播③的，下同，共有3处。
-"cateVodIdR": "http://play.sportsteam685.com/play/steam(\\d+).html",
+"cateVodIdR": "http://play.sportsteam268.com/play/steam(\\d+).html",
 
 "cateVodImg": "/li[@class='lab_team_home']/span/img/@src",
 "cateVodMark": "concat(//li[@class='lab_team_home']/strong/text(),'-',//li[@class='lab_team_away']/strong/text())",
 "cate": "dj",
 
 // 详情页地址 用于获取详情页信息 及 播放列表和地址
-"dtUrl": "http://play.sportsteam685.com/play/steam{vid}.html",
+"dtUrl": "http://play.sportsteam268.com/play/steam{vid}.html",
 // 详情节点
 "dtNode": "//ul[@data-stype='zqlq']",
 // 视频名
@@ -59,6 +59,6 @@
 "dtUrlNameR": "",
 	
 //播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
-"playUrl": "http://play.sportsteam685.com/play/{playUrl}"
+"playUrl": "http://play.sportsteam268.com/play/{playUrl}"
 
 }
