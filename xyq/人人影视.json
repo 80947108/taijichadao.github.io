@@ -1,5 +1,5 @@
 {
-    "规则名": "人人视频",
+    "规则名": "人人影视",
     "规则作者": "sm",
     "请求头参数": "User-Agent$手机#Referer$https://www.renren.pro/$WebView",
     "网页编码格式": "UTF-8",
