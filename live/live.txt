@@ -19,7 +19,8 @@ CCTV17,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv17hd8m/8
 CCTV5+,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv5phd8m/8000000/mnf.m3u8
 CCTV16-4K,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv16hd4k/15000000/mnf.m3u8
 CCTV-4K,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv4k/15000000/mnf.m3u8
-欢笑剧场-4k,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hxjc4k/15000000/mnf.m3u8
+
+//-----------以上为央视频道栏目--------------
 
 CCTV1,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
 CCTV2,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
@@ -39,7 +40,6 @@ CCTV16,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv16HD/__op/def
 CCTV17,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8
 CCTV16-4K,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
 CCTV-4K,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
-欢笑剧场-4k,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
 
 CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
 CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225918/index.m3u8
@@ -158,6 +158,8 @@ CCTV16,http://39.134.116.30:8080/PLTV/88888888/224/3221226230/index.m3u8
 CCTV17,http://117.169.121.162:6610/PLTV/88888910/224/3221225908/index.m3u8
 CCTV17,http://39.135.138.60:18890/PLTV/88888910/224/3221225908/index.m3u8 
 
+//----------------------------以上为央视频道汇总-----------------------------------
+
 📡卫视,#genre#
 安徽卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/ahwshd8m/8000000/mnf.m3u8
 北京卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/bjwshd8m/8000000/mnf.m3u8
@@ -193,7 +195,7 @@ CCTV17,http://39.135.138.60:18890/PLTV/88888910/224/3221225908/index.m3u8
 西藏卫视,http://39.184.224.99:9080/newlive/live/hls/46/live.m3u8
 新疆卫视,http://39.184.224.99:9080/newlive/live/hls/45/live.m3u8
 
-//---------------以上为卫视台----------------
+//-----------以上为地为卫视频道栏目--------------
 
 浙江卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225703/index.m3u8
 湖南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225704/index.m3u8
@@ -243,8 +245,6 @@ CCTV17,http://39.135.138.60:18890/PLTV/88888910/224/3221225908/index.m3u8
 甘肃卫视,http://39.184.224.99:9080/newlive/live/hls/42/live.m3u8
 吉林卫视,http://39.184.224.99:9080/newlive/live/hls/43/live.m3u8
 云南卫视,http://39.184.224.99:9080/newlive/live/hls/47/live.m3u8
-爱喜剧,http://39.184.224.99:9080/newlive/live/hls/55/live.m3u8
-爱科幻,http://39.184.224.99:9080/newlive/live/hls/56/live.m3u8
 
 浙江卫视,http://221.2.36.34:8888/newlive/live/hls/24/live.m3u8
 北京卫视,http://221.2.36.34:8888/newlive/live/hls/19/live.m3u8
@@ -368,7 +368,6 @@ CCTV17,http://39.135.138.60:18890/PLTV/88888910/224/3221225908/index.m3u8
 广西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8?fmt=ts2hls
 海南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8
 海南卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225722/index.m3u8
-旅游卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225722/index.m3u8
 吉林卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225680/index.m3u8
 吉林卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225680/index.m3u8
 吉林卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225680/index.m3u8
@@ -382,13 +381,11 @@ CCTV17,http://39.135.138.60:18890/PLTV/88888910/224/3221225908/index.m3u8
 新疆卫视,http://218.204.51.252:9901/tsfile/live/1044_1.m3u8
 新疆卫视,http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
 新疆卫视,http://111.12.101.23:6610/PLTV/77777777/224/3221225788/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-兵团卫视,http://111.59.189.40:8445/tsfile/live/0115_1.m3u8
-兵团卫视,http://test5.btzx.com.cn/live/btxjbtws.stream/chunklist_w588330955.m3u8
-上海纪实,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
 西藏卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225723/index.m3u8
 西藏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
 西藏卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225723/index.m3u8
-西藏藏语卫视,http://media.vtibet.com/masvod/HLSLive/7/zangyuTV_q1.m3u8
+
+//-----------以上为地为卫视频道汇总--------------
 
 ⚛️港•澳•台,#genre#
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
@@ -559,8 +556,12 @@ TVBS欢乐台,rtmp://59.124.75.150/sat/tv421
 新化新闻综合,http://play-dgv-xhncloud.voc.com.cn/live/5243_nRI1mM.m3u8?zhund
 桑植新闻综合,http://play-dgv-xhncloud.voc.com.cn/live/5243_NbaWW5.m3u8?zhund
 洪江市综合,http://liveplay.rednet.cn/live/hongjiang_tv_ced5a7.m3u8?zhund
+上海纪实,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
+西藏藏语卫视,http://media.vtibet.com/masvod/HLSLive/7/zangyuTV_q1.m3u8
+兵团卫视,http://111.59.189.40:8445/tsfile/live/0115_1.m3u8
+兵团卫视,http://test5.btzx.com.cn/live/btxjbtws.stream/chunklist_w588330955.m3u8
 
-📺专题,#genre#
+📺其它,#genre#
 中国教育1,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/zgjy1t8m/8000000/mnf.m3u8
 中国教育1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225661/index.m3u8
 中国教育1,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225563/2/index.m3u8?fmt=ts2hls
@@ -570,3 +571,6 @@ TVBS欢乐台,rtmp://59.124.75.150/sat/tv421
 中国教育4,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
 中国教育4,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225937/index.m3u8
 湖南教育,http://223.151.51.27:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+旅游卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225722/index.m3u8
+欢笑剧场-4k,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hxjc4k/15000000/mnf.m3u8
+欢笑剧场-4k,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
