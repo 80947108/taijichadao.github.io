@@ -148,7 +148,7 @@ CCTV17,http://39.135.138.60:18890/PLTV/88888910/224/3221225908/index.m3u8
 
 //----------------------------以上为央视频道汇总-----------------------------------
 
-📡卫视,#genre#
+📡省卫视,#genre#
 安徽卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/ahwshd8m/8000000/mnf.m3u8
 北京卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/bjwshd8m/8000000/mnf.m3u8
 重庆卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cqws8m/8000000/mnf.m3u8
@@ -168,7 +168,6 @@ CCTV17,http://39.135.138.60:18890/PLTV/88888910/224/3221225908/index.m3u8
 江西卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/jxws8m/8000000/mnf.m3u8
 辽宁卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/lnwshd8m/8000000/mnf.m3u8
 山东卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/sdws8m/8000000/mnf.m3u8
-深圳卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/szwshd8m/8000000/mnf.m3u8
 四川卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/scwshd/8000000/mnf.m3u8
 天津卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/tjwshd8m/8000000/mnf.m3u8
 云南卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/ynwshd8m/8000000/mnf.m3u8
@@ -181,6 +180,7 @@ CCTV17,http://39.135.138.60:18890/PLTV/88888910/224/3221225908/index.m3u8
 陕西卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225729/index.m3u8
 新疆卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225725/index.m3u8
 西藏卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
+深圳卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/szwshd8m/8000000/mnf.m3u8
 
 //-----------以上为地方卫视频道栏目--------------
 
@@ -385,22 +385,47 @@ CCTV17,http://39.135.138.60:18890/PLTV/88888910/224/3221225908/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
+TVB翡翠台,http://23.237.10.66:16106
+TVB翡翠台,http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8
+TVB翡翠台,http://shazui.8866.org:800/hls/80/index.m3u8
+TVB无线新闻台,https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1673035181~exp=1673121581~acl=/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=d3c2d0b5ac2db991fe2f54fdb2bf1da8b3c5cce9e9c51b9ddada222b5fa001fd&p
+TVB无线新闻台,http://198.16.64.10:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
+TVB无线新闻台,https://tvp22.sky4k.top/index1.php
+TVB无线新闻台,http://iptv.cooltv.top/tv/tvb.php?id=0
+
 澳门Macau,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
+澳门Macau,http://61.244.22.5/ch3/ch3.live/index.m3u8
 澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
-中视,http://198.16.64.10:8278/zhongshihd_twn/playlist.m3u8?tid=MB8B7313326473133264&ct=19226&tsum=ae7506028e559f3a6e2a3519b2f6a91e
-中视新闻,http://50.7.220.74:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
+
+TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+TVBS HD,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 TVBS HD,http://198.16.64.10:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+TVBS新闻台,https://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
+TVBS新闻台,http://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
+TVBS欢乐台,http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
+TVBS欢乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist.m3u8
+中天,http://23.237.10.66:16372
+中天,http://pull-l3-cny.douyincdn.com/live/5f26752efeee9e0c53cf6b530640ce60.m3u8
+中天,http://198.16.64.10:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
+中天,http://23.237.10.66:16372
+中天,http://107.151.203.111:2209/135/us50.php?id=ztz
+中视,http://198.16.64.10:8278/zhongshihd_twn/playlist.m3u8?tid=MB8B7313326473133264&ct=19226&tsum=ae7506028e559f3a6e2a3519b2f6a91e
+中视,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
+台视,http://23.237.10.66:16344
 台视,http://198.16.64.10:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-公视,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0
-公视,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,https://epg.pm/stream/8655006acfa3857ec51f6427fa2ea9ca167b38fc53ae84d1645bc0ce8b4060ba.m3u8
 公视,http://198.16.64.10:8278/ctv_taiwan/playlist.m3u8?tid=MCCC8750228587502285&ct=19225&tsum=aca6268c0dd9f618ed5e944942132557
+公视,http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/playlist.m3u8
+民视,http://23.237.10.66:16334
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-民视新闻台,http://198.16.64.10:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689
 
 📺地方台,#genre#
 金鹰纪实,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/jyjs8m/8000000/mnf.m3u8
