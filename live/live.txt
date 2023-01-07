@@ -389,7 +389,6 @@ TVB翡翠台,http://23.237.10.66:16106
 TVB翡翠台,http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8
 TVB翡翠台,http://shazui.8866.org:800/hls/80/index.m3u8
 TVB无线新闻台,https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1673035181~exp=1673121581~acl=/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=d3c2d0b5ac2db991fe2f54fdb2bf1da8b3c5cce9e9c51b9ddada222b5fa001fd&p
-TVB无线新闻台,http://198.16.64.10:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
 TVB无线新闻台,https://tvp22.sky4k.top/index1.php
 TVB无线新闻台,http://iptv.cooltv.top/tv/tvb.php?id=0
 
@@ -413,8 +412,8 @@ TVBS欢乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist
 中天,http://198.16.64.10:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
 中天,http://23.237.10.66:16372
 中天,http://107.151.203.111:2209/135/us50.php?id=ztz
-中视,http://198.16.64.10:8278/zhongshihd_twn/playlist.m3u8?tid=MB8B7313326473133264&ct=19226&tsum=ae7506028e559f3a6e2a3519b2f6a91e
 中视,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
+中视,http://198.16.64.10:8278/zhongshihd_twn/playlist.m3u8?tid=MB8B7313326473133264&ct=19226&tsum=ae7506028e559f3a6e2a3519b2f6a91e
 台视,http://23.237.10.66:16344
 台视,http://198.16.64.10:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
@@ -423,6 +422,8 @@ TVBS欢乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist
 台视新闻,https://epg.pm/stream/8655006acfa3857ec51f6427fa2ea9ca167b38fc53ae84d1645bc0ce8b4060ba.m3u8
 公视,http://198.16.64.10:8278/ctv_taiwan/playlist.m3u8?tid=MCCC8750228587502285&ct=19225&tsum=aca6268c0dd9f618ed5e944942132557
 公视,http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/playlist.m3u8
+华视,http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?tid=MD3D4860867448608674&ct=19193&tsum=773d4005ddbc68ed16154cc49ba1fc76
+华视,http://198.16.64.10:8278/ctshd_twn/playlist.m3u8?tid=MAFA1309481213094812&ct=19226&tsum=429f7c40691cdcc6c1fb108dbd11e002
 民视,http://23.237.10.66:16334
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
