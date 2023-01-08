@@ -18,7 +18,6 @@ CCTV15,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv15hd8m/8
 CCTV16,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv16hd8m/8000000/mnf.m3u8
 CCTV17,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv17hd8m/8000000/mnf.m3u8
 CCTV5+,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv5phd8m/8000000/mnf.m3u8
-CCTV-4K,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv4k/15000000/mnf.m3u8
 CCTV4K,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv4k/15000000/mnf.m3u8
 
 //以下为多线路源 ⇩⇩ 江西移动源1 ⇩⇩
@@ -124,6 +123,8 @@ CCTV15,http://117.169.121.162:6610/PLTV/88888910/224/3221225641/index.m3u8
 CCTV17,http://117.169.121.162:6610/PLTV/88888910/224/3221225908/index.m3u8
 
 CCTV16,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv16hd4k/15000000/mnf.m3u8
+CCTV4K,http://159.75.85.63:5679/cctv4k.php
+CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 
 //======================================================
 
@@ -453,6 +454,7 @@ TVBS欢乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 中天综合,http://23.237.10.66:16372
 中天新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
+三立新闻台,http://198.16.64.10:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
 三立综合台,http://50.7.220.74:8278/sanlizhonghe/playlist.m3u8?tid=MB0B8754413687544136&ct=19193&tsum=b815a8eec252a8266b57178e6b336b03
 
 // 以下为港•澳•台多线路源⇩⇩ 其它源 ⇩⇩
@@ -485,6 +487,8 @@ TVBS新闻台,https://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0c
 中天综合,http://107.151.203.111:2209/135/us50.php?id=ztz
 中天新闻,http://pull-l3-cny.douyincdn.com/live/7898d38d54c60879ba96a1fa42edbd53.m3u8
 三立综合台,http://50.7.220.74:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
+三立综合台,http://198.16.64.10:8278/sanlizhonghe/playlist.m3u8?tid=MF4F9472920894729208&ct=19249&tsum=874aaa2015440b417746e5c11fa40220
+
 
 //======================================================
 
@@ -542,4 +546,3 @@ CETV4,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/zgjy4hd8m/800
 CETV4,http://39.135.138.58:18890/PLTV/88888888/224/3221225937/index.m3u8
 欢笑剧场,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hxjc4k/15000000/mnf.m3u8
 欢笑剧场,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
-
