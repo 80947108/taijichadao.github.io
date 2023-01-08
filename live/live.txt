@@ -432,6 +432,7 @@ CCTV17,http://117.169.121.162:6610/PLTV/88888910/224/3221225908/index.m3u8
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 翡翠台,http://23.237.10.66:16106
 无线新闻台,https://tvp22.sky4k.top/index1.php
+有线新闻台,http://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
 
 澳门Macau,http://61.244.22.5/ch3/ch3.live/index.m3u8
 澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
@@ -463,6 +464,7 @@ TVBS欢乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 翡翠台,http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8
+翡翠台,http://pull-l3-cny.douyincdn.com/live/1f41fa6570c0c2fe39fef0752f76de81.m3u8
 无线新闻台,http://iptv.cooltv.top/tv/tvb.php?id=0
 
 澳门Macau,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
@@ -487,6 +489,43 @@ TVBS新闻台,https://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0c
 
 //======================================================
 
+🏀体育,#genre#
+五星体育,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+精品体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225709/index.m3u8
+超级体育,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/qcsj8m/8000000/mnf.m3u8
+劲爆体育,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+风云足球,http://111.20.40.170/PLTV/88888893/224/3221226984/index.m3u8
+魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+咪咕1,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+咪咕2,http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
+咪咕3,http://39.135.134.67/000000001000/3000000001000008001/index.m3u8
+咪咕4,http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
+咪咕5,http://39.135.134.67/000000001000/3000000001000008176/index.m3u8
+咪咕6,http://39.135.134.67/000000001000/3000000001000010948/index.m3u8
+咪咕7,http://39.135.134.67/000000001000/3000000001000007218/index.m3u8
+咪咕8,http://39.135.134.67/000000001000/3000000001000005308/index.m3u8
+咪咕9,http://39.135.134.67/000000001000/3000000001000005969/index.m3u8
+咪咕10,http://39.135.134.67/000000001000/3000000001000026778/index.m3u8
+百事通体育1,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hdnba1/4000000/mnf.m3u8
+百事通体育2,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hdnba2/4000000/mnf.m3u8
+百事通体育3,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hdnba3/4000000/mnf.m3u8
+百事通体育4,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hdnba4/4000000/mnf.m3u8
+百事通体育5,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hdnba5/4000000/mnf.m3u8
+百事通体育6,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hdnba6/4000000/mnf.m3u8
+百事通体育7,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hdnba7/4000000/mnf.m3u8
+
+// 以下为体育台多线路源⇩⇩ 其它源 ⇩⇩
+五星体育,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+五星体育,http://112.25.48.11/live/program/live/ssty/4000000/mnf.m3u8
+精品体育,http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
+超级体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8
+超级体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225622/index.m3u8
+超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
+超级体育,http://39.135.138.58:18890/PLTV/88888888/224/3221225622/index.m3u8
+
+//======================================================
+
 📺其它,#genre#
 金鹰纪实,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/jyjs8m/8000000/mnf.m3u8
 上海纪实,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/jspdhd/4000000/mnf.m3u8
@@ -498,9 +537,6 @@ TVBS新闻台,https://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0c
 湖南教育,http://223.151.51.27:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 中国教育1,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/zgjy1t8m/8000000/mnf.m3u8
 中国教育4,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
-五星体育,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-超级体育,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/qcsj8m/8000000/mnf.m3u8
-劲爆体育,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 欢笑剧场,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hxjc8m/8000000/mnf.m3u8
 
 // 以下为其它台多线路源⇩⇩ 其它源 ⇩⇩
