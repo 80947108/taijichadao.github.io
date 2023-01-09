@@ -438,16 +438,8 @@ CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 有线新闻台,http://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
 
 澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
+澳门Macau,http://61.244.22.5/ch3/ch3.live/index.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-澳门综艺,http://61.244.22.4/ch6/_definst_/hd_ch6.live/playlist.m3u8 
-澳门资讯,http://61.244.22.4/ch5/info_ch5.live/chunklist_w1046558591.m3u8
-澳门体育,http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8
-澳门-MACAU,http://61.244.22.4/ch3/ch3.live/index.m3u8
-澳門-Macau,http://61.244.22.4/ch3/ch3.live/index.m3u8
-澳門Macau,http://61.244.22.4/ch3/ch3.live/index.m3u8
-澳门Macau,http://61.244.22.4/ch3/ch3.live/index.m3u8
-澳门-Macau,http://61.244.22.4/ch3/ch3.live/index.m3u8
-
 
 TVBS,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 TVBS新闻台,http://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
@@ -476,6 +468,9 @@ TVBS欢乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist
 翡翠台,http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8
 翡翠台,http://pull-l3-cny.douyincdn.com/live/1f41fa6570c0c2fe39fef0752f76de81.m3u8
 无线新闻台,http://iptv.cooltv.top/tv/tvb.php?id=0
+
+澳门Macau,http://61.244.22.5/ch3/ch3.live/playelist.m3u8?zgangd
+澳门Macau,http://61.244.22.5/ch3/ch3.live/index.m3u8?zgangd
 
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
