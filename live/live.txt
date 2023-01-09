@@ -441,7 +441,6 @@ CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 ViuTV,http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8
 无线新闻台,https://tvp22.sky4k.top/index1.php
 有线新闻台,http://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
-香港开电视,https://cdn.hklive.tv:443/xxxx/77/index.m3u8
 
 澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
 澳门Macau,http://61.244.22.5/ch3/ch3.live/index.m3u8
