@@ -493,7 +493,7 @@ TVBS新闻台,https://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0c
 
 //======================================================
 
-📺其它,#genre#
+📺其它频道,#genre#
 金鹰纪实,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/jyjs8m/8000000/mnf.m3u8
 上海纪实,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/jspdhd/4000000/mnf.m3u8
 北京纪实,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/dajs8m/8000000/mnf.m3u8
