@@ -437,7 +437,7 @@ CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
-翡翠台,http://r.jdshipin.com/qClQf
+翡翠台,http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8
 ViuTV,http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8
 无线新闻台,https://tvp22.sky4k.top/index1.php
 有线新闻台,http://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
@@ -472,9 +472,10 @@ TVBS新闻台,http://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
-翡翠台,http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8
-翡翠台,http://23.237.10.66:16106
+
 翡翠台,http://pull-l3-cny.douyincdn.com/live/1f41fa6570c0c2fe39fef0752f76de81.m3u8
+翡翠台,http://r.jdshipin.com/qClQf
+翡翠台,http://23.237.10.66:16106
 无线新闻台,http://iptv.cooltv.top/tv/tvb.php?id=0
 无线新闻台,http://app.nettv.vip/hls/tvb.php?id=1
 有线新闻台,https://api.leonardpark.dev/live/icable/109
