@@ -435,7 +435,6 @@ CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 翡翠台,http://r.jdshipin.com/qClQf
 ViuTV,http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8
 澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
-澳门Macau,http://61.244.22.5/ch3/ch3.live/index.m3u8
 TVBS,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 东森新闻,https://epg.pw/stream/fef9a073e0b506c6c3b01db3ffe7cdd572dc55b168aaccccdec25186843eddc0.ctv
