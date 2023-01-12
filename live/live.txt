@@ -441,6 +441,7 @@ CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 ViuTV,http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8
 有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
+澳门Macau,http://61.244.22.5/ch3/ch3.live/index.m3u8
 TVBS,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 TVBS新闻台,http://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
 东森新闻,https://epg.pw/stream/fef9a073e0b506c6c3b01db3ffe7cdd572dc55b168aaccccdec25186843eddc0.ctv
@@ -464,6 +465,8 @@ TVBS新闻台,http://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce
 ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV,http://shazui.8866.org:800/hls/86/index.m3u8
 有线新闻台,http://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
+澳门Macau,http://61.244.22.5/ch3/ch3.live/playelist.m3u8?zgangd
+澳门Macau,http://61.244.22.5/ch3/ch3.live/index.m3u8?zgangd
 TVBS,http://198.16.64.10:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
 TVBS新闻台,https://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
 中天综合,http://23.237.10.66:16372
