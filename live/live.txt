@@ -428,13 +428,13 @@ CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 延边卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221226201/index.m3u8
 
 //======================================================
-⚛️港•澳•台,#genre#
+⚛️港澳台,#genre#
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 翡翠台,http://r.jdshipin.com/qClQf
 ViuTV,http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8
-澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
+//澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
 TVBS,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 TVBS新闻台,http://www.336699.live:1935/blocksix/4gtv-live072.stream/.m3u8
 TVBS欢乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist.m3u8
@@ -443,8 +443,8 @@ TVBS欢乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist
 寰宇新闻台,http://www.336699.live:1935/blockfour/litv-longturn14.stream/playlist.m3u8
 中视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
 华视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
-台视新闻台,https://epg.pw/stream/8a5936da03b037049e60e754592c7fec790e2bee00edd27d33bb2cb2967d495c.ctv
 民视新闻台,http://www.336699.live:1935/blockfour/litv-ftv13.stream/playlist.m3u8
+//台视新闻台,https://epg.pw/stream/8a5936da03b037049e60e754592c7fec790e2bee00edd27d33bb2cb2967d495c.ctv
 
 // 以下为港•澳•台多线路源⇩⇩ 其它源 ⇩⇩
 凤凰中文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
@@ -465,7 +465,6 @@ TVBS,https://epg.pw/stream/acc0a20a2153828ee21fd280ac45016da8f5106ad277d58e814ed
 TVBS新闻台,https://epg.pw/stream/f8c8d8e006116a3579250f27e1a3eaf637dae11a7797ac4d5be1f1e61cb0fbfb.m3u8
 东森新闻,https://epg.pw/stream/fef9a073e0b506c6c3b01db3ffe7cdd572dc55b168aaccccdec25186843eddc0.ctv
 东森新闻,https://epg.pw/stream/446e2383cf6ac30295bfb8b95de2bac474f6a5cc9f78595fad3d0d441a511908.m3u8
-台视新闻台,https://epg.pw/stream/dc6941ad1ea0592ef8189f4315353b7de9f8a1d5574caa04298de9f154c2f46d.m3u8
 
 //======================================================
 
