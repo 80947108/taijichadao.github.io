@@ -443,7 +443,7 @@ TVBS欢乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist
 寰宇新闻台,http://www.336699.live:1935/blockfour/litv-longturn14.stream/playlist.m3u8
 中视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
 华视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
-台视新闻台,https://epg.pw/stream/849511851ea9ab14eb0aa58bcc71f41c0beb5dac529ba8b2b562bdcb78795db9.m3u8
+台视新闻台,https://epg.pw/stream/8a5936da03b037049e60e754592c7fec790e2bee00edd27d33bb2cb2967d495c.ctv
 民视新闻台,http://www.336699.live:1935/blockfour/litv-ftv13.stream/playlist.m3u8
 
 // 以下为港•澳•台多线路源⇩⇩ 其它源 ⇩⇩
@@ -465,10 +465,7 @@ TVBS,https://epg.pw/stream/acc0a20a2153828ee21fd280ac45016da8f5106ad277d58e814ed
 TVBS新闻台,https://epg.pw/stream/632bdee41b97601c053c8b855bc896f58850c47110fe690bf81dfaebf88c2060.m3u8
 TVBS新闻台,https://epg.pw/stream/472a4d7fa23f959fa1dcb24e36ec10d6ae18d6cb906e6d655991d3932f7e34d0.m3u8
 东森新闻,https://epg.pw/stream/446e2383cf6ac30295bfb8b95de2bac474f6a5cc9f78595fad3d0d441a511908.m3u8
-台视新闻台,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-台视新闻台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台视新闻台,https://epg.pw/stream/dc6941ad1ea0592ef8189f4315353b7de9f8a1d5574caa04298de9f154c2f46d.m3u8
-台视新闻台,https://epg.pw/stream/8a5936da03b037049e60e754592c7fec790e2bee00edd27d33bb2cb2967d495c.ctv
 
 //======================================================
 
