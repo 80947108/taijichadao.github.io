@@ -436,7 +436,7 @@ CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 ViuTV,http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8
 澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
 TVBS,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
-TVBS新闻台,https://epg.pw/stream/f8c8d8e006116a3579250f27e1a3eaf637dae11a7797ac4d5be1f1e61cb0fbfb.m3u8
+TVBS新闻台,http://www.336699.live:1935/blocksix/4gtv-live072.stream/.m3u8
 TVBS欢乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist.m3u8
 东森新闻,http://www.336699.live:1935/blocksix/4gtv-live114.stream/chunklist.m3u8
 中天新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
@@ -462,6 +462,7 @@ ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV,https://epg.pw/stream/50929850b46a3c3a9e022b60efc2711d3499cb6327093de4f3050ac700343b61.m3u8
 ViuTV,https://epg.pw/stream/8fa0b8a8a3be00df148bebfc3fcab4aada1e704baf020a57653f3577e11342cc.m3u8
 TVBS,https://epg.pw/stream/acc0a20a2153828ee21fd280ac45016da8f5106ad277d58e814ed0a6e9693193.m3u8
+TVBS新闻台,https://epg.pw/stream/f8c8d8e006116a3579250f27e1a3eaf637dae11a7797ac4d5be1f1e61cb0fbfb.m3u8
 TVBS新闻台,https://epg.pw/stream/632bdee41b97601c053c8b855bc896f58850c47110fe690bf81dfaebf88c2060.m3u8
 TVBS新闻台,https://epg.pw/stream/472a4d7fa23f959fa1dcb24e36ec10d6ae18d6cb906e6d655991d3932f7e34d0.m3u8
 东森新闻,https://epg.pw/stream/fef9a073e0b506c6c3b01db3ffe7cdd572dc55b168aaccccdec25186843eddc0.ctv
