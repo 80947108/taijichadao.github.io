@@ -453,7 +453,6 @@ TVBS新闻台,https://epg.pw/stream/f8c8d8e006116a3579250f27e1a3eaf637dae11a7797
 快乐垂钓,http://tt-live.bestvcdn.com.cn/live/program/live/klcd8m/8000000/mnf.m3u8
 CETV1,http://tt-live.bestvcdn.com.cn/live/program/live/zgjy1t8m/8000000/mnf.m3u8
 CETV4,http://tt-live.bestvcdn.com.cn/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
-法治天地,http://tt-live.bestvcdn.com.cn/live/program/live/fztd8m/8000000/mnf.m3u8
 
 // 以下为其它台多线路源⇩⇩ 其它源 ⇩⇩
 金鹰纪实,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls
