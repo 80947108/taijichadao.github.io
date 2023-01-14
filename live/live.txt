@@ -153,14 +153,13 @@ CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 四川卫视,http://tt-live.bestvcdn.com.cn/live/program/live/scwshd/8000000/mnf.m3u8
 天津卫视,http://tt-live.bestvcdn.com.cn/live/program/live/tjwshd8m/8000000/mnf.m3u8
 云南卫视,http://tt-live.bestvcdn.com.cn/live/program/live/ynwshd8m/8000000/mnf.m3u8
-湖北卫视,http://quming-live.bestvcdn.com.cn/live/program/live/ynwshd8m/8000000/mnf.m3u8
-青海卫视,http://quming-live.bestvcdn.com.cn/live/program/live/ynwshd8m/8000000/mnf.m3u8
-宁夏卫视,http://quming-live.bestvcdn.com.cn/live/program/live/ynwshd8m/8000000/mnf.m3u8
+湖北卫视,http://tt-live.bestvcdn.com.cn/live/program/live/quming/8000000/mnf.m3u8
+青海卫视,http://tt-live.bestvcdn.com.cn/live/program/live/quming/8000000/mnf.m3u8
+宁夏卫视,http://tt-live.bestvcdn.com.cn/live/program/live/quming/8000000/mnf.m3u8
 
 内蒙古卫视,http://tt-live.bestvcdn.com.cn/live/program/live/nmgwshd/8000000/mnf.m3u8
 山西卫视,http://tt-live.bestvcdn.com.cn/live/program/live/sxwshd8m/8000000/mnf.m3u8
-陕西卫视,http://tt-live.bestvcdn.com.cn/live/program/live/sxwshd/8000000/mnf.m3u8
-
+陕西卫视,http://tt-live.bestvcdn.com.cn/live/program/live/quming/8000000/mnf.m3u8
 
 湖北卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225740/index.m3u8
 青海卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225727/index.m3u8
