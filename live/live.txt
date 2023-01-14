@@ -91,7 +91,28 @@ CCTV14,http://117.169.121.162:6610/PLTV/88888910/224/3221225640/index.m3u8
 CCTV15,http://117.169.121.162:6610/PLTV/88888910/224/3221225641/index.m3u8
 CCTV17,http://117.169.121.162:6610/PLTV/88888910/224/3221225908/index.m3u8
 
-//以下为CCTV多线路源 ⇩⇩ 肥羊源 ⇩⇩
+//以下为CCTV多线路源 ⇩⇩ 肥羊爱上源 ⇩⇩
+CCTV1,https://live.v1.mk/aishang/cctv1hd
+CCTV2,https://live.v1.mk/aishang/cctv2hd
+CCTV3,https://live.v1.mk/aishang/cctv3hd
+CCTV4,https://live.v1.mk/aishang/cctv4hd
+CCTV5,https://live.v1.mk/aishang/cctv5hd
+CCTV6,https://live.v1.mk/aishang/cctv6hd
+CCTV7,https://live.v1.mk/aishang/cctv7hd
+CCTV8,https://live.v1.mk/aishang/cctv8hd
+CCTV9,https://live.v1.mk/aishang/cctv9hd2
+CCTV10,https://live.v1.mk/aishang/cctv10hd
+CCTV11,https://live.v1.mk/aishang/cctv11hd
+CCTV12,https://live.v1.mk/aishang/cctv12hd
+CCTV13,https://live.v1.mk/aishang/cctv13hd
+CCTV14,https://live.v1.mk/aishang/cctv14hd
+CCTV15,https://live.v1.mk/aishang/cctv15hd
+CCTV16,https://live.v1.mk/aishang/cctv16hd
+CCTV17,https://live.v1.mk/aishang/cctv17hd
+CCTV5+,https://live.v1.mk/aishang/cctv5p
+CCTV16,https://live.v1.mk/aishang/cctv164k
+
+//以下为CCTV多线路源 ⇩⇩ 肥羊ghyx源 ⇩⇩
 CCTV1,https://live.v1.mk/api/ghyx.php?id=CCTV1HD_6000
 CCTV2,https://live.v1.mk/api/ghyx.php?id=CCTV2HD_6000
 CCTV3,https://live.v1.mk/api/ghyx.php?id=CCTV3HD_6000
@@ -315,7 +336,38 @@ CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 辽宁卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225735/index.m3u8
 辽宁卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225696/index.m3u8
 
-//以下为卫视多线路源 ⇩⇩ 肥羊源 ⇩⇩
+//以下为卫视多线路源 ⇩⇩ 肥羊爱上源 ⇩⇩
+湖南卫视,https://live.v1.mk/aishang/hunwshd
+浙江卫视,https://live.v1.mk/aishang/zjwshd
+东方卫视,https://live.v1.mk/aishang/dfwshd
+江苏卫视,https://live.v1.mk/aishang/jswshd
+北京卫视,https://live.v1.mk/aishang/bjwshd
+深圳卫视,https://live.v1.mk/aishang/szwshd
+山东卫视,https://live.v1.mk/aishang/sdwshd
+广东卫视,https://live.v1.mk/aishang/gdwshd
+安徽卫视,https://live.v1.mk/aishang/ahwshd
+东南卫视,https://live.v1.mk/aishang/dnwshd
+天津卫视,https://live.v1.mk/aishang/tjwshd
+重庆卫视,https://live.v1.mk/aishang/cqws
+湖北卫视,https://live.v1.mk/aishang/hubwshd
+四川卫视,https://live.v1.mk/aishang/scws
+河南卫视,https://live.v1.mk/aishang/hnws
+陕西卫视,https://live.v1.mk/aishang/sxws
+吉林卫视,https://live.v1.mk/aishang/jlws
+云南卫视,https://live.v1.mk/aishang/ynws
+广西卫视,https://live.v1.mk/aishang/gxws
+江西卫视,https://live.v1.mk/aishang/jxws
+黑龙江卫视,https://live.v1.mk/aishang/hljwshd
+河北卫视,https://live.v1.mk/aishang/hbwshd
+青海卫视,https://live.v1.mk/aishang/qhws
+贵州卫视,https://live.v1.mk/aishang/gzwshd
+西藏卫视,https://live.v1.mk/aishang/xzws
+甘肃卫视,https://live.v1.mk/aishang/gsws
+新疆卫视,https://live.v1.mk/aishang/xjws
+厦门卫视,https://live.v1.mk/aishang/xmws
+内蒙古卫视,https://live.v1.mk/aishang/nmws
+
+//以下为卫视多线路源 ⇩⇩ 肥羊ghyx源 ⇩⇩
 浙江卫视,https://live.v1.mk/api/ghyx.php?id=ZheJiangHD_6000
 北京卫视,https://live.v1.mk/api/ghyx.php?id=BTV1HD_6000
 广西卫视,https://live.v1.mk/api/ghyx.php?id=GuangXiHD_6000
