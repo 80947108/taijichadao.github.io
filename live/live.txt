@@ -1,5 +1,5 @@
 📺央视,#genre#
-// 主源⇩⇩ 百视通源⇩⇩
+// 标名⇩⇩ 百视通源⇩⇩
 CCTV1,http://tt-live.bestvcdn.com.cn/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 CCTV2,http://tt-live.bestvcdn.com.cn/live/program/live/cctv2hd8m/8000000/mnf.m3u8
 CCTV3,http://tt-live.bestvcdn.com.cn/live/program/live/cctv38m/8000000/mnf.m3u8
@@ -129,7 +129,7 @@ CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 //======================================================
 
 📡卫视,#genre#
-// 主源⇩⇩ 百视通源⇩⇩
+// 标名⇩⇩ 百视通源⇩⇩
 湖南卫视,http://tt-live.bestvcdn.com.cn/live/program/live/hunanwshd8m/8000000/mnf.m3u8
 东方卫视,http://tt-live.bestvcdn.com.cn/live/program/live/dfwshd8m/8000000/mnf.m3u8
 浙江卫视,http://tt-live.bestvcdn.com.cn/live/program/live/zjwshd8m/8000000/mnf.m3u8
@@ -156,19 +156,11 @@ CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 湖北卫视,http://tt-live.bestvcdn.com.cn/live/program/live/quming/8000000/mnf.m3u8
 青海卫视,http://tt-live.bestvcdn.com.cn/live/program/live/quming/8000000/mnf.m3u8
 宁夏卫视,http://tt-live.bestvcdn.com.cn/live/program/live/quming/8000000/mnf.m3u8
-
-内蒙古卫视,http://tt-live.bestvcdn.com.cn/live/program/live/nmgwshd/8000000/mnf.m3u8
-山西卫视,http://tt-live.bestvcdn.com.cn/live/program/live/sxwshd8m/8000000/mnf.m3u8
+内蒙古卫视,http://tt-live.bestvcdn.com.cn/live/program/live/quming/8000000/mnf.m3u8
+山西卫视,http://tt-live.bestvcdn.com.cn/live/program/live/quming/8000000/mnf.m3u8
 陕西卫视,http://tt-live.bestvcdn.com.cn/live/program/live/quming/8000000/mnf.m3u8
-
-湖北卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225740/index.m3u8
-青海卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225727/index.m3u8
-宁夏卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225726/index.m3u8
-内蒙古卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225667/index.m3u8
-山西卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225730/index.m3u8
-陕西卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225729/index.m3u8
-新疆卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225725/index.m3u8
-西藏卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
+新疆卫视,http://tt-live.bestvcdn.com.cn/live/program/live/quming/8000000/mnf.m3u8
+西藏卫视,http://tt-live.bestvcdn.com.cn/live/program/live/quming/8000000/mnf.m3u8
 深圳卫视,http://tt-live.bestvcdn.com.cn/live/program/live/szwshd8m/8000000/mnf.m3u8
 
 //以下为多线路源  ⇩⇩ 江西移动源2 ⇩⇩
@@ -237,6 +229,7 @@ CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 云南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225664/index.m3u8
 黑龙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225736/index.m3u8
 西藏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
+西藏卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
 
 //以下为多线路源 ⇩⇩ 南昌移动源 ⇩⇩
 东南卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225657/index.m3u8
@@ -277,37 +270,13 @@ CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 贵州卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225728/index.m3u8
 辽宁卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225735/index.m3u8
 辽宁卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225696/index.m3u8
-
-//以下为卫视多线路源 ⇩⇩ 肥羊爱上源 ⇩⇩
-湖南卫视,https://live.v1.mk/aishang/hunwshd
-浙江卫视,https://live.v1.mk/aishang/zjwshd
-东方卫视,https://live.v1.mk/aishang/dfwshd
-江苏卫视,https://live.v1.mk/aishang/jswshd
-北京卫视,https://live.v1.mk/aishang/bjwshd
-深圳卫视,https://live.v1.mk/aishang/szwshd
-山东卫视,https://live.v1.mk/aishang/sdwshd
-广东卫视,https://live.v1.mk/aishang/gdwshd
-安徽卫视,https://live.v1.mk/aishang/ahwshd
-东南卫视,https://live.v1.mk/aishang/dnwshd
-天津卫视,https://live.v1.mk/aishang/tjwshd
-重庆卫视,https://live.v1.mk/aishang/cqws
-湖北卫视,https://live.v1.mk/aishang/hubwshd
-四川卫视,https://live.v1.mk/aishang/scws
-河南卫视,https://live.v1.mk/aishang/hnws
-陕西卫视,https://live.v1.mk/aishang/sxws
-吉林卫视,https://live.v1.mk/aishang/jlws
-云南卫视,https://live.v1.mk/aishang/ynws
-广西卫视,https://live.v1.mk/aishang/gxws
-江西卫视,https://live.v1.mk/aishang/jxws
-黑龙江卫视,https://live.v1.mk/aishang/hljwshd
-河北卫视,https://live.v1.mk/aishang/hbwshd
-青海卫视,https://live.v1.mk/aishang/qhws
-贵州卫视,https://live.v1.mk/aishang/gzwshd
-西藏卫视,https://live.v1.mk/aishang/xzws
-甘肃卫视,https://live.v1.mk/aishang/gsws
-新疆卫视,https://live.v1.mk/aishang/xjws
-厦门卫视,https://live.v1.mk/aishang/xmws
-内蒙古卫视,https://live.v1.mk/aishang/nmws
+湖北卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225740/index.m3u8
+青海卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225727/index.m3u8
+宁夏卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225726/index.m3u8
+内蒙古卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225667/index.m3u8
+山西卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225730/index.m3u8
+陕西卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225729/index.m3u8
+新疆卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225725/index.m3u8
 
 //以下为多线路源 ⇩⇩ 江西移动源1 ⇩⇩
 浙江卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225703/index.m3u8
@@ -335,31 +304,6 @@ CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 东方卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225658/index.m3u8
 江西卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225705/index.m3u8
 山东卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225738/index.m3u8
-
-//以下为卫视多线路源 ⇩⇩ 肥羊ghyx源 ⇩⇩
-浙江卫视,https://live.v1.mk/api/ghyx.php?id=ZheJiangHD_6000
-北京卫视,https://live.v1.mk/api/ghyx.php?id=BTV1HD_6000
-广西卫视,https://live.v1.mk/api/ghyx.php?id=GuangXiHD_6000
-辽宁卫视,https://live.v1.mk/api/ghyx.php?id=LiaoNingHD_6000
-安徽卫视,https://live.v1.mk/api/ghyx.php?id=AnHuiHD_6000
-江苏卫视,https://live.v1.mk/api/ghyx.php?id=JiangSuHD_6000
-东方卫视,https://live.v1.mk/api/ghyx.php?id=DongFangHD_6000
-东南卫视,https://live.v1.mk/api/ghyx.php?id=FuJianHD_6000
-湖南卫视,https://live.v1.mk/api/ghyx.php?id=HuNanHD_6000
-湖北卫视,https://live.v1.mk/api/ghyx.php?id=HuBeiHD_6000
-广东卫视,https://live.v1.mk/api/ghyx.php?id=GuangDongHD_6000
-广西卫视,https://live.v1.mk/api/ghyx.php?id=GuangXiHD_6000
-深圳卫视,https://live.v1.mk/api/ghyx.php?id=ShenZhenHD_6000
-四川卫视,https://live.v1.mk/api/ghyx.php?id=SiChuanHD_6000
-山东卫视,https://live.v1.mk/api/ghyx.php?id=ShanDongHD_6000
-河南卫视,https://live.v1.mk/api/ghyx.php?id=HeNanHD_6000
-河北卫视,https://live.v1.mk/api/ghyx.php?id=HeBeiHD_6000
-江西卫视,https://live.v1.mk/api/ghyx.php?id=JiangXiHD_6000
-天津卫视,https://live.v1.mk/api/ghyx.php?id=TianJinHD_6000
-重庆卫视,https://live.v1.mk/api/ghyx.php?id=ChongQingHD_6000
-黑龙江卫视,https://live.v1.mk/api/ghyx.php?id=HeiLongJiangHD_6000
-吉林卫视,https://live.v1.mk/api/ghyx.php?id=JiLinWeiShiHD_6000
-海南卫视,https://live.v1.mk/api/ghyx.php?id=LvYouWeiShiHD_6000
 
 // 以下为多线路源⇩⇩ 河南联通源 ⇩⇩
 北京卫视,http://125.40.191.58:9901/tsfile/live/0107_1.m3u8?blog.ntnas.top
