@@ -50,45 +50,6 @@ CCTV14,http://117.169.121.162:6610/PLTV/88888910/224/3221225640/index.m3u8
 CCTV15,http://117.169.121.162:6610/PLTV/88888910/224/3221225641/index.m3u8
 CCTV17,http://117.169.121.162:6610/PLTV/88888910/224/3221225908/index.m3u8
 
-//以下为CCTV多线路源 ⇩⇩ 肥羊爱上源 ⇩⇩
-CCTV1,https://live.v1.mk/aishang/cctv1hd
-CCTV2,https://live.v1.mk/aishang/cctv2hd
-CCTV3,https://live.v1.mk/aishang/cctv3hd
-CCTV4,https://live.v1.mk/aishang/cctv4hd
-CCTV5,https://live.v1.mk/aishang/cctv5hd
-CCTV6,https://live.v1.mk/aishang/cctv6hd
-CCTV7,https://live.v1.mk/aishang/cctv7hd
-CCTV8,https://live.v1.mk/aishang/cctv8hd
-CCTV9,https://live.v1.mk/aishang/cctv9hd2
-CCTV10,https://live.v1.mk/aishang/cctv10hd
-CCTV11,https://live.v1.mk/aishang/cctv11hd
-CCTV12,https://live.v1.mk/aishang/cctv12hd
-CCTV13,https://live.v1.mk/aishang/cctv13hd
-CCTV14,https://live.v1.mk/aishang/cctv14hd
-CCTV15,https://live.v1.mk/aishang/cctv15hd
-CCTV16,https://live.v1.mk/aishang/cctv16hd
-CCTV17,https://live.v1.mk/aishang/cctv17hd
-CCTV5+,https://live.v1.mk/aishang/cctv5p
-CCTV16,https://live.v1.mk/aishang/cctv164k
-
-//以下为CCTV多线路源 ⇩⇩ 肥羊ghyx源 ⇩⇩
-CCTV1,https://live.v1.mk/api/ghyx.php?id=CCTV1HD_6000
-CCTV2,https://live.v1.mk/api/ghyx.php?id=CCTV2HD_6000
-CCTV3,https://live.v1.mk/api/ghyx.php?id=CCTV3HD_6000
-CCTV4,https://live.v1.mk/api/ghyx.php?id=CCTV4HD_6000
-CCTV5,https://live.v1.mk/api/ghyx.php?id=CCTV5HD_6000
-CCTV5+,https://live.v1.mk/api/ghyx.php?id=CCTV5plusHD_6000
-CCTV6,https://live.v1.mk/api/ghyx.php?id=CCTV6HD_6000
-CCTV7,https://live.v1.mk/api/ghyx.php?id=CCTV7HD_6000
-CCTV8,https://live.v1.mk/api/ghyx.php?id=CCTV8HD_6000
-CCTV9,https://live.v1.mk/api/ghyx.php?id=CCTV9HD_6000
-CCTV10,https://live.v1.mk/api/ghyx.php?id=CCTV10HD_6000
-CCTV12,https://live.v1.mk/api/ghyx.php?id=CCTV12HD_6000
-CCTV14,https://live.v1.mk/api/ghyx.php?id=CCTV14HD_6000
-CCTV15,https://live.v1.mk/api/ghyx.php?id=CCTV15HD_6000
-CCTV16,https://live.v1.mk/api/ghyx.php?id=CCTV16HD_6000
-CCTV17,https://live.v1.mk/api/ghyx.php?id=CCTV17HD_6000
-
 //以下为多线路源 ⇩⇩ 江西移动源1 ⇩⇩
 CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
 CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225918/index.m3u8
@@ -192,6 +153,15 @@ CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 四川卫视,http://tt-live.bestvcdn.com.cn/live/program/live/scwshd/8000000/mnf.m3u8
 天津卫视,http://tt-live.bestvcdn.com.cn/live/program/live/tjwshd8m/8000000/mnf.m3u8
 云南卫视,http://tt-live.bestvcdn.com.cn/live/program/live/ynwshd8m/8000000/mnf.m3u8
+湖北卫视,http://quming-live.bestvcdn.com.cn/live/program/live/ynwshd8m/8000000/mnf.m3u8
+青海卫视,http://quming-live.bestvcdn.com.cn/live/program/live/ynwshd8m/8000000/mnf.m3u8
+宁夏卫视,http://quming-live.bestvcdn.com.cn/live/program/live/ynwshd8m/8000000/mnf.m3u8
+
+内蒙古卫视,http://tt-live.bestvcdn.com.cn/live/program/live/nmgwshd/8000000/mnf.m3u8
+山西卫视,http://tt-live.bestvcdn.com.cn/live/program/live/sxwshd8m/8000000/mnf.m3u8
+陕西卫视,http://tt-live.bestvcdn.com.cn/live/program/live/sxwshd/8000000/mnf.m3u8
+
+
 湖北卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225740/index.m3u8
 青海卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225727/index.m3u8
 宁夏卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225726/index.m3u8
