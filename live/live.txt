@@ -451,10 +451,15 @@ TVBS,https://epg.pw/stream/acc0a20a2153828ee21fd280ac45016da8f5106ad277d58e814ed
 TVBS,http://158.101.151.82:9000/jmsytb.m3u8?c=4
 TVBS新闻台,https://epg.pw/stream/f8c8d8e006116a3579250f27e1a3eaf637dae11a7797ac4d5be1f1e61cb0fbfb.m3u8
 TVBS新闻台,http://158.101.151.82:9000/jmsytb.m3u8?c=3
+TVBS新闻,http://www.ydys.cf/iptv/gt.php?id=27555-3
+东森新闻,http://www.ydys.cf/iptv/gt.php?id=27551-3
 东森新闻,https://epg.pw/stream/446e2383cf6ac30295bfb8b95de2bac474f6a5cc9f78595fad3d0d441a511908.m3u8
 中天新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=5
-中视新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=8
+中天新闻,http://www.ydys.cf/iptv/gt.php?id=27552-3
 寰宇新闻台,http://158.101.151.82:9000/jmsytb.m3u8?c=14
+寰宇新闻,http://www.ydys.cf/iptv/gt.php?id=27554-3
+中视新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=8
+民视新闻,http://www.ydys.cf/iptv/gt.php?id=27553-3
 
 //======================================================
 
