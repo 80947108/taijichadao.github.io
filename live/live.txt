@@ -50,7 +50,29 @@ CCTV14,http://117.169.121.162:6610/PLTV/88888910/224/3221225640/index.m3u8
 CCTV15,http://117.169.121.162:6610/PLTV/88888910/224/3221225641/index.m3u8
 CCTV17,http://117.169.121.162:6610/PLTV/88888910/224/3221225908/index.m3u8
 
-//以下为央视多线路源 ⇩⇩ 百视通源 ⇩⇩
+//以下为央视多线路源 ⇩⇩ 百视通源1 ⇩⇩
+CCTV1,https://www.whalenas.com/bestv/index.php?id=cctv1hd8m/8000000
+CCTV2,https://www.whalenas.com/bestv/index.php?id=cctv2hd8m/8000000
+CCTV3,https://www.whalenas.com/bestv/index.php?id=cctv38m/8000000
+CCTV4,https://www.whalenas.com/bestv/index.php?id=cctv4hd8m/8000000
+CCTV5,https://www.whalenas.com/bestv/index.php?id=cctv58m/8000000
+CCTV5+,https://www.whalenas.com/bestv/index.php?id=cctv5phd8m/8000000
+CCTV6,https://www.whalenas.com/bestv/index.php?id=cctv6hd8m/8000000
+CCTV7,https://www.whalenas.com/bestv/index.php?id=cctv7hd8m/8000000
+CCTV8,https://www.whalenas.com/bestv/index.php?id=cctv8hd8m/8000000
+CCTV9,https://www.whalenas.com/bestv/index.php?id=cctv9hd8m/8000000
+CCTV10,https://www.whalenas.com/bestv/index.php?id=cctv10hd8m/8000000
+CCTV11,https://www.whalenas.com/bestv/index.php?id=cctv11hd8m/8000000
+CCTV12,https://www.whalenas.com/bestv/index.php?id=cctv12hd8m/8000000
+CCTV13,https://www.whalenas.com/bestv/index.php?id=cctv13xwhd8m/8000000
+CCTV14,https://www.whalenas.com/bestv/index.php?id=cctvsehd8m/8000000
+CCTV15,https://www.whalenas.com/bestv/index.php?id=cctv15hd8m/8000000
+CCTV16,https://www.whalenas.com/bestv/index.php?id=cctv16hd8m/8000000
+CCTV17,https://www.whalenas.com/bestv/index.php?id=cctv17hd8m/8000000
+CCTV16,https://www.whalenas.com/bestv/index.php?id=cctv16hd4k/15000000
+CCTV4K,https://www.whalenas.com/bestv/index.php?id=cctv4k/15000000
+
+//以下为央视多线路源 ⇩⇩ 百视通源2 ⇩⇩
 CCTV1,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 CCTV2,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
 CCTV3,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
@@ -256,7 +278,34 @@ CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 西藏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
 西藏卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
 
-//以下为卫视多线路源  ⇩⇩ 百事通源 ⇩⇩
+//以下为卫视多线路源  ⇩⇩ 百事通源1 ⇩⇩
+江苏卫视,https://www.whalenas.com/bestv/index.php?id=jswshd8m/8000000
+广西卫视,https://www.whalenas.com/bestv/index.php?id=gxwshd8m/8000000
+四川卫视,https://www.whalenas.com/bestv/index.php?id=scwshd/8000000
+湖南卫视,https://www.whalenas.com/bestv/index.php?id=hunanwshd8m/8000000
+浙江卫视,https://www.whalenas.com/bestv/index.php?id=zjwshd8m/8000000
+东方卫视,https://www.whalenas.com/bestv/index.php?id=dfwshd8m/8000000
+北京卫视,https://www.whalenas.com/bestv/index.php?id=bjwshd8m/8000000
+天津卫视,https://www.whalenas.com/bestv/index.php?id=tjwshd8m/8000000
+辽宁卫视,https://www.whalenas.com/bestv/index.php?id=lnwshd8m/8000000
+安徽卫视,https://www.whalenas.com/bestv/index.php?id=ahwshd8m/8000000
+黑龙江卫视,https://www.whalenas.com/bestv/index.php?id=hljwshd8m/8000000
+广东卫视,https://www.whalenas.com/bestv/index.php?id=gdwshd8m/8000000
+深圳卫视,https://www.whalenas.com/bestv/index.php?id=szwshd8m/8000000
+湖北卫视,https://www.whalenas.com/bestv/index.php?id=hubeiws8m/8000000
+吉林卫视,https://www.whalenas.com/bestv/index.php?id=jlwshd8m/8000000
+山东卫视,https://www.whalenas.com/bestv/index.php?id=sdws8m/8000000
+江西卫视,https://www.whalenas.com/bestv/index.php?id=jxws8m/8000000
+河南卫视,https://www.whalenas.com/bestv/index.php?id=hnwshd8m/8000000
+河北卫视,https://www.whalenas.com/bestv/index.php?id=hbwshd8m/8000000
+甘肃卫视,https://www.whalenas.com/bestv/index.php?id=gswshd8m/8000000
+重庆卫视,https://www.whalenas.com/bestv/index.php?id=cqws8m/8000000
+东南卫视,https://www.whalenas.com/bestv/index.php?id=dnwshd8m/8000000
+云南卫视,https://www.whalenas.com/bestv/index.php?id=ynwshd8m/8000000
+贵州卫视,https://www.whalenas.com/bestv/index.php?id=gzwshd8m/8000000
+海南卫视,https://www.whalenas.com/bestv/index.php?id=hainanwshd8m/8000000
+
+//以下为卫视多线路源  ⇩⇩ 百事通源2 ⇩⇩
 黑龙江卫视,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hljwshd8m/8000000/mnf.m3u8
 吉林卫视,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/jlwshd8m/8000000/mnf.m3u8
 辽宁卫视,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/lnwshd8m/8000000/mnf.m3u8
@@ -525,25 +574,33 @@ CETV4,http://tt-live.bestvcdn.com.cn/live/program/live/zgjy4hd8m/8000000/mnf.m3u
 
 // 以下为其它频道多线路源⇩⇩ 其它源 ⇩⇩
 金鹰纪实,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls
-金鹰纪实,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/jyjs8m/8000000/mnf.m3u8
-金鹰纪实,http://124.232.233.15:6610/000000001001/201600020008/1400.m3u8?m3u8_level=2
 上海纪实,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225654/index.m3u8
+北京纪实,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8
+茶频道,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225781/index.m3u8?fmt=ts2hls
+快乐垂钓,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225780/index.m3u8?fmt=ts2hls
+金鹰纪实,http://124.232.233.15:6610/000000001001/201600020008/1400.m3u8?m3u8_level=2
 上海纪实,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
 上海纪实,http://39.134.115.163:8080/TVOD/88888910/224/3221225654/index.m3u8
 上海纪实,http://39.134.115.163:8080/TVOD/88888910/224/3221225655/index.m3u8
-上海纪实,http://117.169.121.162:6610/PLTV/88888910/224/3221225654/index.m3u8
-上海纪实,http://117.169.121.162:6610/PLTV/88888910/224/3221225655/index.m3u8
-北京纪实,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8
 北京纪实,http://39.134.115.163:8080/TVOD/88888910/224/3221225675/index.m3u8
 北京纪实,http://39.134.115.163:8080/TVOD/88888910/224/3221225676/index.m3u8
+上海纪实,http://117.169.121.162:6610/PLTV/88888910/224/3221225654/index.m3u8
+上海纪实,http://117.169.121.162:6610/PLTV/88888910/224/3221225655/index.m3u8
 北京纪实,http://117.169.121.162:6610/PLTV/88888910/224/3221225675/index.m3u8
 北京纪实,http://117.169.121.162:6610/PLTV/88888910/224/3221225676/index.m3u8
-北京纪实,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dajs8m/8000000/mnf.m3u8
-茶频道,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225781/index.m3u8?fmt=ts2hls
-茶频道,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cpdhdavs8m/8000000/mnf.m3u8
-快乐垂钓,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225780/index.m3u8?fmt=ts2hls
-快乐垂钓,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/klcd8m/8000000/mnf.m3u8
 CETV1,http://txycsbl.centv.cn/zb/0628cetv1.m3u8
 CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
+金鹰纪实,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/jyjs8m/8000000/mnf.m3u8
+北京纪实,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dajs8m/8000000/mnf.m3u8
+茶频道,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cpdhdavs8m/8000000/mnf.m3u8
+快乐垂钓,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/klcd8m/8000000/mnf.m3u8
 CETV1,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/zgjy1t8m/8000000/mnf.m3u8
 CETV4,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
+金鹰纪实,https://www.whalenas.com/bestv/index.php?id=jyjs8m/8000000
+上海纪实,https://www.whalenas.com/bestv/index.php?id=jspdhd/4000000
+北京纪实,https://www.whalenas.com/bestv/index.php?id=dajs8m/8000000
+茶频道,https://www.whalenas.com/bestv/index.php?id=cpdhdavs8m/8000000
+快乐垂钓,https://www.whalenas.com/bestv/index.php?id=klcd8m/8000000
+CETV1,https://www.whalenas.com/bestv/index.php?id=zgjy1t8m/8000000
+CETV4,https://www.whalenas.com/bestv/index.php?id=zgjy4hd8m/8000000
+
