@@ -75,7 +75,7 @@ CCTV10,https://live.v1.mk/aishang/cctv10hd
 CCTV11,https://live.v1.mk/aishang/cctv11hd
 CCTV12,https://live.v1.mk/aishang/cctv12hd
 CCTV13,https://live.v1.mk/aishang/cctv13hd
-CCTV14儿,https://live.v1.mk/aishang/cctv14hd
+CCTV14,https://live.v1.mk/aishang/cctv14hd
 CCTV15,https://live.v1.mk/aishang/cctv15hd
 CCTV16,https://live.v1.mk/aishang/cctv16hd
 CCTV17,https://live.v1.mk/aishang/cctv17hd
