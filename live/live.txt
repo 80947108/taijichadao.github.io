@@ -473,15 +473,15 @@ CCTV16,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8$官网
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8$官网
 翡翠台,http://r.jdshipin.com/qClQf
-TVBS,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8$336699
-TVBS新闻台,http://www.336699.live:1935/blocksix/4gtv-live072.stream/.m3u8$336699
-TVBS欢乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist.m3u8$336699
-东森新闻,http://www.336699.live:1935/blocksix/4gtv-live114.stream/chunklist.m3u8$336699
-中天新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8$336699
-寰宇新闻台,http://www.336699.live:1935/blockfour/litv-longturn14.stream/playlist.m3u8$336699
-中视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8$336699
-华视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8$336699
-民视新闻台,http://www.336699.live:1935/blockfour/litv-ftv13.stream/playlist.m3u8$336699
+TVBS,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8$336699.live
+TVBS新闻台,http://www.336699.live:1935/blocksix/4gtv-live072.stream/.m3u8$336699.live
+TVBS欢乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist.m3u8$336699.live
+东森新闻,http://www.336699.live:1935/blocksix/4gtv-live114.stream/chunklist.m3u8$336699.live
+中天新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8$336699.live
+寰宇新闻台,http://www.336699.live:1935/blockfour/litv-longturn14.stream/playlist.m3u8$336699.live
+中视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8$336699.live
+华视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8$336699.live
+民视新闻台,http://www.336699.live:1935/blockfour/litv-ftv13.stream/playlist.m3u8$336699.live
 台视新闻台,http://158.101.151.82:9000/jmsytb.m3u8?c=7
 
 // 以下为港•澳•台多线路源⇩⇩ 其它源 ⇩⇩
