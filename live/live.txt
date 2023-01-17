@@ -1,5 +1,5 @@
 📺央视,#genre#
-// 标名⇩⇩ 央视源⇩⇩
+// 央视19个频道⇩⇩ 百视通源⇩⇩
 CCTV1,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 CCTV2,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
 CCTV3,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
@@ -38,7 +38,7 @@ CCTV14,http://117.169.121.162:6610/PLTV/88888910/224/3221225639/index.m3u8
 CCTV15,http://117.169.121.162:6610/PLTV/88888910/224/3221225641/index.m3u8
 CCTV17,http://117.169.121.162:6610/PLTV/88888910/224/3221225908/index.m3u8
 
-//以下为央视多线路源 ⇩⇩ 百视通源1 ⇩⇩
+//以下为央视多线路源 ⇩⇩ 百视通源2 ⇩⇩
 CCTV1,https://www.whalenas.com/bestv/index.php?id=cctv1hd8m/8000000
 CCTV2,https://www.whalenas.com/bestv/index.php?id=cctv2hd8m/8000000
 CCTV3,https://www.whalenas.com/bestv/index.php?id=cctv38m/8000000
@@ -81,7 +81,6 @@ CCTV16,https://live.v1.mk/aishang/cctv16hd
 CCTV17,https://live.v1.mk/aishang/cctv17hd
 CCTV16,https://live.v1.mk/aishang/cctv164k
 CCTV4K,https://live.v1.mk/aishang/as4k
-
 
 //以下为央视多线路源 ⇩⇩ 江西移动源1 ⇩⇩
 CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
@@ -127,7 +126,7 @@ CCTV16,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k
 //======================================================
 
 📡卫视,#genre#
-// 标名⇩⇩ 百视通源⇩⇩
+// 卫视32个频道⇩⇩ 百视通源⇩⇩
 湖南卫视,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
 东方卫视,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
 浙江卫视,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/zjwshd8m/8000000/mnf.m3u8
@@ -487,29 +486,29 @@ TVBS欢乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist
 
 // 以下为港•澳•台多线路源⇩⇩ 其它源 ⇩⇩
 凤凰中文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
-凤凰中文,http://117.169.124.149:8080/live/fhchinese/index.m3u8
-凤凰中文,http://vl15191373.imwork.net:8880/udp/239.93.0.162:2192
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
+凤凰中文,http://vl15191373.imwork.net:8880/udp/239.93.0.162:2192
 凤凰资讯,http://vl15191373.imwork.net:8880/udp/239.93.0.118:2191
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-翡翠台,https://epg.pw/stream/e554965a7a6a7e91e36be282c8f2c204db55f5394ccebb5dc0af55d4121e9bd4.m3u8
-TVBS,https://epg.pw/stream/acc0a20a2153828ee21fd280ac45016da8f5106ad277d58e814ed0a6e9693193.m3u8
 TVBS,http://158.101.151.82:9000/jmsytb.m3u8?c=4
-TVBS新闻台,https://epg.pw/stream/f8c8d8e006116a3579250f27e1a3eaf637dae11a7797ac4d5be1f1e61cb0fbfb.m3u8
 TVBS新闻台,http://158.101.151.82:9000/jmsytb.m3u8?c=3
+中天新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=5
+寰宇新闻台,http://158.101.151.82:9000/jmsytb.m3u8?c=14
+中视新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=8
 TVBS新闻台,http://www.ydys.cf/iptv/gt.php?id=27555-3
 东森新闻,http://www.ydys.cf/iptv/gt.php?id=27551-3
-东森新闻,https://epg.pw/stream/446e2383cf6ac30295bfb8b95de2bac474f6a5cc9f78595fad3d0d441a511908.m3u8
-中天新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=5
 中天新闻,http://www.ydys.cf/iptv/gt.php?id=27552-3
-寰宇新闻台,http://158.101.151.82:9000/jmsytb.m3u8?c=14
 寰宇新闻台,http://www.ydys.cf/iptv/gt.php?id=27554-3
-中视新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=8
 民视新闻台,http://www.ydys.cf/iptv/gt.php?id=27553-3
 东森新闻,http://www.yshmzmc.top/gtjm.php?id=live1014
 中天新闻,http://www.yshmzmc.top/gtjm.php?id=live1015
 寰宇新闻台,http://www.yshmzmc.top/gtjm.php?id=live1222
+翡翠台,https://epg.pw/stream/e554965a7a6a7e91e36be282c8f2c204db55f5394ccebb5dc0af55d4121e9bd4.m3u8
+TVBS,https://epg.pw/stream/acc0a20a2153828ee21fd280ac45016da8f5106ad277d58e814ed0a6e9693193.m3u8
+TVBS新闻台,https://epg.pw/stream/f8c8d8e006116a3579250f27e1a3eaf637dae11a7797ac4d5be1f1e61cb0fbfb.m3u8
+东森新闻,https://epg.pw/stream/446e2383cf6ac30295bfb8b95de2bac474f6a5cc9f78595fad3d0d441a511908.m3u8
+凤凰中文,http://117.169.124.149:8080/live/fhchinese/index.m3u8
 
 //======================================================
 
@@ -540,7 +539,6 @@ CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 上海纪实,http://117.169.121.162:6610/PLTV/88888910/224/3221225655/index.m3u8
 北京纪实,http://117.169.121.162:6610/PLTV/88888910/224/3221225675/index.m3u8
 北京纪实,http://117.169.121.162:6610/PLTV/88888910/224/3221225676/index.m3u8
-
 金鹰纪实,https://www.whalenas.com/bestv/index.php?id=jyjs8m/8000000
 上海纪实,https://www.whalenas.com/bestv/index.php?id=jspdhd/4000000
 北京纪实,https://www.whalenas.com/bestv/index.php?id=dajs8m/8000000
@@ -550,4 +548,3 @@ CETV1,https://www.whalenas.com/bestv/index.php?id=zgjy1t8m/8000000
 CETV4,https://www.whalenas.com/bestv/index.php?id=zgjy4hd8m/8000000
 CETV1,https://live.v1.mk/aishang/cetv1hd
 CETV4,https://live.v1.mk/aishang/cetv4
-
