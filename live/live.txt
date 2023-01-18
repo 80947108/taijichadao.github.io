@@ -157,7 +157,7 @@ CCTV16,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k
 山西卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225730/index.m3u8
 陕西卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225729/index.m3u8
 新疆卫视,http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
-西藏卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
+西藏卫视,https://tv.vtibet.cn/live/EfgSmE4jCTBtvchannel3.m3u8
 深圳卫视,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/szwshd8m/8000000/mnf.m3u8
 
 //以下为卫视多线路源  ⇩⇩ 江西移动源2 ⇩⇩
@@ -467,6 +467,7 @@ CCTV16,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 河南卫视,http://121.51.249.6/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43025/index.m3u8
 江西卫视,http://117.169.120.140:8080/live/jiangxistv/.m3u8
+西藏卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
 
 //======================================================
 ⚛️港澳台,#genre#
