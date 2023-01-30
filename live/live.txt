@@ -60,28 +60,6 @@ CCTV5+,https://www.whalenas.com/bestv/index.php?id=cctv5phd8m/8000000
 CCTV4K,https://www.whalenas.com/bestv/index.php?id=cctv4k/15000000
 CCTV16,https://www.whalenas.com/bestv/index.php?id=cctv16hd4k/15000000
 
-//以下为央视多线路源 ⇩⇩ 百视通源3 ⇩⇩
-CCTV1,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
-CCTV2,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
-CCTV3,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
-CCTV4,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv4hd8m/8000000/mnf.m3u8
-CCTV5,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8
-CCTV5+,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
-CCTV6,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv6hd8m/8000000/mnf.m3u8
-CCTV7,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8
-CCTV8,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv8hd8m/8000000/mnf.m3u8
-CCTV9,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
-CCTV10,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
-CCTV11,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv11hd8m/8000000/mnf.m3u8
-CCTV12,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv12hd8m/8000000/mnf.m3u8
-CCTV13,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
-CCTV14,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctvsehd8m/8000000/mnf.m3u8
-CCTV15,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
-CCTV16,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
-CCTV16,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
-CCTV17,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
-CCTV4K,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
-
 //以下为央视多线路源 ⇩⇩ 肥羊百事通源⇩⇩
 CCTV1,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
 CCTV2,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
@@ -297,34 +275,6 @@ CCTV16,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k
 云南卫视,https://www.whalenas.com/bestv/index.php?id=ynwshd8m/8000000
 贵州卫视,https://www.whalenas.com/bestv/index.php?id=gzwshd8m/8000000
 海南卫视,https://www.whalenas.com/bestv/index.php?id=hainanwshd8m/8000000
-
-//以下为卫视多线路源  ⇩⇩ 百事通源3 ⇩⇩
-江苏卫视,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/jswshd8m/8000000/mnf.m3u8
-广西卫视,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/gxwshd8m/8000000/mnf.m3u8
-四川卫视,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/scwshd/8000000/mnf.m3u8
-东方卫视,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
-湖南卫视,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
-浙江卫视,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/zjwshd8m/8000000/mnf.m3u8
-东方卫视,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
-北京卫视,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/bjwshd8m/8000000/mnf.m3u8
-天津卫视,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/tjwshd8m/8000000/mnf.m3u8
-辽宁卫视,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/lnwshd8m/8000000/mnf.m3u8
-安徽卫视,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/ahwshd8m/8000000/mnf.m3u8
-黑龙江卫视,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/hljwshd8m/8000000/mnf.m3u8
-广东卫视,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/gdwshd8m/8000000/mnf.m3u8
-深圳卫视,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/szwshd8m/8000000/mnf.m3u8
-湖北卫视,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/hubeiws8m/8000000/mnf.m3u8
-吉林卫视,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/jlwshd8m/8000000/mnf.m3u8
-山东卫视,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/sdws8m/8000000/mnf.m3u8
-江西卫视,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/jxws8m/8000000/mnf.m3u8
-河南卫视,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/hnwshd8m/8000000/mnf.m3u8
-河北卫视,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/hbwshd8m/8000000/mnf.m3u8
-甘肃卫视,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/gswshd8m/8000000/mnf.m3u8
-重庆卫视,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cqws8m/8000000/mnf.m3u8
-东南卫视,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/dnwshd8m/8000000/mnf.m3u8
-云南卫视,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/ynwshd8m/8000000/mnf.m3u8
-贵州卫视,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/gzwshd8m/8000000/mnf.m3u8
-海南卫视,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/hainanwshd8m/8000000/mnf.m3u8
 
 //以下为卫视多线路源  ⇩⇩ 肥羊百事通源 ⇩⇩
 江苏卫视,https://live.v1.mk/api/bestv.php?id=jswshd8m/8000000
@@ -596,11 +546,7 @@ TVBS新闻台,http://158.101.151.82:9000/jmsytb.m3u8?c=3
 中天新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=5
 寰宇新闻台,http://158.101.151.82:9000/jmsytb.m3u8?c=14
 中视新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=8
-TVBS新闻台,http://www.ydys.cf/iptv/gt.php?id=27555-3
-东森新闻,http://www.ydys.cf/iptv/gt.php?id=27551-3
-中天新闻,http://www.ydys.cf/iptv/gt.php?id=27552-3
-寰宇新闻台,http://www.ydys.cf/iptv/gt.php?id=27554-3
-民视新闻台,http://www.ydys.cf/iptv/gt.php?id=27553-3
+
 翡翠台,https://epg.pw/stream/e554965a7a6a7e91e36be282c8f2c204db55f5394ccebb5dc0af55d4121e9bd4.m3u8
 TVBS,https://epg.pw/stream/acc0a20a2153828ee21fd280ac45016da8f5106ad277d58e814ed0a6e9693193.m3u8
 TVBS新闻台,https://epg.pw/stream/f8c8d8e006116a3579250f27e1a3eaf637dae11a7797ac4d5be1f1e61cb0fbfb.m3u8
@@ -633,12 +579,6 @@ CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 北京纪实,http://117.169.121.162:6610/PLTV/88888910/224/3221225676/index.m3u8
 CETV1,https://live.v1.mk/aishang/cetv1hd
 CETV4,https://live.v1.mk/aishang/cetv4
-金鹰纪实,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/jyjs8m/8000000/mnf.m3u8
-北京纪实,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/dajs8m/8000000/mnf.m3u8
-茶频道,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cpdhdavs8m/8000000/mnf.m3u8
-快乐垂钓,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/klcd8m/8000000/mnf.m3u8
-CETV1,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/zgjy1t8m/8000000/mnf.m3u8
-CETV4,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
 金鹰纪实,https://live.v1.mk/api/bestv.php?id=jyjs8m/8000000
 北京纪实,https://live.v1.mk/api/bestv.php?id=dajs8m/8000000
 上海纪实,https://live.v1.mk/api/bestv.php?id=jspdhd/4000000
