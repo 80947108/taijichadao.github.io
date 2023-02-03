@@ -1,1 +1,0 @@
-realUrl = 重定向('http://ivips.ml/jx/json.php/?url='+vipUrl)
