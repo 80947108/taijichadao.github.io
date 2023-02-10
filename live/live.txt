@@ -400,6 +400,15 @@ TVBS新闻台,https://epg.pw/stream/f8c8d8e006116a3579250f27e1a3eaf637dae11a7797
 //======================================================
 
 📺其它频道,#genre#
+北京纪实,https://live.v1.mk/api/bestv.php?id=dajs8m/8000000$百视通
+上海纪实,https://live.v1.mk/api/bestv.php?id=jspdhd/4000000$百视通
+茶频道,https://live.v1.mk/api/bestv.php?id=cpdhdavs8m/8000000$百视通
+快乐垂钓,https://live.v1.mk/api/bestv.php?id=klcd8m/8000000$百视通
+金鹰纪实,https://live.v1.mk/api/bestv.php?id=jyjs8m/8000000$百视通
+CETV1,https://live.v1.mk/api/bestv.php?id=zgjy1t8m/8000000$百视通
+CETV4,https://live.v1.mk/api/bestv.php?id=zgjy4hd8m/8000000$百视通
+
+// 以下为其它频道多线路源⇩⇩ 其它源 ⇩⇩
 北京纪实,http://39.134.115.163:8080/TVOD/88888910/224/3221225675/index.m3u8
 上海纪实,http://39.134.115.163:8080/TVOD/88888910/224/3221225655/index.m3u8
 金鹰纪实,http://ly01.eu.org:10000/udp/239.77.0.160:5146
@@ -407,17 +416,10 @@ TVBS新闻台,https://epg.pw/stream/f8c8d8e006116a3579250f27e1a3eaf637dae11a7797
 快乐垂钓,http://ly01.eu.org:10000/udp/239.77.0.145:5146
 CETV1,http://txycsbl.centv.cn/zb/0628cetv1.m3u8
 CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
-
-// 以下为其它频道多线路源⇩⇩ 其它源 ⇩⇩
 CETV1,https://live.v1.mk/aishang/cetv1hd
 北京纪实,http://117.169.121.162:6610/PLTV/88888910/224/3221225676/index.m3u8
 上海纪实,http://117.169.121.162:6610/PLTV/88888910/224/3221225655/index.m3u8
 上海纪实,http://ly01.eu.org:10000/udp/239.77.0.147:5146
 金鹰纪实,http://124.232.233.15:6610/000000001001/201600020008/1400.m3u8?m3u8_level=2
-茶频道,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225781/index.m3u8?fmt=ts2hls
 茶频道,https://live.v1.mk/api/ghyx.php?id=ChaPinDaoHD_2000
 茶频道,http://fxhack.f3322.org:8000/udp/239.77.1.207:5146
-北京纪实,https://live.v1.mk/api/bestv.php?id=dajs8m/8000000$百视通
-上海纪实,https://live.v1.mk/api/bestv.php?id=jspdhd/4000000$百视通
-金鹰纪实,https://live.v1.mk/api/bestv.php?id=jyjs8m/8000000$百视通
-茶频道,https://live.v1.mk/api/bestv.php?id=cpdhdavs8m/8000000$百视通
