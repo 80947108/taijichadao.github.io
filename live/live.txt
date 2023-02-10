@@ -1,47 +1,24 @@
 📺央视,#genre#
-// 央视19个频道⇩⇩ 肥羊百视通源⇩⇩
-CCTV1,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000$百视通
-CCTV2,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000$百视通
-CCTV3,https://live.v1.mk/api/bestv.php?id=cctv38m/8000000$百视通
-CCTV4,https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000$百视通
-CCTV5,https://live.v1.mk/api/bestv.php?id=cctv58m/8000000$百视通
-CCTV6,https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000$百视通
-CCTV7,https://live.v1.mk/api/bestv.php?id=cctv7hd8m/8000000$百视通
-CCTV8,https://live.v1.mk/api/bestv.php?id=cctv8hd8m/8000000$百视通
-CCTV9,https://live.v1.mk/api/bestv.php?id=cctv9hd8m/8000000$百视通
-CCTV10,https://live.v1.mk/api/bestv.php?id=cctv10hd8m/8000000$百视通
-CCTV11,https://live.v1.mk/api/bestv.php?id=cctv11hd8m/8000000$百视通
-CCTV12,https://live.v1.mk/api/bestv.php?id=cctv12hd8m/8000000$百视通
-CCTV13,https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000$百视通
-CCTV14,https://live.v1.mk/api/bestv.php?id=cctvsehd8m/8000000$百视通
-CCTV15,https://live.v1.mk/api/bestv.php?id=cctv15hd8m/8000000$百视通
-CCTV16,https://live.v1.mk/api/bestv.php?id=cctv16hd8m/8000000$百视通
-CCTV17,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000$百视通
-CCTV5+,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000$百视通
-CCTV4K,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000$百视通
-CCTV16,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000$百视通
-
-//以下为央视多线路源 ⇩⇩ 百视通源⇩⇩
-CCTV1,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
-CCTV2,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
-CCTV3,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
-CCTV4,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv4hd8m/8000000/mnf.m3u8
-CCTV5,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8
-CCTV6,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv6hd8m/8000000/mnf.m3u8
-CCTV7,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8
-CCTV8,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv8hd8m/8000000/mnf.m3u8
-CCTV9,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
-CCTV10,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
-CCTV11,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv11hd8m/8000000/mnf.m3u8
-CCTV12,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv12hd8m/8000000/mnf.m3u8
-CCTV13,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
-CCTV14,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctvsehd8m/8000000/mnf.m3u8
-CCTV15,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
-CCTV16,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
-CCTV17,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
-CCTV5+,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
-CCTV4K,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
-CCTV16,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
+//央视19个频道 ⇩⇩ 江西移动源 ⇩⇩
+CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
+CCTV2,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225619/index.m3u8
+CCTV3,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225647/index.m3u8
+CCTV4,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8
+CCTV5,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/index.m3u8
+CCTV6,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225650/index.m3u8
+CCTV7,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225624/index.m3u8
+CCTV8,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225635/index.m3u8
+CCTV9,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225626/index.m3u8
+CCTV10,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225627/index.m3u8
+CCTV11,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225628/index.m3u8
+CCTV12,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225637/index.m3u8
+CCTV13,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
+CCTV14,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225640/index.m3u8
+CCTV15,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+CCTV16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226230/index.m3u8
+CCTV17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225908/index.m3u8
+CCTV5+,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225706/index.m3u8
+CCTV4K,http://159.75.85.63:5679/cctv4k.php
 
 //以下为央视多线路源 ⇩⇩ 肥羊爱尚源⇩⇩
 CCTV1,https://live.v1.mk/aishang/cctv1hd$爱尚
@@ -62,8 +39,28 @@ CCTV15,https://live.v1.mk/aishang/cctv15hd$爱尚
 CCTV16,https://live.v1.mk/aishang/cctv16hd$爱尚
 CCTV17,https://live.v1.mk/aishang/cctv17hd$爱尚
 CCTV5+,https://live.v1.mk/aishang/cctv5p$爱尚
-CCTV4K,https://live.v1.mk/aishang/as4k$爱尚
-CCTV16,https://live.v1.mk/aishang/cctv164k$爱尚
+
+//以下为央视多线路源⇩⇩ 肥羊百视通源⇩⇩
+CCTV1,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000$百视通
+CCTV2,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000$百视通
+CCTV3,https://live.v1.mk/api/bestv.php?id=cctv38m/8000000$百视通
+CCTV4,https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000$百视通
+CCTV5,https://live.v1.mk/api/bestv.php?id=cctv58m/8000000$百视通
+CCTV6,https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000$百视通
+CCTV7,https://live.v1.mk/api/bestv.php?id=cctv7hd8m/8000000$百视通
+CCTV8,https://live.v1.mk/api/bestv.php?id=cctv8hd8m/8000000$百视通
+CCTV9,https://live.v1.mk/api/bestv.php?id=cctv9hd8m/8000000$百视通
+CCTV10,https://live.v1.mk/api/bestv.php?id=cctv10hd8m/8000000$百视通
+CCTV11,https://live.v1.mk/api/bestv.php?id=cctv11hd8m/8000000$百视通
+CCTV12,https://live.v1.mk/api/bestv.php?id=cctv12hd8m/8000000$百视通
+CCTV13,https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000$百视通
+CCTV14,https://live.v1.mk/api/bestv.php?id=cctvsehd8m/8000000$百视通
+CCTV15,https://live.v1.mk/api/bestv.php?id=cctv15hd8m/8000000$百视通
+CCTV16,https://live.v1.mk/api/bestv.php?id=cctv16hd8m/8000000$百视通
+CCTV17,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000$百视通
+CCTV5+,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000$百视通
+CCTV4K,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000$百视通
+CCTV16,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000$百视通
 
 //以下为央视多线路源 ⇩⇩ 南昌移动源1 ⇩⇩
 CCTV1,http://117.169.121.162:6610/PLTV/88888910/224/3221225618/index.m3u8
@@ -103,26 +100,6 @@ CCTV16,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv16/1.m3u8
 CCTV17,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv17/1.m3u8
 CCTV5+,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv05plus/1.m3u8
 
-//以下为央视多线路源 ⇩⇩ 江西移动源1 ⇩⇩
-CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
-CCTV2,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225619/index.m3u8
-CCTV3,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225647/index.m3u8?blog.ntnas.top
-CCTV4,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8
-CCTV5,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/index.m3u8
-CCTV5+,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225706/index.m3u8
-CCTV6,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225650/index.m3u8
-CCTV7,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225624/index.m3u8
-CCTV8,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225635/index.m3u8
-CCTV9,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225626/index.m3u8
-CCTV10,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225627/index.m3u8
-CCTV11,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225628/index.m3u8
-CCTV12,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225637/index.m3u8
-CCTV13,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
-CCTV14,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225640/index.m3u8
-CCTV15,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
-CCTV16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226230/index.m3u8
-CCTV17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225908/index.m3u8
-
 //以下为央视多线路源 ⇩⇩ 江西移动源2 ⇩⇩
 CCTV1,http://39.134.115.163:8080/TVOD/88888910/224/3221225618/index.m3u8
 CCTV2,http://39.134.115.163:8080/TVOD/88888910/224/3221225619/index.m3u8
@@ -160,72 +137,44 @@ CCTV16,http://223.83.88.142:9901/tsfile/live/1057_1.m3u8
 CCTV17,http://223.83.88.142:9901/tsfile/live/0019_1.m3u8
 CCTV5+,http://223.83.88.142:9901/tsfile/live/0001_6.m3u8
 
-CCTV4K,http://159.75.85.63:5679/cctv4k.php
 CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 
 //======================================================
 
 📡卫视,#genre#
-// 卫视32个频道⇩⇩ 肥羊百事通源⇩⇩
-湖南卫视,https://live.v1.mk/api/bestv.php?id=hunanwshd8m/8000000$百视通
-东方卫视,https://live.v1.mk/api/bestv.php?id=dfwshd8m/8000000$百视通
-浙江卫视,https://live.v1.mk/api/bestv.php?id=zjwshd8m/8000000$百视通
-江苏卫视,https://live.v1.mk/api/bestv.php?id=jswshd8m/8000000$百视通
-北京卫视,https://live.v1.mk/api/bestv.php?id=bjwshd8m/8000000$百视通
-安徽卫视,https://live.v1.mk/api/bestv.php?id=ahwshd8m/8000000$百视通
-重庆卫视,https://live.v1.mk/api/bestv.php?id=cqws8m/8000000$百视通
-东南卫视,https://live.v1.mk/api/bestv.php?id=dnwshd8m/8000000$百视通
-广东卫视,https://live.v1.mk/api/bestv.php?id=gdwshd8m/8000000$百视通
-广西卫视,https://live.v1.mk/api/bestv.php?id=gxwshd8m/8000000$百视通
-甘肃卫视,https://live.v1.mk/api/bestv.php?id=gswshd8m/8000000$百视通
-贵州卫视,https://live.v1.mk/api/bestv.php?id=gzwshd8m/8000000$百视通
-河北卫视,https://live.v1.mk/api/bestv.php?id=hbwshd8m/8000000$百视通
-河南卫视,https://live.v1.mk/api/bestv.php?id=hnwshd8m/8000000$百视通
-海南卫视,https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000$百视通
-黑龙江卫视,https://live.v1.mk/api/bestv.php?id=hljwshd8m/8000000$百视通
-吉林卫视,https://live.v1.mk/api/bestv.php?id=jlwshd8m/8000000$百视通
-江西卫视,https://live.v1.mk/api/bestv.php?id=jxws8m/8000000$百视通
-辽宁卫视,https://live.v1.mk/api/bestv.php?id=lnwshd8m/8000000$百视通
-山东卫视,https://live.v1.mk/api/bestv.php?id=sdws8m/8000000$百视通
-四川卫视,https://live.v1.mk/api/bestv.php?id=scwshd/8000000$百视通
-天津卫视,https://live.v1.mk/api/bestv.php?id=tjwshd8m/8000000$百视通
-云南卫视,https://live.v1.mk/api/bestv.php?id=ynwshd8m/8000000$百视通
-深圳卫视,https://live.v1.mk/api/bestv.php?id=szwshd8m/8000000$百视通
+//卫视32个频道 ⇩⇩ 南昌移动源 ⇩⇩
+湖南卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225745/index.m3u8
+东方卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225658/index.m3u8
+浙江卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225744/index.m3u8
+江苏卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225743/index.m3u8
+北京卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225673/index.m3u8
+安徽卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225737/index.m3u8
+重庆卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225734/index.m3u8
+东南卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225657/index.m3u8
+广东卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225742/index.m3u8
+广西卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225731/index.m3u8
+甘肃卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225724/index.m3u8
+贵州卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225728/index.m3u8
+河北卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225732/index.m3u8
+黑龙江卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225736/index.m3u8
+吉林卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225680/index.m3u8
+江西卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225746/index.m3u8
+辽宁卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225735/index.m3u8
+山东卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225738/index.m3u8
+四川卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225733/index.m3u8
+天津卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225739/index.m3u8
+云南卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225664/index.m3u8
 湖北卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225740/index.m3u8
 青海卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225727/index.m3u8
 宁夏卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225726/index.m3u8
 内蒙古卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225667/index.m3u8
 山西卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225730/index.m3u8
 陕西卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225729/index.m3u8
+河南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225611/index.m3u8
+海南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/index.m3u8
 新疆卫视,http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
 西藏卫视,https://tv.vtibet.cn/live/EfgSmE4jCTBtvchannel3.m3u8
-
-//以下为卫视多线路源 ⇩⇩ 南昌移动源 ⇩⇩
-东南卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225657/index.m3u8
-东方卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225658/index.m3u8
-江苏卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225743/index.m3u8
-江西卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225746/index.m3u8
-河北卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225732/index.m3u8
-浙江卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225744/index.m3u8
 深圳卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225741/index.m3u8
-湖北卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225699/index.m3u8
-湖南卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225745/index.m3u8
-北京卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225673/index.m3u8
-四川卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225733/index.m3u8
-天津卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225739/index.m3u8
-安徽卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225737/index.m3u8
-山东卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225738/index.m3u8
-广东卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225742/index.m3u8
-广西卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225731/index.m3u8
-重庆卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225734/index.m3u8
-吉林卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225680/index.m3u8
-云南卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225664/index.m3u8
-黑龙江卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225736/index.m3u8
-甘肃卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225724/index.m3u8
-西藏卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225723/index.m3u8
-贵州卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225728/index.m3u8
-辽宁卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225735/index.m3u8
-新疆卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225725/index.m3u8
 
 //以下为卫视多线路源  ⇩⇩ 肥羊爱尚源 ⇩⇩
 湖南卫视,https://live.v1.mk/aishang/hunwshd$爱尚
@@ -257,31 +206,31 @@ CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 新疆卫视,https://live.v1.mk/aishang/xjws$爱尚
 内蒙古卫视,https://live.v1.mk/aishang/nmws$爱尚
 
-// 以下为卫视多线路源⇩⇩ 百视通源⇩⇩
-湖南卫视,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
-东方卫视,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
-浙江卫视,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/zjwshd8m/8000000/mnf.m3u8
-江苏卫视,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/jswshd8m/8000000/mnf.m3u8
-北京卫视,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/bjwshd8m/8000000/mnf.m3u8
-安徽卫视,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/ahwshd8m/8000000/mnf.m3u8
-重庆卫视,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cqws8m/8000000/mnf.m3u8
-东南卫视,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dnwshd8m/8000000/mnf.m3u8
-广东卫视,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/gdwshd8m/8000000/mnf.m3u8
-广西卫视,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/gxwshd8m/8000000/mnf.m3u8
-甘肃卫视,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/gswshd8m/8000000/mnf.m3u8
-贵州卫视,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/gzwshd8m/8000000/mnf.m3u8
-河北卫视,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hbwshd8m/8000000/mnf.m3u8
-河南卫视,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hnwshd8m/8000000/mnf.m3u8
-海南卫视,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hainanwshd8m/8000000/mnf.m3u8
-黑龙江卫视,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hljwshd8m/8000000/mnf.m3u8
-吉林卫视,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/jlwshd8m/8000000/mnf.m3u8
-江西卫视,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/jxws8m/8000000/mnf.m3u8
-辽宁卫视,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/lnwshd8m/8000000/mnf.m3u8
-山东卫视,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/sdws8m/8000000/mnf.m3u8
-四川卫视,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/scwshd/8000000/mnf.m3u8
-天津卫视,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/tjwshd8m/8000000/mnf.m3u8
-云南卫视,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/ynwshd8m/8000000/mnf.m3u8
-深圳卫视,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/szwshd8m/8000000/mnf.m3u8
+//以下为卫视多线路源⇩⇩ 肥羊百事通源⇩⇩
+湖南卫视,https://live.v1.mk/api/bestv.php?id=hunanwshd8m/8000000$百视通
+东方卫视,https://live.v1.mk/api/bestv.php?id=dfwshd8m/8000000$百视通
+浙江卫视,https://live.v1.mk/api/bestv.php?id=zjwshd8m/8000000$百视通
+江苏卫视,https://live.v1.mk/api/bestv.php?id=jswshd8m/8000000$百视通
+北京卫视,https://live.v1.mk/api/bestv.php?id=bjwshd8m/8000000$百视通
+安徽卫视,https://live.v1.mk/api/bestv.php?id=ahwshd8m/8000000$百视通
+重庆卫视,https://live.v1.mk/api/bestv.php?id=cqws8m/8000000$百视通
+东南卫视,https://live.v1.mk/api/bestv.php?id=dnwshd8m/8000000$百视通
+广东卫视,https://live.v1.mk/api/bestv.php?id=gdwshd8m/8000000$百视通
+广西卫视,https://live.v1.mk/api/bestv.php?id=gxwshd8m/8000000$百视通
+甘肃卫视,https://live.v1.mk/api/bestv.php?id=gswshd8m/8000000$百视通
+贵州卫视,https://live.v1.mk/api/bestv.php?id=gzwshd8m/8000000$百视通
+河北卫视,https://live.v1.mk/api/bestv.php?id=hbwshd8m/8000000$百视通
+河南卫视,https://live.v1.mk/api/bestv.php?id=hnwshd8m/8000000$百视通
+海南卫视,https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000$百视通
+黑龙江卫视,https://live.v1.mk/api/bestv.php?id=hljwshd8m/8000000$百视通
+吉林卫视,https://live.v1.mk/api/bestv.php?id=jlwshd8m/8000000$百视通
+江西卫视,https://live.v1.mk/api/bestv.php?id=jxws8m/8000000$百视通
+辽宁卫视,https://live.v1.mk/api/bestv.php?id=lnwshd8m/8000000$百视通
+山东卫视,https://live.v1.mk/api/bestv.php?id=sdws8m/8000000$百视通
+四川卫视,https://live.v1.mk/api/bestv.php?id=scwshd/8000000$百视通
+天津卫视,https://live.v1.mk/api/bestv.php?id=tjwshd8m/8000000$百视通
+云南卫视,https://live.v1.mk/api/bestv.php?id=ynwshd8m/8000000$百视通
+深圳卫视,https://live.v1.mk/api/bestv.php?id=szwshd8m/8000000$百视通
 
 //以下为多线路源 ⇩⇩ 江西移动源1 ⇩⇩
 浙江卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225703/index.m3u8
@@ -290,19 +239,19 @@ CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 北京卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225674/index.m3u8
 深圳卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225700/index.m3u8
 江苏卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225702/index.m3u8
-江西卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225492/index.m3u8?fmt=ts2hls
-东南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225585/index.m3u8?fmt=ts2hls
-四川卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225487/index.m3u8?fmt=ts2hls
+江西卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225492/index.m3u8
+东南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225585/index.m3u8
+四川卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225487/index.m3u8
 天津卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225698/index.m3u8
 安徽卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225691/index.m3u8
 山东卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225697/index.m3u8
 广东卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225701/index.m3u8
-广西卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls
-河北卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225610/index.m3u8?fmt=ts2hls
-河南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls
-海南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/index.m3u8?fmt=ts2hls
+广西卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226211/index.m3u8
+河北卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225610/index.m3u8
+河南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225611/index.m3u8
+海南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/index.m3u8
 湖北卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225699/index.m3u8
-贵州卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225483/index.m3u8?fmt=ts2hls
+贵州卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225483/index.m3u8
 辽宁卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225696/index.m3u8
 重庆卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225692/index.m3u8
 黑龙江卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225690/index.m3u8
@@ -313,6 +262,8 @@ CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 // 以下为多线路源⇩⇩ 卫视官网源 ⇩⇩
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+新疆卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225725/index.m3u8
+西藏卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225723/index.m3u8
 
 //======================================================
 ⚛️港澳台,#genre#
@@ -359,38 +310,21 @@ TVBS新闻台,https://epg.pw/stream/f8c8d8e006116a3579250f27e1a3eaf637dae11a7797
 //======================================================
 
 📺其它频道,#genre#
-金鹰纪实,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/jyjs8m/8000000/mnf.m3u8
-北京纪实,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dajs8m/8000000/mnf.m3u8
-上海纪实,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
-茶频道,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cpdhdavs8m/8000000/mnf.m3u8
-快乐垂钓,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/klcd8m/8000000/mnf.m3u8
-CETV1,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/zgjy1t8m/8000000/mnf.m3u8
-CETV4,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
-
-// 以下为其它频道多线路源⇩⇩ 其它源 ⇩⇩
-CETV1,http://txycsbl.centv.cn/zb/0628cetv1.m3u8
-CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
-金鹰纪实,http://124.232.233.15:6610/000000001001/201600020008/1400.m3u8?m3u8_level=2
-上海纪实,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
-上海纪实,http://39.134.115.163:8080/TVOD/88888910/224/3221225654/index.m3u8
-上海纪实,http://39.134.115.163:8080/TVOD/88888910/224/3221225655/index.m3u8
-北京纪实,http://39.134.115.163:8080/TVOD/88888910/224/3221225675/index.m3u8
-北京纪实,http://39.134.115.163:8080/TVOD/88888910/224/3221225676/index.m3u8
-上海纪实,http://117.169.121.162:6610/PLTV/88888910/224/3221225654/index.m3u8
-上海纪实,http://117.169.121.162:6610/PLTV/88888910/224/3221225655/index.m3u8
-北京纪实,http://117.169.121.162:6610/PLTV/88888910/224/3221225675/index.m3u8
-北京纪实,http://117.169.121.162:6610/PLTV/88888910/224/3221225676/index.m3u8
-CETV1,https://live.v1.mk/aishang/cetv1hd
-CETV4,https://live.v1.mk/aishang/cetv4
 金鹰纪实,https://live.v1.mk/api/bestv.php?id=jyjs8m/8000000$百视通
 北京纪实,https://live.v1.mk/api/bestv.php?id=dajs8m/8000000$百视通
 上海纪实,https://live.v1.mk/api/bestv.php?id=jspdhd/4000000$百视通
 茶频道,https://live.v1.mk/api/bestv.php?id=cpdhdavs8m/8000000$百视通
 快乐垂钓,https://live.v1.mk/api/bestv.php?id=klcd8m/8000000$百视通
+CETV1,http://txycsbl.centv.cn/zb/0628cetv1.m3u8
+CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
+
+// 以下为其它频道多线路源⇩⇩ 其它源 ⇩⇩
+金鹰纪实,http://124.232.233.15:6610/000000001001/201600020008/1400.m3u8?m3u8_level=2
+上海纪实,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
+上海纪实,http://39.134.115.163:8080/TVOD/88888910/224/3221225655/index.m3u8
+北京纪实,http://39.134.115.163:8080/TVOD/88888910/224/3221225675/index.m3u8
+上海纪实,http://117.169.121.162:6610/PLTV/88888910/224/3221225655/index.m3u8
+北京纪实,http://117.169.121.162:6610/PLTV/88888910/224/3221225676/index.m3u8
+CETV1,https://live.v1.mk/aishang/cetv1hd
 CETV1,https://live.v1.mk/api/bestv.php?id=zgjy1t8m/8000000$百视通
 CETV4,https://live.v1.mk/api/bestv.php?id=zgjy4hd8m/8000000$百视通
-金鹰纪实,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls
-上海纪实,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225654/index.m3u8
-北京纪实,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8
-茶频道,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225781/index.m3u8?fmt=ts2hls
-快乐垂钓,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225780/index.m3u8?fmt=ts2hls
