@@ -391,7 +391,6 @@ TVBS新闻台,http://2023.stream-link.org/playlist/tvbs_news
 中视新闻,http://2023.stream-link.org/playlist/ctv_news
 华视新闻,http://2023.stream-link.org/playlist/cts_news
 民视新闻台,http://2023.stream-link.org/playlist/ftv_news
-翡翠台,https://epg.pw/stream/e554965a7a6a7e91e36be282c8f2c204db55f5394ccebb5dc0af55d4121e9bd4.m3u8
 TVBS,https://epg.pw/stream/acc0a20a2153828ee21fd280ac45016da8f5106ad277d58e814ed0a6e9693193.m3u8
 TVBS新闻台,https://epg.pw/stream/f8c8d8e006116a3579250f27e1a3eaf637dae11a7797ac4d5be1f1e61cb0fbfb.m3u8
 东森新闻,https://epg.pw/stream/446e2383cf6ac30295bfb8b95de2bac474f6a5cc9f78595fad3d0d441a511908.m3u8
