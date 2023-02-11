@@ -402,9 +402,9 @@ TVBS新闻台,https://epg.pw/stream/f8c8d8e006116a3579250f27e1a3eaf637dae11a7797
 📺其它频道,#genre#
 北京纪实,https://live.v1.mk/api/bestv.php?id=dajs8m/8000000$百视通
 上海纪实,https://live.v1.mk/api/bestv.php?id=jspdhd/4000000$百视通
+金鹰纪实,https://live.v1.mk/api/bestv.php?id=jyjs8m/8000000$百视通
 茶频道,https://live.v1.mk/api/bestv.php?id=cpdhdavs8m/8000000$百视通
 快乐垂钓,https://live.v1.mk/api/bestv.php?id=klcd8m/8000000$百视通
-金鹰纪实,https://live.v1.mk/api/bestv.php?id=jyjs8m/8000000$百视通
 CETV1,https://live.v1.mk/api/bestv.php?id=zgjy1t8m/8000000$百视通
 CETV4,https://live.v1.mk/api/bestv.php?id=zgjy4hd8m/8000000$百视通
 
