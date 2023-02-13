@@ -360,13 +360,14 @@ CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 翡翠台,http://r.jdshipin.com/qClQf
+澳视澳门,http://61.244.22.5/ch1/ch1.live/playlist.m3u8
 TVBS,http://2023.stream-link.org/playlist/tvbs
 TVBS新闻台,http://2023.stream-link.org/playlist/tvbs_news
 中天新闻,http://2023.stream-link.org/playlist/cti_news
-中视新闻,http://2023.stream-link.org/playlist/ctv_news
-华视新闻,http://2023.stream-link.org/playlist/cts_news
-台视新闻台,http://2023.stream-link.org/playlist/ttv_news
-民视新闻台,http://2023.stream-link.org/playlist/ftv_news
+东森新闻,mitv://fccsovh.pvbox.live:18912/5b1409520005add41dab0b7092d63018.ts
+东森新闻,p5p://45.92.126.18:9906/6173ae660001b6721788b6c6ac08380c
+东森新闻,p5p://fccs.123178.top:9906/6173ae660001b6721788b6c6ac08380c.ts
+东森新闻,https://epg.pw/stream/446e2383cf6ac30295bfb8b95de2bac474f6a5cc9f78595fad3d0d441a511908.m3u8
 
 // 以下为港•澳•台多线路源⇩⇩ 其它源 ⇩⇩
 凤凰中文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
@@ -377,12 +378,11 @@ TVBS新闻台,http://2023.stream-link.org/playlist/tvbs_news
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰中文,http://117.169.124.149:8080/live/fhchinese/index.m3u8
 翡翠台,http://23.237.10.66:16106
+翡翠台,http://r.jdshipin.com/n90gt
+翡翠台,http://r.jdshipin.com/62WM7
+TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
-TVBS新闻台,http://www.336699.live:1935/blocksix/4gtv-live072.stream/.m3u8
-中天新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
-中视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
-华视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
-民视新闻台,http://www.336699.live:1935/blockfour/litv-ftv13.stream/playlist.m3u8
 
 //======================================================
 
