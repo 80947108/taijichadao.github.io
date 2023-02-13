@@ -364,9 +364,6 @@ CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 TVBS,http://2023.stream-link.org/playlist/tvbs
 TVBS新闻台,http://2023.stream-link.org/playlist/tvbs_news
 中天新闻,http://2023.stream-link.org/playlist/cti_news
-东森新闻,mitv://fccsovh.pvbox.live:18912/5b1409520005add41dab0b7092d63018.ts
-东森新闻,p5p://45.92.126.18:9906/6173ae660001b6721788b6c6ac08380c
-东森新闻,p5p://fccs.123178.top:9906/6173ae660001b6721788b6c6ac08380c.ts
 东森新闻,https://epg.pw/stream/446e2383cf6ac30295bfb8b95de2bac474f6a5cc9f78595fad3d0d441a511908.m3u8
 
 // 以下为港•澳•台多线路源⇩⇩ 其它源 ⇩⇩
@@ -380,9 +377,8 @@ TVBS新闻台,http://2023.stream-link.org/playlist/tvbs_news
 翡翠台,http://23.237.10.66:16106
 翡翠台,http://r.jdshipin.com/n90gt
 翡翠台,http://r.jdshipin.com/62WM7
-TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
+TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 
 //======================================================
 
