@@ -378,9 +378,9 @@ TVBS新闻台,http://2023.stream-link.org/playlist/tvbs_news
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/62WM7
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-TVBS新闻台,https://epg.pw/stream/58773571ad1ac1c54d7e752a41a1dd3cf1f88cedbd99d26a9c04562bf95c1dd5.m3u8
-中天新闻,https://epg.pw/stream/06760f34c9de01e06be1a0a8c481966e78c31ccdae7ef80dd321aab58c688d70.ctv
-TVBS,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
+TVBS新闻台,http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
+
+//TVBS备查源http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 
 //======================================================
 
