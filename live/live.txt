@@ -153,42 +153,6 @@ CCTV14,http://fyld.eatuo.com:9901/tsfile/live/1032_1.m3u8
 CCTV15,http://fyld.eatuo.com:9901/tsfile/live/1033_1.m3u8
 CCTV17,http://fyld.eatuo.com:9901/tsfile/live/1034_1.m3u8
 
-//以下为央视多线路源 ⇩⇩ 电信组播 ⇩⇩
-CCTV1,http://ly01.eu.org:10000/udp/239.77.1.17:5146
-CCTV1,http://ly01.eu.org:10000/udp/239.77.1.144:5146
-CCTV1,http://ly01.eu.org:10000/udp/239.77.0.86:5146
-CCTV1,http://ly01.eu.org:10000/udp/239.77.0.129:5146
-CCTV2,http://ly01.eu.org:10000/udp/239.77.1.158:5146
-CCTV2,http://ly01.eu.org:10000/udp/239.253.43.17:5146
-CCTV2,http://ly01.eu.org:10000/udp/239.77.0.137:5146
-CCTV3,http://ly01.eu.org:10000/udp/239.77.0.169:5146
-CCTV4,http://ly01.eu.org:10000/udp/239.77.1.163:5146
-CCTV4,http://ly01.eu.org:10000/udp/239.77.1.166:5146
-CCTV4,http://ly01.eu.org:10000/udp/239.77.0.78:5146
-CCTV5,http://ly01.eu.org:10000/udp/239.77.0.170:5146
-CCTV6,http://ly01.eu.org:10000/udp/239.77.0.171:5146
-CCTV7,http://ly01.eu.org:10000/udp/239.77.1.159:5146
-CCTV7,http://ly01.eu.org:10000/udp/239.77.0.138:5146
-CCTV8,http://ly01.eu.org:10000/udp/239.77.0.172:5146
-CCTV9,http://ly01.eu.org:10000/udp/239.77.1.160:5146
-CCTV9,http://ly01.eu.org:10000/udp/239.77.0.135:5146
-CCTV10,http://ly01.eu.org:10000/udp/239.77.1.113:5146
-CCTV10,http://ly01.eu.org:10000/udp/239.77.0.134:5146
-CCTV11,http://ly01.eu.org:10000/udp/239.77.1.238:5146
-CCTV12,http://ly01.eu.org:10000/udp/239.77.1.109:5146
-CCTV12,http://ly01.eu.org:10000/udp/239.77.0.136:5146
-CCTV13,http://ly01.eu.org:10000/udp/239.77.0.188:5146
-CCTV13,http://ly01.eu.org:10000/udp/239.253.43.196:5146
-CCTV14,http://ly01.eu.org:10000/udp/239.77.1.161:5146
-CCTV14,http://ly01.eu.org:10000/udp/239.77.0.133:5146
-CCTV15,http://ly01.eu.org:10000/udp/239.77.1.239:5146
-CCTV16,http://ly01.eu.org:10000/udp/239.77.1.76:5146
-CCTV16,http://ly01.eu.org:10000/udp/239.77.1.98:5146
-CCTV17,http://ly01.eu.org:10000/udp/239.77.1.121:5146
-CCTV17,http://ly01.eu.org:10000/udp/239.77.0.198:5146
-CCTV5+,http://ly01.eu.org:10000/udp/239.77.0.87:5146
-CCTV5+,http://ly01.eu.org:10000/udp/239.77.1.31:5146
-
 CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 
 //======================================================
@@ -327,29 +291,6 @@ CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 山东卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225738/index.m3u8
 深圳卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225700/index.m3u8
 
-// 以下为多线路源⇩⇩ 卫视其它源 ⇩⇩
-湖南卫视,http://ly01.eu.org:10000/udp/239.77.0.88:5146
-浙江卫视,http://ly01.eu.org:10000/udp/239.77.0.89:5146
-江苏卫视,http://ly01.eu.org:10000/udp/239.77.0.90:5146
-北京卫视,http://ly01.eu.org:10000/udp/239.77.0.91:5146
-深圳卫视,http://ly01.eu.org:10000/udp/239.77.0.92:5146
-黑龙江卫视,http://ly01.eu.org:10000/udp/239.77.0.93:5146
-湖北卫视,http://ly01.eu.org:10000/udp/239.77.0.95:5146
-湖北卫视,http://ly01.eu.org:10000/udp/239.77.0.128:5146
-天津卫视,http://ly01.eu.org:10000/udp/239.77.0.97:5146
-山东卫视,http://ly01.eu.org:10000/udp/239.77.0.94:5146
-东方卫视,http://ly01.eu.org:10000/udp/239.77.0.98:5146
-辽宁卫视,http://ly01.eu.org:10000/udp/239.77.0.123:5146
-四川卫视,http://ly01.eu.org:10000/udp/239.77.0.159:5146
-重庆卫视,http://ly01.eu.org:10000/udp/239.77.0.182:5146
-安徽卫视,http://ly01.eu.org:10000/udp/239.77.0.183:5146
-贵州卫视,http://ly01.eu.org:10000/udp/239.77.0.230:5146
-东南卫视,http://ly01.eu.org:10000/udp/239.77.0.146:5146
-河北卫视,http://ly01.eu.org:10000/udp/239.77.0.148:5146
-江西卫视,http://ly01.eu.org:10000/udp/239.77.0.149:5146
-吉林卫视,http://ly01.eu.org:10000/udp/239.77.0.150:5146
-广西卫视,http://ly01.eu.org:10000/udp/239.77.0.139:5146
-
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 新疆卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225725/index.m3u8
@@ -394,15 +335,11 @@ CETV4,https://live.v1.mk/api/bestv.php?id=zgjy4hd8m/8000000$百视通
 // 以下为其它频道多线路源⇩⇩ 其它源 ⇩⇩
 北京纪实,http://39.134.115.163:8080/TVOD/88888910/224/3221225675/index.m3u8
 上海纪实,http://39.134.115.163:8080/TVOD/88888910/224/3221225655/index.m3u8
-金鹰纪实,http://ly01.eu.org:10000/udp/239.77.0.160:5146
-茶频道,http://ly01.eu.org:10000/udp/239.77.0.15:5146
-快乐垂钓,http://ly01.eu.org:10000/udp/239.77.0.145:5146
 CETV1,http://txycsbl.centv.cn/zb/0628cetv1.m3u8
 CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 CETV1,https://live.v1.mk/aishang/cetv1hd
 北京纪实,http://117.169.121.162:6610/PLTV/88888910/224/3221225676/index.m3u8
 上海纪实,http://117.169.121.162:6610/PLTV/88888910/224/3221225655/index.m3u8
-上海纪实,http://ly01.eu.org:10000/udp/239.77.0.147:5146
 金鹰纪实,http://124.232.233.15:6610/000000001001/201600020008/1400.m3u8?m3u8_level=2
 茶频道,https://live.v1.mk/api/ghyx.php?id=ChaPinDaoHD_2000
 茶频道,http://fxhack.f3322.org:8000/udp/239.77.1.207:5146
