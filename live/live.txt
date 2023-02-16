@@ -324,14 +324,11 @@ TVBS新闻台,http://158.101.151.82:9000/jmsytb.m3u8?c=03
 东森新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=02
 台视新闻台,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 
-#EXTINF:-1 ,TVBS新闻台
-
-
 //TVBS备查源http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 
 //======================================================
 
-📺其它频道,#genre#
+📺其它,#genre#
 北京纪实,https://live.v1.mk/api/bestv.php?id=dajs8m/8000000$百视通
 上海纪实,https://live.v1.mk/api/bestv.php?id=jspdhd/4000000$百视通
 金鹰纪实,https://live.v1.mk/api/bestv.php?id=jyjs8m/8000000$百视通
