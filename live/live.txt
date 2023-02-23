@@ -322,10 +322,9 @@ TVBS新闻台,http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0
 TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 台视新闻台,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 TVBS,P2p://generationnexxxt.com:19806/14a0607064b24a0280136944abd294aa
-TVBS新闻台,P2p://generationnexxxt.com:19806/96def3cebf90469a94613c2f5cd3afa7
-东森新闻台,P2p://generationnexxxt.com:19806/21b90cbac8ef41d1bd6233f9f6871699
+东森新闻,P2p://generationnexxxt.com:19806/21b90cbac8ef41d1bd6233f9f6871699
+中视新闻,P2p://generationnexxxt.com:19806/7434ab53c1cb4605ae1b4652f78da6ce
 台视新闻台,P2p://generationnexxxt.com:19806/574f62b007254013a44f5c4891bae1b0
-中视新闻台,P2p://generationnexxxt.com:19806/7434ab53c1cb4605ae1b4652f78da6ce
 
 //======================================================
 
