@@ -293,14 +293,10 @@ TVBS新闻台,http://2023.stream-link.org/playlist/tvbs_news
 翡翠台,http://r.jdshipin.com/62WM7
 TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 TVBS,P2p://generationnexxxt.com:19806/14a0607064b24a0280136944abd294aa
-TVBS新闻台,P2p://generationnexxxt.com:19806/96def3cebf90469a94613c2f5cd3afa7
 东森新闻,P2p://generationnexxxt.com:19806/21b90cbac8ef41d1bd6233f9f6871699
 中视新闻,P2p://generationnexxxt.com:19806/7434ab53c1cb4605ae1b4652f78da6ce
 台视新闻台,P2p://generationnexxxt.com:19806/574f62b007254013a44f5c4891bae1b0
-TVBS新闻台,P2p://generationnexxxt.com:19806/20950ba8459f4f31a178275b46d328f9
-TVBS新闻台,mitv://generationnexxxt.com:18806/91100d8a72724d81a01474c26bb53a96.ts
-TVBS新闻台,p2p://generationnexxxt.com:18806/372154259d114a0b8a0205dbdec4ae77
-TVBS新闻台,p2p://generationnexxxt.com:9906/91100d8a72724d81a01474c26bb53a96
+
 //======================================================
 
 📺其它,#genre#
