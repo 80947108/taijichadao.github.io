@@ -62,25 +62,24 @@ CCTV5+,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000$百视通
 CCTV4K,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000$百视通
 CCTV16,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000$百视通
 
-//以下为央视多线路源⇩⇩ 肥羊歌华有线源⇩⇩
-CCTV1,https://live.v1.mk/api/ghyx.php?id=CCTV1HD_6000$歌华
-CCTV2,https://live.v1.mk/api/ghyx.php?id=CCTV2HD_6000$歌华
-CCTV3,https://live.v1.mk/api/ghyx.php?id=CCTV3HD_6000$歌华
-CCTV4,https://live.v1.mk/api/ghyx.php?id=CCTV4HD_6000$歌华
-CCTV5,https://live.v1.mk/api/ghyx.php?id=CCTV5HD_6000$歌华
-CCTV6,https://live.v1.mk/api/ghyx.php?id=CCTV6HD_6000$歌华
-CCTV7,https://live.v1.mk/api/ghyx.php?id=CCTV7HD_6000$歌华
-CCTV8,https://live.v1.mk/api/ghyx.php?id=CCTV8HD_6000$歌华
-CCTV9,https://live.v1.mk/api/ghyx.php?id=CCTV9HD_6000$歌华
-CCTV10,https://live.v1.mk/api/ghyx.php?id=CCTV10HD_6000$歌华
-CCTV11,https://live.v1.mk/api/ghyx.php?id=CCTV11HD2_6000$歌华
-CCTV12,https://live.v1.mk/api/ghyx.php?id=CCTV12HD_6000$歌华
-CCTV13,https://live.v1.mk/api/ghyx.php?id=CCTV13HD2_6000$歌华
-CCTV14,https://live.v1.mk/api/ghyx.php?id=CCTV14HD_6000$歌华
-CCTV15,https://live.v1.mk/api/ghyx.php?id=CCTV15HD_6000$歌华
-CCTV16,https://live.v1.mk/api/ghyx.php?id=CCTV16HD_6000$歌华
-CCTV17,https://live.v1.mk/api/ghyx.php?id=CCTV17HD_6000$歌华
-CCTV5+,https://live.v1.mk/api/ghyx.php?id=CCTV5plusHD_6000$歌华
+//以下为央视多线路源 ⇩⇩ 爱尚源⇩⇩
+CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
+CCTV2,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
+CCTV3,http://live.cooltv.top/tv/aishang.php?id=cctv3hd
+CCTV4,http://live.cooltv.top/tv/aishang.php?id=cctv4hd
+CCTV5,http://live.cooltv.top/tv/aishang.php?id=cctv5hd
+CCTV6,http://live.cooltv.top/tv/aishang.php?id=cctv6hd
+CCTV7,http://live.cooltv.top/tv/aishang.php?id=cctv7hd
+CCTV8,http://live.cooltv.top/tv/aishang.php?id=cctv8hd
+CCTV9,http://live.cooltv.top/tv/aishang.php?id=cctv9hd
+CCTV10,http://live.cooltv.top/tv/aishang.php?id=cctv10hd
+CCTV11,http://live.cooltv.top/tv/aishang.php?id=cctv11hd
+CCTV12,http://live.cooltv.top/tv/aishang.php?id=cctv12hd
+CCTV13,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
+CCTV14,http://live.cooltv.top/tv/aishang.php?id=cctv14hd
+CCTV15,http://live.cooltv.top/tv/aishang.php?id=cctv15hd
+CCTV16,http://live.cooltv.top/tv/aishang.php?id=cctv16hd
+CCTV17,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
 
 //以下为央视多线路源 ⇩⇩ 南昌移动源1 ⇩⇩
 CCTV1,http://117.169.121.162:6610/PLTV/88888910/224/3221225618/index.m3u8
@@ -212,39 +211,6 @@ CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 云南卫视,https://live.v1.mk/api/bestv.php?id=ynwshd8m/8000000$百视通
 深圳卫视,https://live.v1.mk/api/bestv.php?id=szwshd8m/8000000$百视通
 
-//以下为卫视多线路源⇩⇩ 肥羊歌华有线源⇩⇩
-浙江卫视,https://live.v1.mk/api/ghyx.php?id=ZheJiangHD_6000$歌华
-北京卫视,https://live.v1.mk/api/ghyx.php?id=BTV1HD_6000$歌华
-辽宁卫视,https://live.v1.mk/api/ghyx.php?id=LiaoNingHD_6000$歌华
-安徽卫视,https://live.v1.mk/api/ghyx.php?id=AnHuiHD_6000$歌华
-江苏卫视,https://live.v1.mk/api/ghyx.php?id=JiangSuHD_6000$歌华
-东方卫视,https://live.v1.mk/api/ghyx.php?id=DongFangHD_6000$歌华
-东南卫视,https://live.v1.mk/api/ghyx.php?id=FuJianHD_6000$歌华
-湖南卫视,https://live.v1.mk/api/ghyx.php?id=HuNanHD_6000$歌华
-湖北卫视,https://live.v1.mk/api/ghyx.php?id=HuBeiHD_6000$歌华
-广东卫视,https://live.v1.mk/api/ghyx.php?id=GuangDongHD_6000$歌华
-广西卫视,https://live.v1.mk/api/ghyx.php?id=GuangXiHD_6000$歌华
-四川卫视,https://live.v1.mk/api/ghyx.php?id=SiChuanHD_6000$歌华
-山东卫视,https://live.v1.mk/api/ghyx.php?id=ShanDongHD_6000$歌华
-河南卫视,https://live.v1.mk/api/ghyx.php?id=HeNanHD_6000$歌华
-河北卫视,https://live.v1.mk/api/ghyx.php?id=HeBeiHD_6000$歌华
-江西卫视,https://live.v1.mk/api/ghyx.php?id=JiangXiHD_6000$歌华
-天津卫视,https://live.v1.mk/api/ghyx.php?id=TianJinHD_6000$歌华
-重庆卫视,https://live.v1.mk/api/ghyx.php?id=ChongQingHD_6000$歌华
-黑龙江卫视,https://live.v1.mk/api/ghyx.php?id=HeiLongJiangHD_6000$歌华
-吉林卫视,https://live.v1.mk/api/ghyx.php?id=JiLinWeiShiHD_6000$歌华
-海南卫视,https://live.v1.mk/api/ghyx.php?id=LvYouWeiShiHD_6000$歌华
-内蒙古卫视,https://live.v1.mk/api/ghyx.php?id=NeiMengGuHD_2000$歌华
-山西卫视,https://live.v1.mk/api/ghyx.php?id=ShanXiHD_2000$歌华
-陕西卫视,https://live.v1.mk/api/ghyx.php?id=ShanXiHD2_6000$歌华
-云南卫视,https://live.v1.mk/api/ghyx.php?id=YunNanHD2_6000$歌华
-贵州卫视,https://live.v1.mk/api/ghyx.php?id=GuiZhouHD_2000$歌华
-青海卫视,https://live.v1.mk/api/ghyx.php?id=QingHaiHD_2000$歌华
-西藏卫视,https://live.v1.mk/api/ghyx.php?id=XiZangHD_2000$歌华
-新疆卫视,https://live.v1.mk/api/ghyx.php?id=XinJiangHD_2000$歌华
-甘肃卫视,https://live.v1.mk/api/ghyx.php?id=GanSuHD2_6000$歌华
-宁夏卫视,https://live.v1.mk/api/ghyx.php?id=NingXiaHD_2000$歌华
-深圳卫视,https://live.v1.mk/api/ghyx.php?id=ShenZhenHD_6000$歌华
 
 //以下为多线路源 ⇩⇩ 江西移动源1 ⇩⇩
 浙江卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225703/index.m3u8
