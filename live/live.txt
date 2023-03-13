@@ -82,27 +82,6 @@ CCTV16,http://live.cooltv.top/tv/aishang.php?id=cctv16hd
 CCTV17,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
 CCTV5+,http://live.cooltv.top/tv/aishang.php?id=cctv5p
 
-//以下为央视多线路源 ⇩⇩ 长风.百视通源⇩⇩
-CCTV1,http://cfss.cc/ds/bst.php?id=Cf-1
-CCTV2,http://cfss.cc/ds/bst.php?id=Cf-2
-CCTV3,http://cfss.cc/ds/bst.php?id=Cf-3
-CCTV4,http://cfss.cc/ds/bst.php?id=Cf-4
-CCTV5,http://cfss.cc/ds/bst.php?id=Cf-5
-CCTV5+,http://cfss.cc/ds/bst.php?id=Cf-6
-CCTV6,http://cfss.cc/ds/bst.php?id=Cf-7
-CCTV7,http://cfss.cc/ds/bst.php?id=Cf-8
-CCTV8,http://cfss.cc/ds/bst.php?id=Cf-9
-CCTV9,http://cfss.cc/ds/bst.php?id=Cf-10
-CCTV10,http://cfss.cc/ds/bst.php?id=Cf-11
-CCTV11,http://cfss.cc/ds/bst.php?id=Cf-12
-CCTV12,http://cfss.cc/ds/bst.php?id=Cf-13
-CCTV13,http://cfss.cc/ds/bst.php?id=Cf-14
-CCTV14,http://cfss.cc/ds/bst.php?id=Cf-15
-CCTV15,http://cfss.cc/ds/bst.php?id=Cf-16
-CCTV16,http://cfss.cc/ds/bst.php?id=Cf-17
-CCTV17,http://cfss.cc/ds/bst.php?id=Cf-18
-CCTV16,http://cfss.cc/ds/bst.php?id=Cf-19
-
 //以下为央视多线路源 ⇩⇩ 南昌移动源1 ⇩⇩
 CCTV1,http://117.169.121.162:6610/PLTV/88888910/224/3221225618/index.m3u8
 CCTV2,http://117.169.121.162:6610/PLTV/88888910/224/3221225619/index.m3u8
@@ -339,3 +318,6 @@ CETV1,https://live.v1.mk/aishang/cetv1hd
 金鹰纪实,http://124.232.233.15:6610/000000001001/201600020008/1400.m3u8?m3u8_level=2
 茶频道,https://live.v1.mk/api/ghyx.php?id=ChaPinDaoHD_2000
 茶频道,http://fxhack.f3322.org:8000/udp/239.77.1.207:5146
+北京纪实,http://live.cooltv.top/tv/btime.php?id=btvkj
+上海纪实,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
+金鹰纪实,http://live.cooltv.top/tv/aishang.php?id=jyjs
