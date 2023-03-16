@@ -1,5 +1,4 @@
-📺央视,#genre#
-//央视19个频道 ⇩⇩ 江西移动源 ⇩⇩
+📺央视,#genre#//央视(江西移动)
 CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
 CCTV2,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225619/index.m3u8
 CCTV3,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225647/index.m3u8
@@ -20,7 +19,7 @@ CCTV17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225908/index.m3
 CCTV5+,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225706/index.m3u8
 CCTV4K,http://159.75.85.63:5679/cctv4k.php
 
-//以下为央视多线路源 ⇩⇩ 肥羊爱尚源⇩⇩
+//央视(肥羊爱尚)
 CCTV1,https://live.v1.mk/aishang/cctv1hd$爱尚
 CCTV2,https://live.v1.mk/aishang/cctv2hd$爱尚
 CCTV3,https://live.v1.mk/aishang/cctv3hd$爱尚
@@ -40,7 +39,7 @@ CCTV16,https://live.v1.mk/aishang/cctv16hd$爱尚
 CCTV17,https://live.v1.mk/aishang/cctv17hd$爱尚
 CCTV5+,https://live.v1.mk/aishang/cctv5p$爱尚
 
-//以下为央视多线路源⇩⇩ 肥羊百视通源⇩⇩
+//央视(肥羊百视通)
 CCTV1,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000$百视通
 CCTV2,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000$百视通
 CCTV3,https://live.v1.mk/api/bestv.php?id=cctv38m/8000000$百视通
@@ -62,7 +61,7 @@ CCTV5+,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000$百视通
 CCTV4K,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000$百视通
 CCTV16,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000$百视通
 
-//以下为央视多线路源 ⇩⇩ 爱尚源⇩⇩
+//央视(爱尚)
 CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
 CCTV2,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
 CCTV3,http://live.cooltv.top/tv/aishang.php?id=cctv3hd
@@ -82,7 +81,7 @@ CCTV16,http://live.cooltv.top/tv/aishang.php?id=cctv16hd
 CCTV17,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
 CCTV5+,http://live.cooltv.top/tv/aishang.php?id=cctv5p
 
-//以下为央视多线路源 ⇩⇩ 南昌移动源1 ⇩⇩
+//央视(南昌移动)
 CCTV1,http://117.169.121.162:6610/PLTV/88888910/224/3221225618/index.m3u8
 CCTV2,http://117.169.121.162:6610/PLTV/88888910/224/3221225619/index.m3u8
 CCTV3,http://117.169.121.162:6610/PLTV/88888910/224/3221225647/index.m3u8
@@ -100,7 +99,7 @@ CCTV14,http://117.169.121.162:6610/PLTV/88888910/224/3221225639/index.m3u8
 CCTV15,http://117.169.121.162:6610/PLTV/88888910/224/3221225641/index.m3u8
 CCTV17,http://117.169.121.162:6610/PLTV/88888910/224/3221225908/index.m3u8
 
-//以下为央视多线路源 ⇩⇩ 江西移动源2 ⇩⇩
+//央视(江西移动2)
 CCTV1,http://39.134.115.163:8080/TVOD/88888910/224/3221225618/index.m3u8
 CCTV2,http://39.134.115.163:8080/TVOD/88888910/224/3221225619/index.m3u8
 CCTV3,http://39.134.115.163:8080/TVOD/88888910/224/3221225647/index.m3u8
@@ -121,7 +120,7 @@ CCTV5+,http://39.134.115.163:8080/TVOD/88888910/224/3221225649/index.m3u8
 //======================================================
 
 📡卫视,#genre#
-//卫视32个频道 ⇩⇩ 南昌移动源 ⇩⇩
+//卫视(南昌移动)
 湖南卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225745/index.m3u8
 东方卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225658/index.m3u8
 浙江卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225744/index.m3u8
@@ -155,7 +154,7 @@ CCTV5+,http://39.134.115.163:8080/TVOD/88888910/224/3221225649/index.m3u8
 西藏卫视,https://tv.vtibet.cn/live/EfgSmE4jCTBtvchannel3.m3u8
 深圳卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225741/index.m3u8
 
-//以下为卫视多线路源  ⇩⇩ 肥羊爱尚源 ⇩⇩
+//卫视(肥羊爱尚)
 湖南卫视,https://live.v1.mk/aishang/hunwshd$爱尚
 浙江卫视,https://live.v1.mk/aishang/zjwshd$爱尚
 东方卫视,https://live.v1.mk/aishang/dfwshd$爱尚
@@ -185,7 +184,7 @@ CCTV5+,http://39.134.115.163:8080/TVOD/88888910/224/3221225649/index.m3u8
 内蒙古卫视,https://live.v1.mk/aishang/nmws$爱尚
 深圳卫视,https://live.v1.mk/aishang/szwshd$爱尚
 
-//以下为卫视多线路源⇩⇩ 肥羊百事通源⇩⇩
+//卫视(肥羊百事通)
 湖南卫视,https://live.v1.mk/api/bestv.php?id=hunanwshd8m/8000000$百视通
 东方卫视,https://live.v1.mk/api/bestv.php?id=dfwshd8m/8000000$百视通
 浙江卫视,https://live.v1.mk/api/bestv.php?id=zjwshd8m/8000000$百视通
@@ -211,7 +210,7 @@ CCTV5+,http://39.134.115.163:8080/TVOD/88888910/224/3221225649/index.m3u8
 云南卫视,https://live.v1.mk/api/bestv.php?id=ynwshd8m/8000000$百视通
 深圳卫视,https://live.v1.mk/api/bestv.php?id=szwshd8m/8000000$百视通
 
-//以下为卫视多线路源  ⇩⇩ cooltv爱尚源 ⇩⇩
+//卫视(爱尚)
 湖南卫视,http://live.cooltv.top/tv/aishang.php?id=hunwshd
 浙江卫视,http://live.cooltv.top/tv/aishang.php?id=zjwshd
 东方卫视,http://live.cooltv.top/tv/aishang.php?id=dfwshd
@@ -245,7 +244,7 @@ CCTV5+,http://39.134.115.163:8080/TVOD/88888910/224/3221225649/index.m3u8
 内蒙古卫视,http://live.cooltv.top/tv/aishang.php?id=nmws
 深圳卫视,http://live.cooltv.top/tv/aishang.php?id=szwshd
 
-//以下为多线路源 ⇩⇩ 江西移动源1 ⇩⇩
+//卫视(江西移动)
 浙江卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225703/index.m3u8
 湖南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225704/index.m3u8
 北京卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225674/index.m3u8
@@ -279,7 +278,6 @@ TVBS新闻台,http://2023.stream-link.org/playlist/tvbs_news
 中视新闻,http://2023.stream-link.org/playlist/ctv_news
 台视新闻台,http://2023.stream-link.org/playlist/ttv_news
 
-// 以下为港•澳•台多线路源⇩⇩ 其它源 ⇩⇩
 凤凰中文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
 凤凰资讯,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
 凤凰中文,http://vl15191373.imwork.net:8880/udp/239.93.0.162:2192
@@ -306,7 +304,6 @@ TVBS,P2p://generationnexxxt.com:19806/14a0607064b24a0280136944abd294aa
 快乐垂钓,https://live.v1.mk/api/bestv.php?id=klcd8m/8000000$百视通
 CETV1,https://live.v1.mk/api/bestv.php?id=zgjy1t8m/8000000$百视通
 
-// 以下为其它频道多线路源⇩⇩ 其它源 ⇩⇩
 北京纪实,http://39.134.115.163:8080/TVOD/88888910/224/3221225675/index.m3u8
 上海纪实,http://39.134.115.163:8080/TVOD/88888910/224/3221225655/index.m3u8
 金鹰纪实,http://124.232.233.15:6610/000000001001/201600020008/1400.m3u8?m3u8_level=2
