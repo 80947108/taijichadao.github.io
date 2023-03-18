@@ -314,6 +314,13 @@ CCTV17,http://183.196.25.171:808/hls/93/index.m3u8
 ⚛️港台,#genre#
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+翡翠台,https://pull-l3-cny.douyincdn.com/live/705644372033fc7b7e7a21ef9231b5b4.flv
+TVBS,https://pull-l3-cny.douyincdn.com/live/1b4870f097dff6611248960766ed14b1.flv
+TVBS新闻台,https://pull-l3-cny.douyincdn.com/live/4ec834dfa292d2b2307f8c0a7b5041b7.flv
+东森新闻,https://pull-l3-cny.douyincdn.com/live/8889a3760c56c26861e8b192c81be3df.flv
+中视新闻,https://pull-l3-cny.douyincdn.com/live/313314c9eaf963a110dd722eb9c9a95d.flv
+台视新闻台,https://pull-l3-cny.douyincdn.com/live/7bccdfe343df8be653bd471c5bcd9a10.flv
+
 翡翠台,http://2022.stream-link.org/playlist/tvb_jade
 TVBS,http://2023.stream-link.org/playlist/tvbs
 TVBS新闻台,http://2023.stream-link.org/playlist/tvbs_news
@@ -329,11 +336,6 @@ TVBS新闻台,http://2023.stream-link.org/playlist/tvbs_news
 凤凰中文,http://117.169.124.149:8080/live/fhchinese/index.m3u8
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/62WM7
-TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-TVBS,P2p://generationnexxxt.com:19806/14a0607064b24a0280136944abd294aa
-东森新闻,P2p://generationnexxxt.com:19806/21b90cbac8ef41d1bd6233f9f6871699
-中视新闻,P2p://generationnexxxt.com:19806/7434ab53c1cb4605ae1b4652f78da6ce
-台视新闻台,P2p://generationnexxxt.com:19806/574f62b007254013a44f5c4891bae1b0
 
 //======================================================
 
