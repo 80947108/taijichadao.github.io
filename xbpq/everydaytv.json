@@ -6,7 +6,7 @@
   "分类": "香港频道&台湾频道",
   "分类值": "2&3",
   
-  "分类url": "https://everydaytv.top/list-{cateId}.html",
+  "分类url": "https://everydaytv.top/play-{cateId}-{catePg}-0.html",
   
   "副标题": "module-item-note\">&&</div>",
   
