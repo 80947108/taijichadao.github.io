@@ -3,7 +3,7 @@
   "站名": "everydaytv",
   "主页url": "https://everydaytv.top",
   
-  "分类": "香港频道&台湾频道",
+  "分类": "香港频道2&台湾频道",
   "分类值": "2&3",
   
   "分类url": "https://everydaytv.top/play-{cateId}-{catePg}-0.html",
