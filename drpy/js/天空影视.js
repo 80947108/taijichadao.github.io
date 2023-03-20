@@ -23,6 +23,9 @@ var rule = {
 		4:{cateId:'4'}
 
 	},
+	class_name:'连续剧&电影&综艺&动漫', // 分类筛选 /xgapp.php/v2/nav
+	class_url:'2&1&3&4',
+
     searchable:2,//是否启用全局搜索,
 	quickSearch:0,//是否启用快速搜索,
 	class_parse:'.navbar-items li:gt(1):lt(9);a&&Text;a&&href;/(\\d+).html',
