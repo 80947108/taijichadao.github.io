@@ -282,8 +282,14 @@ CCTV17,http://183.196.25.171:808/hls/93/index.m3u8
 深圳卫视,https://live.v1.mk/api/bestv.php?id=szwshd8m/8000000$百视通
 
 //======================================================
+📡卫视2,#genre#卫视(南昌移动)
+湖南卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225745/index.m3u8
+东方卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225658/index.m3u8
+浙江卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225744/index.m3u8
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
+
 📺其它,#genre#其它频道
-CETV1,https://live.v1.mk/api/bestv.php?id=zgjy1t8m/8000000$百视通
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 翡翠台,http://r.jdshipin.com/qClQf
