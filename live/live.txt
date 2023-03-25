@@ -306,6 +306,3 @@ CETV1,https://live.v1.mk/api/bestv.php?id=zgjy1t8m/8000000$百视通
 上海纪实,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
 CETV1,http://txycsbl.centv.cn/zb/0628cetv1.m3u8
 CETV1,http://live.cooltv.top/tv/aishang.php?id=cetv1hd
-TVBS,https://www.youtube.com/watch?v=YvdcZ_jpLXE
-TVBS新闻台,https://www.youtube.com/watch?v=2mCSYvcfhtc
-东森新闻,https://www.youtube.com/watch?v=R2iMq5LKXco
