@@ -313,4 +313,3 @@ TVBS新闻,https://www.youtube.com/watch?v=2mCSYvcfhtc
 寰宇新闻,https://www.youtube.com/watch?v=B7Zp3d6xXWw
 三立新闻台,https://www.youtube.com/watch?v=CKjSm5ZeehE
 民视新闻台,https://www.youtube.com/live/ylYJSBUgaMA
-鏡新闻,https://www.youtube.com/live/5n0y6b0Q25o
