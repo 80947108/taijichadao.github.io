@@ -286,8 +286,10 @@ CCTV17,http://183.196.25.171:808/hls/93/index.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 翡翠台,http://r.jdshipin.com/qClQf
+无线新闻台,http://2022.stream-link.org/live/1488149502
 TVBS,http://2023.stream-link.org/playlist/tvbs
-TVBS新闻台,http://2023.stream-link.org/playlist/tvbs_news
+TVBS新闻台,http://2023.stream-link.org/live/401131254
+东森新闻,http://2023.stream-link.org/live/1793825065
 北京纪实,https://live.v1.mk/api/bestv.php?id=dajs8m/8000000$百视通
 上海纪实,https://live.v1.mk/api/bestv.php?id=jspdhd/4000000$百视通
 金鹰纪实,https://live.v1.mk/api/bestv.php?id=jyjs8m/8000000$百视通
@@ -305,11 +307,6 @@ CETV1,https://live.v1.mk/api/bestv.php?id=zgjy1t8m/8000000$百视通
 上海纪实,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
 CETV1,http://txycsbl.centv.cn/zb/0628cetv1.m3u8
 CETV1,http://live.cooltv.top/tv/aishang.php?id=cetv1hd
+TVBS,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 TVBS新闻,https://www.youtube.com/watch?v=2mCSYvcfhtc
 东森新闻,https://www.youtube.com/watch?v=R2iMq5LKXco
-中天新闻,https://www.youtube.com/watch?v=_QbRXRnHMVY
-台视新闻台,https://www.youtube.com/watch?v=xL0ch83RAK8
-中视新闻,https://www.youtube.com/watch?v=TCnaIE_SAtM
-寰宇新闻,https://www.youtube.com/watch?v=B7Zp3d6xXWw
-三立新闻台,https://www.youtube.com/watch?v=CKjSm5ZeehE
-民视新闻台,https://www.youtube.com/live/ylYJSBUgaMA
