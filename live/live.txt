@@ -219,6 +219,7 @@ CCTV17,http://183.196.25.171:808/hls/93/index.m3u8
 甘肃卫视,http://live.cooltv.top/tv/aishang.php?id=gsws$爱尚
 新疆卫视,http://live.cooltv.top/tv/aishang.php?id=xjws$爱尚
 内蒙古卫视,http://live.cooltv.top/tv/aishang.php?id=nmws$爱尚
+宁夏卫视,http://live.cooltv.top/tv/aishang.php?id=nxws$爱尚
 
 卫视(爱尚)
 湖南卫视,http://tvmvip.com/as.php?id=hunwshd
