@@ -1,6 +1,7 @@
 var rule = {
 	title: '555', // csp_AppYsV2
 	host: 'https://fskc177.com',
+	//  "主页url": "https://zhenfanjixie.com",
 	homeUrl:'/api.php/app/index_video',
 	// url: '/api.php/app/video?tid=fyclass&class=&area=&lang=&year=&limit=20&pg=fypage',
 	url: '/api.php/app/video?tid=fyclassfyfilter&limit=20&pg=fypage',
