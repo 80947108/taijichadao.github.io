@@ -286,6 +286,11 @@ CCTV4K,http://159.75.85.63:5679/cctv4k.php
 TVBS,http://2023.stream-link.org/playlist/tvbs
 TVBS新闻台,http://2023.stream-link.org/live/401131254
 东森新闻,http://2023.stream-link.org/live/1793825065
+中天新闻,http://2023.stream-link.org/live/1552993665
+台视新闻台,http://2023.stream-link.org/live/966381653
+中视新闻,http://2023.stream-link.org/live/926790469
+寰宇新闻,http://2023.stream-link.org/live/1212532853
+民视新闻台,http://2023.stream-link.org/live/1637144344
 纪实科教,https://live.v1.mk/api/bestv.php?id=dajs8m/8000000$百视通
 纪实人文,https://live.v1.mk/api/bestv.php?id=jspdhd/4000000$百视通
 金鹰纪实,https://live.v1.mk/api/bestv.php?id=jyjs8m/8000000$百视通
@@ -305,3 +310,11 @@ CETV1,https://live.v1.mk/api/bestv.php?id=zgjy1t8m/8000000$百视通
 金鹰纪实,http://live.cooltv.top/tv/aishang.php?id=jyjs
 深圳卫视,http://live.cooltv.top/tv/aishang.php?id=szwshd
 CETV1,http://txycsbl.centv.cn/zb/0628cetv1.m3u8
+TVBS,https://www.youtube.com/watch?v=YvdcZ_jpLXE
+TVBS新闻,https://www.youtube.com/watch?v=2mCSYvcfhtc
+东森新闻,https://www.youtube.com/watch?v=R2iMq5LKXco
+中天新闻,https://www.youtube.com/watch?v=_QbRXRnHMVY
+台视新闻台,https://www.youtube.com/watch?v=xL0ch83RAK8
+中视新闻,https://www.youtube.com/watch?v=TCnaIE_SAtM
+寰宇新闻,https://www.youtube.com/watch?v=B7Zp3d6xXWw
+民视新闻台,https://www.youtube.com/live/ylYJSBUgaMA
