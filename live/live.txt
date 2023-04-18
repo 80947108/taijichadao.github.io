@@ -313,7 +313,7 @@ CETV1,http://txycsbl.centv.cn/zb/0628cetv1.m3u8
 TVBS,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 TVBS新闻,https://www.youtube.com/watch?v=2mCSYvcfhtc
 东森新闻,https://www.youtube.com/watch?v=R2iMq5LKXco
-中天新闻,https://www.youtube.com/watch?v=_QbRXRnHMVY
+中天新闻,https://www.youtube.com/watch?v=oIgbl7t0S_w
 台视新闻台,https://www.youtube.com/watch?v=xL0ch83RAK8
 中视新闻,https://www.youtube.com/watch?v=TCnaIE_SAtM
 寰宇新闻,https://www.youtube.com/watch?v=B7Zp3d6xXWw
