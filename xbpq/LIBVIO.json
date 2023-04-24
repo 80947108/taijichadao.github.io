@@ -1,17 +1,18 @@
 {
   "作者": "菜妮丝https://cainisi.cf",
   "站名": "LIBVIO",
-  "主页url": "https://libvio.fun",
+  "主页url": "https://tv.libvio.cc",
   
-  "分类": "电影&剧集&动漫&日韩剧&欧美剧",
-  "分类值": "1&2&4&15&16",
+  "分类": "电影$1#剧集$2#动漫$4#日韩剧$15#欧美剧$16",
   
-  "分类url": "https://libvio.fun/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+  "分类url": "https://tv.libvio.cc/show_{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   
   "副标题": "text-right\">&&</span>",
   
-  "搜索模式": "0",
-  "搜索后缀": "/detail/",
+  "搜索模式": "1",
+  "搜索url": "/search_-------------.html?wd={wd}",
+  "搜索数组": "stui-vodlist__box\">&&</a>",
+  "搜索副标题": "text-right\">&&</span>",
   
   "影片地区": "地区：&&/",
   "影片类型": "类型：&&/",
