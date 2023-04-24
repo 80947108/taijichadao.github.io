@@ -1,0 +1,4 @@
+{
+  "spider": "./custom_spider.jar;md5;4d7e15422187013934596b11867d4f8b",
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=eth"]}]}]
+  }
