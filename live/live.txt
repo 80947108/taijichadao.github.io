@@ -81,26 +81,6 @@ CCTV16,https://live.v1.mk/api/ghyx.php?id=CCTV16HD_6000$歌华
 CCTV17,https://live.v1.mk/api/ghyx.php?id=CCTV17HD_6000$歌华
 CCTV5+,https://live.v1.mk/api/ghyx.php?id=CCTV5plusHD_6000$歌华
 
-央视(福建)
-CCTV1,https://live.v1.mk/api/fjgd.php?id=cctv1
-CCTV2,https://live.v1.mk/api/fjgd.php?id=cctv2
-CCTV3,https://live.v1.mk/api/fjgd.php?id=cctv3
-CCTV4,https://live.v1.mk/api/fjgd.php?id=cctv4
-CCTV5,https://live.v1.mk/api/fjgd.php?id=cctv5
-CCTV6,https://live.v1.mk/api/fjgd.php?id=cctv6
-CCTV7,https://live.v1.mk/api/fjgd.php?id=cctv7
-CCTV8,https://live.v1.mk/api/fjgd.php?id=cctv8
-CCTV9,https://live.v1.mk/api/fjgd.php?id=cctv9
-CCTV10,https://live.v1.mk/api/fjgd.php?id=cctv10
-CCTV11,https://live.v1.mk/api/fjgd.php?id=cctv11
-CCTV12,https://live.v1.mk/api/fjgd.php?id=cctv12
-CCTV13,https://live.v1.mk/api/fjgd.php?id=cctv13
-CCTV14,https://live.v1.mk/api/fjgd.php?id=cctv14
-CCTV15,https://live.v1.mk/api/fjgd.php?id=cctv15
-CCTV16,https://live.v1.mk/api/fjgd.php?id=cctv16
-CCTV17,https://live.v1.mk/api/fjgd.php?id=cctv17
-CCTV5P,https://live.v1.mk/api/fjgd.php?id=cctv5p
-
 央视(移动)
 CCTV1,http://39.134.115.163:8080/TVOD/88888910/224/3221225618/index.m3u8
 CCTV2,http://39.134.115.163:8080/TVOD/88888910/224/3221225619/index.m3u8
@@ -159,7 +139,7 @@ CCTV4K,http://159.75.85.63:5679/cctv4k.php
 河北卫视,https://live.v1.mk/api/bestv.php?id=hbwshd8m/8000000
 河南卫视,https://live.v1.mk/api/bestv.php?id=hnwshd8m/8000000
 黑龙江卫视,https://live.v1.mk/api/bestv.php?id=hljwshd8m/8000000
-湖北卫视,https://live.v1.mk/api/fjgd.php?id=hubws
+湖北卫视,https://live.v1.mk/api/bestv.php?id=hubeiws8m/8000000$百视通
 吉林卫视,https://live.v1.mk/api/bestv.php?id=jlwshd8m/8000000
 江苏卫视,https://live.v1.mk/api/bestv.php?id=jswshd8m/8000000
 江西卫视,https://live.v1.mk/api/bestv.php?id=jxws8m/8000000
@@ -236,22 +216,6 @@ CCTV4K,http://159.75.85.63:5679/cctv4k.php
 贵州卫视,https://live.v1.mk/api/bestv.php?id=gzwshd8m/8000000$百视通
 海南卫视,https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000$百视通
 
-卫视(福建)
-北京卫视,https://live.v1.mk/api/fjgd.php?id=bjws
-东南卫视,https://live.v1.mk/api/fjgd.php?id=dnws
-天津卫视,https://live.v1.mk/api/fjgd.php?id=tjws
-辽宁卫视,https://live.v1.mk/api/fjgd.php?id=lnws
-黑龙江卫视,https://live.v1.mk/api/fjgd.php?id=hljws
-东方卫视,https://live.v1.mk/api/fjgd.php?id=dfws
-江苏卫视,https://live.v1.mk/api/fjgd.php?id=jsws
-浙江卫视,https://live.v1.mk/api/fjgd.php?id=zjws
-安徽卫视,https://live.v1.mk/api/fjgd.php?id=ahws
-江西卫视,https://live.v1.mk/api/fjgd.php?id=jxws
-山东卫视,https://live.v1.mk/api/fjgd.php?id=sdws
-湖北卫视,https://live.v1.mk/api/fjgd.php?id=hubws
-湖南卫视,https://live.v1.mk/api/fjgd.php?id=hunws
-广东卫视,https://live.v1.mk/api/fjgd.php?id=gdws
-
 卫视(歌华)
 浙江卫视,https://live.v1.mk/api/ghyx.php?id=ZheJiangHD_6000$歌华
 北京卫视,https://live.v1.mk/api/ghyx.php?id=BTV1HD_6000$歌华
@@ -288,8 +252,8 @@ CCTV4K,http://159.75.85.63:5679/cctv4k.php
 
 //======================================================
 📺其它,#genre#
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
+凤凰中文,http://playtimeshift-live.ifeng.com:80/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=300
+凤凰资讯,http://playtimeshift-live.ifeng.com:80/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=300
 翡翠台,http://r.jdshipin.com/qClQf
 TVBS,http://2023.stream-link.org/playlist/tvbs
 TVBS新闻台,http://2023.stream-link.org/live/401131254
@@ -307,11 +271,11 @@ TVBS新闻台,http://2023.stream-link.org/live/401131254
 深圳卫视,https://live.v1.mk/api/bestv.php?id=szwshd8m/8000000$百视通
 CETV1,https://live.v1.mk/api/bestv.php?id=zgjy1t8m/8000000$百视通
 
-凤凰中文,https://live.v1.mk/api/fjgd.php?id=fhzw
-凤凰资讯,https://live.v1.mk/api/fjgd.php?id=fhzx
-凤凰中文,http://117.169.124.149:8080/live/fhchinese/index.m3u8
 凤凰中文,https://epg.pw/stream/9d3ae35ac5340698211b15afabadf8d01cadfd8f2e804854fe854eb39412924a.m3u8
 凤凰资讯,https://epg.pw/stream/feef91f40b85dafbfec7b968db0c1fc20f8fafdbbef2dfd751cfbcfd51f6ea5d.m3u8
+凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
+凤凰中文,http://117.169.124.149:8080/live/fhchinese/index.m3u8
+凤凰资讯,http://flv.mp4cdn.live/gt-key=00569874.php?id=183
 翡翠台,http://2022.stream-link.org/live/131217689
 翡翠台,https://live.astradamy.com/tvbfc/index.m3u8
 纪实科教,http://39.134.115.163:8080/TVOD/88888910/224/3221225675/index.m3u8
