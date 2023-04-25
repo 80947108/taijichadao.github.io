@@ -1,6 +1,6 @@
 var rule = {
 	title: '天空影视[V2]', // csp_AppYsV2
-	host: 'https://www.tkys.tv',
+	host: 'https://tkznp.com',
 	homeUrl:'/xgapp.php/v2/index_video',
 	// url: '/xgapp.php/v2/video?tid=fyclass&class=&area=&lang=&year=&limit=20&pg=fypage',
 	url: '/xgapp.php/v2/video?tid=fyclassfyfilter&limit=20&pg=fypage',
