@@ -160,6 +160,27 @@ CCTV17,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204203.m3u8
 CCTV5+,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204503.m3u8
 CCTV4K,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
 
+CCTV1,http://jiexi.bulisite.top/bestv.php?id=cctv1hd8m/8000000$百视通2
+CCTV2,http://jiexi.bulisite.top/bestv.php?id=cctv2hd8m/8000000$百视通2
+CCTV3,http://jiexi.bulisite.top/bestv.php?id=cctv38m/8000000$百视通2
+CCTV4,http://jiexi.bulisite.top/bestv.php?id=cctv4hd8m/8000000$百视通2
+CCTV5,http://jiexi.bulisite.top/bestv.php?id=cctv58m/8000000$百视通2
+CCTV6,http://jiexi.bulisite.top/bestv.php?id=cctv6hd8m/8000000$百视通2
+CCTV7,http://jiexi.bulisite.top/bestv.php?id=cctv7hd8m/8000000$百视通2
+CCTV8,http://jiexi.bulisite.top/bestv.php?id=cctv8hd8m/8000000$百视通2
+CCTV9,http://jiexi.bulisite.top/bestv.php?id=cctv9hd8m/8000000$百视通2
+CCTV10,http://jiexi.bulisite.top/bestv.php?id=cctv10hd8m/8000000$百视通2
+CCTV11,http://jiexi.bulisite.top/bestv.php?id=cctv11hd8m/8000000$百视通2
+CCTV12,http://jiexi.bulisite.top/bestv.php?id=cctv12hd8m/8000000$百视通2
+CCTV13,http://jiexi.bulisite.top/bestv.php?id=cctv13xwhd8m/8000000$百视通2
+CCTV14,http://jiexi.bulisite.top/bestv.php?id=cctvsehd8m/8000000$百视通2
+CCTV15,http://jiexi.bulisite.top/bestv.php?id=cctv15hd8m/8000000$百视通2
+CCTV16,http://jiexi.bulisite.top/bestv.php?id=cctv16hd8m/8000000$百视通2
+CCTV17,http://jiexi.bulisite.top/bestv.php?id=cctv17hd8m/8000000$百视通2
+CCTV5+,http://jiexi.bulisite.top/bestv.php?id=cctv5phd8m/8000000$百视通2
+CCTV4K,http://jiexi.bulisite.top/bestv.php?id=cctv4k/15000000$百视通2
+CCTV16,http://jiexi.bulisite.top/bestv.php?id=cctv16hd4k/15000000$百视通2
+
 //======================================================
 
 📡卫视,#genre#卫视(31个频道)
@@ -334,6 +355,31 @@ CCTV4K,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
 山东卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294803.m3u8
 江西卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294103.m3u8
 
+湖南卫视,http://jiexi.bulisite.top/bestv.php?id=hunanwshd8m/8000000$百视通2
+江苏卫视,http://jiexi.bulisite.top/bestv.php?id=jswshd8m/8000000$百视通2
+广西卫视,http://jiexi.bulisite.top/bestv.php?id=gxwshd8m/8000000$百视通2
+四川卫视,http://jiexi.bulisite.top/bestv.php?id=scwshd/8000000$百视通2
+浙江卫视,http://jiexi.bulisite.top/bestv.php?id=zjwshd8m/8000000$百视通2
+东方卫视,http://jiexi.bulisite.top/bestv.php?id=dfwshd8m/8000000$百视通2
+北京卫视,http://jiexi.bulisite.top/bestv.php?id=bjwshd8m/8000000$百视通2
+天津卫视,http://jiexi.bulisite.top/bestv.php?id=tjwshd8m/8000000$百视通2
+辽宁卫视,http://jiexi.bulisite.top/bestv.php?id=lnwshd8m/8000000$百视通2
+安徽卫视,http://jiexi.bulisite.top/bestv.php?id=ahwshd8m/8000000$百视通2
+黑龙江卫视,http://jiexi.bulisite.top/bestv.php?id=hljwshd8m/8000000$百视通2
+广东卫视,http://jiexi.bulisite.top/bestv.php?id=gdwshd8m/8000000$百视通2
+湖北卫视,http://jiexi.bulisite.top/bestv.php?id=hubeiws8m/8000000$百视通2
+吉林卫视,http://jiexi.bulisite.top/bestv.php?id=jlwshd8m/8000000$百视通2
+山东卫视,http://jiexi.bulisite.top/bestv.php?id=sdws8m/8000000$百视通2
+江西卫视,http://jiexi.bulisite.top/bestv.php?id=jxws8m/8000000$百视通2
+河南卫视,http://jiexi.bulisite.top/bestv.php?id=hnwshd8m/8000000$百视通2
+河北卫视,http://jiexi.bulisite.top/bestv.php?id=hbwshd8m/8000000$百视通2
+甘肃卫视,http://jiexi.bulisite.top/bestv.php?id=gswshd8m/8000000$百视通2
+重庆卫视,http://jiexi.bulisite.top/bestv.php?id=cqws8m/8000000$百视通2
+东南卫视,http://jiexi.bulisite.top/bestv.php?id=dnwshd8m/8000000$百视通2
+云南卫视,http://jiexi.bulisite.top/bestv.php?id=ynwshd8m/8000000$百视通2
+贵州卫视,http://jiexi.bulisite.top/bestv.php?id=gzwshd8m/8000000$百视通2
+海南卫视,http://jiexi.bulisite.top/bestv.php?id=hainanwshd8m/8000000$百视通2
+
 //======================================================
 📺其它,#genre#
 凤凰中文,http://playtimeshift-live.ifeng.com:80/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=300
@@ -363,6 +409,13 @@ CETV1,https://live.goodiptv.club/api/bestv.php?id=zgjy1t8m/8000000$百视通
 翡翠台,https://live.astradamy.com/tvbfc/index.m3u8
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+纪实科教,http://jiexi.bulisite.top/bestv.php?id=dajs8m/8000000$百视通2
+纪实人文,http://jiexi.bulisite.top/bestv.php?id=jspdhd/4000000$百视通2
+金鹰纪实,http://jiexi.bulisite.top/bestv.php?id=jyjs8m/8000000$百视通2
+茶频道,http://jiexi.bulisite.top/bestv.php?id=cpdhdavs8m/8000000$百视通2
+快乐垂钓,http://jiexi.bulisite.top/bestv.php?id=klcd8m/8000000$百视通2
+深圳卫视,http://jiexi.bulisite.top/bestv.php?id=szwshd8m/8000000$百视通2
+CETV1,http://jiexi.bulisite.top/bestv.php?id=zgjy1t8m/8000000$百视通2
 纪实科教,http://cntv.sbs/live?id=bjjskj
 金鹰纪实,http://cntv.sbs/live?id=jyjs
 茶频道,http://cntv.sbs/live?id=cpd
