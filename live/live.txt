@@ -341,12 +341,9 @@ CETV1,http://jiexi.bulisite.top/bestv.php?id=zgjy1t8m/8000000$百视通2
 CETV1,http://cntv.sbs/live?id=cetv1
 深圳卫视,http://cntv.sbs/live?id=szws
 CETV1,http://txycsbl.centv.cn/zb/0628cetv1.m3u8
+TVBS新闻台,rtmp://219.80.97.77/sat/tv551
+TVBS新闻台,rtmp://119.81.124.89/sat/tv551
 TVBS,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 TVBS新闻台,https://www.youtube.com/watch?v=2mCSYvcfhtc
 东森新闻,https://www.youtube.com/watch?v=R2iMq5LKXco
 中天新闻,https://www.youtube.com/watch?v=oIgbl7t0S_w
-TVBS新闻台,rtmp://219.80.97.77/sat/tv551
-TVBS新闻台,rtmp://119.81.124.89/sat/tv551
-
-TVBS新聞,p2p://fccs.word-tv.com:9906/6254121e00022e5c0955285ee55f9ec4
-TVBS HD,p2p://fccs.word-tv.com:9906/62541264000b8c2809563c340355f46f
