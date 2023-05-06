@@ -345,3 +345,6 @@ TVBS,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 TVBS新闻台,https://www.youtube.com/watch?v=2mCSYvcfhtc
 东森新闻,https://www.youtube.com/watch?v=R2iMq5LKXco
 中天新闻,https://www.youtube.com/watch?v=oIgbl7t0S_w
+TVB新闻台,rtmp://119.81.124.89/sat/tv551
+緯來育樂[1280x720],rtmp://119.81.124.89/sat/tv701
+緯來育樂[1280x720],rtmp://219.80.97.77/sat/tv701
