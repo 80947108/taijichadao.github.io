@@ -374,3 +374,5 @@ TVBS,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 TVBS新闻台,https://www.youtube.com/watch?v=2mCSYvcfhtc
 东森新闻,https://www.youtube.com/watch?v=R2iMq5LKXco
 中天新闻,https://www.youtube.com/watch?v=oIgbl7t0S_w
+TVBS,P2p://ns2.hellotvvod.com:9906/d1bdb5f9c9254278b6d11b52ed1ff945.ts
+TVBS HD,p2p://fccs.word-tv.com:9906/62541264000b8c2809563c340355f46f
