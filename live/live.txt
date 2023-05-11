@@ -363,8 +363,24 @@ TVBS新闻台,rtmp://119.81.124.89/sat/tv551
 纬来体育,rtmp://219.80.97.77/sat/tv721
 纬来体育,rtmp://219.80.97.77:1935/sat/tv721
 
-
 TVBS,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 TVBS新闻台,https://www.youtube.com/watch?v=2mCSYvcfhtc
 东森新闻,https://www.youtube.com/watch?v=R2iMq5LKXco
 中天新闻,https://www.youtube.com/watch?v=oIgbl7t0S_w
+
+民视,rtmp://59.124.75.138/sat/tv051
+台视,rtmp://59.124.75.138/sat/tv071
+中视,rtmp://59.124.75.138/sat/tv091
+华视,rtmp://59.124.75.138/sat/tv111
+TVBS新闻,rtmp://59.124.75.138/sat/tv551
+纬来体育,rtmp://59.124.75.138/sat/tv721
+民视,rtmp://59.124.75.150/sat/tv051
+台视,rtmp://59.124.75.150/sat/tv071
+中视,rtmp://59.124.75.150/sat/tv091
+华视,rtmp://59.124.75.150/sat/tv111
+TVBS新闻,rtmp://59.124.75.150/sat/tv551
+纬来体育,rtmp://59.124.75.150/sat/tv721
+ELTA1,rtmp://59.124.75.138/sat/md011
+ELTA2,rtmp://59.124.75.138/sat/md021
+ELTA体育1,rtmp://59.124.75.150/sat/md011
+ELTA体育2,rtmp://59.124.75.150/sat/md021
