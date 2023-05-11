@@ -329,6 +329,7 @@ TVBS新闻台,http://2023.stream-link.org/live/401131254
 快乐垂钓,https://live.goodiptv.club/api/bestv.php?id=klcd8m/8000000$百视通
 深圳卫视,https://live.goodiptv.club/api/bestv.php?id=szwshd8m/8000000$百视通
 CETV1,https://live.goodiptv.club/api/bestv.php?id=zgjy1t8m/8000000$百视通
+纬来体育,http://cloud.yumixiu768.com/tmp/123.m3u8
 
 凤凰中文,https://epg.pw/stream/9d3ae35ac5340698211b15afabadf8d01cadfd8f2e804854fe854eb39412924a.m3u8
 凤凰中文,http://117.169.124.149:8080/live/fhchinese/index.m3u8
@@ -356,6 +357,9 @@ CETV1,http://cntv.sbs/live?id=cetv1
 CETV1,http://txycsbl.centv.cn/zb/0628cetv1.m3u8
 TVBS新闻台,rtmp://219.80.97.77/sat/tv551
 TVBS新闻台,rtmp://119.81.124.89/sat/tv551
+纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+纬来体育,rtmp://119.81.124.89:1935/sat/tv721
+
 TVBS,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 TVBS新闻台,https://www.youtube.com/watch?v=2mCSYvcfhtc
 东森新闻,https://www.youtube.com/watch?v=R2iMq5LKXco
