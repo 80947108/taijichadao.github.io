@@ -378,6 +378,15 @@ TVBS新闻台,rtmp://9wv7.mine.nu/sat/tv551
 台視,rtmp://9wv7.mine.nu/sat/tv071
 民视,rtmp://9wv7.mine.nu/sat/tv051
 
+民視1,rtmp://161.202.204.248/sat/tv052
+民視2,rtmp://161.202.204.248:1935/sat/tv051
+台視1,rtmp://161.202.204.248/sat/tv071
+台視2,rtmp://161.202.204.248:1935/sat/tv071
+中視1,rtmp://161.202.204.248/sat/tv091
+中視2,rtmp://161.202.204.248:1935/sat/tv091
+華視1,rtmp://161.202.204.248:1935/sat/tv111
+華視2,rtmp://161.202.204.248/sat/tv112
+
 TVBS,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 TVBS新闻台,https://www.youtube.com/watch?v=2mCSYvcfhtc
 东森新闻,https://www.youtube.com/watch?v=R2iMq5LKXco
