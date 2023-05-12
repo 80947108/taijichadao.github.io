@@ -385,6 +385,16 @@ TVBS新闻台,rtmp://119.81.124.89/sat/tv551
 纬来体育,rtmp://119.81.124.89:1935/sat/tv721
 TVBS新闻台,rtmp://9wv7.mine.nu/sat/tv551
 纬来体育,rtmp://9wv7.mine.nu/sat/tv721
+台湾TVBS新闻,rtmp://dv2.tp33.net/sat/tv551
+纬来体育,rtmp://dv2.tp33.net/sat/tv721
+台湾东森新闻,rtmp://dv2.tp33.net:1935/sat/tv572
+台湾东森新闻,rtmp://dv2.tp33.net:1935/sat/tv571
+台湾东森新闻,rtmp://9wv7.mine.nu:1935/sat/tv572
+台湾东森新闻,rtmp://9wv7.mine.nu:1935/sat/tv571
+台湾东森新闻,rtmp://9wv7.mine.nu/sat/tv572
+台湾东森新闻,rtmp://9wv7.mine.nu/sat/tv571
+台湾纬来体育,http://59.120.242.104:9000/live/live12.m3u8
+台湾纬来体育台,rtmp://dv2.tp33.net:1935/sat/tv722
 
 TVBS,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 TVBS新闻台,https://www.youtube.com/watch?v=2mCSYvcfhtc
