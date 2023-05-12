@@ -299,11 +299,9 @@ CCTV16,http://jiexi.bulisite.top/bestv.php?id=cctv16hd4k/15000000$百视通2
 📺其它,#genre#
 凤凰中文,http://playtimeshift-live.ifeng.com:80/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=300
 凤凰资讯,http://playtimeshift-live.ifeng.com:80/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=300
-翡翠台,https://2022.stream-link.org/list.php?id=h002
 TVBS,http://2023.stream-link.org/playlist/tvbs
 TVBS新闻台,https://2022.stream-link.org/list.php?id=t013
 东森新闻,https://2022.stream-link.org/list.php?id=t001
-中天新闻,https://2022.stream-link.org/list.php?id=t003
 纪实科教,https://live.goodiptv.club/api/bestv.php?id=dajs8m/8000000$百视通
 纪实人文,https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000$百视通
 金鹰纪实,https://live.goodiptv.club/api/bestv.php?id=jyjs8m/8000000$百视通
@@ -366,4 +364,3 @@ TVBS新闻台,rtmp://9wv7.mine.nu:1935/sat/tv551
 TVBS,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 TVBS新闻台,https://www.youtube.com/watch?v=2mCSYvcfhtc
 东森新闻,https://www.youtube.com/watch?v=R2iMq5LKXco
-中天新闻,https://www.youtube.com/watch?v=oIgbl7t0S_w
