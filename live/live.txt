@@ -365,5 +365,3 @@ TVBS新闻台,rtmp://9wv7.mine.nu:1935/sat/tv551
 TVBS,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 TVBS新闻台,https://www.youtube.com/watch?v=2mCSYvcfhtc
 东森新闻,https://www.youtube.com/watch?v=R2iMq5LKXco
-
-TVBS2,https://51.159.195.9/watch?v=YvdcZ_jpLXE&__cpo=aHR0cHM6Ly93d3cueW91dHViZS5jb20
