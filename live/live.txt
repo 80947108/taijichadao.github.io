@@ -352,6 +352,7 @@ TVBS新闻台,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MECE323377403233
 
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+纬来体育,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-e9653bd1-30a6-466c-a103-3088948c052d.m3u8
 TVBS新闻台,rtmp://219.80.97.77/sat/tv551
 纬来体育,rtmp://219.80.97.77/sat/tv721
 TVBS新闻台,rtmp://119.81.124.89/sat/tv551
@@ -364,3 +365,5 @@ TVBS新闻台,rtmp://9wv7.mine.nu:1935/sat/tv551
 TVBS,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 TVBS新闻台,https://www.youtube.com/watch?v=2mCSYvcfhtc
 东森新闻,https://www.youtube.com/watch?v=R2iMq5LKXco
+
+TVBS2,https://51.159.195.9/watch?v=YvdcZ_jpLXE&__cpo=aHR0cHM6Ly93d3cueW91dHViZS5jb20
