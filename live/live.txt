@@ -367,3 +367,12 @@ TVBS,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 TVBS新闻台,https://www.youtube.com/watch?v=2mCSYvcfhtc
 东森新闻,https://www.youtube.com/watch?v=R2iMq5LKXco
 中天新闻,https://www.youtube.com/watch?v=oIgbl7t0S_w
+
+台1,rtmp://kv3.ts33.net:1935/sat/tv551
+台2,rtmp://kv3.ts33.net:1935/sat/tv721
+台1,rtmp://161.202.204.248:1935/sat/tv551
+台2,rtmp://161.202.204.248:1935/sat/tv721
+纬来音乐,rtmp://hktv2.ts33.net:1935/sat/tv70
+纬来体育2,rtmp://hktv2.ts33.net:1935/sat/tv72
+台1,rtmp://9hv1.mine.nu:1935/sat/tv551
+台2,rtmp://9hv1.mine.nu:1935/sat/tv721
