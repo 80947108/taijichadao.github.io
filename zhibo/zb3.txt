@@ -331,6 +331,6 @@ TVBS新闻台,rtmp://119.81.124.89/sat/tv551
 纬来体育,rtmp://119.81.124.89/sat/tv721
 纬来体育,rtmp://9wv7.mine.nu/sat/tv721
 
-TVBS-2,http://127.0.0.1:9978/proxy?do=yt&proxy=socks5://199.116.114.11:4145&url=https://www.youtube.com/watch?v=YvdcZ_jpLXE
-TVBS新闻-2,http://127.0.0.1:9978/proxy?do=yt&proxy=socks5://68.71.249.153:48606&url=https://www.youtube.com/watch?v=2mCSYvcfhtc
-中天新闻-2,http://127.0.0.1:9978/proxy?do=yt&proxy=socks5://111.253.194.209:3629&url=https://www.youtube.com/watch?v=oIgbl7t0S_w
+TVBS-3,http://127.0.0.1:9978/proxy?do=yt&proxy=socks5://199.19.95.247:1080&url=https://www.youtube.com/watch?v=YvdcZ_jpLXE
+TVBS新闻-3,http://127.0.0.1:9978/proxy?do=yt&proxy=socks5://173.0.255.16:45554&url=https://www.youtube.com/watch?v=2mCSYvcfhtc
+中天新闻-3,http://127.0.0.1:9978/proxy?do=yt&proxy=socks5:// 66.253.164.20:45554&url=https://www.youtube.com/watch?v=oIgbl7t0S_w
