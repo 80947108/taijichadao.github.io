@@ -267,12 +267,15 @@ CETV1,https://live.goodiptv.club/api/bestv.php?id=zgjy1t8m/8000000$百视通
 
 凤凰中文,https://cntv.sbs/fs?id=fhzw
 凤凰中文,http://cntv.sbs/ipv6?id=test1
+凤凰中文,http://awei.beimua.com/iptv.php?id=1
 凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
 凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰资讯,https://cntv.sbs/fs?id=fhzx
 凤凰资讯,http://cntv.sbs/ipv6?id=test2
+凤凰资讯,http://awei.beimua.com/iptv.php?id=2
+凤凰资讯,http://awei.beimua.com/yes.php?id=2
 凤凰资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
 凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
@@ -295,10 +298,22 @@ CETV1,http://cntv.sbs/live?id=cetv1
 深圳卫视,http://cntv.sbs/live?id=szws
 CETV1,http://txycsbl.centv.cn/zb/0628cetv1.m3u8
 
+TVBS,http://awei.beimua.com/yes.php?id=4
 TVBS新闻台,https://2022.stream-link.org/list.php?id=t013
 TVBS新闻台,https://cntv.sbs/abroad?id=t013
+TVBS新闻台,http://awei.beimua.com/yes.php?id=3
+TVBS新闻台,http://awei.beimua.com/iptv.php?id=54
+TVBS新闻台,rtmp://219.80.97.77/sat/tv551
+TVBS新闻台,rtmp://119.81.124.89/sat/tv551
+TVBS新闻台,rtmp://9wv7.mine.nu/sat/tv551
 东森新闻,https://2022.stream-link.org/list.php?id=t001
 东森新闻,https://cntv.sbs/abroad?id=t001
+东森新闻,http://awei.beimua.com/yes.php?id=1
+纬来体育,http://awei.beimua.com/yes.php?id=8
+纬来体育,http://awei.beimua.com/iptv.php?id=73
+纬来体育,rtmp://219.80.97.77/sat/tv721
+纬来体育,rtmp://119.81.124.89/sat/tv721
+纬来体育,rtmp://9wv7.mine.nu/sat/tv721
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 
 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
@@ -318,13 +333,6 @@ TVBS新闻台,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=m4a218f9aa395&ct
 东森新闻,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290
 纬来体育,http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MF0F9609085796090857&ct=19254&tsum=6bf853a68e195475b4892428199568c7
 纬来体育,http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MF0F9609085796090857&ct=19254&tsum=6bf853a68e195475b4892428199568c7
-
-TVBS新闻台,rtmp://219.80.97.77/sat/tv551
-TVBS新闻台,rtmp://119.81.124.89/sat/tv551
-纬来体育,rtmp://219.80.97.77/sat/tv721
-纬来体育,rtmp://219.80.97.77:1935/sat/tv721
-纬来体育,rtmp://119.81.124.89/sat/tv721
-纬来体育,rtmp://9wv7.mine.nu/sat/tv721
 
 📺BesTV,#genre#
 CCTV16-4K,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
