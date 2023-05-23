@@ -253,9 +253,9 @@ CCTV16,http://jiexi.bulisite.top/bestv.php?id=cctv16hd4k/15000000$百视通2
 📺其它,#genre#
 凤凰中文,http://playtimeshift-live.ifeng.com:80/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=300
 凤凰资讯,http://playtimeshift-live.ifeng.com:80/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=300
-TVBS,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
-TVBS新闻台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
-东森新闻,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
+TVBS,http://awei.beimua.com/yes.php?id=4
+TVBS新闻台,http://awei.beimua.com/yes.php?id=3
+东森新闻,http://awei.beimua.com/yes.php?id=1
 纪实科教,https://live.goodiptv.club/api/bestv.php?id=dajs8m/8000000$百视通
 纪实人文,https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000$百视通
 金鹰纪实,https://live.goodiptv.club/api/bestv.php?id=jyjs8m/8000000$百视通
@@ -265,17 +265,17 @@ TVBS新闻台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MEFE52833224528
 CETV1,https://live.goodiptv.club/api/bestv.php?id=zgjy1t8m/8000000$百视通
 纬来体育,http://cloud.yumixiu768.com/tmp/123.m3u8
 
+凤凰中文,http://awei.beimua.com/iptv.php?id=1
 凤凰中文,https://cntv.sbs/fs?id=fhzw
 凤凰中文,http://cntv.sbs/ipv6?id=test1
-凤凰中文,http://awei.beimua.com/iptv.php?id=1
 凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
 凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-凤凰资讯,https://cntv.sbs/fs?id=fhzx
-凤凰资讯,http://cntv.sbs/ipv6?id=test2
 凤凰资讯,http://awei.beimua.com/iptv.php?id=2
 凤凰资讯,http://awei.beimua.com/yes.php?id=2
+凤凰资讯,https://cntv.sbs/fs?id=fhzx
+凤凰资讯,http://cntv.sbs/ipv6?id=test2
 凤凰资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
 凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
@@ -298,17 +298,15 @@ CETV1,http://cntv.sbs/live?id=cetv1
 深圳卫视,http://cntv.sbs/live?id=szws
 CETV1,http://txycsbl.centv.cn/zb/0628cetv1.m3u8
 
-TVBS,http://awei.beimua.com/yes.php?id=4
 TVBS新闻台,https://2022.stream-link.org/list.php?id=t013
 TVBS新闻台,https://cntv.sbs/abroad?id=t013
-TVBS新闻台,http://awei.beimua.com/yes.php?id=3
 TVBS新闻台,http://awei.beimua.com/iptv.php?id=54
 TVBS新闻台,rtmp://219.80.97.77/sat/tv551
 TVBS新闻台,rtmp://119.81.124.89/sat/tv551
 TVBS新闻台,rtmp://9wv7.mine.nu/sat/tv551
+东森新闻,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
 东森新闻,https://2022.stream-link.org/list.php?id=t001
 东森新闻,https://cntv.sbs/abroad?id=t001
-东森新闻,http://awei.beimua.com/yes.php?id=1
 纬来体育,http://awei.beimua.com/yes.php?id=8
 纬来体育,http://awei.beimua.com/iptv.php?id=73
 纬来体育,rtmp://219.80.97.77/sat/tv721
@@ -321,6 +319,8 @@ TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum
 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=ME2E6545230665452306&ct=19234&tsum=ff0df01c2935843c8c4543428728ce28
 TVBS,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
 TVBS,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
+TVBS,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
+TVBS新闻台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
 TVBS新闻台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
 TVBS新闻台,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
 TVBS新闻台,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MB6B3640782836407828&ct=19234&tsum=315ac9a0876bc361c6715ac6d5a96777
