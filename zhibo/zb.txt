@@ -270,8 +270,8 @@ CCTV16,http://jiexi.bulisite.top/bestv.php?id=cctv16hd4k/15000000$百视通2
 
 //======================================================
 📺其它,#genre#
-凤凰中文,http://playtimeshift-live.ifeng.com:80/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=300
-凤凰资讯,http://playtimeshift-live.ifeng.com:80/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=300
+凤凰中文,http://playtimeshift-live.ifeng.com:80/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=0
+凤凰资讯,http://playtimeshift-live.ifeng.com:80/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=0
 TVBS,http://awei.beimua.com/yes.php?id=4
 TVBS新闻台,http://awei.beimua.com/yes.php?id=3
 东森新闻,http://awei.beimua.com/yes.php?id=1
@@ -284,7 +284,6 @@ TVBS新闻台,http://awei.beimua.com/yes.php?id=3
 凤凰中文,http://awei.beimua.com/iptv.php?id=1
 凤凰中文,https://cntv.sbs/fs?id=fhzw
 凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
-凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 凤凰中文,http://iptv.weai.love/10010/88888888/gxgg.play?tvid=fhzw
 凤凰中文,http://iptv.weai.love/live/88888888/fhzw.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
@@ -293,7 +292,6 @@ TVBS新闻台,http://awei.beimua.com/yes.php?id=3
 凤凰资讯,http://awei.beimua.com/yes.php?id=2
 凤凰资讯,https://cntv.sbs/fs?id=fhzx
 凤凰资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
-凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 凤凰资讯,http://iptv.weai.love/10010/88888888/gxgg.play?tvid=fhzx
 凤凰资讯,http://iptv.weai.love/live/88888888/fhzx.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
