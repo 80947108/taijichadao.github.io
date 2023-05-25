@@ -332,8 +332,7 @@ TVBS新闻台,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=m4a218f9aa395&ct
 纪实科教,http://cntv.sbs/live05?id=bjjskj
 金鹰纪实,http://cntv.sbs/live05?id=jyjs
 茶频道,http://cntv.sbs/live05?id=cpd
-TVBS55,https://yeslivetv.com/channels/tvbs55/
-TVBS56,https://yeslivetv.com/channels/tvbs56/
+
 📺BesTV,#genre#
 CCTV16-4K,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
 CCTV-4K,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
