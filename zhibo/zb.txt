@@ -20,7 +20,6 @@ CCTV5+,https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
 CCTV4K,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
 CCTV16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
 
-央视(百视通)
 CCTV1,https://live.wwkh.xyz/api/bestv.php?id=cctv1hd8m/8000000$百视通
 CCTV2,https://live.wwkh.xyz/api/bestv.php?id=cctv2hd8m/8000000$百视通
 CCTV3,https://live.wwkh.xyz/api/bestv.php?id=cctv38m/8000000$百视通
@@ -157,7 +156,6 @@ CCTV16,http://jiexi.bulisite.top/bestv.php?id=cctv16hd4k/15000000$百视通2
 新疆卫视,http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
 内蒙古卫视,http://v2.91kds.cn/b9/hoge.m3u8?ip=nmtv&id=92&auth=rinimabi
 
-卫视(百事通)
 湖南卫视,https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000$百视通
 江苏卫视,https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000$百视通
 广西卫视,https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000$百视通
