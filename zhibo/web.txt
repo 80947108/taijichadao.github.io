@@ -1,0 +1,7 @@
+📺yeslivetv,#genre#
+凤凰1,https://yeslivetv.com/tvphp/stream/phoenix-chinese.m3u8?md5=QXybP1vq_oFnx4qov6dOww&expires=1685054853
+凤凰2,https://yeslivetv.com/channels/phoenix-chinese-channel/
+
+📺everydaytv,#genre#
+cctv1,http://aliyun4a-live.bestvcdn.com.cn/live/program/Dbestvapp-mobile-v4.live.bestvcdn.com.cnD/_jndpfnki_keyCBFDF00A94B27972BAE65E74D7A8A3273670B8D286DE2
+cctv2,https://everydaytv.top/play-0-0-0.html

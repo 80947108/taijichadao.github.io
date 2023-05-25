@@ -18,3 +18,7 @@ https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
 #Ftindy-BESTV
 https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u
+
+#WEB
+https://taijichadao.github.io/zhibo/web.txt
+
