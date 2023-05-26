@@ -257,11 +257,11 @@ CCTV4K,http://159.75.85.63:5679/cctv4k.php
 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=ME2E6545230665452306&ct=19234&tsum=ff0df01c2935843c8c4543428728ce28
 TVBS新闻台,http://awei.beimua.com/iptv.php?id=54
 东森新闻,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
-纪实科教,https://live.goodiptv.club/api/bestv.php?id=dajs8m/8000000
-纪实人文,https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
-金鹰纪实,https://live.goodiptv.club/api/bestv.php?id=jyjs8m/8000000
-茶频道,https://live.goodiptv.club/api/bestv.php?id=cpdhdavs8m/8000000
 纬来体育,http://cloud.yumixiu768.com/tmp/123.m3u8
+金鹰纪实,http://jiexi.bulisite.top/bestv.php?id=jyjs8m/8000000
+纪实科教,http://jiexi.bulisite.top/bestv.php?id=dajs8m/8000000
+纪实人文,http://jiexi.bulisite.top/bestv.php?id=jspdhd/4000000
+茶频道,http://jiexi.bulisite.top/bestv.php?id=cpdhdavs8m/8000000
 
 凤凰中文,http://awei.beimua.com/iptv.php?id=1
 凤凰中文,https://cntv.sbs/fs?id=fhzw
@@ -305,13 +305,10 @@ TVBS新闻台,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=m4a218f9aa395&ct
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 纬来体育,http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MF0F9609085796090857&ct=19254&tsum=6bf853a68e195475b4892428199568c7
 纬来体育,http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MF0F9609085796090857&ct=19254&tsum=6bf853a68e195475b4892428199568c7
-纪实科教,http://jiexi.bulisite.top/bestv.php?id=dajs8m/8000000
-纪实人文,http://jiexi.bulisite.top/bestv.php?id=jspdhd/4000000
-金鹰纪实,http://jiexi.bulisite.top/bestv.php?id=jyjs8m/8000000
-茶频道,http://jiexi.bulisite.top/bestv.php?id=cpdhdavs8m/8000000
-纪实科教,http://cntv.sbs/live05?id=bjjskj
-金鹰纪实,http://cntv.sbs/live05?id=jyjs
-茶频道,http://cntv.sbs/live05?id=cpd
+金鹰纪实,https://live.goodiptv.club/api/bestv.php?id=jyjs8m/8000000
+纪实科教,https://live.goodiptv.club/api/bestv.php?id=dajs8m/8000000
+纪实人文,https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
+茶频道,https://live.goodiptv.club/api/bestv.php?id=cpdhdavs8m/8000000
 
 📺BesTV,#genre#
 CCTV16-4K,http://jiexi.bulisite.top/bestv.php?id=cctv16hd4k/15000000
