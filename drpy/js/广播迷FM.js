@@ -21,8 +21,8 @@ var rule = {
 		'User-Agent': 'MOBILE_UA'
 	},
 	timeout:5000,
-    class_name:'听广播&看电视',
-    class_url:'live&tv',
+    class_name:'听广播&看电视&北京',
+    class_url:'live&tv&live/bj',
 	play_parse:true,
 	lazy:'js:var purl=jsp.pdfh(request(input), ".playcode&&iframe&&src");if(/tingtingfm/.test(purl)){purl="http://www.guangbomi.com"+purl};input= {jx:0,url:purl,parse:1,header:JSON.stringify({"referer":"http://www.guangbomi.com/"})}',
 	limit:6,
