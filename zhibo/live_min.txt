@@ -15,3 +15,6 @@ https://live.fanmingming.com/tv/m3u/global.m3u
 
 #范明明-ipv6
 https://live.fanmingming.com/tv/m3u/ipv6.m3u
+
+#范明明-Radio
+https://live.fanmingming.com/radio/m3u/index.m3u
