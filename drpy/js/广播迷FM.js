@@ -11,8 +11,8 @@ var rule = {
     },
     timeout:5000,
 
-    class_name:'北京2&浙江&湖南',
-    class_url:'live/bj&zj&hunan',
+    class_name:'北京&浙江&湖南&湖南TV',
+    class_url:'live/bj&live/zj&live/hunan&tv/hn',
 	play_parse:true,
 	lazy:'js:var purl=jsp.pdfh(request(input), ".playcode&&iframe&&src");if(/tingtingfm/.test(purl)){purl="http://www.guangbomi.com"+purl};input= {jx:0,url:purl,parse:1,header:JSON.stringify({"referer":"http://www.guangbomi.com/"})}',
 	limit:6,
