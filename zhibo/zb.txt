@@ -220,8 +220,6 @@ CCTV4K,http://159.75.85.63:5679/cctv4k.php
 青海卫视,http://jiexi.bulisite.top/ysp.php?id=qhws
 天津卫视,http://jiexi.bulisite.top/ysp.php?id=tjws
 
-新疆卫视,http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
-新疆卫视,http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=ac4608d03b3fec4557d137827a3f4bb6&txTime=95A66655
 西藏卫视,https://tv.vtibet.cn/live/131zyiL0LNs3.m3u8?secret=48242681deadb7f75e97f5d85efe0777&time=6472f314
 内蒙古卫视,http://v2.91kds.cn/b9/hoge.m3u8?ip=nmtv&id=92&auth=rinimabi
 山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/s1sq3R0.m3u8
