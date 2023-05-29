@@ -16,18 +16,6 @@
       },
       {
         "id": 2, 
-        "key": "3412",
-        "name": "3412影视",
-        "api": "https://v.3412.net.cn/macapi.php/provide/vod/",
-        "type": 1,
-        "search": 1, 
-        "playUrl": "https://player.3412.net.cn/?url=", 
-        "group": "影视", 
-        "isActive": true, 
-        "status": true
-      },
-      {
-        "id": 3, 
         "key": "量子",
         "name": "量子",
         "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
@@ -39,7 +27,7 @@
         "status": true
       },
       {
-        "id": 4, 
+        "id": 3, 
         "key": "非凡",
         "name": "非凡",
         "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
@@ -51,11 +39,35 @@
         "status": true
       },
       {
+        "id": 4, 
+        "key": "乐活",
+        "name": "乐活",
+        "api": "https://lehootv.com/api.php/provide/vod/at/xml",
+        "type": 0,
+        "search": 1, 
+        "playUrl": "", 
+        "group": "影视", 
+        "isActive": true, 
+        "status": true
+      },
+      {
         "id": 5, 
+        "key": "红牛",
+        "name": "红牛",
+        "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+        "type": 1,
+        "search": 1, 
+        "playUrl": "", 
+        "group": "影视", 
+        "isActive": true, 
+        "status": true
+      },
+      {
+        "id": 6, 
         "key": "多米",
         "name": "多米",
-        "api": "http://vod.dmdh.top:5680/api.php/provide/vod/",
-        "type": 1,
+        "api": "http://vod.dmdh.top:5680/api.php/provide/vod/at/xml/",
+        "type": 0,
         "search": 1, 
         "playUrl": "", 
         "group": "影视", 
@@ -79,6 +91,14 @@
         "id": 2, 
         "name": "APTV",
         "url": "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u", 
+        "epg": "", 
+        "type": "remote", 
+        "isActive": true 
+      },
+      {
+        "id": 3, 
+        "name": "精选",
+        "url": "https://taijichadao.github.io/zhibo/zb.txt", 
         "epg": "", 
         "type": "remote", 
         "isActive": true 
