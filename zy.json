@@ -21,6 +21,42 @@
         "api": "https://v.3412.net.cn/macapi.php/provide/vod/",
         "type": 1,
         "search": 1, 
+        "playUrl": "https://player.3412.net.cn/?url=", 
+        "group": "影视", 
+        "isActive": true, 
+        "status": true
+      },
+      {
+        "id": 3, 
+        "key": "量子",
+        "name": "量子",
+        "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+        "type": 0,
+        "search": 1, 
+        "playUrl": "", 
+        "group": "影视", 
+        "isActive": true, 
+        "status": true
+      },
+      {
+        "id": 4, 
+        "key": "非凡",
+        "name": "非凡",
+        "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+        "type": 0,
+        "search": 1, 
+        "playUrl": "", 
+        "group": "影视", 
+        "isActive": true, 
+        "status": true
+      },
+      {
+        "id": 5, 
+        "key": "多米",
+        "name": "多米",
+        "api": "http://vod.dmdh.top:5680/api.php/provide/vod/",
+        "type": 1,
+        "search": 1, 
         "playUrl": "", 
         "group": "影视", 
         "isActive": true, 
@@ -33,22 +69,66 @@
     "data": [
       {
         "id": 1, // id 唯一值不可重复
-        "name": "APTV", // 名称
-        "url": "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u", // 直播源地址
+        "name": "范明明", // 名称
+        "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u", // 直播源地址
         "epg": "", // 电子节目单地址
         "type": "remote", // remote为远程m3u local本地m3u文件路径
         "isActive": true // 是否启用 true启用 false 禁用
+      },
+      {
+        "id": 2, 
+        "name": "APTV",
+        "url": "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u", 
+        "epg": "", 
+        "type": "remote", 
+        "isActive": true 
       }
     ]
   },
   "analyzes": { // 解析源
-    "default": 2, // 默认值：需为data中需要设置的id
+    "default": 1, // 默认值：需为data中需要设置的id
     "data": [
       {
-        "id": 2, // id 唯一值不可重复
-        "name": "爱豆", // 名称
-        "url": "https://jx.aidouer.net/?url=", // 解析源地址
+        "id": 1, // id 唯一值不可重复
+        "name": "Bozrc", // 名称
+        "url": "https://jx.bozrc.com/player/?url=", // 解析源地址
         "isActive": true // 是否启用 true启用 false 禁用
+      },
+      {
+        "id": 2,
+        "name": "爱豆", 
+        "url": "https://jx.aidouer.net/?url=",
+        "isActive": true
+      },
+      {
+        "id": 3,
+        "name": "JSONPlayer", 
+        "url": "https://jx.jsonplayer.com/player/?url=",
+        "isActive": true
+      },
+      {
+        "id": 4,
+        "name": "虾米", 
+        "url": "https://jx.xmflv.com/?url=",
+        "isActive": true
+      },
+      {
+        "id": 5,
+        "name": "777解析", 
+        "url": "https://jx.777jiexi.com/player/?url=",
+        "isActive": true
+      },
+      {
+        "id": 6,
+        "name": "诺讯", 
+        "url": "https://yun.ckmov.com/?url=",
+        "isActive": true
+      },
+      {
+        "id": 7,
+        "name": "OK解析", 
+        "url": "https://okjx.cc/?url=",
+        "isActive": true
       }
     ]
   }
