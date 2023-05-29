@@ -12,7 +12,19 @@
         "playUrl": "", // 配合解析去url地址
         "group": "影视", // 分组
         "isActive": true, // 是否启用 true启用 false 禁用
-        "status": true, // 状态 true可用 false 失效
+        "status": true // 状态 true可用 false 失效
+      },
+      {
+        "id": 2, 
+        "key": "3412",
+        "name": "3412影视",
+        "api": "https://v.3412.net.cn/macapi.php/provide/vod/",
+        "type": 1,
+        "search": 1, 
+        "playUrl": "", 
+        "group": "影视", 
+        "isActive": true, 
+        "status": true
       }
     ]
   },
