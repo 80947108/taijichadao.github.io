@@ -61,23 +61,11 @@
         "group": "影视", 
         "isActive": true, 
         "status": true
-      },
-      {
-        "id": 6, 
-        "key": "多米",
-        "name": "多米",
-        "api": "http://vod.dmdh.top:5680/api.php/provide/vod/at/xml/",
-        "type": 0,
-        "search": 1, 
-        "playUrl": "", 
-        "group": "影视", 
-        "isActive": true, 
-        "status": true
       }
     ]
   },
   "iptv": { // 直播源
-    "default": 1, // 默认值：需为data中需要设置的id
+    "default": 2, // 默认值：需为data中需要设置的id
     "data": [
       {
         "id": 1, // id 唯一值不可重复
@@ -91,14 +79,6 @@
         "id": 2, 
         "name": "APTV",
         "url": "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u", 
-        "epg": "", 
-        "type": "remote", 
-        "isActive": true 
-      },
-      {
-        "id": 3, 
-        "name": "精选",
-        "url": "https://taijichadao.github.io/zhibo/zb.txt", 
         "epg": "", 
         "type": "remote", 
         "isActive": true 
