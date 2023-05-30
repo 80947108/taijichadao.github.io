@@ -65,12 +65,12 @@
     ]
   },
   "iptv": { // 直播源
-    "default": 2, // 默认值：需为data中需要设置的id
+    "default": 1, // 默认值：需为data中需要设置的id
     "data": [
       {
         "id": 1, // id 唯一值不可重复
         "name": "范明明", // 名称
-        "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u", // 直播源地址
+        "url": "https://live.fanmingming.com/tv/m3u/global.m3u", // 直播源地址
         "epg": "", // 电子节目单地址
         "type": "remote", // remote为远程m3u local本地m3u文件路径
         "isActive": true // 是否启用 true启用 false 禁用
@@ -79,6 +79,14 @@
         "id": 2, 
         "name": "APTV",
         "url": "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u", 
+        "epg": "", 
+        "type": "remote", 
+        "isActive": true 
+      },
+      {
+        "id": 3, 
+        "name": "BESTV源",
+        "url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u", 
         "epg": "", 
         "type": "remote", 
         "isActive": true 
