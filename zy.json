@@ -77,8 +77,8 @@
       },
       {
         "id": 2, 
-        "name": "APTV",
-        "url": "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u", 
+        "name": "精选",
+        "url": "https://taijichadao.github.io/zhibo/zb.txt", 
         "epg": "", 
         "type": "remote", 
         "isActive": true 
