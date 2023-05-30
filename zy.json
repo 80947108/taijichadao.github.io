@@ -61,6 +61,30 @@
         "group": "影视", 
         "isActive": true, 
         "status": true
+      },
+      {
+        "id": 6, 
+        "key": "无极",
+        "name": "无极",
+        "api": "http://wujiys.com/api.php/provide/vod/at/xml",
+        "type": 0,
+        "search": 1, 
+        "playUrl": "", 
+        "group": "影视", 
+        "isActive": true, 
+        "status": true
+      },
+      {
+        "id": 7, 
+        "key": "八戒",
+        "name": "八戒",
+        "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
+        "type": 0,
+        "search": 1, 
+        "playUrl": "", 
+        "group": "影视", 
+        "isActive": true, 
+        "status": true
       }
     ]
   },
