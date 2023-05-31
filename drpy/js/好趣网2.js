@@ -4,7 +4,7 @@ var rule = {
 	搜索编码:'GBK',//不填则不编码，默认都是按utf-8.可优先于全局编码属性.比如网页源码编码是gbk,这里可以指定utf-8搜索独立编码。多数情况这个属性不填或者填写gbk应对特殊的网站搜索
 	host:'http://tv.haoqu99.com',
 	url: '/fyclass',
-	searchUrl: '/e/sch/?keyboard=**',
+	searchUrl: '/e/sch/index.php?page=fypage&keyboard=**&sear=1',
 	searchable:2,//是否启用全局搜索,
 	quickSearch:0,//是否启用快速搜索,
 	headers:{
