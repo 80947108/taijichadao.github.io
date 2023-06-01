@@ -65,6 +65,7 @@ CCTV2,https://cntv.sbs/live?auth=230601&id=cctv2
 CCTV3,https://cntv.sbs/live?auth=230601&id=cctv3
 CCTV4,https://cntv.sbs/live?auth=230601&id=cctv4
 CCTV5,https://cntv.sbs/live?auth=230601&id=cctv5
+CCTV5+,https://cntv.sbs/live?auth=230601&id=cctv5p
 CCTV6,https://cntv.sbs/live?auth=230601&id=cctv6
 CCTV7,https://cntv.sbs/live?auth=230601&id=cctv7
 CCTV8,https://cntv.sbs/live?auth=230601&id=cctv8
@@ -77,7 +78,6 @@ CCTV14,https://cntv.sbs/live?auth=230601&id=cctv14
 CCTV15,https://cntv.sbs/live?auth=230601&id=cctv15
 CCTV16,https://cntv.sbs/live?auth=230601&id=cctv16
 CCTV17,https://cntv.sbs/live?auth=230601&id=cctv17
-CCTV5+,https://cntv.sbs/live?auth=230601&id=cctv5p
 CCTV16,https://cntv.sbs/live?auth=230601&id=cctv164k
 CCTV4K,https://cntv.sbs/live?auth=230601&id=cctv4k
 
@@ -98,28 +98,6 @@ CCTV13,http://jiexi.bulisite.top/ysp.php?id=cctv13
 CCTV14,http://jiexi.bulisite.top/ysp.php?id=cctv14
 CCTV15,http://jiexi.bulisite.top/ysp.php?id=cctv15
 CCTV17,http://jiexi.bulisite.top/ysp.php?id=cctv17
-CCTV4K,http://159.75.85.63:5679/cctv4k.php
-
-CCTV1,http://img.ye23.win/iptv2025ok@gmail.com/ysp.php?id=2000210103.m3u8
-CCTV2,http://img.ye23.win/iptv2025ok@gmail.com/ysp.php?id=2000203603.m3u8
-CCTV3,http://img.ye23.win/iptv2025ok@gmail.com/ysp.php?id=2000203803.m3u8
-CCTV4,http://img.ye23.win/iptv2025ok@gmail.com/ysp.php?id=2000204803.m3u8
-CCTV5+,http://img.ye23.win/iptv2025ok@gmail.com/ysp.php?id=2000204503.m3u8
-CCTV5,http://img.ye23.win/iptv2025ok@gmail.com/ysp.php?id=2000205103.m3u8
-CCTV6,http://img.ye23.win/iptv2025ok@gmail.com/ysp.php?id=2013693903.m3u8
-CCTV7,http://img.ye23.win/iptv2025ok@gmail.com/ysp.php?id=2000510003.m3u8
-CCTV8,http://img.ye23.win/iptv2025ok@gmail.com/ysp.php?id=2000203903.m3u8
-CCTV9,http://img.ye23.win/iptv2025ok@gmail.com/ysp.php?id=2000499403.m3u8
-CCTV10,http://img.ye23.win/iptv2025ok@gmail.com/ysp.php?id=2000203503.m3u8
-CCTV11,http://img.ye23.win/iptv2025ok@gmail.com/ysp.php?id=2000204103.m3u8
-CCTV12,http://img.ye23.win/iptv2025ok@gmail.com/ysp.php?id=2000202603.m3u8
-CCTV13,http://img.ye23.win/iptv2025ok@gmail.com/ysp.php?id=2000204603.m3u8
-CCTV14,http://img.ye23.win/iptv2025ok@gmail.com/ysp.php?id=2000204403.m3u8
-CCTV15,http://img.ye23.win/iptv2025ok@gmail.com/ysp.php?id=2000205003.m3u8
-CCTV16,http://img.ye23.win/iptv2025ok@gmail.com/ysp.php?id=2012492303.m3u8
-CCTV16,http://img.ye23.win/iptv2025ok@gmail.com/ysp.php?id=2012375003.m3u8
-CCTV17,http://img.ye23.win/iptv2025ok@gmail.com/ysp.php?id=2000204203.m3u8
-CCTV4K,http://img.ye23.win/iptv2025ok@gmail.com/ysp.php?id=2000266303.m3u8
 
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
@@ -158,6 +136,8 @@ CCTV14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 CCTV15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+
+CCTV4K,http://159.75.85.63:5679/cctv4k.php
 
 //======================================================
 
