@@ -339,10 +339,10 @@ TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=ME2E6545230665452306&ct=192
 TVBS新闻台,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
 东森新闻,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
 纬来体育,http://cloud.yumixiu768.com/tmp/123.m3u8
-金鹰纪实,http://jiexi.bulisite.top/bestv.php?id=jyjs8m/8000000
-纪实科教,http://jiexi.bulisite.top/bestv.php?id=dajs8m/8000000
-纪实人文,http://jiexi.bulisite.top/bestv.php?id=jspdhd/4000000
-茶频道,http://jiexi.bulisite.top/bestv.php?id=cpdhdavs8m/8000000
+金鹰纪实,https://live.goodiptv.club/api/bestv.php?id=jyjs8m/8000000
+纪实科教,https://live.goodiptv.club/api/bestv.php?id=dajs8m/8000000
+纪实人文,https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
+茶频道,https://live.goodiptv.club/api/bestv.php?id=cpdhdavs8m/8000000
 
 凤凰中文,http://iptv.weai.love/10010/88888888/gxgg.play?tvid=fhzw
 凤凰中文,http://awei.beimua.com/iptv.php?id=1
@@ -386,10 +386,10 @@ TVBS新闻台,http://awei.beimua.com/yes.php?id=3
 纬来体育,http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MF0F9609085796090857&ct=19254&tsum=6bf853a68e195475b4892428199568c7
 纬来体育,http://awei.beimua.com/iptv.php?id=73
 纬来体育,http://awei.beimua.com/yes.php?id=8
-金鹰纪实,https://live.goodiptv.club/api/bestv.php?id=jyjs8m/8000000
-纪实科教,https://live.goodiptv.club/api/bestv.php?id=dajs8m/8000000
-纪实人文,https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
-茶频道,https://live.goodiptv.club/api/bestv.php?id=cpdhdavs8m/8000000
+金鹰纪实,http://jiexi.bulisite.top/bestv.php?id=jyjs8m/8000000
+纪实科教,http://jiexi.bulisite.top/bestv.php?id=dajs8m/8000000
+纪实人文,http://jiexi.bulisite.top/bestv.php?id=jspdhd/4000000
+茶频道,http://jiexi.bulisite.top/bestv.php?id=cpdhdavs8m/8000000
 
 📺BesTV,#genre#
 CCTV16-4K,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
