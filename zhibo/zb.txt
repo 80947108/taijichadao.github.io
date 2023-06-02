@@ -333,8 +333,8 @@ CCTV17,http://39.134.61.218/PLTV/88888888/224/3221226857/index.m3u8
 
 //======================================================
 📺其它,#genre#
-凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
-凤凰资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰资讯,http://r.jdshipin.com/0Rp07
 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=ME2E6545230665452306&ct=19234&tsum=ff0df01c2935843c8c4543428728ce28
 TVBS新闻台,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
 东森新闻,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
@@ -344,10 +344,12 @@ TVBS新闻台,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MECE323377403233
 纪实人文,https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
 茶频道,https://live.goodiptv.club/api/bestv.php?id=cpdhdavs8m/8000000
 
+凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
 凤凰中文,http://iptv.weai.love/10010/88888888/gxgg.play?tvid=fhzw
 凤凰中文,http://awei.beimua.com/iptv.php?id=1
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
 凤凰资讯,http://iptv.weai.love/10010/88888888/gxgg.play?tvid=fhzx
 凤凰资讯,http://awei.beimua.com/iptv.php?id=2
 凤凰资讯,http://awei.beimua.com/yes.php?id=2
