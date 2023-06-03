@@ -129,7 +129,6 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212269
 贵州卫视,http://jiexi.bulisite.top/ysp.php?id=gzws
 海南卫视,http://jiexi.bulisite.top/ysp.php?id=hanws
 河北卫视,http://jiexi.bulisite.top/ysp.php?id=hebws
-河南卫视,http://jiexi.bulisite.top/ysp.php?id=henws
 河南卫视,http://jiexi.bulisite.top/ysp.php?id=hnws
 黑龙江卫视,http://jiexi.bulisite.top/ysp.php?id=hljws
 湖北卫视,http://jiexi.bulisite.top/ysp.php?id=hbwshd
