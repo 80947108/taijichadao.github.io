@@ -38,7 +38,6 @@ CCTV16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
 CCTV17,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 CCTV5+,https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
 CCTV4K,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
-CCTV16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
 
 CCTV1,http://iptv.weai.love/10010/88888888/gxgg.play?tvid=cctv1
 CCTV2,http://iptv.weai.love/10010/88888888/gxgg.play?tvid=cctv2
@@ -77,7 +76,6 @@ CCTV14,https://cntv.sbs/live?auth=230601&id=cctv14
 CCTV15,https://cntv.sbs/live?auth=230601&id=cctv15
 CCTV16,https://cntv.sbs/live?auth=230601&id=cctv16
 CCTV17,https://cntv.sbs/live?auth=230601&id=cctv17
-CCTV16,https://cntv.sbs/live?auth=230601&id=cctv164k
 CCTV4K,https://cntv.sbs/live?auth=230601&id=cctv4k
 
 CCTV1,http://39.134.61.218/PLTV/88888888/224/3221226896/index.m3u8
@@ -110,8 +108,8 @@ CCTV7,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122619
 CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
 CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
 CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
-CCTV-11,http://39.134.61.218/PLTV/88888888/224/3221226851/index.m3u8
-CCTV-12,http://39.134.61.218/PLTV/88888888/224/3221226921/index.m3u8
+CCTV11,http://39.134.61.218/PLTV/88888888/224/3221226851/index.m3u8
+CCTV12,http://39.134.61.218/PLTV/88888888/224/3221226921/index.m3u8
 CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
