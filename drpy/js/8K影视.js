@@ -7,7 +7,7 @@ var rule={
     title:'8K影视',
     模板:'首图',
     //host:'http://www.8kvod.com',
-    host:'http://www.xn--45q.top',
+    host:'http://www.八.top',
     homeUrl:'/index.php',
     url:'/t/fyclass-fypage/',
     // class_name:'电影&电视剧&动漫&综艺',
