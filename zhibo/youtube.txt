@@ -1,3 +1,4 @@
+🍅YouTube新闻,#genre#
 凤凰资讯,https://www.youtube.com/watch?v=if6yQq_JJyY
 TVBS HD,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 TVBS新闻,https://www.youtube.com/watch?v=2mCSYvcfhtc
@@ -10,4 +11,3 @@ TVBS新闻,https://www.youtube.com/watch?v=2mCSYvcfhtc
 民视新闻台,https://www.youtube.com/live/ylYJSBUgaMA
 华视新闻,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 镜新闻,https://www.youtube.com/live/5n0y6b0Q25o
-
