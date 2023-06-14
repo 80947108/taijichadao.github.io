@@ -1,0 +1,20 @@
+page页：
+自己的项目：https://taijichadao.github.io/drpy
+fork的项目：https://taijichadao.github.io/dr_py
+道长的项目：https://hjdhnx.github.io/dr_py
+=========================================
+
+项目仓库：https://github.com/taijichadao/dr_py
+page页：https://taijichadao.github.io/dr_py
+-----------------------------
+fork至道长的项目https://github.com/hjdhnx/dr_py
+道长的page页https://hjdhnx.github.io/dr_py
+
+====================
+已创建有page站点https://taijichadao.github.io
+github上给fork项目dr_py创建页面page
+
+1、进入fork的项目dr_py
+2、Settings
+3、点左侧的Pages，Branch中选择main，保存即可
+4、就得到了创建的页面 https://taijichadao.github.io/dr_py/
