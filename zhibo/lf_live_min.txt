@@ -13,6 +13,9 @@ http://ftyyy.tk/live.txt
 #dxawi
 https://dxawi.github.io/0/tvlive.txt
 
+#俊于
+http://home.jundie.top:81/Cat/tv/live.txt
+
 #范明明-global
 https://live.fanmingming.com/tv/m3u/global.m3u
 
