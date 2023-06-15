@@ -11,4 +11,3 @@ TVBS新闻,https://www.youtube.com/watch?v=2mCSYvcfhtc
 民视新闻台,https://www.youtube.com/live/ylYJSBUgaMA
 三立新闻台,https://www.youtube.com/watch?v=CKjSm5ZeehE
 镜新闻,https://www.youtube.com/live/5n0y6b0Q25o
-CCTV1,http://tv.haoqu99.com/1/cctv1.html
