@@ -282,8 +282,7 @@ TVBS新闻台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MEFE52833224528
 纪实人文,https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
 茶频道,https://live.goodiptv.club/api/bestv.php?id=cpdhdavs8m/8000000
 
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰中文,http://sc2022.stream-link.org/list.php?id=h014
+
 凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰资讯,http://sc2022.stream-link.org/list.php?id=h013
