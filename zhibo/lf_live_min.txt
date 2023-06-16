@@ -38,4 +38,4 @@ https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/
 https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
 
 #Youtube
-https://taijichadao.github.io/zhibo/youtube.txt
+https://gitee.com/taijichadao/taiji/raw/master/zhibo/youtube.txt
