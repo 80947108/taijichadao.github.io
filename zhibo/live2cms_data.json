@@ -28,10 +28,6 @@
         "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u"
     },
     {
-        "name": "范明明-Radio",
-        "url": "https://live.fanmingming.com/radio/m3u/index.m3u"
-    },
-    {
         "name": "Ftindy-BESTV源",
         "url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u"
     },
@@ -46,9 +42,5 @@
     {
         "name": "YueChan-ipv6",
         "url": "https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"
-    },
-    {
-        "name": "饭太硬",
-        "url": "http://ftyyy.tk/live.txt"
     }
 ]

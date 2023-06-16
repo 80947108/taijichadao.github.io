@@ -22,9 +22,6 @@ https://live.fanmingming.com/tv/m3u/global.m3u
 #范明明-ipv6
 https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
-#范明明-Radio
-https://live.fanmingming.com/radio/m3u/index.m3u
-
 #Ftindy-BESTV源
 https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u
 
