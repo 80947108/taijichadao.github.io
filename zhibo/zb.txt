@@ -274,6 +274,7 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212269
 📺其它,#genre#
 凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
 凤凰资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
+TVBS HD,https://pipedproxy-cdg.kavin.rocks/api/manifest/hls_variant/expire/1686908607/ei/X9qLZPX6NuWxxN8PsMOY2A4/ip/2001%3A41d0%3A302%3A2200%3A%3A2fe1/id/YvdcZ_jpLXE.3/source/yt_live_broadcast/requiressl/yes/tx/24698585/txs/24698582%2C24698583%2C24698584%2C24698585%2C24698586%2C24698587%2C24698588/hfr/1/playlist_duration/30/manifest_duration/30/demuxed/1/maudio/1/gcr/fr/vprv/1/go/1/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246%2C51000023/beids/24350017/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALr9t6OjEAO-WJusQJFW2v3hEtKynkN09L29H0zGcVOkAiEA7TCxyUuDD9eicX0j7UlTDB0hTPTNVESYrLSQlZj6qSo%3D/file/index.m3u8?host=manifest.googlevideo.com
 TVBS新闻台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
 东森新闻,http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
 纬来体育,http://cloud.yumixiu768.com/tmp/123.m3u8
@@ -283,8 +284,8 @@ TVBS新闻台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MEFE52833224528
 茶频道,https://live.goodiptv.club/api/bestv.php?id=cpdhdavs8m/8000000
 
 凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 凤凰中文,http://sc2022.stream-link.org/tv2306.php?id=h16
+凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰资讯,http://sc2022.stream-link.org/tv2306.php?id=h15
 凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
