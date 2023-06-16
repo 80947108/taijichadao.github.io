@@ -8,9 +8,9 @@ TVBS新闻,https://www.youtube.com/watch?v=2mCSYvcfhtc
 中视新闻,https://www.youtube.com/watch?v=TCnaIE_SAtM
 华视新闻,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 台视新闻台,https://www.youtube.com/watch?v=xL0ch83RAK8
-民视新闻台,https://www.youtube.com/live/ylYJSBUgaMA
+民视新闻台,https://www.youtube.com/watch?v=ylYJSBUgaMA
 三立新闻台,https://www.youtube.com/watch?v=CKjSm5ZeehE
-镜新闻,https://www.youtube.com/live/5n0y6b0Q25o
+镜新闻,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
 凤凰资讯,https://piped.video/watch?v=if6yQq_JJyY
 TVBS HD,https://piped.video/watch?v=YvdcZ_jpLXE
@@ -21,6 +21,19 @@ TVBS新闻,https://piped.video/watch?v=2mCSYvcfhtc
 中视新闻,https://piped.video/watch?v=TCnaIE_SAtM
 华视新闻,https://piped.video/watch?v=wM0g8EoUZ_E
 台视新闻台,https://piped.video/watch?v=xL0ch83RAK8
-民视新闻台,https://www.youtube.com/live/ylYJSBUgaMA
+民视新闻台,https://piped.video/watch?v=ylYJSBUgaMA
 三立新闻台,https://piped.video/watch?v=CKjSm5ZeehE
-镜新闻,https://www.youtube.com/live/5n0y6b0Q25o
+镜新闻,https://piped.video/watch?v=5n0y6b0Q25o
+
+凤凰资讯,https://piped.hostux.net/watch?v=if6yQq_JJyY
+TVBS HD,https://piped.hostux.net/watch?v=YvdcZ_jpLXE
+TVBS新闻,https://piped.hostux.net/watch?v=2mCSYvcfhtc
+东森LIVE,https://piped.hostux.net/watch?v=R2iMq5LKXco
+中天新闻,https://piped.hostux.net/watch?v=oIgbl7t0S_w
+寰宇新闻,https://piped.hostux.net/watch?v=B7Zp3d6xXWw
+中视新闻,https://piped.hostux.net/watch?v=TCnaIE_SAtM
+华视新闻,https://piped.hostux.net/watch?v=wM0g8EoUZ_E
+台视新闻台,https://piped.hostux.net/watch?v=xL0ch83RAK8
+民视新闻台,https://piped.hostux.net/watch?v=ylYJSBUgaMA
+三立新闻台,https://piped.hostux.net/watch?v=CKjSm5ZeehE
+镜新闻,https://piped.hostux.net/watch?v=5n0y6b0Q25o
