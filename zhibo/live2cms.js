@@ -1,7 +1,7 @@
 /**
  * live2cms.js
- * 配置设置 {"key":"Live2Mv","name":"直播转点播","type":3,"api":"http://drpy.nokia.press/libs/live2mv.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://drpy.nokia.press/txt/json/live2mv_data.json"}
- * alist.json
+ * 配置设置 {"key":"Live2CMS","name":"直播转点播V2","type":3,"api":"{{host}}/libs/live2cms.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"{{host}}/txt/json/live2mv_data.json"}
+ * live2mv_data.json
 [
 {"name": "甜蜜",     "url": "http://zdir.kebedd69.repl.co/public/live.txt"},
 {"name": "巧计",     "url": "https://ghproxy.net/https://raw.githubusercontent.com/dxawi/1/main/tvlive.txt"},
@@ -25,6 +25,8 @@ const request_timeout = 5000;
 const VERSION = 'live2cms 20230616';
 const UA = 'Mozilla/5.0'; //默认请求ua
 const __ext = {data_dict:{}};
+const tips = `\n道长直播转点播js-当前版本${VERSION}`;
+const def_pic = 'https://avatars.githubusercontent.com/u/97389433?s=120&v=4';
 /**
  * 打印日志
  * @param any 任意变量
@@ -118,8 +120,6 @@ function init(ext) {
 			let data_url = ext_paramas[0];
 			print(data_url);
 			data = http.get(data_url).json();
-			print('live ext:json string');
-			data = JSON.parse(ext);
 		}
 	}
     print(data);
@@ -147,12 +147,12 @@ function homeVod(params) {
 			_list.push({
 				vod_name:it.split(',')[0],
 				vod_id:_get_url+'$'+it.split(',')[0],
-				// vod_pic:'https://avatars.githubusercontent.com/u/97389433?s=120&v=4',
+				vod_pic:def_pic,
 				vod_remarks:it.split(',')[1],
 			});
 		});
 	}catch (e) {
-		print('Live2mv获取首页推荐发送错误:'+e.message);
+		print('Live2cms获取首页推荐发送错误:'+e.message);
 	}
 	return JSON.stringify({ 'list': _list });
 }
@@ -173,12 +173,12 @@ function category(tid, pg, filter, extend) {
 			_list.push({
 				vod_name:it.split(',')[0],
 				vod_id:_get_url+'$'+it.split(',')[0],
-				// vod_pic:'https://avatars.githubusercontent.com/u/97389433?s=120&v=4',
+				vod_pic:def_pic,
 				vod_remarks:it.split(',')[1],
 			});
 		});
 	}catch (e) {
-		print('Live2mv获取首页推荐发送错误:'+e.message);
+		print('Live2cms获取一级分类页发生错误:'+e.message);
 	}
 
 	return JSON.stringify({
@@ -193,6 +193,23 @@ function category(tid, pg, filter, extend) {
 function detail(tid) { // ⛵  港•澳•台
     let _get_url = tid.split('$')[0];
     let _tab = tid.split('$')[1];
+	if(tid.includes('#search#')){
+		let vod_play_url = _tab.replace('#search#','')+'$'+_get_url;
+		print(vod_play_url);
+		return JSON.stringify({
+			list: [{
+				vod_id: tid,
+        		vod_name: '搜索:'+_tab.replace('#search#',''),
+        		type_name: "直播列表",
+        		vod_pic: def_pic,
+        		vod_content: tid,
+        		vod_play_from: '来自搜索',
+        		vod_play_url: vod_play_url,
+        		vod_director: tips,
+        		vod_remarks: `道长直播转点播js-当前版本${VERSION}`,
+			}]
+		});
+	}
     let html;
     if(__ext.data_dict[_get_url]){
         html = __ext.data_dict[_get_url];
@@ -218,14 +235,16 @@ function detail(tid) { // ⛵  港•澳•台
     });
     let vod_name = __ext.data.find(x=>x.url===_get_url).name;
     let vod_play_url = _list.join('#');
+
     let vod = {
         vod_id: tid,
-        vod_name: _tab,
+        vod_name: vod_name+'|'+_tab,
         type_name: "直播列表",
-        vod_pic: "https://avatars.githubusercontent.com/u/97389433?s=120&v=4",
+        vod_pic: def_pic,
         vod_content: tid,
         vod_play_from: vod_name,
         vod_play_url: vod_play_url,
+        vod_director: tips,
         vod_remarks: `道长直播转点播js-当前版本${VERSION}`,
     };
 
@@ -245,8 +264,36 @@ function play(flag, id, flags) {
 }
 
 function search(wd, quick) {
+	let _get_url = __ext.data[0].url;
+	let html;
+    if(__ext.data_dict[_get_url]){
+        html = __ext.data_dict[_get_url];
+    }else{
+        html = http.get(_get_url).text();
+        __ext.data_dict[_get_url] = html;
+    }
+	let str='';
+	Object.keys(__ext.data_dict).forEach(()=>{
+		str+=__ext.data_dict[_get_url];
+	});
+	let links = str.split('\n').filter(it=>it.trim() && it.includes(','));
+	links = links.map(it=>it.trim());
+	let plays = Array.from(new Set(links));
+	print('搜索关键词:'+wd);
+	print('过滤前:'+plays.length);
+	plays = plays.filter(it=>it.includes(wd));
+	print('过滤后:'+plays.length);
+	print(plays);
+	let _list = [];
+	plays.forEach((it)=>{
+		_list.push({
+			'vod_name':it.split(',')[0],
+			'vod_id':it.split(',')[1].trim()+'$'+it.split(',')[0].trim()+'#search#',
+			'vod_pic':def_pic,
+		})
+	});
 	return JSON.stringify({
-			'list': []
+			'list': _list
     });
 }
 
