@@ -23,3 +23,8 @@ Everydaytv,#genre#
 纬来体育,https://everydaytv.top/play-3-148-1.html/parse
 纬来体育,https://everydaytv.top/play-3-148-0.html/parse
 TVBS新闻台,https://everydaytv.top/play-3-142-1.html/parse
+
+抖音/parse,#genre#
+CCTV6,https://live.douyin.com/208823316033
+CCTV13,https://live.douyin.com/870887192950
+CCTV13,https://live.douyin.com/127453393722
