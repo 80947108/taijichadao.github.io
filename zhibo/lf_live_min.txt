@@ -1,8 +1,14 @@
 #IPTV
 1
 
+#XJJ
+0
+
 #精选
 https://taijichadao.github.io/zhibo/zhibo.txt
+
+#Youtube
+https://gitee.com/taijichadao/taiji/raw/master/zhibo/youtube.txt
 
 #肥猫
 http://我不是.肥猫.love:63/TV/tvzb.txt
@@ -34,5 +40,5 @@ https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/
 #YueChan-ipv6
 https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
 
-#Youtube
-https://gitee.com/taijichadao/taiji/raw/master/zhibo/youtube.txt
+#嗅探
+https://taijichadao.github.io/zhibo/xiutan.txt
