@@ -16,6 +16,9 @@ https://dxawi.github.io/0/tvlive.txt
 #俊于
 http://home.jundie.top:81/Cat/tv/live.txt
 
+#太阳
+http://111.67.196.181/zhibo.txt
+
 #范明明-global
 https://live.fanmingming.com/tv/m3u/global.m3u
 
@@ -24,9 +27,6 @@ https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
 #Ftindy-BESTV源
 https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u
-
-#太阳
-http://111.67.196.181/zhibo.txt
 
 #APTV-ipv6
 https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u

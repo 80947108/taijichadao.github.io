@@ -22,5 +22,25 @@
     {
         "name": "太阳",
         "url": "http://111.67.196.181/zhibo.txt"
+    },
+    {
+        "name": "范明明-global",
+        "url": "https://live.fanmingming.com/tv/m3u/global.m3u"
+    },
+    {
+        "name": "范明明-ipv6",
+        "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u"
+    },
+    {
+        "name": "Ftindy-BESTV源",
+        "url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u"
+    },
+    {
+        "name": "APTV-ipv6",
+        "url": "https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u"
+    },
+    {
+        "name": "YueChan-ipv6",
+        "url": "https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"
     }
 ]
