@@ -20,6 +20,6 @@ cctv17,http://tv.haoqu99.com/1/cctv17.html
 cctv4K,http://tv.haoqu99.com/1/cctv4k.html
 
 Everydaytv,#genre#
-纬来体育,http://tv.haoqu99.com/1/cctv4k.html/parse
+纬来体育,https://everydaytv.top/play-3-148-0.html/parse
 TVBS,https://everydaytv.top/play-3-137-0.html/parse
 TVBS新闻台,https://everydaytv.top/play-3-142-1.html/parse
