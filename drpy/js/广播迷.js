@@ -1,6 +1,7 @@
 var rule = {
     title:'广播迷',
-    编码:'gb18030',
+    编码:'gbk',
+    搜索编码:'gbk',
     host:'http://www.guangbomi.com',
     url:'/fyclass/fypage.html[/fyclass]',
     searchUrl:'/index.php?m=search&c=index&a=init&siteid=1&typeid=54&q=**',
