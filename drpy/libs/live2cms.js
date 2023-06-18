@@ -4,12 +4,9 @@
  * live2mv_data.json
 [
 {"name": "甜蜜",     "url": "http://zdir.kebedd69.repl.co/public/live.txt"},
-{"name": "巧计",     "url": "https://ghproxy.net/https://raw.githubusercontent.com/dxawi/1/main/tvlive.txt"},
-{"name": "星辰",     "url": "http://tvmvip.com/xclive.txt"},
 {"name": "俊于",     "url": "http://home.jundie.top:81/Cat/tv/live.txt"},
-{"name": "多多",     "url": "https://yydsys.top/duo/txt/v.txt"},
 {"name": "菜妮丝",     "url": "http://xn--ihqu10cn4c.xn--z7x900a.love:63/TV/tvzb.txt"},
-{"name": "乱世",     "url": "http://www.dmtv.ml/mao/live/m3u.txt"},
+{"name": "布里m3u",     "url": "http://jiexi.bulisite.top/m3u.php"},
 {"name": "吾爱",     "url": "http://52bsj.vip:81/api/v3/file/get/763/live.txt?sign=87BTGT1_6AOry7FPwy_uuxFTv2Wcb9aDMj46rDdRTD8%3D%3A0"},
 {"name": "饭太硬",     "url": "http://ftyyy.tk/live.txt"}
 ]
@@ -66,6 +63,40 @@ function getHome(url){
 	}catch (e) {}
 	return url
 }
+
+/**
+ * m3u直播格式转一般直播格式
+ * @param m3u
+ * @returns {string}
+ */
+function convertM3uToNormal(m3u) {
+	try {
+	  const lines = m3u.split('\n');
+	  let result = '';
+	  let TV='';
+	  // let flag='#genre#';
+	  let flag='#m3u#';
+	  let currentGroupTitle = '';
+	  lines.forEach((line) => {
+		if (line.startsWith('#EXTINF:')) {
+		  const groupTitle = line.split('"')[1].trim();
+		  TV= line.split('"')[2].substring(1);
+		  if (currentGroupTitle !== groupTitle) {
+			currentGroupTitle = groupTitle;
+			result += `\n${currentGroupTitle},${flag}\n`;
+		  }
+		} else if (line.startsWith('http')) {
+		  const splitLine = line.split(',');
+		  result += `${TV}\,${splitLine[0]}\n`;
+		}
+	  });
+	  return result.trim();
+  }catch (e) {
+	print(`m3u直播转普通直播发生错误:${e.message}`);
+	return m3u
+	}
+}
+
 
 const http = function (url, options = {}) {
 	if(options.method ==='POST' && options.data){
@@ -139,7 +170,16 @@ function home(filter) {
 
 function homeVod(params) {
 	let _get_url = __ext.data[0].url;
-	let html = http.get(_get_url).text();
+	let html;
+    if(__ext.data_dict[_get_url]){
+        html = __ext.data_dict[_get_url];
+    }else{
+        html = http.get(_get_url).text();
+		if(/#EXTM3U/.test(html)){
+			html = convertM3uToNormal(html);
+		}
+        __ext.data_dict[_get_url] = html;
+    }
     let arr = html.match(/.*?,#[\s\S].*?#/g);
 	let _list = [];
 	try {
@@ -158,12 +198,20 @@ function homeVod(params) {
 }
 
 function category(tid, pg, filter, extend) {
+	if(parseInt(pg)>1){
+		return JSON.stringify({
+		'list': [],
+	});
+	}
     let _get_url = tid;
     let html;
     if(__ext.data_dict[_get_url]){
         html = __ext.data_dict[_get_url];
     }else{
         html = http.get(_get_url).text();
+		if(/#EXTM3U/.test(html)){
+			html = convertM3uToNormal(html);
+		}
         __ext.data_dict[_get_url] = html;
     }
     let arr = html.match(/.*?,#[\s\S].*?#/g);
@@ -215,6 +263,9 @@ function detail(tid) { // ⛵  港•澳•台
         html = __ext.data_dict[_get_url];
     }else{
         html = http.get(_get_url).text();
+		if(/#EXTM3U/.test(html)){
+			html = convertM3uToNormal(html);
+		}
         __ext.data_dict[_get_url] = html;
     }
     let a = new RegExp(`.*?${_tab},#[\\s\\S].*?#`);
@@ -233,6 +284,10 @@ function detail(tid) { // ⛵  港•澳•台
             _list.push(t+'$'+u);
         }
     });
+	// let groups = [[],[],[],[],[],[]];
+	// _list.forEach((it)=>{
+	//
+	// });
     let vod_name = __ext.data.find(x=>x.url===_get_url).name;
     let vod_play_url = _list.join('#');
 
@@ -270,6 +325,9 @@ function search(wd, quick) {
         html = __ext.data_dict[_get_url];
     }else{
         html = http.get(_get_url).text();
+		if(/#EXTM3U/.test(html)){
+			html = convertM3uToNormal(html);
+		}
         __ext.data_dict[_get_url] = html;
     }
 	let str='';
