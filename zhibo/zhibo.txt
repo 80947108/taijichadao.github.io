@@ -99,29 +99,6 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212269
 //======================================================
 
 📡卫视,#genre#卫视(31个频道)
-湖南卫视,http://jiexi.bulisite.top/ysp.php?id=hnwshd
-安徽卫视,http://jiexi.bulisite.top/ysp.php?id=ahws
-北京卫视,http://jiexi.bulisite.top/ysp.php?id=bjws
-重庆卫视,http://jiexi.bulisite.top/ysp.php?id=cqws
-东方卫视,http://jiexi.bulisite.top/ysp.php?id=dfws
-东南卫视,http://jiexi.bulisite.top/ysp.php?id=dnws
-广东卫视,http://jiexi.bulisite.top/ysp.php?id=gdws
-广西卫视,http://jiexi.bulisite.top/ysp.php?id=gxws
-贵州卫视,http://jiexi.bulisite.top/ysp.php?id=gzws
-海南卫视,http://jiexi.bulisite.top/ysp.php?id=hanws
-河北卫视,http://jiexi.bulisite.top/ysp.php?id=hebws
-河南卫视,http://jiexi.bulisite.top/ysp.php?id=hnws
-黑龙江卫视,http://jiexi.bulisite.top/ysp.php?id=hljws
-湖北卫视,http://jiexi.bulisite.top/ysp.php?id=hbwshd
-江苏卫视,http://jiexi.bulisite.top/ysp.php?id=jsws
-江西卫视,http://jiexi.bulisite.top/ysp.php?id=jxws
-辽宁卫视,http://jiexi.bulisite.top/ysp.php?id=ljws
-山东卫视,http://jiexi.bulisite.top/ysp.php?id=sdws
-四川卫视,http://jiexi.bulisite.top/ysp.php?id=scws
-浙江卫视,http://jiexi.bulisite.top/ysp.php?id=zjws
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
-内蒙古卫视,http://v2.91kds.cn/b9/hoge.m3u8?ip=nmtv&id=92&auth=rinimabi
-
 湖南卫视,https://cntv.sbs/live?auth=230612&id=hunws
 安徽卫视,https://cntv.sbs/live?auth=230612&id=ahws
 北京卫视,https://cntv.sbs/live?auth=230612&id=bjws
@@ -249,6 +226,9 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212269
 新疆卫视,http://39.134.61.218/PLTV/88888888/224/3221226941/index.m3u8
 云南卫视,http://39.134.61.218/PLTV/88888888/224/3221226634/index.m3u8
 浙江卫视,http://39.134.61.218/PLTV/88888888/224/3221227078/index.m3u8
+
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
+内蒙古卫视,http://v2.91kds.cn/b9/hoge.m3u8?ip=nmtv&id=92&auth=rinimabi
 
 //======================================================
 📺其它,#genre#
