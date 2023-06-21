@@ -5,13 +5,7 @@
 https://ghproxy.com/https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio
 
 #范明明-Radio
-https://live.fanmingming.com/radio/m3u/index.m3u
-
-#范明明2-Radio
 https://taijichadao.github.io/zhibo/范明明radio.txt
 
 #YueChan-Radio
 https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u
-
-
-
