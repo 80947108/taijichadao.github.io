@@ -22,6 +22,9 @@ http://home.jundie.top:81/Cat/tv/live.txt
 #太阳
 http://111.67.196.181/zhibo.txt
 
+#布里
+http://jiexi.bulisite.top/m3u.php
+
 #范明明-global
 https://live.fanmingming.com/tv/m3u/global.m3u
 
