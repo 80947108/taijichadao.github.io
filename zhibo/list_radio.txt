@@ -9,3 +9,9 @@ https://taijichadao.github.io/zhibo/范明明radio.txt
 
 #YueChan-Radio
 https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u
+
+#TVradio2
+http://live.cooltv.top/tv.php
+
+#布里
+http://jiexi.bulisite.top/m3u.php
