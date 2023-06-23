@@ -1,6 +1,9 @@
 #IPTV
 0
 
+#蜻蜓fm
+https://taijichadao.github.io/zhibo/蜻蜓fm.txt
+
 #TVradio
 https://ghproxy.com/https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio
 
@@ -16,11 +19,5 @@ http://live.cooltv.top/tv.php
 #Radio收集
 https://taijichadao.github.io/zhibo/radio.txt
 
-#蜻蜓fm-0
+#蜻蜓fm-嗅探
 https://taijichadao.github.io/zhibo/蜻蜓fm-嗅探.txt
-
-#蜻蜓fm-1
-https://taijichadao.github.io/zhibo/蜻蜓fm-直连1.txt
-
-#蜻蜓fm-2
-https://taijichadao.github.io/zhibo/蜻蜓fm-直连2.txt
