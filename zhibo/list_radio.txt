@@ -4,6 +4,12 @@
 #蜻蜓fm
 https://taijichadao.github.io/zhibo/蜻蜓fm.txt
 
+#喜马拉雅
+https://taijichadao.github.io/zhibo/喜马拉雅.txt
+
+#cnr
+https://taijichadao.github.io/zhibo/cnr.txt
+
 #TVradio
 https://ghproxy.com/https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio
 
@@ -15,9 +21,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3
 
 #cooltv
 http://live.cooltv.top/tv.php
-
-#喜马拉雅
-https://taijichadao.github.io/zhibo/喜马拉雅.txt
 
 #Radio收集
 https://taijichadao.github.io/zhibo/radio.txt
