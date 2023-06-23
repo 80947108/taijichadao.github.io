@@ -8,7 +8,7 @@ https://taijichadao.github.io/zhibo/蜻蜓fm.txt
 https://ghproxy.com/https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio
 
 #范明明-Radio
-https://taijichadao.github.io/zhibo/范明明radio.txt
+https://ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/index.m3u
 
 #YueChan-Radio
 https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u
