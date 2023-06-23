@@ -7,7 +7,7 @@ https://taijichadao.github.io/zhibo/蜻蜓fm.txt
 #TVradio
 https://ghproxy.com/https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio
 
-#范明明2-Radio
+#范明明-Radio
 https://live.fanmingming.com/radio/m3u/index.m3u
 
 #YueChan-Radio
