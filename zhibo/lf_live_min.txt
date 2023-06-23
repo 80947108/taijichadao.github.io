@@ -43,5 +43,5 @@ https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/
 #YueChan-ipv6
 https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
 
-#综合iptv-org
+#全世界
 https://iptv-org.github.io/iptv/index.m3u
