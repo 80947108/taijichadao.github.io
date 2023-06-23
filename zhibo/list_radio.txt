@@ -18,6 +18,3 @@ http://live.cooltv.top/tv.php
 
 #Radio收集
 https://taijichadao.github.io/zhibo/radio.txt
-
-#蜻蜓fm-嗅探
-https://taijichadao.github.io/zhibo/蜻蜓fm-嗅探.txt
