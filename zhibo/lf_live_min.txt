@@ -28,9 +28,6 @@ http://111.67.196.181/zhibo.txt
 #布里
 http://jiexi.bulisite.top/m3u.php
 
-#测试
-https://iptv-org.github.io/iptv/index.m3u
-
 #范明明-global
 https://live.fanmingming.com/tv/m3u/global.m3u
 
@@ -45,3 +42,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/
 
 #YueChan-ipv6
 https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+
+#综合iptv-org
+https://iptv-org.github.io/iptv/index.m3u
