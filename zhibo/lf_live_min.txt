@@ -28,7 +28,7 @@ http://111.67.196.181/zhibo.txt
 #布里
 http://jiexi.bulisite.top/m3u.php
 
-#iptvorg
+#测试
 https://iptv-org.github.io/iptv/index.m3u
 
 #范明明-global
