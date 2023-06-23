@@ -45,3 +45,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
 
 #全球线路
 https://iptv-org.github.io/iptv/index.m3u
+
+#epg
+https://epg.pw/test_channels_all.m3u
