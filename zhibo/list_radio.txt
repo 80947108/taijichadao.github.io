@@ -15,3 +15,12 @@ http://live.cooltv.top/tv.php
 
 #Radio收集
 https://taijichadao.github.io/zhibo/radio.txt
+
+#蜻蜓fm-0
+https://taijichadao.github.io/zhibo/蜻蜓fm-嗅探.txt
+
+#蜻蜓fm-1
+https://taijichadao.github.io/zhibo/蜻蜓fm-直连1.txt
+
+#蜻蜓fm-2
+https://taijichadao.github.io/zhibo/蜻蜓fm-直连2.txt
