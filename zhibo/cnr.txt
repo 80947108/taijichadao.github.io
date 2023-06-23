@@ -19,10 +19,12 @@ CNR哈萨克语广播,http://ngcdn025.cnr.cn/live/hygb/index.m3u8
 CRI环球资讯广播,https://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
 CRI南海之声,http://satellitepull.cnr.cn/live/wxnhzs/playlist.m3u8
 CRI南海之声,http://sk.cri.cn/nhzs.m3u8
+CRI环球资讯广播,http://sk.cri.cn/905.m3u8
 CRI环球资讯广播,http://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
 CRI轻松调频,http://sk.cri.cn/915.m3u8
 CRI HIT FM (北京),http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
 CRI HIT FM (广州),http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
+CRI Hit FM FM88.7,http://sk.cri.cn/887.m3u8
 CRI英语资讯广播 CGTN Radio,http://sk.cri.cn/am846.m3u8
 CRI外语教学广播 China Plus Radio,http://sk.cri.cn/am1008.m3u8
 CRI华语环球广播,http://sk.cri.cn/hyhq.m3u8
