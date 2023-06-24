@@ -18,7 +18,7 @@ var rule = {
 	lazy:'js:var purl=jsp.pdfh(request(input), ".playcode&&iframe&&src");if(/tingtingfm/.test(purl)){purl="http://www.guangbomi.com"+purl};input= {jx:0,url:purl,parse:1,header:JSON.stringify({"referer":"http://www.guangbomi.com/"})}',
 	limit:6,
 	double: true,
-	一级: '.ax-split-2&&li;.radio-title&&Text;;;a&&href',
+	一级: '.ax-split-2&&li;.radio-title&&Text;img&&src;;a&&href',
 	二级: {
 		"title": "h1&&Text;.ax-breadcrumb:eq(1)&&Text",
 		"img": "",
