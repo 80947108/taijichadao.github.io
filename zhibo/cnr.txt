@@ -29,6 +29,13 @@ CRI英语资讯广播 CGTN Radio,http://sk.cri.cn/am846.m3u8
 CRI外语教学广播 China Plus Radio,http://sk.cri.cn/am1008.m3u8
 CRI华语环球广播,http://sk.cri.cn/hyhq.m3u8
 CRI粤语国际,http://sk.cri.cn/hxfh.m3u8
+湖南交通广播,http://satellitepull.cnr.cn/live/wx32hunjtgb/playlist.m3u8
+湖南金鹰之声,http://satellitepull.cnr.cn/live/wx32955/playlist.m3u8
+湖南综合广播,http://satellitepull.cnr.cn/live/wx32hunxwgb/playlist.m3u8
+湖南潇湘之声,http://satellitepull.cnr.cn/live/wx32hunyygb/playlist.m3u8
+湖南经济广播,http://satellitepull.cnr.cn/live/wx32hunjjgb/playlist.m3u8
+湖南文艺广播·摩登音乐台,https://satellitepull.cnr.cn/live/wx32hunwygb/playlist.m3u8
+湖南旅游广播·PoPoPod播客电台,http://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
 上海长三角之声,https://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
 上海第一财经广播,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 江苏故事广播,https://satellitepull.cnr.cn/live/wx32jsgsgb/playlist.m3u8
@@ -116,7 +123,6 @@ CRI粤语国际,http://sk.cri.cn/hxfh.m3u8
 山东音乐广播,https://satellitepull.cnr.cn/live/wxsdyygb/playlist.m3u8
 山东经典音乐广播,https://satellitepull.cnr.cn/live/wxsdshxxgb/playlist.m3u8
 安徽音乐广播,https://satellitepull.cnr.cn/live/wxahyygb/playlist.m3u8
-湖南文艺广播·摩登音乐台,https://satellitepull.cnr.cn/live/wx32hunwygb/playlist.m3u8
 内蒙古音乐之声,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 湖北经典音乐广播,https://satellitepull.cnr.cn/live/wx32hubyygb/playlist.m3u8
 甘肃青春调频,https://satellitepull.cnr.cn/live/wxgsqcgb/playlist.m3u8
@@ -221,15 +227,6 @@ CRI环球资讯广播,http://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
 阿拉善汉语广播,http://satellitepull.cnr.cn/live/wx32nmgalshygb/playlist.m3u8
 阿拉善蒙语广播,http://satellitepull.cnr.cn/live/wx32nmgalsmygb/playlist.m3u8
 呼伦贝尔汉语广播,http://satellitepull.cnr.cn/live/wx32nmghlbehygb/playlist.m3u8
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-东方卫视,http://satellitepull.cnr.cn/live/wx32dfws/playlist.m3u8
-浙江卫视,http://satellitepull.cnr.cn/live/wxzjws/playlist.m3u8
-江苏卫视,http://satellitepull.cnr.cn/live/wx32jsws/playlist.m3u8
-北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
-安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
-山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 四川旅游生活广播,http://satellitepull.cnr.cn/live/wxsclyshgb/playlist.m3u8
 四川交通广播,http://satellitepull.cnr.cn/live/wxscjtgb/playlist.m3u8
 四川综合广播四川之声,http://satellitepull.cnr.cn/live/wxsczhgb/playlist.m3u8
@@ -249,12 +246,6 @@ CRI环球资讯广播,http://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
 黑龙江交通广播,http://satellitepull.cnr.cn/live/wx32hljjtgb/playlist.m3u8
 黑龙江都市女性广播,http://satellitepull.cnr.cn/live/wx32hljnxgb/playlist.m3u8
 黑龙江都生活广播,http://satellitepull.cnr.cn/live/wx32hljsjcgb/playlist.m3u8
-湖南潇湘之声,http://satellitepull.cnr.cn/live/wx32hunyygb/playlist.m3u8
-湖南经济广播,http://satellitepull.cnr.cn/live/wx32hunjjgb/playlist.m3u8
-湖南旅游广播·PoPoPod播客电台,http://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
-湖南交通广播,http://satellitepull.cnr.cn/live/wx32hunjtgb/playlist.m3u8
-湖南金鹰之声,http://satellitepull.cnr.cn/live/wx32955/playlist.m3u8
-湖南综合广播,http://satellitepull.cnr.cn/live/wx32hunxwgb/playlist.m3u8
 江苏故事广播,http://satellitepull.cnr.cn/live/wx32jsgsgb/playlist.m3u8
 江苏新闻综合广播,http://satellitepull.cnr.cn/live/wx32jsxwzhgb/playlist.m3u8
 江苏新闻广播,http://satellitepull.cnr.cn/live/wx32jsxwgb/playlist.m3u8
