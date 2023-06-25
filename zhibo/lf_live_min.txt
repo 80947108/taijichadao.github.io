@@ -43,6 +43,15 @@ https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/
 #YueChan-ipv6
 https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
 
+#YanG Gather
+https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+
+#whpsky-ChinaTV
+https://ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.txt
+
+#zbefine
+https://ghproxy.com/https://raw.githubusercontent.com/zbefine/iptv/main/iptv.txt
+
 #全球线路
 https://iptv-org.github.io/iptv/index.m3u
 
