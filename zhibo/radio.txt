@@ -1,3 +1,4 @@
+Radio收集,#genre#
 Today’s Hits,http://rfcmedia.streamguys1.com/MusicPulsePremium.mp3
 Pop Hits,http://rfcmedia.streamguys1.com/newpophitspremium.mp3
 Alternative Hits,http://rfcmedia.streamguys1.com/alternativehitspremium.mp3
