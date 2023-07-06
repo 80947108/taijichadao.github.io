@@ -40,7 +40,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.t
 #TV-全球线路
 https://iptv-org.github.io/iptv/index.m3u
 
-#TV-epg
+#TV-EPG
 https://epg.pw/test_channels_all.m3u
 
 #Radio-范明明
