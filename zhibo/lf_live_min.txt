@@ -22,19 +22,19 @@ https://taijichadao.github.io/zhibo/xiutan.txt
 #TV-dxawi
 https://dxawi.github.io/0/tvlive.txt
 
-#TV-范明明-global
+#TV-范明明_global
 https://live.fanmingming.com/tv/m3u/global.m3u
 
-#TV-范明明-ipv6
+#TV-范明明_ipv6
 https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
-#TV-Ftindy-BESTV源
+#TV-Ftindy_BESTV源
 https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u
 
-#TV-YanG Gather
+#TV-YanG_Gather
 https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 
-#TV-whpsky-ChinaTV
+#TV-whpsky_ChinaTV
 https://ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.txt
 
 #TV-全球线路
