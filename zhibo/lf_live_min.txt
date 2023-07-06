@@ -22,12 +22,6 @@ https://taijichadao.github.io/zhibo/xiutan.txt
 #TV-dxawi
 https://dxawi.github.io/0/tvlive.txt
 
-#TV-俊于
-http://home.jundie.top:81/Cat/tv/live.txt
-
-#TV-布里
-http://jiexi.bulisite.top/m3u.php
-
 #TV-范明明-global
 https://live.fanmingming.com/tv/m3u/global.m3u
 
@@ -42,9 +36,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.
 
 #TV-whpsky-ChinaTV
 https://ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.txt
-
-#TV-zbefine
-https://ghproxy.com/https://raw.githubusercontent.com/zbefine/iptv/main/iptv.txt
 
 #TV-全球线路
 https://iptv-org.github.io/iptv/index.m3u
