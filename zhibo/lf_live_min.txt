@@ -13,6 +13,12 @@ https://taijichadao.github.io/zhibo/蜻蜓fm.txt
 #Radio-cnr
 https://taijichadao.github.io/zhibo/cnr.txt
 
+#MV-歌手
+https://taijichadao.github.io/zhibo/mv.txt
+
+#MV-曲库
+https://taijichadao.github.io/zhibo/mv_16w.txt
+
 #TV-嗅探
 https://taijichadao.github.io/zhibo/xiutan.txt
 
@@ -69,6 +75,9 @@ https://taijichadao.github.io/zhibo/喜马拉雅.txt
 
 #Radio-范明明
 https://live.fanmingming.com/radio/m3u/index.m3u
+
+#Radio-goolguy007
+http://live.cooltv.top/tv.php
 
 #Radio-YueChan
 https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u
