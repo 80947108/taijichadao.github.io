@@ -39,26 +39,6 @@ CCTV17,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 CCTV5+,https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
 CCTV4K,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
 
-CCTV1,http://iptv.weai.love/10010/88888888/gxgg.play?tvid=cctv1
-CCTV2,http://iptv.weai.love/10010/88888888/gxgg.play?tvid=cctv2
-CCTV3,http://iptv.weai.love/10010/88888888/gxgg.play?tvid=cctv3
-CCTV4,http://iptv.weai.love/10010/88888888/gxgg.play?tvid=cctv4
-CCTV5,http://iptv.weai.love/10010/88888888/gxgg.play?tvid=cctv5
-CCTV5+,http://iptv.weai.love/10010/88888888/gxgg.play?tvid=cctv5p
-CCTV6,http://iptv.weai.love/10010/88888888/gxgg.play?tvid=cctv6
-CCTV7,http://iptv.weai.love/10010/88888888/gxgg.play?tvid=cctv7
-CCTV8,http://iptv.weai.love/10010/88888888/gxgg.play?tvid=cctv8
-CCTV9,http://iptv.weai.love/10010/88888888/gxgg.play?tvid=cctv9
-CCTV10,http://iptv.weai.love/10010/88888888/gxgg.play?tvid=cctv10
-CCTV11,http://iptv.weai.love/10010/88888888/gxgg.play?tvid=cctv11
-CCTV12,http://iptv.weai.love/10010/88888888/gxgg.play?tvid=cctv12
-CCTV13,http://iptv.weai.love/10010/88888888/gxgg.play?tvid=cctv13
-CCTV14,http://iptv.weai.love/10010/88888888/gxgg.play?tvid=cctv14
-CCTV15,http://iptv.weai.love/10010/88888888/gxgg.play?tvid=cctv15
-CCTV16,http://iptv.weai.love/10010/88888888/gxgg.play?tvid=cctv16
-CCTV17,http://iptv.weai.love/10010/88888888/gxgg.play?tvid=cctv17
-CCTV4K,http://159.75.85.63:5679/cctv4k.php
-
 CCTV1,http://39.134.61.218/PLTV/88888888/224/3221226896/index.m3u8
 CCTV2,http://39.134.61.218/PLTV/88888888/224/3221226843/index.m3u8
 CCTV3,http://39.134.61.218/PLTV/88888888/224/3221226889/index.m3u8
@@ -77,6 +57,7 @@ CCTV14,http://39.134.61.218/PLTV/88888888/224/3221226908/index.m3u8
 CCTV15,http://39.134.61.218/PLTV/88888888/224/3221226855/index.m3u8
 CCTV16,http://39.134.61.218/PLTV/88888888/224/3221226910/index.m3u8
 CCTV17,http://39.134.61.218/PLTV/88888888/224/3221226857/index.m3u8
+CCTV4K,http://159.75.85.63:5679/cctv4k.php
 
 CCTV1,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
