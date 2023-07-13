@@ -19,6 +19,9 @@ https://taijichadao.github.io/zhibo/cnr.txt
 #TV-网页
 https://taijichadao.github.io/zhibo/webpage.txt
 
+#TV-Bestv
+https://gitee.com/taijichadao/taiji/raw/master/zhibo/bestv.txt
+
 #TV-dxawi
 https://dxawi.github.io/0/tvlive.txt
 
@@ -31,7 +34,7 @@ https://live.fanmingming.com/tv/m3u/ipv6.m3u
 #TV-范明明_ipv6plus
 https://live.fanmingming.com/tv/m3u/ipv6plus.m3u
 
-#TV-Ftindy_BESTV源
+#TV-Ftindy_BESTV
 https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u
 
 #TV-YanG_Gather
