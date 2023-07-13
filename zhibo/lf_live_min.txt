@@ -17,7 +17,7 @@ https://taijichadao.github.io/zhibo/蜻蜓fm.txt
 https://taijichadao.github.io/zhibo/cnr.txt
 
 #TV-网页
-https://taijichadao.github.io/zhibo/xiutan.txt
+https://taijichadao.github.io/zhibo/webpage.txt
 
 #TV-dxawi
 https://dxawi.github.io/0/tvlive.txt
