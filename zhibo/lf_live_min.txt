@@ -19,8 +19,11 @@ https://taijichadao.github.io/zhibo/cnr.txt
 #TV-网页
 https://taijichadao.github.io/zhibo/webpage.txt
 
-#TV-Bestv
+#TV-百视通
 https://gitee.com/taijichadao/taiji/raw/master/zhibo/bestv.txt
+
+#TV-重庆有线
+https://gitee.com/taijichadao/taiji/raw/master/zhibo/cqyx.txt
 
 #TV-dxawi
 https://dxawi.github.io/0/tvlive.txt
