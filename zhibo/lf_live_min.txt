@@ -7,12 +7,6 @@
 #TV-精选
 https://taijichadao.github.io/zhibo/zhibo.txt
 
-#TV-Youtube
-https://gitee.com/taijichadao/taiji/raw/master/zhibo/youtube.txt
-
-#Radio-蜻蜓fm
-https://taijichadao.github.io/zhibo/蜻蜓fm.txt
-
 #Radio-cnr
 https://taijichadao.github.io/zhibo/cnr.txt
 
@@ -31,15 +25,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.
 #TV-蜀小果_ipv6
 https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u
 
-#TV-爱尚
-https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/aishang.m3u
-
-#TV-歌华有线
-https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/ghyx.m3u
-
-#TV-dxawi
-https://dxawi.github.io/0/tvlive.txt
-
 #TV-范明明_global
 https://live.fanmingming.com/tv/m3u/global.m3u
 
@@ -48,6 +33,9 @@ https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
 #TV-范明明_ipv6plus
 https://live.fanmingming.com/tv/m3u/ipv6plus.m3u
+
+#TV-dxawi
+https://dxawi.github.io/0/tvlive.txt
 
 #TV-YanG_Gather
 https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
@@ -60,6 +48,9 @@ https://iptv-org.github.io/iptv/index.m3u
 
 #TV-EPG
 https://epg.pw/test_channels_all.m3u
+
+#Radio-蜻蜓fm
+https://taijichadao.github.io/zhibo/蜻蜓fm.txt
 
 #Radio-范明明
 https://live.fanmingming.com/radio/m3u/index.m3u
