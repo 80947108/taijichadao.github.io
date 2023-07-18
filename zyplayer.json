@@ -3,19 +3,7 @@
     "default": 1, // 默认值：需为data中需要设置的id
     "data": [ // 所有数据
       {
-        "id": 1, // id 唯一值不可重复
-        "key": "39kan",
-        "name": "39影视", // 名称
-        "api": "https://www.39kan.com/api.php/provide/vod/", // 站点源地址
-        "type": 1, // 0:cms(xml) 1:cms(json) 2:drpy
-        "search": 1, // 0:关闭 1:聚合搜索 2:本站搜索
-        "playUrl": "", // 配合解析去url地址
-        "group": "影视", // 分组
-        "isActive": true, // 是否启用 true启用 false 禁用
-        "status": true // 状态 true可用 false 失效
-      },
-      {
-        "id": 2, 
+        "id": 1, 
         "key": "量子",
         "name": "量子",
         "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
@@ -27,7 +15,7 @@
         "status": true
       },
       {
-        "id": 3, 
+        "id": 2, 
         "key": "非凡",
         "name": "非凡",
         "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
@@ -37,6 +25,18 @@
         "group": "影视", 
         "isActive": true, 
         "status": true
+      },
+      {
+        "id": 3, // id 唯一值不可重复
+        "key": "39kan",
+        "name": "39影视", // 名称
+        "api": "https://www.39kan.com/api.php/provide/vod/", // 站点源地址
+        "type": 1, // 0:cms(xml) 1:cms(json) 2:drpy
+        "search": 1, // 0:关闭 1:聚合搜索 2:本站搜索
+        "playUrl": "", // 配合解析去url地址
+        "group": "影视", // 分组
+        "isActive": true, // 是否启用 true启用 false 禁用
+        "status": true // 状态 true可用 false 失效
       },
       {
         "id": 4, 
@@ -102,15 +102,23 @@
       {
         "id": 2, 
         "name": "精选",
-        "url": "https://taijichadao.github.io/zhibo/zb.txt", 
+        "url": "https://taijichadao.github.io/zhibo/zhibo.txt", 
         "epg": "", 
         "type": "remote", 
         "isActive": true 
       },
       {
         "id": 3, 
-        "name": "BESTV源",
+        "name": "百视通",
         "url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u", 
+        "epg": "", 
+        "type": "remote", 
+        "isActive": true 
+      },
+      {
+        "id": 4, 
+        "name": "重庆有线",
+        "url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u", 
         "epg": "", 
         "type": "remote", 
         "isActive": true 
