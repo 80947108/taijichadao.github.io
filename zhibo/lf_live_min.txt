@@ -25,6 +25,9 @@ https://gitee.com/taijichadao/taiji/raw/master/zhibo/bestv.txt
 #TV-重庆有线
 https://gitee.com/taijichadao/taiji/raw/master/zhibo/cqyx.txt
 
+#TV-蜀小果_ipv6
+https://gitee.com/taijichadao/taiji/raw/master/zhibo/sxg_ipv6.txt
+
 #TV-dxawi
 https://dxawi.github.io/0/tvlive.txt
 
