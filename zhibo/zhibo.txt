@@ -345,8 +345,8 @@ CETV4,http://jiexi.bulisite.top/bestv.php?id=zgjy4hd8m/8000000
 北京纪实科教,https://live.goodiptv.club/api/cqyx.php?id=bjayjsSD
 山东教育卫视,https://live.goodiptv.club/api/cqyx.php?id=sdjiaoyuSD
 CGTN,https://live.goodiptv.club/api/cqyx.php?id=cgtnSD
-CETV-1,https://live.goodiptv.club/api/cqyx.php?id=cetv-1SD
-CETV-4,https://live.goodiptv.club/api/cqyx.php?id=cetv-4SD
+CETV1,https://live.goodiptv.club/api/cqyx.php?id=cetv-1SD
+CETV4,https://live.goodiptv.club/api/cqyx.php?id=cetv-4SD
 生活时尚,https://live.goodiptv.club/api/cqyx.php?id=shenghuo
 百姓健康,https://live.goodiptv.club/api/cqyx.php?id=jiankangSD
 快乐垂钓,https://live.goodiptv.club/api/cqyx.php?id=klcdHD
@@ -640,7 +640,7 @@ CETV4,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u
 浙江卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001023/index.m3u8
 重庆卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001129/index.m3u8
 上海新闻综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
-上海五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
+五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 上海东方影视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
 上海外语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8
 上海都市,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8
@@ -737,10 +737,10 @@ CCTV13,https://live.goodiptv.club/api/sxg.php?id=CCTV-xw_4000
 CCTV14,https://live.goodiptv.club/api/sxg.php?id=CCTV-14H265_4000
 CCTV15,https://live.goodiptv.club/api/sxg.php?id=CCTV-15-yyH265_4000
 CCTV16,https://live.goodiptv.club/api/sxg.php?id=CCTV-16_4000
-CCTV16 4K,https://live.goodiptv.club/api/sxg.php?id=CCTV-16-4K_8000
+CCTV16,https://live.goodiptv.club/api/sxg.php?id=CCTV-16-4K_8000
 CCTV17,https://live.goodiptv.club/api/sxg.php?id=CCTV-17_4000
 CCTV4K,https://live.goodiptv.club/api/sxg.php?id=ys4Kcq_2000
-4K超高清电影 4K,https://live.goodiptv.club/api/sxg.php?id=emdy4k_8000
+4K超高清电影,https://live.goodiptv.club/api/sxg.php?id=emdy4k_8000
 欢笑剧场4K,https://live.goodiptv.club/api/sxg.php?id=hxjc-4k_8000
 凤凰中文,https://live.goodiptv.club/api/sxg.php?id=test1_4000
 凤凰资讯,https://live.goodiptv.club/api/sxg.php?id=test2_4000
@@ -775,8 +775,8 @@ CCTV4K,https://live.goodiptv.club/api/sxg.php?id=ys4Kcq_2000
 西藏卫视,https://live.goodiptv.club/api/sxg.php?id=xzwsH264_2000
 云南卫视,https://live.goodiptv.club/api/sxg.php?id=ynws_4000
 浙江卫视,https://live.goodiptv.club/api/sxg.php?id=zjwsH265_4000
-CETV-1,https://live.goodiptv.club/api/sxg.php?id=CETV-1H264_4000
-CETV-4,https://live.goodiptv.club/api/sxg.php?id=CETV-4H264_2000
+CETV1,https://live.goodiptv.club/api/sxg.php?id=CETV-1H264_4000
+CETV4,https://live.goodiptv.club/api/sxg.php?id=CETV-4H264_2000
 CBN风尚生活,https://live.goodiptv.club/api/sxg.php?id=fssh_4000
 CBN每日影院,https://live.goodiptv.club/api/sxg.php?id=mryy_4000
 CBN幸福剧场,https://live.goodiptv.club/api/sxg.php?id=xfjc_4000
@@ -791,7 +791,7 @@ CHC家庭影院,https://live.goodiptv.club/api/sxg.php?id=jbtygqCHCjtyyH265_4000
 纪实科教,https://live.goodiptv.club/api/sxg.php?id=bjjs_2000
 嘉佳卡通,https://live.goodiptv.club/api/sxg.php?id=jjkt_2000
 家庭理财,https://live.goodiptv.club/api/sxg.php?id=jtlc_4000
-江苏财富天下,https://live.goodiptv.club/api/sxg.php?id=cftx_4000
+财富天下,https://live.goodiptv.club/api/sxg.php?id=cftx_4000
 金鹰纪实,https://live.goodiptv.club/api/sxg.php?id=jyjsHDH265_4000
 金鹰卡通,https://live.goodiptv.club/api/sxg.php?id=jykt_2000
 劲爆体育,https://live.goodiptv.club/api/sxg.php?id=lqhxjcHDH265_4000
@@ -811,10 +811,10 @@ CHC家庭影院,https://live.goodiptv.club/api/sxg.php?id=jbtygqCHCjtyyH265_4000
 新视觉,https://live.goodiptv.club/api/sxg.php?id=ycxsjH265_4000
 证劵服务,https://live.goodiptv.club/api/sxg.php?id=jz_2000
 中国天气,https://live.goodiptv.club/api/sxg.php?id=zgqx_4000
-中央新影-发现之旅,https://live.goodiptv.club/api/sxg.php?id=fxzl_2000
-中央新影-老故事,https://live.goodiptv.club/api/sxg.php?id=lgs_2000
-中央新影-中学生,https://live.goodiptv.club/api/sxg.php?id=zxs_4000
-CGTN-俄语,https://live.goodiptv.club/api/sxg.php?id=ey_2000
-CGTN-法语,https://live.goodiptv.club/api/sxg.php?id=fy_2000
-CGTN-西语,https://live.goodiptv.club/api/sxg.php?id=xbyy_2000
-CGTN-英语,https://live.goodiptv.club/api/sxg.php?id=CGTN_4000
+发现之旅,https://live.goodiptv.club/api/sxg.php?id=fxzl_2000
+老故事,https://live.goodiptv.club/api/sxg.php?id=lgs_2000
+中学生,https://live.goodiptv.club/api/sxg.php?id=zxs_4000
+CGTN俄语,https://live.goodiptv.club/api/sxg.php?id=ey_2000
+CGTN法语,https://live.goodiptv.club/api/sxg.php?id=fy_2000
+CGTN西语,https://live.goodiptv.club/api/sxg.php?id=xbyy_2000
+CGTN英语,https://live.goodiptv.club/api/sxg.php?id=CGTN_4000
