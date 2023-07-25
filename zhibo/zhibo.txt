@@ -661,7 +661,6 @@ CETV4,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u
 快乐垂钓,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8
 茶频道,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001234/index.m3u8
 乐游,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001200/index.m3u8
-BestTVlive,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001153/index.m3u8		
 
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228213/index.m3u8
 CCTV2,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/1/224/3221228487/index.m3u8
@@ -809,7 +808,6 @@ CHC家庭影院,https://live.goodiptv.club/api/sxg.php?id=jbtygqCHCjtyyH265_4000
 武术世界,https://live.goodiptv.club/api/sxg.php?id=wssj_4000
 先锋乒羽,https://live.goodiptv.club/api/sxg.php?id=xfpy_4000
 新视觉,https://live.goodiptv.club/api/sxg.php?id=ycxsjH265_4000
-证劵服务,https://live.goodiptv.club/api/sxg.php?id=jz_2000
 中国天气,https://live.goodiptv.club/api/sxg.php?id=zgqx_4000
 发现之旅,https://live.goodiptv.club/api/sxg.php?id=fxzl_2000
 老故事,https://live.goodiptv.club/api/sxg.php?id=lgs_2000
