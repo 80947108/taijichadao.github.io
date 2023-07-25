@@ -390,7 +390,7 @@ CETV-4,https://live.goodiptv.club/api/cqyx.php?id=cetv-4SD
 摄影频道,https://live.goodiptv.club/api/cqyx.php?id=sheying
 靓妆,https://live.goodiptv.club/api/cqyx.php?id=liang
 
-📺移动V6,#genre#
+📺IPV6源,#genre#
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
