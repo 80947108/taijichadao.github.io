@@ -399,7 +399,7 @@ CETV4,https://live.goodiptv.club/api/cqyx.php?id=cetv-4SD
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
@@ -729,6 +729,3 @@ CGTN俄语,https://live.goodiptv.club/api/sxg.php?id=ey_2000
 CGTN法语,https://live.goodiptv.club/api/sxg.php?id=fy_2000
 CGTN西语,https://live.goodiptv.club/api/sxg.php?id=xbyy_2000
 CGTN英语,https://live.goodiptv.club/api/sxg.php?id=CGTN_4000
-CCTV22,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-CCTV22,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
-CCTV22,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225747/index.m3u8
