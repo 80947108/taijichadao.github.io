@@ -729,3 +729,5 @@ CGTN俄语,https://live.goodiptv.club/api/sxg.php?id=ey_2000
 CGTN法语,https://live.goodiptv.club/api/sxg.php?id=fy_2000
 CGTN西语,https://live.goodiptv.club/api/sxg.php?id=xbyy_2000
 CGTN英语,https://live.goodiptv.club/api/sxg.php?id=CGTN_4000
+北京卫视22,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001029/index.m3u8?
+纪实科教22,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001231/index.m3u8?
