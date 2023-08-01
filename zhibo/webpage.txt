@@ -5,3 +5,34 @@ TVBS,https://everydaytv.top/play-3-153-6.html/parse
 
 抖音/parse,#genre#
 CCTV6,https://live.douyin.com/208823316033
+
+YouTube/parse,#genre#
+凤凰资讯,https://piped.hostux.net/watch?v=if6yQq_JJyY
+TVBS HD,https://piped.hostux.net/watch?v=YvdcZ_jpLXE
+TVBS新闻,https://piped.hostux.net/watch?v=2mCSYvcfhtc
+东森新闻,https://piped.hostux.net/watch?v=S5WOGu2HSes
+东森LIVE,https://piped.hostux.net/watch?v=R2iMq5LKXco
+东森财经新闻,https://piped.hostux.net/watch?v=WHEPzbFA3hw
+中天新闻,https://piped.hostux.net/watch?v=oIgbl7t0S_w
+寰宇新闻,https://piped.hostux.net/watch?v=B7Zp3d6xXWw
+中视新闻,https://piped.hostux.net/watch?v=TCnaIE_SAtM
+华视新闻,https://piped.hostux.net/watch?v=wM0g8EoUZ_E
+台视新闻台,https://piped.hostux.net/watch?v=xL0ch83RAK8
+民视新闻台,https://piped.hostux.net/watch?v=ylYJSBUgaMA
+三立新闻台,https://piped.hostux.net/watch?v=CKjSm5ZeehE
+镜新闻,https://piped.hostux.net/watch?v=5n0y6b0Q25o
+
+凤凰资讯,https://www.youtube.com/watch?v=if6yQq_JJyY
+TVBS HD,https://www.youtube.com/watch?v=YvdcZ_jpLXE
+TVBS新闻,https://www.youtube.com/watch?v=2mCSYvcfhtc
+东森新闻,https://www.youtube.com/watch?v=S5WOGu2HSes
+东森LIVE,https://www.youtube.com/watch?v=R2iMq5LKXco
+东森财经新闻,https://www.youtube.com/watch?v=WHEPzbFA3hw
+中天新闻,https://www.youtube.com/watch?v=oIgbl7t0S_w
+寰宇新闻,https://www.youtube.com/watch?v=B7Zp3d6xXWw
+中视新闻,https://www.youtube.com/watch?v=TCnaIE_SAtM
+华视新闻,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+台视新闻台,https://www.youtube.com/watch?v=xL0ch83RAK8
+民视新闻台,https://www.youtube.com/watch?v=ylYJSBUgaMA
+三立新闻台,https://www.youtube.com/watch?v=CKjSm5ZeehE
+镜新闻,https://www.youtube.com/watch?v=5n0y6b0Q25o
