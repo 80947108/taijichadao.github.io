@@ -1,26 +1,38 @@
 {
-"classes": [
-{"type_name": "公开课","type_id": "公开课"},
-{"type_name": "纪录片","type_id": "纪录片"},
-{"type_name": "教育","type_id": "教育"},
-{"type_name": "教学","type_id": "教学"},
-{"type_name": "实验","type_id": "实验"},
-{"type_name":"学前","type_id":"学前"},
-{"type_name": "小学","type_id": "小学"},
-{"type_name":"初中","type_id":"初中"},
-{"type_name":"高中","type_id":"高中"},
-{"type_name": "儿童","type_id": "儿童"},
-{"type_name": "相声小品","type_id": "相声小品"},
-{"type_name": "戏曲","type_id": "戏曲"},
-{"type_name": "演唱会","type_id": "演唱会"},
-{"type_name": "动物世界","type_id": "动物世界"},
-{"type_name": "搞笑","type_id": "搞笑"},
-{"type_name": "鬼畜","type_id": "鬼畜"},
-{"type_name": "Sports","type_id": "球星"},
-{"type_name": "假窗白噪音","type_id": "窗白噪音"}
-],
-
-"filter": {
-	
-}
+  "class": [
+    {
+      "type_name": "公开课",
+      "type_id": "公开课"
+    },
+    {
+      "type_name": "纪录片",
+      "type_id": "纪录片"
+    },
+    {
+      "type_name": "教育",
+      "type_id": "教育"
+    },
+    {
+      "type_name": "相声小品",
+      "type_id": "相声小品"
+    },
+    {
+      "type_name": "戏曲",
+      "type_id": "戏曲"
+    },
+    {
+      "type_name": "演唱会",
+      "type_id": "演唱会"
+    },
+    {
+      "type_name": "太极拳",
+      "type_id": "太极拳"
+    },
+    {
+      "type_name": "动物世界",
+      "type_id": "动物世界"
+    }
+  ],
+  "filters": {
+  }
 }
