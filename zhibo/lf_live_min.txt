@@ -31,9 +31,6 @@ https://live.fanmingming.com/tv/m3u/global.m3u
 #TV-范明明_ipv6
 https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
-#TV-范明明_ipv6plus
-https://live.fanmingming.com/tv/m3u/ipv6plus.m3u
-
 #TV-dxawi
 https://dxawi.github.io/0/tvlive.txt
 
