@@ -20,11 +20,29 @@
         "api": "assets://js/kkys_open.js"
       },
       {
+        "key": "subaibai",
+        "name": "素白白",
+        "type": 3,
+        "api": "assets://js/subaibai_open.js"
+      },
+      {
+        "key": "ng_open",
+        "name": "南瓜",
+        "type": 3,
+        "api": "assets://js/ng_open.js"
+      },
+      {
+        "key": "mybili_open",
+        "name": "哔哩",
+        "type": 3,
+        "api": "assets://js/mybili_open.js"
+      },
+      {
         "key": "wogg",
         "name": "玩偶",
         "type": 3,
         "api": "assets://js/wogg_open.js",
-        "ext": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiI5NzYyZjljN2FlMDE0MjdmOGE2YzllYTJmOGNlNDNkMCIsImF1ZCI6IjY0MWQ4NDRlNDI2ODQxZWE5MGNmNmYzZjkzM2UwYWY3IiwiZXhwIjoxNjk4NDAzNzU4LCJpYXQiOjE2OTA2Mjc3NTh9.Ii2ldqrMBktk2eil-q8xB8V6IUxieoSqKdcGz4quGV0GhUuwV19ZlW9ywXZTUqJrLnOXHRtpSLpoq6VvQkOxXA"
+        "ext": "https://taijichadao.github.io/json/ali_token.json"
       },
       {
         "key": "ikanbot",
