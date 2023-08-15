@@ -4,7 +4,11 @@
       "type_name": "帕梅拉",
       "type_id": "帕梅拉"
     },
-{"type_id":"相声小品","type_name":"相声小品"},
+        {
+      "type_name": "相声小品",
+      "type_id": "相声小品"
+    },
+
     {
       "type_name": "太極拳",
       "type_id": "太極拳"
