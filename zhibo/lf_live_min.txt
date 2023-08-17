@@ -25,6 +25,9 @@ https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.
 #TV-蜀小果_ipv6
 https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u
 
+#Stream-Link港澳台
+http://www.stream-link.org/stream-link.m3u
+
 #TV-范明明_global
 https://live.fanmingming.com/tv/m3u/global.m3u
 

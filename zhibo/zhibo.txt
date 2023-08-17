@@ -262,8 +262,9 @@ CCTV4K,http://159.75.85.63:5679/cctv4k.php
 📺其它,#genre#
 凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
 凤凰资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
-TVBS新闻台,http://sc2022.stream-link.org/tv2306.php?id=t13
 东森新闻,http://sc2022.stream-link.org/tv2306.php?id=t01
+中天新闻,https://sc2022.stream-link.org/tv2306.php?id=t03
+TVBS新闻台,http://sc2022.stream-link.org/tv2306.php?id=t13
 纬来体育,http://cloud.yumixiu768.com/tmp/123.m3u8
 凤凰中文,http://sc2022.stream-link.org/tv2306.php?id=h16
 凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
