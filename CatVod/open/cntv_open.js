@@ -22,26 +22,28 @@ async function init(cfg) {
 }
 
 async function home(filter) {
-    const classes = [{ type_id: "TOPC1451528971114112", type_name: "新闻联播" },
+    const classes = [
+{ type_id: "TOPC1451528971114112", type_name: "新闻联播" },
 { type_id: "TOPC1451558976694518", type_name: "焦点访谈" },
 { type_id: "TOPC1575253587571324", type_name: "跟着书本去旅行" },
+{ type_id: "TOPC1451557893544236", type_name: "探索·发现" },
+{ type_id: "TOPC1451525103989666", type_name: "人与自然" },
+{ type_id: "TOPC1451557421544786", type_name: "地理·中国" },
+{ type_id: "TOPC1451533652476962", type_name: "经济半小时" },
 { type_id: "TOPC1451464665008914", type_name: "今日说法" },
+{ type_id: "TOPC1451557052519584", type_name: "百家讲坛" },
 { type_id: "TOPC1451378757637200", type_name: "等着我" },
 { type_id: "TOPC1451559129520755", type_name: "新闻直播间" },
 { type_id: "TOPC1451540328102649", type_name: "海峡两岸" },
 { type_id: "TOPC1451530382483536", type_name: "天网" },
 { type_id: "TOPC1451540389082713", type_name: "今日关注" },
-{ type_id: "TOPC1451557893544236", type_name: "探索·发现" },
 { type_id: "TOPC1665739007799851", type_name: "高端访谈" },
-{ type_id: "TOPC1451557052519584", type_name: "百家讲坛" },
 { type_id: "TOPC1451464884159276", type_name: "开讲啦" },
 { type_id: "TOPC1451464884159276", type_name: "故事里的中国" },
 { type_id: "TOPC1514182710380601", type_name: "对话" },
 { type_id: "TOPC1451559038345600", type_name: "面对面" },
 { type_id: "TOPC1451378967257534", type_name: "动物世界" },
 { type_id: "TOPC1451558190239536", type_name: "走进科学" },
-{ type_id: "TOPC1451525103989666", type_name: "人与自然" },
-{ type_id: "TOPC1451557421544786", type_name: "地理·中国" },
 { type_id: "TOPC1451541349400938", type_name: "远方的家" },
 { type_id: "TOPC1451558150787467", type_name: "自然传奇" },
 { type_id: "TOPC1451534366388377", type_name: "是真的吗" },
@@ -73,7 +75,6 @@ async function home(filter) {
 { type_id: "TOPC1451558496100826", type_name: "朝闻天下" },
 { type_id: "TOPC1451528792881669", type_name: "晚间新闻" },
 { type_id: "TOPC1451559180488841", type_name: "新闻周刊" },
-{ type_id: "TOPC1451533652476962", type_name: "经济半小时" },
 { type_id: "TOPC1453100395512779", type_name: "正点财经" },
 { type_id: "TOPC1451546588784893", type_name: "生活圈" },
 { type_id: "TOPC1451526037568184", type_name: "生活提示" },
@@ -105,7 +106,8 @@ async function home(filter) {
 { type_id: "TOPC1600745974233265", type_name: "三农群英会" },
 { type_id: "TOPC1568966531726705", type_name: "乡村振兴面对面" },
 { type_id: "TOPC1597627647957699", type_name: "超级新农人" },
-{ type_id: "TOPC1563178734372977", type_name: "印象乡村" }];
+{ type_id: "TOPC1563178734372977", type_name: "印象乡村" }
+];
     const filterObj = {};
     return JSON.stringify({
         class: _.map(classes, (cls) => {
@@ -118,7 +120,7 @@ async function home(filter) {
 }
 
 async function homeVod() {
-    const data = JSON.parse(await request(HOST + '/NewVideo/getVideoListByColumn?id=TOPC1451558856402351&n=10&sort=desc&p=1&mode=0&serviceId=tvcctv'));
+    const data = JSON.parse(await request(HOST + '/NewVideo/getVideoListByColumn?id=TOPC1451533652476962&n=10&sort=desc&p=1&mode=0&serviceId=tvcctv'));
     let videos = _.map(data.data.list, (it) => {
         return {
             vod_id: it.guid,
