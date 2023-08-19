@@ -120,7 +120,7 @@ async function home(filter) {
 }
 
 async function homeVod() {
-    const data = JSON.parse(await request(HOST + '/NewVideo/getVideoListByColumn?id=TOPC1451533652476962&n=10&sort=desc&p=1&mode=0&serviceId=tvcctv'));
+    const data = JSON.parse(await request(HOST + '/NewVideo/getVideoListByColumn?id=TOPC1451533652476962&n=12&sort=desc&p=1&mode=0&serviceId=tvcctv'));
     let videos = _.map(data.data.list, (it) => {
         return {
             vod_id: it.guid,
