@@ -23,7 +23,7 @@ var rule = {
 	推荐:'ul#waterfall li;a&&title;img&&src;div.auth.cl&&Text;a&&href',
 	一级:'ul#waterfall li;a&&title;img&&src;div.auth.cl&&Text;a&&href',
 	二级:{
-		title:"#thread_subject&&Text",
+		title:"#thead_subject&&Text",
 		img:"img.zoom&&src",
 		desc:'td[id^="postmessage_"] font&&Text',
 		content:'td[id^="postmessage_"] font&&Text',
@@ -69,7 +69,7 @@ var rule = {
 							if (index == targetindex){
 								let title = pdfh(it, 'a&&Text');
 								log('title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
-								burl = "http://127.0.0.1:9978/proxy?do=ali&type=push&url=" + encodeURIComponent(burl);
+								burl = "http://127.0.0.1:9978/proxy?do=js&from=catvod&siteType=3&siteKey=push_agent&header=%7B%7D&url=" + encodeURIComponent(burl);
 								log('burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
 								let loopresult = title + '$' + burl;
 								LISTS.push([loopresult]);
