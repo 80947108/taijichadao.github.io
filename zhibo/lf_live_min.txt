@@ -16,9 +16,6 @@ https://taijichadao.github.io/zhibo/webpage.txt
 #TV-Replit搭建
 https://taijitv.zhonglong1.repl.co/Replit.txt
 
-#港澳台
-https://public.t4vod.repl.co/xh
-
 #TV-百视通
 https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u
 
@@ -37,8 +34,14 @@ https://live.fanmingming.com/tv/m3u/global.m3u
 #TV-范明明_ipv6
 https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
-#TV-dxawi
+#TV-dxawi接口
 https://dxawi.github.io/0/tvlive.txt
+
+#TV-唐三接口
+https://public.t4vod.repl.co/xh
+
+#TV-俊于接口
+http://home.jundie.top:81/Cat/tv/live.txt
 
 #TV-YanG_Gather
 https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
@@ -49,7 +52,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.t
 #TV-全球线路
 https://iptv-org.github.io/iptv/index.m3u
 
-#TV-EPG
+#TV-EPG线路
 https://epg.pw/test_channels_all.m3u
 
 #Radio-蜻蜓fm
