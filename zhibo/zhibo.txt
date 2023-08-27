@@ -215,6 +215,10 @@ CCTV4K,http://159.75.85.63:5679/cctv4k.php
 
 //======================================================
 📺其它,#genre#
+TVBS HD,http://zhdx.qiyuevod.com:8088/live/55_h265.ts
+TVBS新闻台,http://zhdx.qiyuevod.com:8088/live/55_h265.ts
+东森新闻,http://zhdx.qiyuevod.com:8088/live/51_h265.ts
+
 欢笑剧场4K,https://live.goodiptv.club/api/cqyx.php?id=hxjc_4K
 深圳卫视,https://live.goodiptv.club/api/cqyx.php?id=shenzhenHD
 兵团卫视,https://live.goodiptv.club/api/cqyx.php?id=bingtuanSD
