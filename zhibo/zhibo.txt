@@ -215,6 +215,14 @@ CCTV4K,http://159.75.85.63:5679/cctv4k.php
 
 //======================================================
 📺其它,#genre#
+湖南经视,http://angtv.cc/jd/hntv.php?id=js
+湖南都市,http://angtv.cc/jd/hntv.php?id=ds
+湖南电影,http://angtv.cc/jd/hntv.php?id=dy
+湖南电视剧,http://angtv.cc/jd/hntv.php?id=dsj
+湖南娱乐,http://angtv.cc/jd/hntv.php?id=yl
+湖南爱晚,http://angtv.cc/jd/hntv.php?id=aw
+湖南国际,http://angtv.cc/jd/hntv.php?id=gj
+湖南教育,http://angtv.cc/jd/hntv.php?id=jy
 欢笑剧场4K,https://live.goodiptv.club/api/cqyx.php?id=hxjc_4K
 深圳卫视,https://live.goodiptv.club/api/cqyx.php?id=shenzhenHD
 兵团卫视,https://live.goodiptv.club/api/cqyx.php?id=bingtuanSD
