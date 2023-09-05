@@ -8,6 +8,24 @@
         "api": "assets://js/kunyu77_open.js"
       },
       {
+        "key": "tuxiaobei_open",
+        "name": "兔小贝",
+        "type": 3,
+        "api": "assets://js/tuxiaobei_open.js"
+      },
+      {
+        "key": "视聚场",
+        "name": "视聚场",
+        "type": 3,
+        "api": "assets://js/cntv_open.js"
+      },
+      {
+        "key": "童趣",
+        "name": "童趣",
+        "type": 3,
+        "api": "assets://js/boosj_open.js"
+      },
+      {
         "key": "czzy",
         "name": "厂长资源",
         "type": 3,
@@ -42,7 +60,25 @@
         "name": "玩偶",
         "type": 3,
         "api": "assets://js/wogg_open.js",
-        "ext": "https://taijichadao.github.io/json/ali_token.json"
+        "ext": "f420257f7fe74ebcbee3e47ebb5cd465"
+      },
+      {
+        "key": "kuqimv_open",
+        "name": "酷奇MV",
+        "type": 3,
+        "api": "assets://js/kuqimv_open.js"
+      },
+      {
+        "key": "libvio_open",
+        "name": "libvio",
+        "type": 3,
+        "api": "assets://js/libvio_open.js"
+      },
+      {
+        "key": "sharenice_open",
+        "name": "短视频",
+        "type": 3,
+        "api": "assets://js/sharenice_open.js"
       },
       {
         "key": "ikanbot",
