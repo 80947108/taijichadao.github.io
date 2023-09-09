@@ -62,14 +62,14 @@
         "api": "assets://js/mybili_open.js"
       },
       {
-        "key": "guangsuapi",
+        "key": "视界",
         "name": "视界",
         "type": 3,
         "api": "./appysv2.js",
         "ext": "http://www.1080dyw.cc/api.php/v1.vod"
       },
       {
-        "key": "guangsuapi",
+        "key": "光速",
         "name": "光速",
         "type": 3,
         "api": "./caiji.js",
