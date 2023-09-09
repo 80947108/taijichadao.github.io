@@ -41,10 +41,15 @@
 
 //猫影视CatVodOpen项目源
 {"key":"kkys_open","name":"快看_Cat","type":3,"searchable":1,"changeable":1,"api":"https://taijichadao.github.io/CatVod/open/kkys_open.js"},
-{"key":"1080dyw_open","name":"1080dyw_Cat","type":3,"searchable":1,"changeable":1,"api":"https://taijichadao.github.io/CatVod/open/AppYsV2.js","ext":{"host":"https://www.1080dyw.cc/api.php/v1.vod"}},
 
 //T4项目源
 {"key":"T4_荐片_JY","name":"荐片_T4","type":4,"searchable":1,"changeable":1,"api":"http://home.jundie.top:9520/spider/csp_JP"},
+
+//采集源
+{"key":"暴風","name":"暴風","type":1,"searchable":1,"changeable":1,"api":"https://bfzyapi.com/api.php/provide/vod/?ac=list"},
+{"key":"暴風2","name":"暴風2","type":1,"searchable":1,"changeable":1,"api":"https://bfzyapi.com/api.php/provide/vod/"},
+{"key":"量子","name":"量子","type":0,"searchable":1,"changeable":1,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/"},
+{"key":"AppYsV2_1080dyw","name":"1080dyw","type":3,"searchable":1,"changeable":1,"api":"https://taijichadao.github.io/CatVod/open/AppYsV2.js","ext":{"host":"https://www.1080dyw.cc/api.php/v1.vod"}},
 
 {"key":"push_agent","name":"推送","type":3,"searchable":0,"changeable":1,"api":"https://taijichadao.github.io/drpy/libs/lf_pushagent_min.js","ext":"https://taijichadao.github.io/json/ali_token.json"}
 
