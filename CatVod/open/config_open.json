@@ -20,6 +20,12 @@
         "api": "assets://js/cntv_open.js"
       },
       {
+        "key": "lbgs_open",
+        "name": "老白故事",
+        "type": 3,
+        "api": "assets://js/lbgs_open.js"
+      },
+      {
         "key": "童趣",
         "name": "童趣",
         "type": 3,
@@ -56,8 +62,29 @@
         "api": "assets://js/mybili_open.js"
       },
       {
+        "key": "guangsuapi",
+        "name": "视界",
+        "type": 3,
+        "api": "./appysv2.js",
+        "ext": "http://www.1080dyw.cc/api.php/v1.vod"
+      },
+      {
+        "key": "guangsuapi",
+        "name": "光速",
+        "type": 3,
+        "api": "./caiji.js",
+        "ext": "http://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/"
+      },
+      {
         "key": "wogg",
         "name": "玩偶",
+        "type": 3,
+        "api": "./wogg.js",
+        "ext": "f420257f7fe74ebcbee3e47ebb5cd465"
+      },
+      {
+        "key": "wogg_open",
+        "name": "玩偶_open",
         "type": 3,
         "api": "assets://js/wogg_open.js",
         "ext": "f420257f7fe74ebcbee3e47ebb5cd465"
