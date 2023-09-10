@@ -21,6 +21,8 @@
 {"key":"drpy_88看球","name":"88看球","type":3,"searchable":1,"changeable":0,"api":"https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext":"https://hjdhnx.github.io/dr_py/js/88看球.js"},
 {"key":"lf_ikanbot_min","name":"爱看机器人","type":3,"searchable":1,"changeable":1,"api":"https://taijichadao.github.io/drpy/libs/lf_ikanbot_min.js"},
 {"key":"lf_p2p_min","name":"🧲磁力搜","type":3,"searchable":1,"changeable":1,"api":"https://taijichadao.github.io/drpy/libs/lf_p2p_min.js"},
+{"key":"ikanbot2","name":"ikanbot2","type":3,"searchable":1,"changeable":0,"api":"https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext":"https://taijichadao.github.io/drpy/js/ikanbot2.js"},
+{"key":"ikanbot3","name":"ikanbot3","type":3,"searchable":1,"changeable":0,"api":"https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext":"https://taijichadao.github.io/drpy/js/ikanbot3.js"},
 
 //道长drpy项目源
 {"key":"drpy_360影视","name":"360影视","type":3,"searchable":1,"changeable":1,"api":"https://taijichadao.github.io/dr_py/libs/drpy2.min.js","ext":"https://taijichadao.github.io/dr_py/js/360影视.js"},
@@ -64,8 +66,8 @@
 ],
 	
 "rules":[
-{"name":"量子廣告","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-{"name":"非凡廣告","hosts":["vip.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+{"name":"量子廣告","hosts":["vip.lz","hd.lz","v.cdnlz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+{"name":"非凡廣告","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 {"name":"暴风廣告","hosts":["bfzy","s5.bfzycdn"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 {"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
 {"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]},
