@@ -43,8 +43,6 @@
 {"key":"kkys_open","name":"快看_open","type":3,"searchable":1,"changeable":1,"api":"https://taijichadao.github.io/CatVod/open/kkys_open.js"},
 {"key":"iKanBot_open","name":"iKanBot_open","type":3,"searchable":1,"changeable":1,"api":"https://taijichadao.github.io/CatVod/open/ikanbot_open.js"},
 {"key":"AppYsV2_1080dyw","name":"1080电影网","type":3,"searchable":1,"changeable":1,"api":"https://taijichadao.github.io/CatVod/open/AppYsV2.js","ext":{"host":"https://www.1080dyw.cc/api.php/v1.vod"}},
-{"key":"AppYsV2_miniku","name":"迷你库","type":3,"searchable":1,"changeable":1,"api":"https://taijichadao.github.io/CatVod/open/AppYsV2.js","ext":{"host":"http://www.miniku.cc/xgapp.php/v1/"}},
-{"key":"AppYsV2_奇奇","name":"奇奇","type":3,"searchable":1,"changeable":1,"api":"https://taijichadao.github.io/CatVod/open/AppYsV2.js","ext":{"host":"http://mp4.ghlyys.com/api.php/app/"}},
 
 //采集源
 //{"key":"暴风","name":"暴风","type":1,"searchable":1,"changeable":1,"api":"https://bfzyapi.com/api.php/provide/vod/"},
