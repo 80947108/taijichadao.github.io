@@ -51,28 +51,27 @@ try {
     });
     
     for(var key in map){
-
-        if('bfzym3u8'==key){
-            arr.push({
-        flag: '暴风',
-        url: map[key],
-            sort:1
-      })}
       
-        else if('lzm3u8'==key){
+        if('lzm3u8'==key){
             arr.push({
         flag: '量子',
         url: map[key],
-            sort:2
+            sort:1
       })}
 
         else if('ffm3u8'==key){
             arr.push({
         flag: '非凡',
         url: map[key],
-            sort:3
+            sort:2
       })}
       
+        else if('bfzym3u8'==key){
+            arr.push({
+        flag: '暴风',
+        url: map[key],
+            sort:3
+      })}      
         else if('kuaikan'==key){
             arr.push({
         flag: '快看',
