@@ -18,13 +18,15 @@ try {
     VOD.vod_content = "";
     log(VOD);
     var v_tks = '';
-	let script = pdfa(html1,'script').find(it=>it.includes('v_tks+=')).replace(/<script>|<\\/script>/g,'');
-    eval(script);
-	input = "https://www.ikanbot.com/api/getResN?videoId=" + input.split("/").pop() + "&mtype=2"+"&token="+v_tks;
+	// let script = pdfa(html1,'script').find(it=>it.includes('v_tks+=')).replace(/<script>|<\\/script>/g,'');
+    // eval(script);
+	input = "https://www.ikanbot.com/api/getResN?videoId=" + input.split("/").pop() + "&mtype=2&token="+v_tks;
     // input = "https://www.ikanbot.com/api/getResN?videoId=" + input.split("/").pop() + "&mtype=2";
 	let html = request(input, {
         headers: {
-			'User-Agent':'PC_UA',
+			// 'User-Agent':'PC_UA',
+            // 'User-Agent':'MOBILE_UA',
+            'User-Agent':'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
             'Referer': input,
         }
     });
@@ -40,43 +42,42 @@ try {
     episodes.forEach(function(ep) {
         let data = JSON.parse(ep["resData"]);
         data.map(val => {
-            
             if(!map[val.flag]){
-                map[val.flag] = [val.url]
-      } else {
-        map[val.flag].push(val.url)
-      }
-    })
+                map[val.flag] = [val.url.replaceAll('##','#')]
+            } else {
+                map[val.flag].push(val.url.replaceAll('##','#'))
+            }
+        })
     });
     
     for(var key in map){
-        if('kuaikan'==key){
+      
+        if('lzm3u8'==key){
             arr.push({
-        flag: '快看',
+        flag: '量子',
         url: map[key],
             sort:1
-      })}
-
-        else if('bfzym3u8'==key){
-            arr.push({
-        flag: '暴风',
-        url: map[key],
-            sort:2
       })}
 
         else if('ffm3u8'==key){
             arr.push({
         flag: '非凡',
         url: map[key],
-            sort:3
+            sort:2
       })}
       
-        else if('lzm3u8'==key){
+        else if('bfzym3u8'==key){
             arr.push({
-        flag: '量子',
+        flag: '暴风',
+        url: map[key],
+            sort:3
+      })}      
+        else if('kuaikan'==key){
+            arr.push({
+        flag: '快看',
         url: map[key],
             sort:4
-      })}
+      })}      
 
         else{
             arr.push({
@@ -86,6 +87,7 @@ try {
       })}
 
   }
+  
     arr.sort((a, b) => a.sort - b.sort);
     
     let playFrom = [];
@@ -106,7 +108,7 @@ try {
 `;
 
 var rule = {
-    title:'爱看机器人2',
+    title:'爱看机器人',
     host:'https://www.ikanbot.com',
     url:'/hot/index-fyclass-fyfilter-p-fypage.html[/hot/index-fyclass-fyfilter.html]',
     //https://www.ikanbot.com/search?q=%E6%96%97%E7%BD%97%E5%A4%A7&p=2
