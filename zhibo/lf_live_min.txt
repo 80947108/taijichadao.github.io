@@ -13,7 +13,7 @@ https://taijichadao.github.io/zhibo/cnr.txt
 #TV-网页
 https://taijichadao.github.io/zhibo/webpage.txt
 
-#TV-Replit搭建
+#TV-Repl
 https://taijitv.zhonglong1.repl.co/Replit.txt
 
 #TV-百视通
