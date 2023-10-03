@@ -1,0 +1,133 @@
+            {
+                "key": "bdzy",
+                "name": "百度影视",
+                "type": 3,
+                "api": "./caiji.js",
+                "ext": "https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8/"
+            },
+            {
+                "key": "bfzy",
+                "name": "暴风影视",
+                "type": 3,
+                "api": "./caiji.js",
+                "ext": "https://bfzyapi.com/api.php/provide/vod/"
+            },
+            {
+                "key": "394tv",
+                "name": "39影视",
+                "type": 3,
+                "api": "./caiji.js",
+                "ext": "https://www.394tv.com/api.php/provide/vod/"
+            },
+            {
+                "key": "languang",
+                "name": "蓝光影视",
+                "type": 3,
+                "api": "./caiji.js",
+                "ext": "http://www.zzrhgg.com/api.php/provide/vod/"
+            },
+            {
+                "key": "lehuo",
+                "name": "乐活影视",
+                "type": 3,
+                "api": "./caiji.js",
+                "ext": "https://cj.vodimg.top/api.php/provide/vod/"
+            },
+            {
+                "key": "piaoling",
+                "name": "飘零影视",
+                "type": 3,
+                "api": "./caiji.js",
+                "ext": "https://p2100.net/api.php/provide/vod/"
+            },
+            {
+                "key": "shenmajuhe",
+                "name": "神马聚合影视",
+                "type": 3,
+                "api": "./caiji.js",
+                "ext": "https://img.smdyw.top/api.php/provide/vod/"
+            },
+            {
+                "key": "yingtu",
+                "name": "影图影视",
+                "type": 3,
+                "api": "./caiji.js",
+                "ext": "https://cj.vodimg.top/api.php/provide/vod/"
+            },
+            {
+                "key": "damo",
+                "name": "大漠影视",
+                "type": 3,
+                "api": "./caiji.js",
+                "ext": "https://damozy.com/api.php/provide/vod/from/M3U8/"
+            },
+            {
+                "key": "feifan",
+                "name": "非凡",
+                "type": 3,
+                "api": "./caiji.js",
+                "ext": "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/"
+            },
+            {
+                "key": "feisu",
+                "name": "飞速影视",
+                "type": 3,
+                "api": "./caiji.js",
+                "ext": "https://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/"
+            },
+            {
+                "key": "guangsu",
+                "name": "光速影视",
+                "type": 3,
+                "api": "./caiji.js",
+                "ext": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/"
+            },
+            {
+                "key": "hongniu",
+                "name": "红牛影视",
+                "type": 3,
+                "api": "./caiji.js",
+                "ext": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/"
+            },
+            {
+                "key": "ikun",
+                "name": "ikun影视",
+                "type": 3,
+                "api": "./caiji.js",
+                "ext": "https://ikunzyapi.com/api.php/provide/vod"
+            },
+            {
+                "key": "jinying",
+                "name": "金鹰影视",
+                "type": 3,
+                "api": "./caiji.js",
+                "ext": "https://jinyingzy.com/provide/vod/from/jinyingm3u8/"
+            },
+            {
+                "key": "jisu",
+                "name": "极速影视",
+                "type": 3,
+                "api": "./caiji.js",
+                "ext": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/"
+            },
+            {
+                "key": "kuaiche",
+                "name": "快车影视",
+                "type": 3,
+                "api": "./caiji.js",
+                "ext": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/"
+            },
+            {
+                "key": "liangzi",
+                "name": "量子影视",
+                "type": 3,
+                "api": "./caiji.js",
+                "ext": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/"
+            },
+            {
+                "key": "qihu",
+                "name": "奇虎影视",
+                "type": 3,
+                "api": "./caiji.js",
+                "ext": "https://caiji.qhzyapi.com/api.php/provide/vod/from/qhm3u8/"
+            },
