@@ -1,5 +1,5 @@
 var rule = {
-            title:'嗷嗷影视',
+            title:'迷迷剧',
             host:'https://mimiju.com',
             url: '/vodshow/fyfilter.html',
             searchUrl: '/vodsearch/**----------fypage---.html',
