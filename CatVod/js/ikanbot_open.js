@@ -1,7 +1,7 @@
 import { Crypto, load, _ } from './lib/cat.js';
 
 let key = 'ikanbot';
-let url = 'https://www.aikanbot.com';
+let url = 'https://www.ikanbot.com';
 let siteKey = '';
 let siteType = 0;
 
@@ -140,25 +140,25 @@ async function detail(id) {
 			arr.push({
 				flag: '快看',
 				url: playlist[key],
-				sort: 4
+				sort: 1
 			})
 		} else if ('bfzym3u8' == key) {
 			arr.push({
 				flag: '暴风',
 				url: playlist[key],
-				sort: 1
+				sort: 2
 			})
 		} else if ('ffm3u8' == key) {
 			arr.push({
 				flag: '非凡',
 				url: playlist[key],
-				sort: 2
+				sort: 3
 			})
 		} else if ('lzm3u8' == key) {
 			arr.push({
 				flag: '量子',
 				url: playlist[key],
-				sort: 3
+				sort: 4
 			})
 		} else {
 			arr.push({
