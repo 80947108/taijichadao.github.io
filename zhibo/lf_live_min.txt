@@ -13,7 +13,7 @@ https://taijichadao.github.io/zhibo/cnr.txt
 #TV-网页
 https://taijichadao.github.io/zhibo/webpage.txt
 
-#TV-Repl
+#TV-Replit搭建
 https://taijitv.zhonglong1.repl.co/Replit.txt
 
 #TV-百视通
@@ -48,6 +48,9 @@ https://iptv-org.github.io/iptv/index.m3u
 
 #TV-EPG线路
 https://epg.pw/test_channels_all.m3u
+
+#leo sam整合线路
+https://ghproxy.com/https://raw.githubusercontent.com/leosam1024/tvbox/main/live/live.txt
 
 #Radio-蜻蜓fm
 https://taijichadao.github.io/zhibo/蜻蜓fm.txt
