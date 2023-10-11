@@ -107,10 +107,10 @@ var rule = {
     class_url:'movie&tv',
 	play_parse:true,
 	double:true,
-	tab_remove:['swjm3u8','ikdm3u8'],//移除某个线路及相关的选集
-	tab_order:['lzm3u8','ffm3u8','bfzym3u8','kuaikan','gsm3u8','zuidam3u8','bjm3u8','snm3u8','wolong','xlm3u8','yhm3u8'],//线路顺序,按里面的顺序优先，没写的依次排后面
+	tab_remove:['swj666m3u8','ikd666m3u8'],//移除某个线路及相关的选集
+	tab_order:['lzm3u8','ffm3u8','bfzym3u8','kuaikan','snm3u8','gsm3u8','wjm3u8','zuidam3u8','bjm3u8','snm3u8','wolong','xlm3u8','yhm3u8'],//线路顺序,按里面的顺序优先，没写的依次排后面
 	tab_rename:{'lzm3u8':'量子','1080zyk':'1080看','zuidam3u8':'最大资源','kuaikan':'快看',
-        'bfzym3u8':'暴风','ffm3u8':'非凡','snm3u8':'索尼','tpm3u8':'淘片','tkm3u8':'天空','gsm3u8':'光速','wolong':'卧龙'},//线路名替换如:lzm3u8替换为量子资源
+        'bfzym3u8':'暴风','ffm3u8':'非凡','snm3u8':'索尼','wjm3u8':'无尽','tpm3u8':'淘片','tkm3u8':'天空','gsm3u8':'光速','jsm3u8':'极速','xlm3u8':'新浪','bjm3u8':'八戒','hym3u8':'虎牙','yhm3u8':'樱花','kcm3u8':'快车','ikm3u8':'ikun','hhm3u8':'豪华','qhm3u8':'奇虎','sdm3u8':'闪电','jinyingm3u8':'金鹰','ukm3u8':'U酷','dbm3u8':'百度','wolong':'卧龙'},//线路名替换如:lzm3u8替换为量子资源
     推荐:'.v-list;div.item;*;*;*;*', //这里可以为空，这样点播不会有内容
     // 一级:'.v-list&&div.item;p&&Text;img&&src;;a&&href', //一级的内容是推荐或者点播时候的一级匹配
 	一级:'.v-list&&div.item;p&&Text;img&&data-src;;a&&href', //一级的内容是推荐或者点播时候的一级匹配
