@@ -14,10 +14,10 @@ https://taijichadao.github.io/zhibo/cnr.txt
 https://taijichadao.github.io/zhibo/webpage.txt
 
 #TV-百视通
-https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/newbestv.m3u
+https://taijichadao.github.io/IPTV-URL/newbestv.m3u
 
 #TV-重庆有线
-https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u
+https://taijichadao.github.io/IPTV-URL/cqyx.m3u
 
 #TV-爱尚
 https://taijichadao.github.io/zhibo/as.txt
@@ -26,7 +26,7 @@ https://taijichadao.github.io/zhibo/as.txt
 https://taijichadao.github.io/zhibo/aikan.txt
 
 #TV-蜀小果_ipv6
-https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u
+https://taijichadao.github.io/IPTV-URL/sxg.m3u
 
 #Stream-Link港澳台
 http://www.stream-link.org/stream-link.m3u
