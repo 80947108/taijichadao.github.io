@@ -40,20 +40,11 @@ https://live.fanmingming.com/tv/m3u/ipv6.m3u
 #TV-dxawi接口
 https://dxawi.github.io/0/tvlive.txt
 
-#TV-YanG_Gather
-https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
-
-#TV-whpsky_ChinaTV
-https://ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.txt
-
 #TV-全球线路
 https://iptv-org.github.io/iptv/index.m3u
 
 #TV-EPG线路
 https://epg.pw/test_channels_all.m3u
-
-#leo sam整合线路
-https://ghproxy.com/https://raw.githubusercontent.com/leosam1024/tvbox/main/live/live.txt
 
 #Radio-蜻蜓fm
 https://taijichadao.github.io/zhibo/蜻蜓fm.txt
