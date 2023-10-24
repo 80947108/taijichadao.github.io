@@ -1,5 +1,4 @@
-理解了，以下是您提供的数据按照您的要求进行的转换后的结果：
-
+央视,#genre#
 CCTV-1HD,http://angtv.cc/live/aikan.php?id=cctv1
 CCTV-1HD2,http://angtv.cc/live/aikan.php?id=cctv1b
 CCTV-2HD,http://angtv.cc/live/aikan.php?id=cctv2
@@ -25,6 +24,8 @@ CCTV-17HD,http://angtv.cc/live/aikan.php?id=cctv17
 CGTN西语,http://angtv.cc/live/aikan.php?id=cgtne
 CGTN阿语,http://angtv.cc/live/aikan.php?id=cgtna
 CHC家庭影院,http://angtv.cc/live/aikan.php?id=chcjtyy
+
+卫视,#genre#
 北京卫视HD,http://angtv.cc/live/aikan.php?id=bjws
 东方卫视HD,http://angtv.cc/live/aikan.php?id=dfws
 东方卫视HD2,http://angtv.cc/live/aikan.php?id=dfws2
@@ -48,6 +49,8 @@ CHC家庭影院,http://angtv.cc/live/aikan.php?id=chcjtyy
 新疆卫视,http://angtv.cc/live/aikan.php?id=xjws
 西藏卫视,http://angtv.cc/live/aikan.php?id=xzws
 海南卫视,http://angtv.cc/live/aikan.php?id=hinws
+
+其它,#genre#
 四海钓鱼,http://angtv.cc/live/aikan.php?id=shdy
 江苏教育,http://angtv.cc/live/aikan.php?id=jsjy
 山东教育卫视,http://angtv.cc/live/aikan.php?id=sdjy

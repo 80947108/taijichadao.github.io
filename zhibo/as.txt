@@ -1,3 +1,4 @@
+央视,#genre#
 CCTV1,http://angtv.cc/live/as.php?id=cctv1hd
 CCTV2,http://angtv.cc/live/as.php?id=cctv2hd
 CCTV3,http://angtv.cc/live/as.php?id=cctv3hd
@@ -17,10 +18,12 @@ CCTV15,http://angtv.cc/live/as.php?id=cctv15hd
 CCTV16,http://angtv.cc/live/as.php?id=cctv16hd
 CCTV16-4K,http://angtv.cc/live/as.php?id=cctv164K
 CCTV17,http://angtv.cc/live/as.php?id=cctv17hd
-CGTN-f,http://angtv.cc/live/as.php?id=cgtnf
-CGTN-r,http://angtv.cc/live/as.php?id=cgtnr
-CGTN-e,http://angtv.cc/live/as.php?id=cgtne
-CGTN-a,http://angtv.cc/live/as.php?id=cgtna
+CGTN,http://angtv.cc/live/as.php?id=cgtnf
+CGTN,http://angtv.cc/live/as.php?id=cgtnr
+CGTN,http://angtv.cc/live/as.php?id=cgtne
+CGTN,http://angtv.cc/live/as.php?id=cgtna
+
+卫视,#genre#
 湖南卫视,http://angtv.cc/live/as.php?id=hunwshd
 浙江卫视,http://angtv.cc/live/as.php?id=zjwshd
 东方卫视,http://angtv.cc/live/as.php?id=dfwshd
@@ -60,6 +63,8 @@ CGTN-a,http://angtv.cc/live/as.php?id=cgtna
 CETV1HD,http://angtv.cc/live/as.php?id=cetv1hd
 CETV2,http://angtv.cc/live/as.php?id=cetv2
 CETV4,http://angtv.cc/live/as.php?id=cetv4
+
+其它,#genre#
 爱上4K,http://angtv.cc/live/as.php?id=as4k
 CHC家庭影院,http://angtv.cc/live/as.php?id=chcjtyy
 CHC高清电影,http://angtv.cc/live/as.php?id=chcgqdy
