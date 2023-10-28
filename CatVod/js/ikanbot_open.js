@@ -1,7 +1,7 @@
-import { Crypto, load, _ } from './lib/cat.js';
+import { Crypto, load, _ } from 'assets://js/lib/cat.js';
 
 let key = 'ikanbot';
-let url = 'https://www.ikanbot.com';
+let url = 'https://www.aikanbot.com';
 let siteKey = '';
 let siteType = 0;
 
