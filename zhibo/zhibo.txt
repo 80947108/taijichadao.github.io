@@ -230,16 +230,6 @@ CCTV4K,http://159.75.85.63:5679/cctv4k.php
 湖南爱晚,http://angtv.cc/jd/hntv.php?id=aw
 湖南国际,http://angtv.cc/jd/hntv.php?id=gj
 湖南教育,http://angtv.cc/jd/hntv.php?id=jy
-湖南经视,http://223.151.51.27:85/tsfile/live/1004_1.m3u8?key=txiptv
-湖南娱乐,http://223.151.51.27:85/tsfile/live/1005_1.m3u8?key=txiptv
-湖南爱晚,http://223.151.51.27:85/tsfile/live/1006_1.m3u8?key=txiptv
-湖南都市,http://223.151.51.27:85/tsfile/live/1009_1.m3u8?key=txiptv
-湖南电视剧,http://223.151.51.27:85/tsfile/live/1011_1.m3u8?key=txiptv
-湖南教育,http://223.151.51.27:85/tsfile/live/1013_1.m3u8?key=txiptv
-湖南国际,http://223.151.51.27:85/tsfile/live/1014_1.m3u8?key=txiptv
-湖南电影,http://223.151.51.27:85/tsfile/live/1015_1.m3u8?key=txiptv
-金鹰卡通,http://223.151.51.27:85/tsfile/live/1016_1.m3u8?key=txiptv
-金鹰纪实,http://223.151.51.27:85/tsfile/live/1017_1.m3u8?key=txiptv
 
 欢笑剧场4K,https://live.goodiptv.club/api/cqyx.php?id=hxjc_4K
 深圳卫视,https://live.goodiptv.club/api/cqyx.php?id=shenzhenHD
@@ -360,6 +350,79 @@ CETV4,https://live.metshop.top/bestv.php?id=zgjy4hd8m/8000000
 法治天地,https://live.metshop.top/bestv.php?id=fztd8m/8000000
 金色学堂,https://live.metshop.top/bestv.php?id=jingsepd8m/8000000
 魅力足球,https://live.metshop.top/bestv.php?id=mlyyhd8m/8000000
+
+
+海峡卫视,https://cntv.lat/tv?auth=202311030915&id=hxws
+厦门卫视,https://cntv.lat/tv?auth=202311030915&id=xmws
+深圳卫视,https://cntv.lat/tv?auth=202311030915&id=szws
+康巴卫视,https://cntv.lat/tv?auth=202311030915&id=kbws
+三沙卫视,https://cntv.lat/tv?auth=202311030915&id=ssws
+兵团卫视,https://cntv.lat/tv?auth=202311030915&id=btws
+CETV1,https://cntv.lat/tv?auth=202311030915&id=cetv1
+CETV2,https://cntv.lat/tv?auth=202311030915&id=cetv2
+CETV4,https://cntv.lat/tv?auth=202311030915&id=cetv4
+茶频道,https://cntv.lat/tv?auth=202311030915&id=cpd
+快乐垂钓,https://cntv.lat/tv?auth=202311030915&id=klcd
+金鹰纪实,https://cntv.lat/tv?auth=202311030915&id=jyjs
+纪实科教,https://cntv.lat/tv?auth=202311030915&id=bjjskj
+纪实人文,https://cntv.lat/tv?auth=202311030915&id=shjsrw
+动漫秀场,https://cntv.lat/tv?auth=202311030915&id=dmxc
+哈哈炫动,https://cntv.lat/tv?auth=202311030915&id=hhxd
+欢笑剧场,https://cntv.lat/tv?auth=202311030915&id=hxjc
+欢笑剧场 4K,https://cntv.lat/tv?auth=202311030915&id=hxjc4k
+都市剧场,https://cntv.lat/tv?auth=202311030915&id=dsjc
+五星体育,https://cntv.lat/tv?auth=202311030915&id=wxty
+劲爆体育,https://cntv.lat/tv?auth=202311030915&id=jbty
+新视觉,https://cntv.lat/tv?auth=202311030915&id=xsj
+游戏风云,https://cntv.lat/tv?auth=202311030915&id=yxfy
+生活时尚,https://cntv.lat/tv?auth=202311030915&id=shss
+金色学堂,https://cntv.lat/tv?auth=202311030915&id=jspd
+乐游,https://cntv.lat/tv?auth=202311030915&id=qjs
+魅力足球,https://cntv.lat/tv?auth=202311030915&id=mlzq
+金鹰卡通,https://cntv.lat/tv?auth=202311030915&id=jykt
+嘉佳卡通,https://cntv.lat/tv?auth=202311030915&id=jjkt
+财富天下,https://cntv.lat/tv?auth=202311030915&id=cftx
+中国天气,https://cntv.lat/tv?auth=202311030915&id=zgtq
+上海新闻综合,https://cntv.lat/tv?auth=202311030915&id=shxwzh
+上海都市,https://cntv.lat/tv?auth=202311030915&id=shds
+上海ICS外语,https://cntv.lat/tv?auth=202311030915&id=shics
+东方影视,https://cntv.lat/tv?auth=202311030915&id=dfys
+七彩戏剧,https://cntv.lat/tv?auth=202311030915&id=qcxj
+第一财经,https://cntv.lat/tv?auth=202311030915&id=dycj
+法治天地,https://cntv.lat/tv?auth=202311030915&id=fztd
+东方财经,https://cntv.lat/tv?auth=202311030915&id=dfcj
+上海教育,https://cntv.lat/tv?auth=202311030915&id=shjy
+东方购物,https://cntv.lat/tv?auth=202311030915&id=dfgw
+浦东电视台,https://cntv.lat/tv?auth=202311030915&id=pdtv
+福建综合,https://cntv.lat/tv?auth=202311030915&id=fjzh
+福建新闻,https://cntv.lat/tv?auth=202311030915&id=fjxw
+福建电视剧,https://cntv.lat/tv?auth=202311030915&id=fjdsj
+福建文体,https://cntv.lat/tv?auth=202311030915&id=fjwt
+福建少儿,https://cntv.lat/tv?auth=202311030915&id=fjse
+福建旅游,https://cntv.lat/tv?auth=202311030915&id=fjly
+福建经济,https://cntv.lat/tv?auth=202311030915&id=fjjj
+福建公共,https://cntv.lat/tv?auth=202311030915&id=fjgg
+福建教育,https://cntv.lat/tv?auth=202311030915&id=fjjy
+看天下精选,https://cntv.lat/tv?auth=202311030915&id=ktxjx
+华语影院,https://cntv.lat/tv?auth=202311030915&id=hyyy
+电竞天堂,https://cntv.lat/tv?auth=202311030915&id=djtt
+青春动漫,https://cntv.lat/tv?auth=202311030915&id=qcdm
+星光影院,https://cntv.lat/tv?auth=202311030915&id=xgyy
+谍战剧场,https://cntv.lat/tv?auth=202311030915&id=dzjc
+全球大片,https://cntv.lat/tv?auth=202311030915&id=qqdp
+热门剧场,https://cntv.lat/tv?auth=202311030915&id=rmjc
+热门综艺,https://cntv.lat/tv?auth=202311030915&id=rmzy
+戏曲精选,https://cntv.lat/tv?auth=202311030915&id=xqjx
+健康养生,https://cntv.lat/tv?auth=202311030915&id=jkys
+百变课堂,https://cntv.lat/tv?auth=202311030915&id=bbkt
+宝宝动画,https://cntv.lat/tv?auth=202311030915&id=bbdh
+百视通体育1,https://cntv.lat/tv?auth=202311030915&id=sport1
+百视通体育2,https://cntv.lat/tv?auth=202311030915&id=sport2
+百视通体育3,https://cntv.lat/tv?auth=202311030915&id=sport3
+百视通体育4,https://cntv.lat/tv?auth=202311030915&id=sport4
+百视通体育5,https://cntv.lat/tv?auth=202311030915&id=sport5
+百视通体育6,https://cntv.lat/tv?auth=202311030915&id=sport6
+百视通体育7,https://cntv.lat/tv?auth=202311030915&id=sport7
 
 📺IPV6源,#genre#
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
