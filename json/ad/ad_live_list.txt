@@ -7,10 +7,12 @@
 #TV-精选
 https://taijichadao.github.io/zhibo/zhibo.txt
 
+#FM_adult
+https://taijichadao.github.io/CatVodSpider/txt/adult.txt
+
 #18PLUS
 https://taijichadao.github.io/json/ad/18PLUS.m3u
 
-#FM_adult
-https://taijichadao.github.io/CatVodSpider/txt/adult.txt
+
 
 
