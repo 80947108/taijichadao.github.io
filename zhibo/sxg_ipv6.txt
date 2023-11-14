@@ -1,7 +1,9 @@
 蜀小果,#genre#
-CCTV-1 综合,http://live.aptvapp.com/sxg.php?id=CCTV-1H265_4000
-CCTV-2 财经,http://live.aptvapp.com/sxg.php?id=CCTV-2H265_4000
-CCTV-3 综艺,http://live.aptvapp.com/sxg.php?id=CCTV-3H265_4000
+凤凰中文,https://php.61073736.repl.co/sxg.php?id=test1_4000
+凤凰资讯,https://php.61073736.repl.co/sxg.php?id=test2_4000
+CCTV1综合,https://php.61073736.repl.co/sxg.php?id=CCTV-1H265_4000
+CCTV2财经,https://php.61073736.repl.co/sxg.php?id=CCTV-2H265_4000
+CCTV3综艺,https://php.61073736.repl.co/sxg.php?id=CCTV-3H265_4000
 CCTV-1 综合,https://taijitv.zhonglong1.repl.co/sxg.php?id=CCTV-1H265_4000
 CCTV-2 财经,https://taijitv.zhonglong1.repl.co/sxg.php?id=CCTV-2H265_4000
 CCTV-3 综艺,https://taijitv.zhonglong1.repl.co/sxg.php?id=CCTV-3H265_4000
