@@ -24,6 +24,11 @@ CGTN,http://angtv.cc/live/as.php?id=cgtne
 CGTN,http://angtv.cc/live/as.php?id=cgtna
 
 卫视,#genre#
+湖南卫视,http://angtv.cc/test/as.php?id=hunwshd
+浙江卫视,http://angtv.cc/test/as.php?id=zjwshd
+东方卫视,http://angtv.cc/test/as.php?id=dfwshd
+江苏卫视,http://angtv.cc/test/as.php?id=jswshd
+
 湖南卫视,http://angtv.cc/live/as.php?id=hunwshd
 浙江卫视,http://angtv.cc/live/as.php?id=zjwshd
 东方卫视,http://angtv.cc/live/as.php?id=dfwshd
