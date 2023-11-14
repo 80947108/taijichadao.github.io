@@ -35,7 +35,7 @@ https://taijichadao.github.io/zhibo/sxg_ipv4.txt
 https://taijichadao.github.io/IPTV-URL/IPTV.m3u
 
 #TV-蜀小果_ipv6
-https://taijichadao.github.io/IPTV-URL/sxg.m3u
+https://taijichadao.github.io/zhibo/sxg_ipv6.txt
 
 #Stream-Link港澳台
 http://www.stream-link.org/stream-link.m3u
