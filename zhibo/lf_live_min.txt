@@ -10,8 +10,11 @@ https://taijichadao.github.io/zhibo/zhibo.txt
 #Radio-cnr
 https://taijichadao.github.io/zhibo/cnr.txt
 
-#TV-网页
-https://taijichadao.github.io/zhibo/webpage.txt
+#TV-收集
+https://taijichadao.github.io/zhibo/tv_collect.txt
+
+#TV-范明明_global
+https://live.fanmingming.com/tv/m3u/global.m3u
 
 #TV-百视通
 https://taijichadao.github.io/IPTV-URL/newbestv.m3u
@@ -19,17 +22,14 @@ https://taijichadao.github.io/IPTV-URL/newbestv.m3u
 #TV-重庆有线
 https://taijichadao.github.io/IPTV-URL/cqyx.m3u
 
+#Stream-Link港澳台
+http://www.stream-link.org/stream-link.m3u
+
 #IPTV_ipv6
 https://taijichadao.github.io/IPTV-URL/IPTV.m3u
 
 #TV-蜀小果_ipv6
 https://taijichadao.github.io/IPTV-URL/sxg.m3u
-
-#Stream-Link港澳台
-http://www.stream-link.org/stream-link.m3u
-
-#TV-范明明_global
-https://live.fanmingming.com/tv/m3u/global.m3u
 
 #TV-范明明_ipv6
 https://live.fanmingming.com/tv/m3u/ipv6.m3u
