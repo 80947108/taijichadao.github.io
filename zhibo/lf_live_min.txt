@@ -19,26 +19,11 @@ https://taijichadao.github.io/IPTV-URL/newbestv.m3u
 #TV-重庆有线
 https://taijichadao.github.io/IPTV-URL/cqyx.m3u
 
-#TV-歌华有线
-https://taijichadao.github.io/zhibo/gehua.txt
-
-#TV-爱尚
-https://taijichadao.github.io/zhibo/as.txt
-
-#TV-爱看咪咕
-https://taijichadao.github.io/zhibo/aikan.txt
-
-#TV-江苏银河
-https://taijichadao.github.io/zhibo/jsyh.txt
-
-#TV-蜀小果_ipv4
-https://taijichadao.github.io/zhibo/sxg_ipv4.txt
-
 #IPTV_ipv6
 https://taijichadao.github.io/IPTV-URL/IPTV.m3u
 
 #TV-蜀小果_ipv6
-https://taijichadao.github.io/zhibo/sxg_ipv6.txt
+https://taijichadao.github.io/IPTV-URL/sxg.m3u
 
 #Stream-Link港澳台
 http://www.stream-link.org/stream-link.m3u
