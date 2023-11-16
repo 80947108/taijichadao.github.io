@@ -25,6 +25,9 @@ https://taijichadao.github.io/IPTV-URL/cqyx.m3u
 #Stream-Link港澳台
 http://www.stream-link.org/stream-link.m3u
 
+#Livednow港澳台
+https://livednow.com/hmt.m3u
+
 #IPTV_ipv6
 https://taijichadao.github.io/IPTV-URL/IPTV.m3u
 
