@@ -22,6 +22,9 @@ https://taijichadao.github.io/IPTV-URL/newbestv.m3u
 #TV-重庆有线
 https://taijichadao.github.io/IPTV-URL/cqyx.m3u
 
+#TV-msp
+https://taijichadao.github.io/IPTV-URL/msp.m3u
+
 #Stream-Link港澳台
 http://www.stream-link.org/stream-link.m3u
 
