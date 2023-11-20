@@ -58,6 +58,25 @@ CCTV17,https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
 CCTV5+,https://live.goodiptv.club/api/cqyx.php?id=cctv5SportHD
 CCTV4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 
+CCTV1综合,https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
+CCTV2财经,https://live.goodiptv.club/api/cqyx.php?id=cctv2HD
+CCTV3综艺,https://live.goodiptv.club/api/cqyx.php?id=cctv3HD
+CCTV4中文国际,https://live.goodiptv.club/api/cqyx.php?id=cctv4HD
+CCTV5体育,https://live.goodiptv.club/api/cqyx.php?id=cctv5HD
+CCTV5体育赛事,https://live.goodiptv.club/api/cqyx.php?id=cctv5SportHD
+CCTV6电影,https://live.goodiptv.club/api/cqyx.php?id=cctv6HD
+CCTV7国防军事,https://live.goodiptv.club/api/cqyx.php?id=cctv7HD
+CCTV8电视剧,https://live.goodiptv.club/api/cqyx.php?id=cctv8HD
+CCTV9纪录,https://live.goodiptv.club/api/cqyx.php?id=cctv9HD
+CCTV10科教,https://live.goodiptv.club/api/cqyx.php?id=cctv10HD
+CCTV11戏曲,https://live.goodiptv.club/api/cqyx.php?id=cctv11HD
+CCTV12社会与法,https://live.goodiptv.club/api/cqyx.php?id=cctv12HD
+CCTV13新闻,https://live.goodiptv.club/api/cqyx.php?id=CCTVNewsHD
+CCTV14少儿,https://live.goodiptv.club/api/cqyx.php?id=cctvseHD
+CCTV15音乐,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
+CCTV16奥林匹克,https://live.goodiptv.club/api/cqyx.php?id=cctv16HD
+CCTV17农业农村,https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
+
 CCTV1,http://angtv.cc/live/aikan.php?id=cctv1
 CCTV2,http://angtv.cc/live/aikan.php?id=cctv2
 CCTV3,http://angtv.cc/live/aikan.php?id=cctv3
