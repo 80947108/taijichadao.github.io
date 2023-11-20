@@ -112,6 +112,13 @@ CCTV16奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/
 新疆卫视,http://angtv.cc/live/aikan.php?id=xjws
 重庆卫视,http://angtv.cc/live/aikan.php?id=cqws
 
+云南卫视,http://120.196.232.52:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226709/1.m3u8
+广西卫视,http://120.196.232.54:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226681/1.m3u8
+山西卫视,http://120.196.232.19:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226704/1.m3u8
+云南卫视,https://iptv.luas.edu.cn/liverespath/d45a277ca433670e3f463b497783af19bb2c63f8/index.m3u8
+广西卫视,https://iptv.luas.edu.cn/liverespath/15f9ffc8f72eb7f7ddfe79669f246e4db4acc3c1/index.m3u8
+山西卫视,https://iptv.luas.edu.cn/liverespath/74908123d020c1a9f55e8a9652973187bcd07970/index.m3u8
+
 //======================================================
 📺其它,#genre#
 凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
