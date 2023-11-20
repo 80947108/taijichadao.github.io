@@ -48,7 +48,7 @@ CCTV15音乐,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
 CCTV16奥林匹克,https://live.goodiptv.club/api/cqyx.php?id=cctv16HD
 CCTV17农业农村,https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
 CCTV5+体育赛事,https://live.goodiptv.club/api/cqyx.php?id=cctv5SportHD
-CCTV超高清,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
+CCTV4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 CCTV16奥林匹克,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 风云音乐,https://live.goodiptv.club/api/cqyx.php?id=fyyyHD
 风云剧场,https://live.goodiptv.club/api/cqyx.php?id=fyjcHD
@@ -94,9 +94,7 @@ CCTV13新闻,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32
 CCTV14少儿,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
 CCTV15音乐,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 CCTV16奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
-CCTV4K超高清,http://159.75.85.63:5679/cctv4k.php
-CCTV超高清,http://159.75.85.63:5679/cctv4k.php
-CCTV4K,http://159.75.85.63:5679/cctv4k.php
+
 //======================================================
 
 📡卫视,#genre#卫视
