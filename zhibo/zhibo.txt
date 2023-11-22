@@ -87,11 +87,11 @@ CCTV4k,https://live.metshop.top/msp.php?id=cctv4k
 央视台球,https://live.metshop.top/msp.php?id=ystq
 卫生健康,https://live.metshop.top/msp.php?id=wsjk
 CGTN,https://live.metshop.top/msp.php?id=cgtn
-CGTN纪录,https://live.metshop.top/msp.php?id=cgtnjl
-CGTN西班牙语,https://live.metshop.top/msp.php?id=cgtne
 CGTN法语,https://live.metshop.top/msp.php?id=cgtnf
-CGTN阿拉伯语,https://live.metshop.top/msp.php?id=cgtna
 CGTN俄语,https://live.metshop.top/msp.php?id=cgtnr
+CGTN阿拉伯语,https://live.metshop.top/msp.php?id=cgtna
+CGTN西班牙语,https://live.metshop.top/msp.php?id=cgtne
+CGTN纪录,https://live.metshop.top/msp.php?id=cgtnjl
 
 CCTV1综合,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
@@ -109,7 +109,13 @@ CCTV14少儿,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32
 CCTV15音乐,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 CCTV16奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 
-世界地理,https://live.metshop.top/msp.php?id=sjdl
+CCTV4k,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
+CGTN,http://live.cgtn.com/1000/prog_index.m3u8
+CGTN法语,http://livefr.cgtn.com/1000f/prog_index.m3u8
+CGTN俄语,http://liveru.cgtn.com/1000r/prog_index.m3u8
+CGTN阿拉伯语,http://livear.cgtn.com/1000a/prog_index.m3u8
+CGTN西班牙语,http://livees.cgtn.com/1000e/prog_index.m3u8
+CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 
 //======================================================
 
