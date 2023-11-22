@@ -5,6 +5,7 @@ TVBS,https://everydaytv.top/play-3-153-6.html/parse
 
 抖音/parse,#genre#
 CCTV6,https://live.douyin.com/208823316033
+CCTV16,https://tv.cctv.com/live/cctv16/
 
 YouTube/parse,#genre#
 凤凰资讯,https://www.youtube.com/watch?v=if6yQq_JJyY
