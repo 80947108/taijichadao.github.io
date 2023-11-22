@@ -280,6 +280,10 @@ CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 茶频道,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226216/1/index.m3u8?fmt=ts2hls
 金鹰卡通,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225731/1/index.m3u8?fmt=ts2hls
 
+CETV1,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225723/1/index.m3u8?fmt=ts2hls
+CETV1,https://qist.cc/live/gzyd.php?id=cetv1
+CETV4,https://qist.cc/live/gzyd.php?id=cetv4
+
 📺IPV6源,#genre#
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
