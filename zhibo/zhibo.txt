@@ -34,7 +34,7 @@ CGTN法语,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226265/1/index
 CGTN俄语,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226278/1/index.m3u8?fmt=ts2hls
 CGTN阿拉伯语,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226281/1/index.m3u8?fmt=ts2hls
 CGTN西班牙语,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226284/1/index.m3u8?fmt=ts2hls
-CGTN外语纪录,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226271/1/index.m3u8?fmt=ts2hls
+CGTN纪录,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226271/1/index.m3u8?fmt=ts2hls
 
 CCTV1综合,http://angtv.cc/live/aikan.php?id=cctv1
 CCTV2财经,http://angtv.cc/live/aikan.php?id=cctv2
