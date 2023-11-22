@@ -73,7 +73,6 @@ CCTV16奥林匹克,https://live.metshop.top/msp.php?id=cctv16
 CCTV17农业农村,https://live.metshop.top/msp.php?id=cctv17
 CCTV5+体育赛事,https://live.metshop.top/msp.php?id=cctv5p
 CCTV4k,https://live.metshop.top/msp.php?id=cctv4k
-CCTV16奥林匹克,https://live.metshop.top/msp.php?id=cctv16-4k
 兵器科技,https://live.metshop.top/msp.php?id=bqkj
 第一剧场,https://live.metshop.top/msp.php?id=dyjc
 怀旧剧场,https://live.metshop.top/msp.php?id=hjjc
