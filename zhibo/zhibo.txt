@@ -109,7 +109,7 @@ CCTV14少儿,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32
 CCTV15音乐,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 CCTV16奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 
-CCTV4k,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
+CCTV16奥林匹克,http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8
 CGTN,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN法语,http://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN俄语,http://liveru.cgtn.com/1000r/prog_index.m3u8
