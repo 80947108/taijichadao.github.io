@@ -200,10 +200,8 @@ CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 
 //======================================================
 📺其它,#genre#
-凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
-凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
-凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰资讯,https://qist.cc/live/sc.php?id=fhzx
+凤凰中文,https://qist.cc/live/sc.php?id=fhws
 
 金鹰纪实,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225671/1/index.m3u8?fmt=ts2hls
 纪实人文,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225767/1/index.m3u8?fmt=ts2hls
@@ -212,20 +210,6 @@ CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 茶频道,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226216/1/index.m3u8?fmt=ts2hls
 金鹰卡通,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225731/1/index.m3u8?fmt=ts2hls
 深圳卫视,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225712/1/index.m3u8?fmt=ts2hls
-
-金鹰卡通,https://live.goodiptv.club/api/cqyx.php?id=jinyingSD
-纪实科教,https://live.goodiptv.club/api/cqyx.php?id=bjayjsSD
-深圳卫视,https://live.goodiptv.club/api/cqyx.php?id=shenzhenHD
-快乐垂钓,https://live.goodiptv.club/api/cqyx.php?id=klcdHD
-
-湖南经视,http://angtv.cc/jd/hntv.php?id=js
-湖南都市,http://angtv.cc/jd/hntv.php?id=ds
-湖南电影,http://angtv.cc/jd/hntv.php?id=dy
-湖南电视剧,http://angtv.cc/jd/hntv.php?id=dsj
-湖南娱乐,http://angtv.cc/jd/hntv.php?id=yl
-湖南爱晚,http://angtv.cc/jd/hntv.php?id=aw
-湖南国际,http://angtv.cc/jd/hntv.php?id=gj
-湖南教育,http://angtv.cc/jd/hntv.php?id=jy
 
 📺IPV6源,#genre#
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
