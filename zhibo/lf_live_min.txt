@@ -40,6 +40,9 @@ https://live.fanmingming.com/tv/m3u/ipv6.m3u
 #TV-dxawi接口
 https://dxawi.github.io/0/tvlive.txt
 
+#TV-qist接口
+https://taijichadao.github.io/qist_tvbox/tvlive.txt
+
 #TV-欧歌
 http://tv.nxog.top/m/jar.php?id=live
 
