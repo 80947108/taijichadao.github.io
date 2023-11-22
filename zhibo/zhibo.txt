@@ -73,6 +73,7 @@ CCTV16奥林匹克,https://live.metshop.top/msp.php?id=cctv16
 CCTV17农业农村,https://live.metshop.top/msp.php?id=cctv17
 CCTV5+体育赛事,https://live.metshop.top/msp.php?id=cctv5p
 CCTV4k,https://live.metshop.top/msp.php?id=cctv4k
+CCTV16奥林匹克,https://live.metshop.top/msp.php?id=cctv16-4k
 兵器科技,https://live.metshop.top/msp.php?id=bqkj
 第一剧场,https://live.metshop.top/msp.php?id=dyjc
 怀旧剧场,https://live.metshop.top/msp.php?id=hjjc
@@ -110,6 +111,7 @@ CCTV15音乐,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32
 CCTV16奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 
 CCTV16奥林匹克,http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8
+CCTV4k,http://angtv.cc/test/ysp.php?id=cctv4k
 CGTN,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN法语,http://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN俄语,http://liveru.cgtn.com/1000r/prog_index.m3u8
