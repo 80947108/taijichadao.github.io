@@ -138,7 +138,10 @@ CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 CHC高清电影,https://qist.cc/live/cqn.php?id=chcgq
 CHC动作电影,https://qist.cc/live/cqn.php?id=chcdz
 CHC家庭影院,https://qist.cc/live/cqn.php?id=chcjt
-中央新影中学生,https://qist.cc/live/gzyd.php?id=zxs
+CETV1,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225723/1/index.m3u8?fmt=ts2hls
+CETV4,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226338/1/index.m3u8?fmt=ts2hls
+CETV1,https://qist.cc/live/gzyd.php?id=cetv1
+CETV4,https://qist.cc/live/gzyd.php?id=cetv4
 CGTN,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN法语,http://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN俄语,http://liveru.cgtn.com/1000r/prog_index.m3u8
@@ -289,11 +292,6 @@ CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 快乐垂钓,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226190/1/index.m3u8?fmt=ts2hls
 茶频道,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226216/1/index.m3u8?fmt=ts2hls
 金鹰卡通,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225731/1/index.m3u8?fmt=ts2hls
-
-CETV1,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225723/1/index.m3u8?fmt=ts2hls
-CETV4,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226338/1/index.m3u8?fmt=ts2hls
-CETV1,https://qist.cc/live/gzyd.php?id=cetv1
-CETV4,https://qist.cc/live/gzyd.php?id=cetv4
 
 📺IPV6源,#genre#
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
