@@ -132,6 +132,16 @@ CCTV14少儿,https://qist.cc/live/gzyd.php?id=cctv14
 CCTV15音乐,https://qist.cc/live/gzyd.php?id=cctv15
 CCTV17农业农村,https://qist.cc/live/gzyd.php?id=cctv17
 
+兵器科技,http://111.20.40.162/PLTV/88888893/224/3221226975/index.m3u8
+第一剧场,http://111.20.40.162/PLTV/88888893/224/3221226959/index.m3u8
+电视指南,http://111.20.40.162/PLTV/88888893/224/3221226987/index.m3u8
+风云剧场,http://111.20.40.162/PLTV/88888893/224/3221226950/index.m3u8
+风云音乐,http://111.20.40.162/PLTV/88888893/224/3221226953/index.m3u8
+怀旧剧场,http://111.20.40.162/PLTV/88888893/224/3221226972/index.m3u8
+女性时尚,http://111.20.40.162/PLTV/88888893/224/3221226969/index.m3u8
+世界地理,http://111.20.40.162/PLTV/88888893/224/3221226947/index.m3u8
+央视文化精品,http://111.20.40.164/PLTV/88888893/224/3221226981/index.m3u8
+
 CGTN,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN法语,http://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN俄语,http://liveru.cgtn.com/1000r/prog_index.m3u8
@@ -284,8 +294,6 @@ CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 📺其它,#genre#
 凤凰资讯,https://qist.cc/live/sc.php?id=fhzx
 凤凰中文,https://qist.cc/live/sc.php?id=fhws
-快乐垂钓,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226190/1/index.m3u8?fmt=ts2hls
-茶频道,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226216/1/index.m3u8?fmt=ts2hls
 中央新影老故事,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225677/1/index.m3u8?fmt=ts2hls
 中央新影中学生,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225663/1/index.m3u8?fmt=ts2hls
 中央新影发现之旅,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226162/1/index.m3u8?fmt=ts2hls
@@ -301,6 +309,10 @@ CETV3,https://qist.cc/live/edu.php?id=cetv3&u=lzjtu
 CETV4,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226338/1/index.m3u8?fmt=ts2hls
 CETV1,https://qist.cc/live/gzyd.php?id=cetv1
 CETV4,https://qist.cc/live/gzyd.php?id=cetv4
+快乐垂钓,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226190/1/index.m3u8?fmt=ts2hls
+茶频道,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226216/1/index.m3u8?fmt=ts2hls
+快乐垂钓,http://111.20.40.170/PLTV/88888893/224/3221226805/index.m3u8
+
 
 📺IPV6源,#genre#
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
