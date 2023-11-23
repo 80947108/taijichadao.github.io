@@ -40,9 +40,6 @@ CGTN俄语,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226278/1/index
 CGTN阿拉伯语,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226281/1/index.m3u8?fmt=ts2hls
 CGTN西班牙语,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226284/1/index.m3u8?fmt=ts2hls
 CGTN纪录,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226271/1/index.m3u8?fmt=ts2hls
-中央新影老故事,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225677/1/index.m3u8?fmt=ts2hls
-中央新影中学生,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225663/1/index.m3u8?fmt=ts2hls
-中央新影发现之旅,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226162/1/index.m3u8?fmt=ts2hls
 
 CCTV1综合,http://angtv.cc/live/aikan.php?id=cctv1
 CCTV2财经,http://angtv.cc/live/aikan.php?id=cctv2
@@ -135,18 +132,6 @@ CCTV14少儿,https://qist.cc/live/gzyd.php?id=cctv14
 CCTV15音乐,https://qist.cc/live/gzyd.php?id=cctv15
 CCTV17农业农村,https://qist.cc/live/gzyd.php?id=cctv17
 
-CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
-CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
-CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
-CHC高清电影,https://qist.cc/live/cqn.php?id=chcgq
-CHC动作电影,https://qist.cc/live/cqn.php?id=chcdz
-CHC家庭影院,https://qist.cc/live/cqn.php?id=chcjt
-CETV1,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225723/1/index.m3u8?fmt=ts2hls
-CETV2,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226332/1/index.m3u8?fmt=ts2hls
-CETV3,https://qist.cc/live/edu.php?id=cetv3&u=lzjtu
-CETV4,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226338/1/index.m3u8?fmt=ts2hls
-CETV1,https://qist.cc/live/gzyd.php?id=cetv1
-CETV4,https://qist.cc/live/gzyd.php?id=cetv4
 CGTN,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN法语,http://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN俄语,http://liveru.cgtn.com/1000r/prog_index.m3u8
@@ -288,13 +273,27 @@ CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 📺其它,#genre#
 凤凰资讯,https://qist.cc/live/sc.php?id=fhzx
 凤凰中文,https://qist.cc/live/sc.php?id=fhws
-
 金鹰纪实,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225671/1/index.m3u8?fmt=ts2hls
 纪实人文,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225767/1/index.m3u8?fmt=ts2hls
 纪实科教,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226105/1/index.m3u8?fmt=ts2hls
 快乐垂钓,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226190/1/index.m3u8?fmt=ts2hls
 茶频道,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226216/1/index.m3u8?fmt=ts2hls
 金鹰卡通,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225731/1/index.m3u8?fmt=ts2hls
+中央新影老故事,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225677/1/index.m3u8?fmt=ts2hls
+中央新影中学生,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225663/1/index.m3u8?fmt=ts2hls
+中央新影发现之旅,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226162/1/index.m3u8?fmt=ts2hls
+CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
+CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
+CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
+CHC高清电影,https://qist.cc/live/cqn.php?id=chcgq
+CHC动作电影,https://qist.cc/live/cqn.php?id=chcdz
+CHC家庭影院,https://qist.cc/live/cqn.php?id=chcjt
+CETV1,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225723/1/index.m3u8?fmt=ts2hls
+CETV2,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226332/1/index.m3u8?fmt=ts2hls
+CETV3,https://qist.cc/live/edu.php?id=cetv3&u=lzjtu
+CETV4,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226338/1/index.m3u8?fmt=ts2hls
+CETV1,https://qist.cc/live/gzyd.php?id=cetv1
+CETV4,https://qist.cc/live/gzyd.php?id=cetv4
 
 📺IPV6源,#genre#
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
