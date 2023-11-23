@@ -1,8 +1,9 @@
 📺央视,#genre#央视
-测试1,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
 测试1,
+测试1,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
+测试2,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
+测试2,http://
 CCTV1综合,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
-CCTV1综合,
 CCTV2财经,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls
 CCTV3综艺,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226040/1/index.m3u8?fmt=ts2hls
 CCTV4中文国际,http://39.136.17.116/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225779/1/index.m3u8?fmt=ts2hls
