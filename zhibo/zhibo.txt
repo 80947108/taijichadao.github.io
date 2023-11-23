@@ -33,6 +33,7 @@ CCTV4美洲,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226300/1/inde
 央视文化精品,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
 央视台球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
 电视指南,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
+卫生健康,http://angtv.cc/test/ysp.php?id=wsjk
 CGTN,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226297/1/index.m3u8?fmt=ts2hls
 CGTN法语,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226265/1/index.m3u8?fmt=ts2hls
 CGTN俄语,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226278/1/index.m3u8?fmt=ts2hls
@@ -144,7 +145,6 @@ CETV1,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225723/1/index.m3u8
 CETV2,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226332/1/index.m3u8?fmt=ts2hls
 CETV3,https://qist.cc/live/edu.php?id=cetv3&u=lzjtu
 CETV4,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226338/1/index.m3u8?fmt=ts2hls
-CETV早期教育,http://113.207.84.196/session/8de41b78-899e-11ee-94c9-5254004d191c$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/zaojiaoHD/__op/default/__f/index.m3u8?token=901d0dc6825b4d0537763cc391cdd49f_1700788856_1700788856
 CETV1,https://qist.cc/live/gzyd.php?id=cetv1
 CETV4,https://qist.cc/live/gzyd.php?id=cetv4
 CGTN,http://live.cgtn.com/1000/prog_index.m3u8
