@@ -659,16 +659,17 @@ TVBS,http://
 TVBS新闻台,http://
 东森新闻,http://
 中天新闻,http://
+CETV1,http://
+CETV2,http://
+CETV3,http://
+CETV4,http://
+早期教育,http://
 CHC家庭影院,http://
 CHC高清电影,http://
 CHC动作电影,http://
 中央新影老故事,http://
 中央新影中学生,http://
 中央新影发现之旅,http://
-CETV1,http://
-CETV2,http://
-CETV3,http://
-CETV4,http://
 快乐垂钓,http://
 茶频道,http://
 
