@@ -40,6 +40,8 @@ CGTN阿拉伯语,http://
 CGTN西班牙语,http://
 CGTN纪录,http://
 
+CCTV16奥林匹克,http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8
+
 CCTV1综合,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
 CCTV2财经,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls
 CCTV3综艺,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226040/1/index.m3u8?fmt=ts2hls
@@ -55,7 +57,6 @@ CCTV12社会与法,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/
 CCTV13新闻,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
 CCTV14少儿,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225727/1/index.m3u8?fmt=ts2hls
 CCTV15音乐,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225749/1/index.m3u8?fmt=ts2hls
-CCTV16奥林匹克,http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8
 CCTV16奥林匹克,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226283/1/index.m3u8?fmt=ts2hls
 CCTV17农业农村,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls
 CCTV5+体育赛事,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226128/1/index.m3u8?fmt=ts2hls
@@ -134,6 +135,15 @@ CCTV13新闻,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32
 CCTV14少儿,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
 CCTV15音乐,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 CCTV16奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
+兵器科技,http://111.20.40.162/PLTV/88888893/224/3221226975/index.m3u8
+第一剧场,http://111.20.40.162/PLTV/88888893/224/3221226959/index.m3u8
+电视指南,http://111.20.40.162/PLTV/88888893/224/3221226987/index.m3u8
+风云剧场,http://111.20.40.162/PLTV/88888893/224/3221226950/index.m3u8
+风云音乐,http://111.20.40.162/PLTV/88888893/224/3221226953/index.m3u8
+怀旧剧场,http://111.20.40.162/PLTV/88888893/224/3221226972/index.m3u8
+女性时尚,http://111.20.40.162/PLTV/88888893/224/3221226969/index.m3u8
+世界地理,http://111.20.40.162/PLTV/88888893/224/3221226947/index.m3u8
+央视文化精品,http://111.20.40.164/PLTV/88888893/224/3221226981/index.m3u8
 
 CCTV1综合,https://qist.cc/live/gzyd.php?id=cctv1
 CCTV2财经,https://qist.cc/live/gzyd.php?id=cctv2
@@ -175,15 +185,6 @@ CGTN阿拉伯语,https://qist.cc/live/gzyd.php?id=cgtna
 CGTN西班牙语,https://qist.cc/live/gzyd.php?id=cgtne
 CGTN纪录,https://qist.cc/live/gzyd.php?id=cgtnjl
 
-兵器科技,http://111.20.40.162/PLTV/88888893/224/3221226975/index.m3u8
-第一剧场,http://111.20.40.162/PLTV/88888893/224/3221226959/index.m3u8
-电视指南,http://111.20.40.162/PLTV/88888893/224/3221226987/index.m3u8
-风云剧场,http://111.20.40.162/PLTV/88888893/224/3221226950/index.m3u8
-风云音乐,http://111.20.40.162/PLTV/88888893/224/3221226953/index.m3u8
-怀旧剧场,http://111.20.40.162/PLTV/88888893/224/3221226972/index.m3u8
-女性时尚,http://111.20.40.162/PLTV/88888893/224/3221226969/index.m3u8
-世界地理,http://111.20.40.162/PLTV/88888893/224/3221226947/index.m3u8
-央视文化精品,http://111.20.40.164/PLTV/88888893/224/3221226981/index.m3u8
 CGTN,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN法语,http://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN俄语,http://liveru.cgtn.com/1000r/prog_index.m3u8
@@ -192,7 +193,6 @@ CGTN西班牙语,http://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 
 CCTV4k,http://angtv.cc/test/ysp.php?id=cctv4k
-卫生健康,http://angtv.cc/test/ysp.php?id=wsjk
 
 //======================================================
 
@@ -377,6 +377,10 @@ CCTV4k,http://angtv.cc/test/ysp.php?id=cctv4k
 📺其它,#genre#
 凤凰资讯,http://
 凤凰中文,http://
+TVBS HD,http://
+TVBS新闻台,http://
+东森新闻,http://
+中天新闻,http://
 CHC家庭影院,http://
 CHC高清电影,http://
 CHC动作电影,http://
@@ -392,6 +396,25 @@ CETV4,http://
 
 凤凰资讯,https://qist.cc/live/sc.php?id=fhzx
 凤凰中文,https://qist.cc/live/sc.php?id=fhws
+凤凰资讯,http://50.7.238.114:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
+凤凰中文,http://50.7.238.114:8278/phoenixtv_hd/playlist.m3u8?tid=m18f421b0e58b&ct=18336&tsum=8e0cca627477cbd534c9cef5e2c17c1c
+凤凰资讯,http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
+凤凰中文,http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=m18f421b0e58b&ct=18336&tsum=8e0cca627477cbd534c9cef5e2c17c1c
+TVBS HD,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=ME2E6545230665452306&ct=19234&tsum=ff0df01c2935843c8c4543428728ce28
+TVBS HD,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=ME2E6545230665452306&ct=19234&tsum=ff0df01c2935843c8c4543428728ce28
+TVBS HD,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
+TVBS新闻台,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MB6B3640782836407828&ct=19234&tsum=315ac9a0876bc361c6715ac6d5a96777
+TVBS新闻台,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
+TVBS新闻台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MB6B3640782836407828&ct=19234&tsum=315ac9a0876bc361c6715ac6d5a96777
+TVBS新闻台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
+东森新闻,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290
+东森新闻,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
+东森新闻,http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
+东森新闻,http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MD8D4407126144071261&ct=19344&tsum=c7212737de5e023823ea68610d709c14
+中天新闻,http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
+中天新闻,http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
+中天新闻,http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
+
 CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
 CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
 CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
