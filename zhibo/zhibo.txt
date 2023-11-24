@@ -377,7 +377,7 @@ CCTV4k,http://angtv.cc/test/ysp.php?id=cctv4k
 📺其它,#genre#
 凤凰资讯,http://
 凤凰中文,http://
-TVBS HD,http://
+TVBS,http://
 TVBS新闻台,http://
 东森新闻,http://
 中天新闻,http://
@@ -400,9 +400,9 @@ CETV4,http://
 凤凰中文,http://50.7.238.114:8278/phoenixtv_hd/playlist.m3u8?tid=m18f421b0e58b&ct=18336&tsum=8e0cca627477cbd534c9cef5e2c17c1c
 凤凰资讯,http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
 凤凰中文,http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=m18f421b0e58b&ct=18336&tsum=8e0cca627477cbd534c9cef5e2c17c1c
-TVBS HD,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=ME2E6545230665452306&ct=19234&tsum=ff0df01c2935843c8c4543428728ce28
-TVBS HD,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=ME2E6545230665452306&ct=19234&tsum=ff0df01c2935843c8c4543428728ce28
-TVBS HD,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
+TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=ME2E6545230665452306&ct=19234&tsum=ff0df01c2935843c8c4543428728ce28
+TVBS,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=ME2E6545230665452306&ct=19234&tsum=ff0df01c2935843c8c4543428728ce28
+TVBS,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
 TVBS新闻台,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MB6B3640782836407828&ct=19234&tsum=315ac9a0876bc361c6715ac6d5a96777
 TVBS新闻台,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
 TVBS新闻台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MB6B3640782836407828&ct=19234&tsum=315ac9a0876bc361c6715ac6d5a96777
