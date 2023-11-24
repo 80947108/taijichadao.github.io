@@ -96,7 +96,6 @@ CCTV12社会与法,https://live.metshop.top/msp.php?id=cctv12
 CCTV13新闻,https://live.metshop.top/msp.php?id=cctv13
 CCTV14少儿,https://live.metshop.top/msp.php?id=cctv14
 CCTV15音乐,https://live.metshop.top/msp.php?id=cctv15
-CCTV16奥林匹克,https://live.metshop.top/msp.php?id=cctv16
 CCTV17农业农村,https://live.metshop.top/msp.php?id=cctv17
 CCTV5+体育赛事,https://live.metshop.top/msp.php?id=cctv5p
 CCTV4k,https://live.metshop.top/msp.php?id=cctv4k
@@ -191,8 +190,28 @@ CGTN俄语,http://liveru.cgtn.com/1000r/prog_index.m3u8
 CGTN阿拉伯语,http://livear.cgtn.com/1000a/prog_index.m3u8
 CGTN西班牙语,http://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
-
 CCTV4k,http://angtv.cc/test/ysp.php?id=cctv4k
+
+CCTV1综合,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221227467/index.m3u8
+CCTV2财经,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/ott.mobaibox.com/PLTV/4/224/3221228094/index.m3u8
+CCTV3综艺,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
+CCTV4中文国际,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/4/224/3221227549/index.m3u8
+CCTV5体育,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+CCTV6电影,http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/ott.mobaibox.com/PLTV/4/224/3221228123/index.m3u8
+CCTV7国防军事,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/ott.mobaibox.com/PLTV/4/224/3221227690/index.m3u8
+CCTV8电视剧,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/4/224/3221227473/index.m3u8
+CCTV9纪录,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/4/224/3221227614/index.m3u8
+CCTV10科教,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/ott.mobaibox.com/PLTV/4/224/3221228286/index.m3u8
+CCTV11戏曲,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/4/224/3221228289/index.m3u8
+CCTV12社会与法,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/4/224/3221228401/index.m3u8
+CCTV13新闻,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221227387/index.m3u8
+CCTV14少儿,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/4/224/3221228292/index.m3u8
+CCTV15音乐,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/4/224/3221228404/index.m3u8
+CCTV16奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221228112/index.m3u8
+CCTV17农业农村,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221227592/index.m3u8
+CCTV5+体育赛事,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/ott.mobaibox.com/PLTV/4/224/3221228176/index.m3u8
+
+
 
 //======================================================
 
@@ -438,6 +457,17 @@ CETV2,https://qist.cc/live/gzyd.php?id=cetv2
 CETV4,https://qist.cc/live/gzyd.php?id=cetv4
 快乐垂钓,https://qist.cc/live/gzyd.php?id=klcd
 茶频道,https://qist.cc/live/gzyd.php?id=cha
+
+//========其它,IPV6源===============
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+
+
+
 
 📺IPV6源,#genre#
 CCTV1综合,http://
