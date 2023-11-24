@@ -42,7 +42,7 @@ CGTN纪录,http://
 
 CCTV16奥林匹克,http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8
 CCTV4k,http://ainm.cc/a/play/php/cctv4k.php?id=4khd
-CCTV4K,http://nas.jdshipin.com:8801/bst.php?id=cctv4k/15000000
+CCTV4k,http://nas.jdshipin.com:8801/bst.php?id=cctv4k/15000000
 
 CCTV1综合,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
 CCTV2财经,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls
