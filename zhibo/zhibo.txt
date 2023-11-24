@@ -449,6 +449,7 @@ CCTV17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765
 纪实科教,https://qist.cc/live/cqyx.php?id=bjjskj
 卡酷少儿,https://qist.cc/live/cqyx.php?id=bjkk
 金鹰卡通,https://qist.cc/live/cqyx.php?id=jykt
+山东教育,https://qist.cc/live/cqyx.php?id=sdjy
 
 北京卫视,https://live.metshop.top/msp.php?id=bjws
 东方卫视,https://live.metshop.top/msp.php?id=dfws
@@ -745,7 +746,6 @@ CETV4,https://qist.cc/live/cqyx.php?id=cetv4
 金色学堂,https://qist.cc/live/cqyx.php?id=jsxt
 新动漫,https://qist.cc/live/cqyx.php?id=xdm
 证券服务,https://qist.cc/live/cqyx.php?id=zqfw
-山东教育,https://qist.cc/live/cqyx.php?id=sdjy
 收藏天下,https://qist.cc/live/cqyx.php?id=sctx
 国学频道,https://qist.cc/live/cqyx.php?id=gxpd
 快乐垂钓,https://qist.cc/live/cqyx.php?id=klcd
