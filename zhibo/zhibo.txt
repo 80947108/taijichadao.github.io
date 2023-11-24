@@ -41,6 +41,8 @@ CGTN西班牙语,http://
 CGTN纪录,http://
 
 CCTV16奥林匹克,http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8
+CCTV4k,http://ainm.cc/a/play/php/cctv4k.php?id=4khd
+CCTV4K,http://nas.jdshipin.com:8801/bst.php?id=cctv4k/15000000
 
 CCTV1综合,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
 CCTV2财经,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls
@@ -176,7 +178,7 @@ CCTV4美洲,https://qist.cc/live/gzyd.php?id=cctv4a
 央视文化精品,https://qist.cc/live/gzyd.php?id=whjp
 央视台球,https://qist.cc/live/gzyd.php?id=ystq
 电视指南,https://qist.cc/live/gzyd.php?id=dszn
-卫生健康,http://angtv.cc/test/ysp.php?id=wsjk
+卫生健康,https://qist.cc/live/gzyd.php?id=wsjk
 CGTN,https://qist.cc/live/gzyd.php?id=cgtn
 CGTN法语,https://qist.cc/live/gzyd.php?id=cgtnf
 CGTN俄语,https://qist.cc/live/gzyd.php?id=cgtnr
@@ -190,7 +192,6 @@ CGTN俄语,http://liveru.cgtn.com/1000r/prog_index.m3u8
 CGTN阿拉伯语,http://livear.cgtn.com/1000a/prog_index.m3u8
 CGTN西班牙语,http://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
-CCTV4k,http://angtv.cc/test/ysp.php?id=cctv4k
 
 //===央视,IPV6源===
 CCTV1综合,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221227467/index.m3u8
@@ -663,10 +664,6 @@ CETV4,https://qist.cc/live/gzyd.php?id=cetv4
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/4/224/3221228524/index.m3u8
 
-纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
-纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/4/224/3221228228/index.m3u8
-纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/4/224/3221227506/index.m3u8
-纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb25]/ott.mobaibox.com/PLTV/4/224/3221228472/index.m3u8
 动漫秀场,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/ott.mobaibox.com/PLTV/4/224/3221227774/index.m3u8
 CHC动作电影,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/ott.mobaibox.com/PLTV/4/224/3221227606/index.m3u8
 都市剧场,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221227710/index.m3u8
