@@ -1,0 +1,11 @@
+#lf_IPTV
+0
+
+#lf_RADIO
+0
+
+#MV
+https://taijichadao.github.io/zhibo/mv.txt
+
+#MV曲库
+https://taijichadao.github.io/zhibo/mv_16w.txt
