@@ -5,16 +5,16 @@
 0
 
 #TV-精选
-https://taijichadao.github.io/zhibo/LiveTV.txt
+https://taijichadao.github.io/Live/LiveTV.txt
 
 #Radio-精选
-https://taijichadao.github.io/zhibo/radio.txt
+https://taijichadao.github.io/Live/radio.txt
 
 #TV-收集
-https://taijichadao.github.io/zhibo/tLiveTV_collect.txt
+https://taijichadao.github.io/Live/LiveTV_collect.txt
 
 #Radio-收集
-https://taijichadao.github.io/zhibo/radio_collect.txt
+https://taijichadao.github.io/Live/radio_collect.txt
 
 #TV-重庆有线
 https://taijichadao.github.io/IPTV-URL/cqyx.m3u
