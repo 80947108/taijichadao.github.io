@@ -5,7 +5,7 @@
 0
 
 #MV
-https://taijichadao.github.io/zhibo/mv.txt
+https://taijichadao.github.io/Live/mv.txt
 
 #MV曲库
-https://taijichadao.github.io/zhibo/mv_16w.txt
+https://taijichadao.github.io/Live/mv_16w.txt
