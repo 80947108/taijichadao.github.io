@@ -1,23 +1,20 @@
 #lf_IPTV
-1
+0
 
 #lf_RADIO
-1
+0
 
 #TV-精选
-https://taijichadao.github.io/zhibo/zhibo.txt
+https://taijichadao.github.io/zhibo/LiveTV.txt
 
-#Radio-cnr
-https://taijichadao.github.io/zhibo/cnr.txt
+#Radio-精选
+https://taijichadao.github.io/zhibo/radio.txt
 
 #TV-收集
-https://taijichadao.github.io/zhibo/tv_collect.txt
+https://taijichadao.github.io/zhibo/tLiveTV_collect.txt
 
-#TV-范明明_global
-https://live.fanmingming.com/tv/m3u/global.m3u
-
-#TV-百视通
-https://taijichadao.github.io/IPTV-URL/newbestv.m3u
+#Radio-收集
+https://taijichadao.github.io/zhibo/radio_collect.txt
 
 #TV-重庆有线
 https://taijichadao.github.io/IPTV-URL/cqyx.m3u
@@ -25,8 +22,8 @@ https://taijichadao.github.io/IPTV-URL/cqyx.m3u
 #TV-msp
 https://taijichadao.github.io/IPTV-URL/msp.m3u
 
-#Stream-Link港澳台
-http://www.stream-link.org/stream-link.m3u
+#TV-百视通
+https://taijichadao.github.io/IPTV-URL/bestv.m3u
 
 #IPTV_ipv6
 https://taijichadao.github.io/IPTV-URL/IPTV.m3u
@@ -37,14 +34,11 @@ https://taijichadao.github.io/IPTV-URL/sxg.m3u
 #TV-范明明_ipv6
 https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
-#TV-dxawi接口
-https://dxawi.github.io/0/tvlive.txt
-
-#TV-qist接口
+#TV-Qist接口
 https://taijichadao.github.io/qist_tvbox/tvlive.txt
 
-#TV-欧歌
-http://tv.nxog.top/m/jar.php?id=live
+#TV-Dxawi接口
+https://dxawi.github.io/0/tvlive.txt
 
 #TV-全球线路
 https://iptv-org.github.io/iptv/index.m3u
@@ -52,11 +46,5 @@ https://iptv-org.github.io/iptv/index.m3u
 #TV-EPG线路
 https://epg.pw/test_channels_all.m3u
 
-#Radio-蜻蜓fm
-https://taijichadao.github.io/zhibo/蜻蜓fm.txt
-
 #Radio-范明明
 https://live.fanmingming.com/radio/m3u/index.m3u
-
-#Radio-收集
-https://taijichadao.github.io/zhibo/radio.txt
