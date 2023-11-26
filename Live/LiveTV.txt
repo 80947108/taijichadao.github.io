@@ -597,7 +597,7 @@ CHC动作电影,http://
 快乐垂钓,http://
 长沙新闻,http://
 长沙政法,http://
-长沙女性,http://
+女性频道,http://
 湖南教育,http://
 
 凤凰资讯,https://qist.cc/live/sc.php?id=fhzx
@@ -684,19 +684,18 @@ CETV4,https://qist.cc/live/cqyx.php?id=cetv4
 摄影频道,https://qist.cc/live/cqyx.php?id=sypd
 求索纪录,https://qist.cc/live/cqyx.php?id=qsjl
 
-湖南经视,http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTE3NS4xNzguNDIuMTA5JnFpZD0mcz00N2Y3MzAyOTlkYTFlNzU3MTc3MDAyNWU0ZjcwMDA5OSZlcz0xNzAwOTkyNjk2JnV1aWQ9ZjIyNGNkMWM3ODVhZmMwYmY2ZmU1M2ZlY2Y4Njg4ZmYtYWZiMjJhNmQmdj0yJmFzPTAmY2RuZXhfaWQ9aHdfcGhvbmU,/HNJSMPP360.m3u8
+湖南经视,http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTE3NS4xNzguNDIuMTA5JnFpZD0mcz0yMjdlNjY2NDY5ODFjNjljNzE1NmNiZDI4N2I3ODZiNSZlcz0xNzAwOTk1MTQ1JnV1aWQ9MzQ3NDQwYTAwZmJmODZkYjgyZGY4NjMzYjk3ZTY0NGYtYWZiMjJhNmQmdj0yJmFzPTAmY2RuZXhfaWQ9d3NfcGhvbmUz/HNJSMPP360.m3u8
 湖南娱乐,http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTE3NS4xNzguNDIuMTA5JnFpZD0mcz1mY2RmMmFlOTdmYjUxNDgzODNjM2NmNjBkMWY1NTUwNiZlcz0xNzAwOTkyOTIxJnV1aWQ9ZmRmZDQyYzQ1NjVlZjk4MTAxNTAyMzk0MDIxMWYxMTgtYWZiMjJhNmQmdj0yJmFzPTAmY2RuZXhfaWQ9d3NfcGhvbmUz/HNYLMPP360.m3u8
 湖南电影,http://phoneal.qing.mgtv.com/nn_live/nn_x64/dWlwPTE3NS4xNzguNDIuMTA5JnFpZD0mcz0xNDE1NGEwM2E4OWM3N2UxNGI5Yjg0NWJmY2FiYjZlZiZlcz0xNzAwOTkyOTU1JnV1aWQ9N2JiMTBkOWQxNDUzNmE4Mjk0NGFjNDQ1MmI2M2JlZmMtYWZiMjJhNmQmdj0yJmFzPTAmY2RuZXhfaWQ9YWxfcGhvbmUz/HNDYMPP360.m3u8
 湖南都市,http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTE3NS4xNzguNDIuMTA5JnFpZD0mcz00MzJiODE2NDU4YWI3N2QzMjI4ZDkwOTY4ODA4ZGRhZSZlcz0xNzAwOTkyOTk3JnV1aWQ9NmFlNzY1YjkwZDQ4NWQyZDFjMWY2YTgyNGUzNzU5NWEtYWZiMjJhNmQmdj0yJmFzPTAmY2RuZXhfaWQ9d3NfcGhvbmUz/HNDSMPP360.m3u8
-湖南电视剧,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTE3NS4xNzguNDIuMTA5JnFpZD0mcz00NDdlYjE2MzI1YmM2NjVmMGJlMGE3NTA5NjA4ZmFhMiZlcz0xNzAwOTkzMDE2JnV1aWQ9ZmNlMDg1NDFkYWI4OGI1MDk3NDdkM2Y3NmVhNDViZGItYWZiMjJhNmQmdj0yJmFzPTAmY2RuZXhfaWQ9dHhfcGhvbmVfbGl2ZQ,,/HNDSJMPP360.m3u8
+湖南电视剧,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTE3NS4xNzguNDIuMTA5JnFpZD0mcz1lMGJkODY1OTI0NDBlMjE1NTA5NDE5NGZmZmU1ODg5ZSZlcz0xNzAwOTk0OTYwJnV1aWQ9ZjcwOTFiOGUzN2ZiODAyYmMzNTYzMGNkNzc5YzY5OTgtYWZiMjJhNmQmdj0yJmFzPTAmY2RuZXhfaWQ9cXFfcGhvbmVfbGl2ZQ,,/HNDSJMPP360.m3u8
 湖南爱晚,http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTE3NS4xNzguNDIuMTA5JnFpZD0mcz0yYTE3ODViYzhmNGYwNWU1NjIyMmRiN2Y3ZTkwY2E0ZiZlcz0xNzAwOTkzMDQ4JnV1aWQ9NWZkYjNhZGE1ODFhNTEyZTFkY2JkNzY0YzI0YzQ2ZDUtYWZiMjJhNmQmdj0yJmFzPTAmY2RuZXhfaWQ9d3NfcGhvbmUz/HNGGMPP360.m3u8
-湖南国际,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTE3NS4xNzguNDIuMTA5JnFpZD0mcz1kZDUzZmRlYWMyNThjMzk3ODBmNmJmMzgwNWU4MTFmMyZlcz0xNzAwOTkzMDY4JnV1aWQ9NTk1ZWRmYjg4MGUwNzY3YjBiNTRlYjk0ZjNlYzllYTUtYWZiMjJhNmQmdj0yJmFzPTAmY2RuZXhfaWQ9dHhfcGhvbmVfbGl2ZQ,,/HNGJMPP360.m3u8
+湖南国际,http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTE3NS4xNzguNDIuMTA5JnFpZD0mcz0zOWY4ZDJmNTUwMWExNDU0NzYzZDYwODJhNDlkMWE5ZCZlcz0xNzAwOTk1MDY5JnV1aWQ9MjNlYmIzZWJjYzRjNWM1MjQ4ZjQ5OTQ3NjEwMWViZGEtYWZiMjJhNmQmdj0yJmFzPTAmY2RuZXhfaWQ9aHdfcGhvbmU,/HNGJMPP360.m3u8
 先锋乒羽,http://39.165.35.152:9901/tsfile/live/1173_1.m3u8
 长沙新闻,http://116.162.157.60/nn_live/nn_x64/cWlkPSZzPWUyNTkzMzgxYzhhMTAyNGI2NzgzMjAyOWU4ODZhNmEzJmg9MTE2LjE2Mi4xNTcuNjAmdXVpZD03YTY3YWYyNTJmNGE3ODFlZDkzNWRmNDdhNGY0NTk1Ny1kY2NhZGFlNiZ2PTImYXM9MCZlcz0xNzAwOTkzMTMy/CSXWMPP360.m3u8
 长沙政法,http://phonews.qing.mgtv.com/nn_live/nn_x64/cWlkPSZzPWE3ZGRmMzhhZTYxMmY2NWIzYjM0Mjk4MzQ2ODBlYjAzJmVzPTE3MDA5OTMxNTQmdXVpZD0wOTU4NzNkMmQ1MjJmODRiNGVkYjYzNDAxZmMyMTk4ZS1kY2NhZGFlNiZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/CSZFMPP360.m3u8
 长沙女性,http://116.162.157.60/nn_live/nn_x64/cWlkPSZzPThiMjgzMGJhNTc4ODhkOGU3NzNjNmZiOWI3MjIwZjkzJmg9MTE2LjE2Mi4xNTcuNjAmdXVpZD0zZGZkYTU5NWE2YTQ0ZWEyYzc3NjY5NDYzZWYwOWIzOC1kY2NhZGFlNiZ2PTImYXM9MCZlcz0xNzAwOTkzMTcz/CSNXMPP360.m3u8
 湖南教育,http://222.244.113.235:808/hls/13/index.m3u8
-
 长沙县电视台,https://liveplay-srs.voc.com.cn/hls/tv/203_10cdf5.m3u8
 沅江电视台,https://liveplay-srs.voc.com.cn/hls/tv/163_2c7011.m3u8
 南县综合,http://hnstnx.chinashadt.com:2037/live/10001.stream/chunklist_w649678981.m3u8
@@ -739,6 +738,8 @@ CETV4,https://qist.cc/live/cqyx.php?id=cetv4
 靖州综合,https://liveplay-srs.voc.com.cn/hls/tv/34_5156ed.m3u8
 古丈,https://liveplay-srs.voc.com.cn/hls/tv/144_4efb38.m3u8
 花恒综合,https://liveplay-srs.voc.com.cn/hls/tv/134_d590ee.m3u8
+
+梨园频道,http://183.196.25.171:808/hls/89/index.m3u8
 
 //===其它,IPV6源===
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
