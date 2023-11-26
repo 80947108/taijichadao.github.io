@@ -597,7 +597,7 @@ CHC动作电影,http://
 快乐垂钓,http://
 长沙新闻,http://
 长沙政法,http://
-女性频道,http://
+长沙女性,http://
 湖南教育,http://
 
 凤凰资讯,https://qist.cc/live/sc.php?id=fhzx
@@ -738,6 +738,8 @@ CETV4,https://qist.cc/live/cqyx.php?id=cetv4
 靖州综合,https://liveplay-srs.voc.com.cn/hls/tv/34_5156ed.m3u8
 古丈,https://liveplay-srs.voc.com.cn/hls/tv/144_4efb38.m3u8
 花恒综合,https://liveplay-srs.voc.com.cn/hls/tv/134_d590ee.m3u8
+湖南电视剧,http://222.244.113.235:808/hls/4/index.m3u8
+湖南国际,http://222.244.113.235:808/hls/10/index.m3u8
 
 梨园频道,http://183.196.25.171:808/hls/89/index.m3u8
 
