@@ -583,6 +583,7 @@ CHC动作电影,http://
 中央新影老故事,http://
 中央新影中学生,http://
 中央新影发现之旅,http://
+湖南卫视,http://
 湖南经视,http://
 湖南娱乐,http://
 湖南电影,http://
@@ -598,6 +599,8 @@ CHC动作电影,http://
 长沙新闻,http://
 长沙政法,http://
 长沙女性,http://
+长沙影视,http://
+影视频道,http://
 湖南教育,http://
 
 凤凰资讯,https://qist.cc/live/sc.php?id=fhzx
@@ -684,6 +687,23 @@ CETV4,https://qist.cc/live/cqyx.php?id=cetv4
 摄影频道,https://qist.cc/live/cqyx.php?id=sypd
 求索纪录,https://qist.cc/live/cqyx.php?id=qsjl
 
+湖南卫视,https://qist.cc/live/gzyd.php?id=hnws
+湖南卫视,https://qist.cc/live/cqyx.php?id=hunws
+湖南卫视,http://222.244.113.235:808/hls/1/index.m3u8
+湖南经视,http://222.244.113.235:808/hls/2/index.m3u8
+湖南都市,http://222.244.113.235:808/hls/3/index.m3u8
+湖南电视剧,http://222.244.113.235:808/hls/4/index.m3u8
+湖南电影,http://222.244.113.235:808/hls/5/index.m3u8
+金鹰卡通,http://222.244.113.235:808/hls/6/index.m3u8
+湖南娱乐,http://222.244.113.235:808/hls/7/index.m3u8
+金鹰纪实,http://222.244.113.235:808/hls/8/index.m3u8
+湖南爱晚,http://222.244.113.235:808/hls/9/index.m3u8
+湖南国际,http://222.244.113.235:808/hls/10/index.m3u8
+长沙新闻,http://222.244.113.235:808/hls/11/index.m3u8
+长沙政法,http://222.244.113.235:808/hls/12/index.m3u8
+湖南教育台,http://222.244.113.235:808/hls/13/index.m3u8
+长沙女性,http://222.244.113.235:808/hls/14/index.m3u8
+长沙影视,http://222.244.113.235:808/hls/15/index.m3u8
 湖南经视,http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTE3NS4xNzguNDIuMTA5JnFpZD0mcz0yMjdlNjY2NDY5ODFjNjljNzE1NmNiZDI4N2I3ODZiNSZlcz0xNzAwOTk1MTQ1JnV1aWQ9MzQ3NDQwYTAwZmJmODZkYjgyZGY4NjMzYjk3ZTY0NGYtYWZiMjJhNmQmdj0yJmFzPTAmY2RuZXhfaWQ9d3NfcGhvbmUz/HNJSMPP360.m3u8
 湖南娱乐,http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTE3NS4xNzguNDIuMTA5JnFpZD0mcz1mY2RmMmFlOTdmYjUxNDgzODNjM2NmNjBkMWY1NTUwNiZlcz0xNzAwOTkyOTIxJnV1aWQ9ZmRmZDQyYzQ1NjVlZjk4MTAxNTAyMzk0MDIxMWYxMTgtYWZiMjJhNmQmdj0yJmFzPTAmY2RuZXhfaWQ9d3NfcGhvbmUz/HNYLMPP360.m3u8
 湖南电影,http://phoneal.qing.mgtv.com/nn_live/nn_x64/dWlwPTE3NS4xNzguNDIuMTA5JnFpZD0mcz0xNDE1NGEwM2E4OWM3N2UxNGI5Yjg0NWJmY2FiYjZlZiZlcz0xNzAwOTkyOTU1JnV1aWQ9N2JiMTBkOWQxNDUzNmE4Mjk0NGFjNDQ1MmI2M2JlZmMtYWZiMjJhNmQmdj0yJmFzPTAmY2RuZXhfaWQ9YWxfcGhvbmUz/HNDYMPP360.m3u8
