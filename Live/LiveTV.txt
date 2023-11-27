@@ -1,161 +1,158 @@
 📺央视,#genre#央视
-CCTV1综合,http://
-CCTV2财经,http://
-CCTV3综艺,http://
-CCTV4中文国际,http://
-CCTV5体育,http://
-CCTV6电影,http://
-CCTV7国防军事,http://
-CCTV8电视剧,http://
-CCTV9纪录,http://
-CCTV10科教,http://
-CCTV11戏曲,http://
-CCTV12社会与法,http://
-CCTV13新闻,http://
-CCTV14少儿,http://
-CCTV15音乐,http://
-CCTV16奥林匹克,http://
-CCTV17农业农村,http://
-CCTV5+体育赛事,http://
-CCTV4k,http://
-CCTV4欧洲,http://
-CCTV4美洲,http://
-风云剧场,http://
-第一剧场,http://
-怀旧剧场,http://
-世界地理,http://
-风云音乐,http://
-兵器科技,http://
-风云足球,http://
-高尔夫网球,http://
-女性时尚,http://
-央视文化精品,http://
-央视台球,http://
-电视指南,http://
-卫生健康,http://
-CGTN,http://
-CGTN法语,http://
-CGTN俄语,http://
-CGTN阿拉伯语,http://
-CGTN西班牙语,http://
-CGTN纪录,http://
+CCTV1综合,http://目录
+CCTV2财经,http://目录
+CCTV3综艺,http://目录
+CCTV4中文国际,http://目录
+CCTV5体育,http://目录
+CCTV6电影,http://目录
+CCTV7国防军事,http://目录
+CCTV8电视剧,http://目录
+CCTV9纪录,http://目录
+CCTV10科教,http://目录
+CCTV11戏曲,http://目录
+CCTV12社会与法,http://目录
+CCTV13新闻,http://目录
+CCTV14少儿,http://目录
+CCTV15音乐,http://目录
+CCTV16奥林匹克,http://目录
+CCTV17农业农村,http://目录
+CCTV5+体育赛事,http://目录
+CCTV4k,http://目录
+CCTV4欧洲,http://目录
+CCTV4美洲,http://目录
+风云剧场,http://目录
+第一剧场,http://目录
+怀旧剧场,http://目录
+世界地理,http://目录
+风云音乐,http://目录
+兵器科技,http://目录
+风云足球,http://目录
+高尔夫网球,http://目录
+女性时尚,http://目录
+央视文化精品,http://目录
+央视台球,http://目录
+电视指南,http://目录
+卫生健康,http://目录
+CGTN,http://目录
+CGTN法语,http://目录
+CGTN俄语,http://目录
+CGTN阿拉伯语,http://目录
+CGTN西班牙语,http://目录
+CGTN纪录,http://目录
 
+CCTV1综合, http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
+CCTV1综合, https://qist.cc/live/cqyx.php?id=cctv1
+CCTV1综合, https://qist.cc/live/gzyd.php?id=cctv1
+CCTV2财经, http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls
+CCTV2财经, https://qist.cc/live/cqyx.php?id=cctv2
+CCTV2财经, https://qist.cc/live/gzyd.php?id=cctv2
+CCTV3综艺, http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226040/1/index.m3u8?fmt=ts2hls
+CCTV3综艺, https://qist.cc/live/cqyx.php?id=cctv3
+CCTV3综艺, https://qist.cc/live/gzyd.php?id=cctv3
+CCTV4中文国际, http://39.136.17.116/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225779/1/index.m3u8?fmt=ts2hls
+CCTV4中文国际, https://qist.cc/live/cqyx.php?id=cctv4
+CCTV4中文国际, https://qist.cc/live/gzyd.php?id=cctv4
+CCTV5体育, http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226043/1/index.m3u8?fmt=ts2hls
+CCTV5体育, https://qist.cc/live/cqyx.php?id=cctv5
+CCTV5体育, https://qist.cc/live/gzyd.php?id=cctv5
+CCTV6电影, http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226011/1/index.m3u8?fmt=ts2hls
+CCTV6电影, https://qist.cc/live/cqyx.php?id=cctv6
+CCTV6电影, https://qist.cc/live/gzyd.php?id=cctv6
+CCTV7国防军事, http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225745/1/index.m3u8?fmt=ts2hls
+CCTV7国防军事, https://qist.cc/live/cqyx.php?id=cctv7
+CCTV7国防军事, https://qist.cc/live/gzyd.php?id=cctv7
+CCTV8电视剧, http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226005/1/index.m3u8?fmt=ts2hls
+CCTV8电视剧, https://qist.cc/live/cqyx.php?id=cctv8
+CCTV8电视剧, https://qist.cc/live/gzyd.php?id=cctv8
+CCTV9纪录, http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226031/1/index.m3u8?fmt=ts2hls
+CCTV9纪录, https://qist.cc/live/cqyx.php?id=cctv9
+CCTV9纪录, https://qist.cc/live/gzyd.php?id=cctv9
+CCTV10科教, http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225685/1/index.m3u8?fmt=ts2hls
+CCTV10科教, https://qist.cc/live/cqyx.php?id=cctv10
+CCTV10科教, https://qist.cc/live/gzyd.php?id=cctv10
+CCTV11戏曲, http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225746/1/index.m3u8?fmt=ts2hls
+CCTV11戏曲, https://qist.cc/live/cqyx.php?id=cctv11
+CCTV11戏曲, https://qist.cc/live/gzyd.php?id=cctv11
+CCTV12社会与法, http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225747/1/index.m3u8?fmt=ts2hls
+CCTV12社会与法, https://qist.cc/live/cqyx.php?id=cctv12
+CCTV12社会与法, https://qist.cc/live/gzyd.php?id=cctv12
+CCTV13新闻, http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
+CCTV13新闻, https://qist.cc/live/cqyx.php?id=cctv13
+CCTV13新闻, https://qist.cc/live/gzyd.php?id=cctv13
+CCTV14少儿, http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225727/1/index.m3u8?fmt=ts2hls
+CCTV14少儿, https://qist.cc/live/cqyx.php?id=cctv14
+CCTV14少儿, https://qist.cc/live/gzyd.php?id=cctv14
+CCTV15音乐, http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225749/1/index.m3u8?fmt=ts2hls
+CCTV15音乐, https://qist.cc/live/cqyx.php?id=cctv15
+CCTV15音乐, https://qist.cc/live/gzyd.php?id=cctv15
+CCTV16奥林匹克, https://qist.cc/live/cqyx.php?id=cctv16
+CCTV16奥林匹克, https://qist.cc/live/cqyx.php?id=cctv16-4k
 CCTV16奥林匹克,http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8
+CCTV17农业农村, http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls
+CCTV17农业农村, https://qist.cc/live/cqyx.php?id=cctv17
+CCTV17农业农村, https://qist.cc/live/gzyd.php?id=cctv17
+CCTV5+体育赛事, http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226128/1/index.m3u8?fmt=ts2hls
+CCTV5+体育赛事, https://qist.cc/live/cqyx.php?id=cctv5p
+CCTV5+体育赛事, https://qist.cc/live/gzyd.php?id=cctv5p
 CCTV4k,http://ainm.cc/a/play/php/cctv4k.php?id=4khd
+CCTV4欧洲, http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226268/1/index.m3u8?fmt=ts2hls
+CCTV4欧洲, https://qist.cc/live/gzyd.php?id=cctv4o
+CCTV4美洲, http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226300/1/index.m3u8?fmt=ts2hls
+CCTV4美洲, https://qist.cc/live/gzyd.php?id=cctv4a
+风云剧场, http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls
+风云剧场, https://qist.cc/live/cqyx.php?id=fyjc
+风云剧场, https://qist.cc/live/gzyd.php?id=fyjc
+第一剧场, http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls
+第一剧场, https://qist.cc/live/cqyx.php?id=dyjc
+第一剧场, https://qist.cc/live/gzyd.php?id=dyjc
+怀旧剧场, http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
+怀旧剧场, https://qist.cc/live/cqyx.php?id=hjjc
+怀旧剧场, https://qist.cc/live/gzyd.php?id=hjjc
+世界地理, http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
+世界地理, https://qist.cc/live/gzyd.php?id=sjdl
+风云音乐, http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
+风云音乐, https://qist.cc/live/cqyx.php?id=fyyy
+风云音乐, https://qist.cc/live/gzyd.php?id=fyyy
+兵器科技, http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
+兵器科技, https://qist.cc/live/cqyx.php?id=bqkj
+兵器科技, https://qist.cc/live/gzyd.php?id=bqkj
+风云足球, http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
+风云足球, https://qist.cc/live/cqyx.php?id=fyzq
+风云足球, https://qist.cc/live/gzyd.php?id=fyzq
+高尔夫网球, http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
+高尔夫网球, https://qist.cc/live/cqyx.php?id=gefwq
+高尔夫网球, https://qist.cc/live/gzyd.php?id=gefwq
+女性时尚, http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls
+女性时尚, https://qist.cc/live/cqyx.php?id=nxss
+女性时尚, https://qist.cc/live/gzyd.php?id=nxss
+央视文化精品, http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
+央视文化精品, https://qist.cc/live/cqyx.php?id=whjp
+央视文化精品, https://qist.cc/live/gzyd.php?id=whjp
+央视台球, http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
+央视台球, https://qist.cc/live/cqyx.php?id=ystq
+央视台球, https://qist.cc/live/gzyd.php?id=ystq
+电视指南, http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
+电视指南, https://qist.cc/live/gzyd.php?id=dszn
+CGTN, http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226297/1/index.m3u8?fmt=ts2hls
+CGTN, https://qist.cc/live/gzyd.php?id=cgtn
+CGTN, http://live.cgtn.com/1000/prog_index.m3u8
+CGTN法语, http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226265/1/index.m3u8?fmt=ts2hls
+CGTN法语, https://qist.cc/live/gzyd.php?id=cgtnf
+CGTN法语, http://livefr.cgtn.com/1000f/prog_index.m3u8
+CGTN俄语, http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226278/1/index.m3u8?fmt=ts2hls
+CGTN俄语, https://qist.cc/live/gzyd.php?id=cgtnr
+CGTN俄语, http://liveru.cgtn.com/1000r/prog_index.m3u8
+CGTN阿拉伯语, http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226281/1/index.m3u8?fmt=ts2hls
+CGTN阿拉伯语, https://qist.cc/live/gzyd.php?id=cgtna
+CGTN阿拉伯语, http://livear.cgtn.com/1000a/prog_index.m3u8
+CGTN西班牙语, http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226284/1/index.m3u8?fmt=ts2hls
+CGTN西班牙语, https://qist.cc/live/gzyd.php?id=cgtne
+CGTN西班牙语, http://livees.cgtn.com/1000e/prog_index.m3u8
+CGTN纪录, http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226271/1/index.m3u8?fmt=ts2hls
+CGTN纪录, https://qist.cc/live/gzyd.php?id=cgtnjl
+CGTN纪录, https://livedoc.cgtn.com/500d/prog_index.m3u8
+卫生健康, https://qist.cc/live/gzyd.php?id=wsjk
 
-CCTV1综合,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
-CCTV2财经,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls
-CCTV3综艺,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226040/1/index.m3u8?fmt=ts2hls
-CCTV4中文国际,http://39.136.17.116/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225779/1/index.m3u8?fmt=ts2hls
-CCTV5体育,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226043/1/index.m3u8?fmt=ts2hls
-CCTV6电影,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226011/1/index.m3u8?fmt=ts2hls
-CCTV7国防军事,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225745/1/index.m3u8?fmt=ts2hls
-CCTV8电视剧,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226005/1/index.m3u8?fmt=ts2hls
-CCTV9纪录,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226031/1/index.m3u8?fmt=ts2hls
-CCTV10科教,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225685/1/index.m3u8?fmt=ts2hls
-CCTV11戏曲,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225746/1/index.m3u8?fmt=ts2hls
-CCTV12社会与法,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225747/1/index.m3u8?fmt=ts2hls
-CCTV13新闻,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
-CCTV14少儿,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225727/1/index.m3u8?fmt=ts2hls
-CCTV15音乐,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225749/1/index.m3u8?fmt=ts2hls
-CCTV17农业农村,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls
-CCTV5+体育赛事,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226128/1/index.m3u8?fmt=ts2hls
-CCTV4欧洲,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226268/1/index.m3u8?fmt=ts2hls
-CCTV4美洲,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226300/1/index.m3u8?fmt=ts2hls
-风云剧场,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls
-第一剧场,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls
-怀旧剧场,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
-世界地理,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
-风云音乐,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
-兵器科技,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
-风云足球,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
-高尔夫网球,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
-女性时尚,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls
-央视文化精品,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
-央视台球,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
-电视指南,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
-CGTN,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226297/1/index.m3u8?fmt=ts2hls
-CGTN法语,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226265/1/index.m3u8?fmt=ts2hls
-CGTN俄语,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226278/1/index.m3u8?fmt=ts2hls
-CGTN阿拉伯语,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226281/1/index.m3u8?fmt=ts2hls
-CGTN西班牙语,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226284/1/index.m3u8?fmt=ts2hls
-CGTN纪录,http://39.136.17.114/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226271/1/index.m3u8?fmt=ts2hls
-
-CCTV1综合,https://qist.cc/live/cqyx.php?id=cctv1
-CCTV2财经,https://qist.cc/live/cqyx.php?id=cctv2
-CCTV3综艺,https://qist.cc/live/cqyx.php?id=cctv3
-CCTV4中文国际,https://qist.cc/live/cqyx.php?id=cctv4
-CCTV5体育,https://qist.cc/live/cqyx.php?id=cctv5
-CCTV5+体育赛事,https://qist.cc/live/cqyx.php?id=cctv5p
-CCTV6电影,https://qist.cc/live/cqyx.php?id=cctv6
-CCTV7国防军事,https://qist.cc/live/cqyx.php?id=cctv7
-CCTV8电视剧,https://qist.cc/live/cqyx.php?id=cctv8
-CCTV9纪录,https://qist.cc/live/cqyx.php?id=cctv9
-CCTV10科教,https://qist.cc/live/cqyx.php?id=cctv10
-CCTV11戏曲,https://qist.cc/live/cqyx.php?id=cctv11
-CCTV12社会与法,https://qist.cc/live/cqyx.php?id=cctv12
-CCTV13新闻,https://qist.cc/live/cqyx.php?id=cctv13
-CCTV14少儿,https://qist.cc/live/cqyx.php?id=cctv14
-CCTV15音乐,https://qist.cc/live/cqyx.php?id=cctv15
-CCTV16奥林匹克,https://qist.cc/live/cqyx.php?id=cctv16
-CCTV16奥林匹克,https://qist.cc/live/cqyx.php?id=cctv16-4k 
-CCTV17农业农村,https://qist.cc/live/cqyx.php?id=cctv17
-兵器科技,https://qist.cc/live/cqyx.php?id=bqkj
-第一剧场,https://qist.cc/live/cqyx.php?id=dyjc
-怀旧剧场,https://qist.cc/live/cqyx.php?id=hjjc
-风云剧场,https://qist.cc/live/cqyx.php?id=fyjc
-风云音乐,https://qist.cc/live/cqyx.php?id=fyyy
-风云足球,https://qist.cc/live/cqyx.php?id=fyzq
-央视文化精品,https://qist.cc/live/cqyx.php?id=whjp
-女性时尚,https://qist.cc/live/cqyx.php?id=nxss
-高尔夫网球,https://qist.cc/live/cqyx.php?id=gefwq
-央视台球,https://qist.cc/live/cqyx.php?id=ystq
-
-CCTV1综合,https://qist.cc/live/gzyd.php?id=cctv1
-CCTV2财经,https://qist.cc/live/gzyd.php?id=cctv2
-CCTV3综艺,https://qist.cc/live/gzyd.php?id=cctv3
-CCTV4中文国际,https://qist.cc/live/gzyd.php?id=cctv4
-CCTV5体育,https://qist.cc/live/gzyd.php?id=cctv5
-CCTV6电影,https://qist.cc/live/gzyd.php?id=cctv6
-CCTV7国防军事,https://qist.cc/live/gzyd.php?id=cctv7
-CCTV8电视剧,https://qist.cc/live/gzyd.php?id=cctv8
-CCTV9纪录,https://qist.cc/live/gzyd.php?id=cctv9
-CCTV10科教,https://qist.cc/live/gzyd.php?id=cctv10
-CCTV11戏曲,https://qist.cc/live/gzyd.php?id=cctv11
-CCTV12社会与法,https://qist.cc/live/gzyd.php?id=cctv12
-CCTV13新闻,https://qist.cc/live/gzyd.php?id=cctv13
-CCTV14少儿,https://qist.cc/live/gzyd.php?id=cctv14
-CCTV15音乐,https://qist.cc/live/gzyd.php?id=cctv15
-CCTV17农业农村,https://qist.cc/live/gzyd.php?id=cctv17
-CCTV5+体育赛事,https://qist.cc/live/gzyd.php?id=cctv5p
-CCTV4欧洲,https://qist.cc/live/gzyd.php?id=cctv4o
-CCTV4美洲,https://qist.cc/live/gzyd.php?id=cctv4a
-风云剧场,https://qist.cc/live/gzyd.php?id=fyjc
-第一剧场,https://qist.cc/live/gzyd.php?id=dyjc
-怀旧剧场,https://qist.cc/live/gzyd.php?id=hjjc
-世界地理,https://qist.cc/live/gzyd.php?id=sjdl
-风云音乐,https://qist.cc/live/gzyd.php?id=fyyy
-兵器科技,https://qist.cc/live/gzyd.php?id=bqkj
-风云足球,https://qist.cc/live/gzyd.php?id=fyzq
-高尔夫网球,https://qist.cc/live/gzyd.php?id=gefwq
-女性时尚,https://qist.cc/live/gzyd.php?id=nxss
-央视文化精品,https://qist.cc/live/gzyd.php?id=whjp
-央视台球,https://qist.cc/live/gzyd.php?id=ystq
-电视指南,https://qist.cc/live/gzyd.php?id=dszn
-卫生健康,https://qist.cc/live/gzyd.php?id=wsjk
-CGTN,https://qist.cc/live/gzyd.php?id=cgtn
-CGTN法语,https://qist.cc/live/gzyd.php?id=cgtnf
-CGTN俄语,https://qist.cc/live/gzyd.php?id=cgtnr
-CGTN阿拉伯语,https://qist.cc/live/gzyd.php?id=cgtna
-CGTN西班牙语,https://qist.cc/live/gzyd.php?id=cgtne
-CGTN纪录,https://qist.cc/live/gzyd.php?id=cgtnjl
-
-CGTN,http://live.cgtn.com/1000/prog_index.m3u8
-CGTN法语,http://livefr.cgtn.com/1000f/prog_index.m3u8
-CGTN俄语,http://liveru.cgtn.com/1000r/prog_index.m3u8
-CGTN阿拉伯语,http://livear.cgtn.com/1000a/prog_index.m3u8
-CGTN西班牙语,http://livees.cgtn.com/1000e/prog_index.m3u8
-CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 
 //===央视,IPV6源===
 CCTV1综合,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221227467/index.m3u8
