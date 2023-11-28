@@ -729,6 +729,8 @@ CHC动作电影,https://taijitv.zhonglong1.repl.co/sxg.php?id=wqCHCdzdyH265_4000
 长沙新闻,http://222.244.113.235:808/hls/11/index.m3u8
 长沙政法,http://222.244.113.235:808/hls/12/index.m3u8
 湖南教育台,http://222.244.113.235:808/hls/13/index.m3u8
+4K超高清电影,https://taijitv.zhonglong1.repl.co/sxg.php?id=emdy4k_8000
+欢笑剧场4K,https://taijitv.zhonglong1.repl.co/sxg.php?id=hxjc-4k_8000
 中华特产,https://qist.cc/live/cqyx.php?id=zhtc
 生态环境,https://qist.cc/live/cqyx.php?id=sthj
 四海钓鱼,https://qist.cc/live/cqyx.php?id=shdy
@@ -802,9 +804,6 @@ CHC动作电影,https://taijitv.zhonglong1.repl.co/sxg.php?id=wqCHCdzdyH265_4000
 七彩戏剧,https://taijitv.zhonglong1.repl.co/sxg.php?id=qcxj_2000
 乐游,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001200/index.m3u8
 乐游,https://taijitv.zhonglong1.repl.co/sxg.php?id=qjs-HDH265_4000
-4k超高清电影,https://taijitv.zhonglong1.repl.co/sxg.php?id=emdy4k_8000
-4K超高清电影,https://taijitv.zhonglong1.repl.co/sxg.php?id=emdy4k_8000
-欢笑剧场4K,https://taijitv.zhonglong1.repl.co/sxg.php?id=hxjc-4k_8000
 CBN风尚生活,https://taijitv.zhonglong1.repl.co/sxg.php?id=fssh_4000
 CBN每日影院,https://taijitv.zhonglong1.repl.co/sxg.php?id=mryy_4000
 CBN幸福剧场,https://taijitv.zhonglong1.repl.co/sxg.php?id=xfjc_4000
