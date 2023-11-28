@@ -319,8 +319,6 @@ CGTN纪录,https://qist.cc/live/gzyd.php?id=cgtnjl
 湖南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/ott.mobaibox.com/PLTV/4/224/3221227482/index.m3u8
 湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226211/index.m3u8
 湖南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8
-湖南卫视,https://qist.cc/live/cqyx.php?id=hunws
-湖南卫视,http://222.244.113.235:808/hls/1/index.m3u8
 湖南卫视,https://taijitv.zhonglong1.repl.co/sxg.php?id=hnwsH265_4000
 安徽卫视,http://39.136.17.86/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225716/1/index.m3u8?fmt=ts2hls
 安徽卫视,https://qist.cc/live/cqyx.php?id=ahws
@@ -775,7 +773,6 @@ CHC动作电影,https://taijitv.zhonglong1.repl.co/sxg.php?id=wqCHCdzdyH265_4000
 求索纪录,https://qist.cc/live/cqyx.php?id=qsjl
 梨园频道,http://183.196.25.171:808/hls/89/index.m3u8
 梨园频道,https://taijitv.zhonglong1.repl.co/sxg.php?id=ly_4000
-湖南教育,http://222.244.113.235:808/hls/13/index.m3u8
 古装剧场,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/ott.mobaibox.com/PLTV/4/224/3221227542/index.m3u8
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221227520/index.m3u8
 黑莓动画,http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/ott.mobaibox.com/PLTV/4/224/3221227523/index.m3u8
