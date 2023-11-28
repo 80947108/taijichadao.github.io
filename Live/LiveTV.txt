@@ -17,7 +17,6 @@ CCTV15音乐,http://
 CCTV16奥林匹克,http://
 CCTV17农业农村,http://
 CCTV5+体育赛事,http://
-CCTV4K,http://
 CCTV4k,http://
 CCTV4欧洲,http://
 CCTV4美洲,http://
@@ -182,8 +181,8 @@ CCTV5+体育赛事,https://qist.cc/live/gzyd.php?id=cctv5p
 CCTV5+体育赛事,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/ott.mobaibox.com/PLTV/4/224/3221228176/index.m3u8
 CCTV5+体育赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
 CCTV5+体育赛事,https://taijitv.zhonglong1.repl.co/sxg.php?id=CCTV-5plusH265_4000
-CCTV4K,http://ainm.cc/a/play/php/cctv4k.php?id=4khd
-CCTV4K,https://taijitv.zhonglong1.repl.co/sxg.php?id=ys4Kcq_2000
+CCTV4k,http://ainm.cc/a/play/php/cctv4k.php?id=4khd
+CCTV4k,https://taijitv.zhonglong1.repl.co/sxg.php?id=ys4Kcq_2000
 CCTV4欧洲,http://39.136.17.86/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226268/1/index.m3u8?fmt=ts2hls
 CCTV4欧洲,http://hms2864nc1972666630.live.aikan.miguvideo.com/wh7f454c46tw1582375949_203608310/migu/kailu/20200324/cctv4ouhd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073732&ContentId=265667313&timezone=UTC&mtv_session=12bc39164397f10e5223af167f7534a1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=9d84e48895c7676c2037280dd67a8351
 CCTV4欧洲,https://qist.cc/live/gzyd.php?id=cctv4o
