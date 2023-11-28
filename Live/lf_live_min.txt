@@ -22,6 +22,9 @@ https://taijichadao.github.io/IPTV-URL/cqyx.m3u
 #TV-百视通
 https://taijichadao.github.io/IPTV-URL/bestv.m3u
 
+#TV-蜀小果
+https://taijichadao.github.io/Live/sxg.txt
+
 #TV-央视频
 https://taijichadao.github.io/IPTV-URL/msp.m3u
 
@@ -34,10 +37,7 @@ https://dxawi.github.io/0/tvlive.txt
 #IPTV_ipv6
 https://taijichadao.github.io/IPTV-URL/IPTV.m3u
 
-#TV-蜀小果_ipv6
-https://taijichadao.github.io/IPTV-URL/sxg.m3u
-
-#TV-范明明_ipv6
+#TV-范明明
 https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
 #TV-全球线路
