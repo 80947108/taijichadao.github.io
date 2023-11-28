@@ -596,6 +596,7 @@ CGTN纪录,https://qist.cc/live/gzyd.php?id=cgtnjl
 📺其它,#genre#
 凤凰资讯,http://
 凤凰中文,http://
+澳视澳门,http://
 TVBS,http://
 TVBS新闻台,http://
 东森新闻,http://
@@ -642,6 +643,7 @@ CHC动作电影,http://
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8
 凤凰中文,https://taijitv.zhonglong1.repl.co/sxg.php?id=test1_4000
+澳视澳门,https://qist.cc/live/gudou.php?id=asam
 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=ME2E6545230665452306&ct=19234&tsum=ff0df01c2935843c8c4543428728ce28
 TVBS,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=ME2E6545230665452306&ct=19234&tsum=ff0df01c2935843c8c4543428728ce28
 TVBS,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
