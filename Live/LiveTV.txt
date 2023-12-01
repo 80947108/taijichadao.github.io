@@ -240,7 +240,7 @@ CGTN纪录,https://qist.cc/live/gzyd.php?id=cgtnjl
 哈哈炫动,http://
 嘉佳卡通,http://
 优漫卡通,http://
-湖南卫视,http://39.135.11.74/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225707/1/index.m3u8?fmt=ts2hls
+湖南卫视,http://39.135.11.74/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225778/1/index.m3u8?fmt=ts2hls
 湖南卫视,https://qist.cc/live/cqyx.php?id=hunws
 湖南卫视,https://qist.cc/live/gzyd.php?id=hnws
 湖南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/ott.mobaibox.com/PLTV/4/224/3221227482/index.m3u8
