@@ -25,6 +25,9 @@ https://taijichadao.github.io/IPTV-URL/bestv.m3u
 #TV-蜀小果
 https://taijichadao.github.io/Live/sxg.txt
 
+#TV-贵州移动
+https://taijichadao.github.io/Live/gzyd.txt
+
 #TV-央视频
 https://taijichadao.github.io/IPTV-URL/msp.m3u
 
