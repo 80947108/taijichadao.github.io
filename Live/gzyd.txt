@@ -38,7 +38,6 @@ CGTN西班牙语频道,https://qist.cc/live/gzyd.php?id=cgtne
 CGTN阿拉伯语频道,https://qist.cc/live/gzyd.php?id=cgtna
 
 卫视,#genre#
-中国交通,https://qist.cc/live/gzyd.php?id=zgjt
 东南卫视,https://qist.cc/live/gzyd.php?id=dnws
 东方卫视,https://qist.cc/live/gzyd.php?id=dfws
 北京卫视,https://qist.cc/live/gzyd.php?id=bjws
@@ -113,3 +112,4 @@ CETV4,https://qist.cc/live/gzyd.php?id=cetv4
 生活时尚,https://qist.cc/live/gzyd.php?id=shss
 都市剧场,https://qist.cc/live/gzyd.php?id=dsjc
 金色学堂,https://qist.cc/live/gzyd.php?id=jsxt
+中国交通,https://qist.cc/live/gzyd.php?id=zgjt
