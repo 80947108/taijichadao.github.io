@@ -1,3 +1,4 @@
+央视,#genre#
 CCTV1,https://qist.cc/live/gzyd.php?id=cctv1
 CCTV2,https://qist.cc/live/gzyd.php?id=cctv2
 CCTV3,https://qist.cc/live/gzyd.php?id=cctv3
@@ -35,9 +36,8 @@ CGTN俄语频道,https://qist.cc/live/gzyd.php?id=cgtnr
 CGTN法语频道,https://qist.cc/live/gzyd.php?id=cgtnf
 CGTN西班牙语频道,https://qist.cc/live/gzyd.php?id=cgtne
 CGTN阿拉伯语频道,https://qist.cc/live/gzyd.php?id=cgtna
-CETV1,https://qist.cc/live/gzyd.php?id=cetv1
-CETV2,https://qist.cc/live/gzyd.php?id=cetv2
-CETV4,https://qist.cc/live/gzyd.php?id=cetv4
+
+卫视,#genre#
 中国交通,https://qist.cc/live/gzyd.php?id=zgjt
 东南卫视,https://qist.cc/live/gzyd.php?id=dnws
 东方卫视,https://qist.cc/live/gzyd.php?id=dfws
@@ -86,6 +86,11 @@ CETV4,https://qist.cc/live/gzyd.php?id=cetv4
 茶频道,https://qist.cc/live/gzyd.php?id=cha
 金鹰卡通,https://qist.cc/live/gzyd.php?id=jykt
 金鹰纪实,https://qist.cc/live/gzyd.php?id=jyjs
+
+其它,#genre#
+CETV1,https://qist.cc/live/gzyd.php?id=cetv1
+CETV2,https://qist.cc/live/gzyd.php?id=cetv2
+CETV4,https://qist.cc/live/gzyd.php?id=cetv4
 乐游,https://qist.cc/live/gzyd.php?id=ley
 卡酷少儿,https://qist.cc/live/gzyd.php?id=kkse
 哈哈炫动,https://qist.cc/live/gzyd.php?id=hhxd
