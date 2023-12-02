@@ -1,6 +1,4 @@
 📺央视,#genre#
-parse=1
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 CCTV1综合,http://
 CCTV2财经,http://
 CCTV3综艺,http://
@@ -629,8 +627,6 @@ CHC动作电影,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/ott.mobaibox.com/
 8KUHD,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/PLTV/1/224/3221230904/1.m3u8
 4KUHD,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/PLTV/1/224/3221230931/1.m3u8
 4KUHD,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/PLTV/1/224/3221230427/1.m3u8
-广东2,https://m.gdtv.cn/tvChannelDetail/43
-大湾区,https://m.gdtv.cn/tvChannelDetail/51
 
 📺嗅探,#genre#
 parse=1
