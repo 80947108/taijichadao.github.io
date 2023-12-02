@@ -627,3 +627,23 @@ CHC动作电影,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/ott.mobaibox.com/
 8KUHD,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/PLTV/1/224/3221230904/1.m3u8
 4KUHD,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/PLTV/1/224/3221230931/1.m3u8
 4KUHD,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/PLTV/1/224/3221230427/1.m3u8
+
+嗅探源,#genre#
+parse=1
+player=2
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+referer=https://m.gdtv.cn
+广东卫视,https://m.gdtv.cn/tvChannelDetail/43
+广东珠江,https://m.gdtv.cn/tvChannelDetail/44
+广东新闻,https://m.gdtv.cn/tvChannelDetail/45
+大湾区卫视,https://m.gdtv.cn/tvChannelDetail/51
+4K超高清,https://m.gdtv.cn/tvChannelDetail/16
+嘉佳卡通,https://m.gdtv.cn/tvChannelDetail/66
+纪录片,https://m.gdtv.cn/tvChannelDetail/94
+CCTV1综合,https://qist.cc/live/gzyd.php?id=cctv1
+CCTV2财经,http://39.135.11.74/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls
+CCTV3综艺,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
+CCTV5-广播迷,http://www.guangbomi.com/tv/zy/CCTV5.html
+湖南经视-广播迷,http://www.guangbomi.com/tv/hn/hnjs.html
+CCTV10-央视频,https://www.yangshipin.cn/#/tv/home?pid=600001805
+CCTV11-央视,https://tv.cctv.com/live/cctv11/
