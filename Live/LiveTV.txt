@@ -696,3 +696,4 @@ CCTV1综合,https://qist.cc/live/gzyd.php?id=cctv1
 CCTV2财经,https://qist.cc/live/gitv.php?id=cctv2md
 CCTV3综艺,https://qist.cc/live/aikan.php?id=cctv3
 CCTV4中文国际,https://tv.cctv.com/live/cctv4/
+tvbs,https://yeslivetv.com/channels/tvbs56/
