@@ -709,4 +709,4 @@ CCTV4中文国际,https://tv.cctv.com/live/cctv4/
 快乐垂钓,http://www.yangshizhibo.com/dianshizhibo/geshengpindao/hunanpindao/240.html
 长沙新闻,http://www.yangshizhibo.com/dianshizhibo/geshengpindao/hunanpindao/237.html
 长沙政法,http://www.yangshizhibo.com/dianshizhibo/geshengpindao/hunanpindao/236.html
-
+央视频,https://www.yangshipin.cn/#/tv/home?pid=600002521
