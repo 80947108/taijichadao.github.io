@@ -454,24 +454,7 @@ CCTV13新闻,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/371.html
 CCTV14少儿,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/370.html
 CCTV15音乐,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/369.html
 CCTV16奥林匹克,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/368.html
-CCTV17农村农业,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/367.html
-CGTN,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/366.html
-CGTN纪录,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/365.html
-CGTN阿拉伯语,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/364.html
-CGTN法语,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/363.html
-CGTN西班牙语,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/362.html
-CGTN俄语,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/361.html
-风云足球,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/359.html
-世界地理,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/358.html
-发现之旅,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/357.html
-文化精品,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/356.html
-女性时尚,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/355.html
-兵器科技,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/354.html
-第一剧场,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/353.html
-怀旧剧场,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/352.html
-风云剧场,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/351.html
-凤凰资讯台,http://www.yangshizhibo.com/dianshizhibo/tuijianpindao/12.html
-凤凰中文台,http://www.yangshizhibo.com/dianshizhibo/tuijianpindao/11.html
+CCTV17农业农村,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/367.html
 湖南卫视,http://www.yangshizhibo.com/dianshizhibo/weishipindao/406.html
 北京卫视,http://www.yangshizhibo.com/dianshizhibo/weishipindao/419.html
 天津卫视,http://www.yangshizhibo.com/dianshizhibo/weishipindao/418.html
@@ -516,6 +499,72 @@ CGTN俄语,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/361.html
 长沙新闻,http://www.yangshizhibo.com/dianshizhibo/geshengpindao/hunanpindao/237.html
 长沙政法,http://www.yangshizhibo.com/dianshizhibo/geshengpindao/hunanpindao/236.html
 
+CCTV1综合,http://tv.haoqu99.com/1/cctv1.html
+CCTV2财经,http://tv.haoqu99.com/1/347.html
+CCTV3综艺,http://tv.haoqu99.com/1/cctv3.html
+CCTV4中文国际,http://tv.haoqu99.com/1/cctv4.html
+CCTV5体育,http://tv.haoqu99.com/1/cctv5.html
+CCTV7国防军事,http://tv.haoqu99.com/1/cctv7.html
+CCTV6电影,http://tv.haoqu99.com/1/cctv6.html
+CCTV8电视剧,http://tv.haoqu99.com/1/353.html
+CCTV9纪录,http://tv.haoqu99.com/1/cctv9.html
+CCTV10科教,http://tv.haoqu99.com/1/cctv10.html
+CCTV11戏曲,http://tv.haoqu99.com/1/cctv11.html
+CCTV12社会与法,http://tv.haoqu99.com/1/cctv12.html
+CCTV13新闻,http://tv.haoqu99.com/1/cctv13.html
+CCTV14少儿,http://tv.haoqu99.com/1/cctv14.html
+CCTV15音乐,http://tv.haoqu99.com/1/cctv15.html
+CCTV16奥林匹克,http://tv.haoqu99.com/1/cctv16.html
+CCTV17农业农村,http://tv.haoqu99.com/1/cctv17.html
+CCTV5+体育赛事,http://tv.haoqu99.com/1/cctv5+.html
+CCTV4k,http://tv.haoqu99.com/1/cctv4k.html
+湖南卫视,http://tv.haoqu99.com/2/hunanweishi.html
+安徽卫视,http://tv.haoqu99.com/2/anhui.html
+北京卫视,http://tv.haoqu99.com/2/beijingweishi.html
+重庆卫视,http://tv.haoqu99.com/2/chongqing-weishi.html
+东方卫视,http://tv.haoqu99.com/2/dongfangweishi.html
+东南卫视,http://tv.haoqu99.com/2/fujian.html
+甘肃卫视,http://tv.haoqu99.com/2/gansu.html
+广东卫视,http://tv.haoqu99.com/2/guangdong.html
+贵州卫视,http://tv.haoqu99.com/2/guizhouweishi.html
+河北卫视,http://tv.haoqu99.com/2/hebei.html
+河南卫视,http://tv.haoqu99.com/2/henan.html
+黑龙江卫视,http://tv.haoqu99.com/2/heilongjiang.html
+湖北卫视,http://tv.haoqu99.com/2/hubei.html
+吉林卫视,http://tv.haoqu99.com/2/jilin.html
+江苏卫视,http://tv.haoqu99.com/2/jiangsuweishi.html
+江西卫视,http://tv.haoqu99.com/2/jiangxiweishi.html
+辽宁卫视,http://tv.haoqu99.com/2/liaoningweishi.html
+山东卫视,http://tv.haoqu99.com/2/shandongweishi.html
+四川卫视,http://tv.haoqu99.com/2/sichuan.html
+天津卫视,http://tv.haoqu99.com/2/tianjinweishi.html
+浙江卫视,http://tv.haoqu99.com/2/zhejiangweishi.html
+云南卫视,http://tv.haoqu99.com/2/yunnan.html
+广西卫视,http://tv.haoqu99.com/2/guangxi.html
+海南卫视,http://tv.haoqu99.com/2/lvyou.html
+内蒙古卫视,http://tv.haoqu99.com/2/neimenggu.html
+宁夏卫视,http://tv.haoqu99.com/2/ningxia.html
+青海卫视,http://tv.haoqu99.com/2/qinghai-weishi.html
+山西卫视,http://tv.haoqu99.com/2/shanxi.html
+陕西卫视,http://tv.haoqu99.com/2/shanxiweishi.html
+新疆卫视,http://tv.haoqu99.com/2/xinjiang.html
+西藏卫视,http://tv.haoqu99.com/2/xizang.html
+金鹰纪实,http://tv.haoqu99.com/3/hunan/jyjs.html
+金鹰卡通,http://tv.haoqu99.com/3/hunan/jykt.html
+湖南经视,http://tv.haoqu99.com/3/hunan/hnjs.html
+湖南娱乐,http://tv.haoqu99.com/3/hunan/hnyl.html
+湖南电影,http://tv.haoqu99.com/3/hunan/xxdy.html
+湖南都市,http://tv.haoqu99.com/3/hunan/hnds.html
+湖南电视剧,http://tv.haoqu99.com/3/hunan/hndsj.html
+湖南电视剧,http://tv.haoqu99.com/3/hunan/1008.html
+湖南爱晚,http://tv.haoqu99.com/3/hunan/hngg.html
+湖南国际,http://tv.haoqu99.com/3/hunan/hngj.html
+先锋乒羽,http://tv.haoqu99.com/3/hunan/xfpy.html
+茶频道,http://tv.haoqu99.com/3/hunan/tea.html
+快乐垂钓,http://tv.haoqu99.com/3/hunan/klcd.html
+湖南教育台,http://tv.haoqu99.com/3/hunan/edu.html
+先锋记录,http://tv.haoqu99.com/3/hunan/xfjl.html
+
 CCTV1综合,http://www.guangbomi.com/tv/zy/cctv1.html
 CCTV2财经,http://www.guangbomi.com/tv/zy/cctv2.html
 CCTV3综艺,http://www.guangbomi.com/tv/zy/CCTV3.html
@@ -533,122 +582,36 @@ CCTV14少儿,http://www.guangbomi.com/tv/zy/CCTV14.html
 CCTV15音乐,http://www.guangbomi.com/tv/zy/CCTV15.html
 CCTV16奥林匹克,http://www.guangbomi.com/tv/zy/CCTV16.html
 CCTV17农业农村,http://www.guangbomi.com/tv/zy/CCTV17.html
-CETV1,http://www.guangbomi.com/tv/zy/CETV1.html
-CETV2,http://www.guangbomi.com/tv/zy/CETV2.html
-CETV3,http://www.guangbomi.com/tv/zy/CETV3.html
-CETV4,http://www.guangbomi.com/tv/zy/CETV4.html
-CETV早期教育,http://www.guangbomi.com/tv/zy/CETV-zaojiao.html
-CGTV,http://www.guangbomi.com/tv/zy/CGTN-NEWS.html
-CGTN法语,http://www.guangbomi.com/tv/zy/CGTN-f.html
-CGTN阿拉伯语,http://www.guangbomi.com/tv/zy/CGTN-a.html
-CGTN俄语,http://www.guangbomi.com/tv/zy/cgtn-r.html
-CGTN西班牙语,http://www.guangbomi.com/tv/zy/CGTN-e.html
-CNC新华社中文台,http://www.guangbomi.com/tv/zy/CNC.html
-CNC新华社英文台,http://www.guangbomi.com/tv/zy/CNC-english.html
 CCTV5+体育赛事,http://www.guangbomi.com/tv/zy/cctv5plus.html
-CGTN纪录,http://www.guangbomi.com/tv/zy/CGTN-d.html
-CHC动作电影,http://www.guangbomi.com/tv/zy/CHC-dongzuo.html
-CHC高清电影,http://www.guangbomi.com/tv/zy/CHC-gaoqing.html
-CHC家庭影院,http://www.guangbomi.com/tv/zy/CHC-jiating.html
-CCTV4K超高清,http://www.guangbomi.com/tv/zy/CCTV4K.html
-CCTV4中文国际(欧洲),http://www.guangbomi.com/tv/zy/CCTV4ouzhou.html
-CCTV4中文国际(美洲),http://www.guangbomi.com/tv/zy/CCTV4meizhou.html
-风云音乐,http://www.guangbomi.com/tv/zy/-music.html
-风云剧场,http://www.guangbomi.com/tv/zy/-fyjc.html
-风云足球,http://www.guangbomi.com/tv/zy/-zuqiu.html
-发现之旅,http://www.guangbomi.com/tv/zy/-faxian.html
-国学,http://www.guangbomi.com/tv/zy/-guoxue.html
-央视台球,http://www.guangbomi.com/tv/zy/-taiqiu.html
-新科动漫,http://www.guangbomi.com/tv/zy/-xkdm.html
-世界地理,http://www.guangbomi.com/tv/zy/-dili.html
-女性时尚,http://www.guangbomi.com/tv/zy/-nxss.html
-证券资讯,http://www.guangbomi.com/tv/zy/-zq.html
-卫生健康,http://www.guangbomi.com/tv/zy/-wsjk.html
-老故事,http://www.guangbomi.com/tv/zy/-gushi.html
-电视指南,http://www.guangbomi.com/tv/zy/gw.html
-高尔夫网球,http://www.guangbomi.com/tv/zy/-gaowang.html
-中国气象,http://www.guangbomi.com/tv/zy/CCTV-qx.html
-书画,http://www.guangbomi.com/tv/zy/-shuhua.html
-中学生,http://www.guangbomi.com/tv/zy/-zxs.html
-怀旧剧场,http://www.guangbomi.com/tv/zy/-hjjc.html
-央视文化精品,http://www.guangbomi.com/tv/zy/-whjp.html
-第一剧场,http://www.guangbomi.com/tv/zy/-dyjc.html
-兵器科技,http://www.guangbomi.com/tv/zy/-bingqi.html
-
+CCTV4k,http://www.guangbomi.com/tv/zy/CCTV4K.html
 湖南卫视,http://www.guangbomi.com/tv/hn/weishi.html
-甘肃卫视,http://www.guangbomi.com/tv/gs/weishi.html
-浙江卫视,http://www.guangbomi.com/tv/zj/weishi.html
-东南卫视,http://www.guangbomi.com/tv/fj/dnws.html
+安徽卫视,http://www.guangbomi.com/tv/ah/weishi.html
 北京卫视,http://www.guangbomi.com/tv/bj/BRTV.html
+重庆卫视,http://www.guangbomi.com/tv/cq/weishi.html
+东方卫视,http://www.guangbomi.com/tv/sh/dongfang.html
+东南卫视,http://www.guangbomi.com/tv/fj/dnws.html
+甘肃卫视,http://www.guangbomi.com/tv/gs/weishi.html
+广东卫视,http://www.guangbomi.com/tv/gd/weishi.html
+贵州卫视,http://www.guangbomi.com/tv/gz/weishi.html
 河北卫视,http://www.guangbomi.com/tv/hebei/weishi.html
 河南卫视,http://www.guangbomi.com/tv/henan/weishi.html
-广东卫视,http://www.guangbomi.com/tv/gd/weishi.html
 黑龙江卫视,http://www.guangbomi.com/tv/hlj/weishi.html
-宁夏卫视,http://www.guangbomi.com/tv/nx/weishi.html
-山西卫视,http://www.guangbomi.com/tv/sxi/weishi.html
-四川卫视,http://www.guangbomi.com/tv/sc/weishi.html
-广西卫视,http://www.guangbomi.com/tv/gx/weishi.html
-山东卫视,http://www.guangbomi.com/tv/sd/weishi.html
-辽宁卫视,http://www.guangbomi.com/tv/ln/weishi.html
-吉林卫视,http://www.guangbomi.com/tv/jl/weishi.html
-海南卫视,http://www.guangbomi.com/tv/hainan/weishi.html
-江苏卫视,http://www.guangbomi.com/tv/js/weishi.html
-天津卫视,http://www.guangbomi.com/tv/tj/weishi.html
-安徽卫视,http://www.guangbomi.com/tv/ah/weishi.html
-东方卫视,http://www.guangbomi.com/tv/sh/dongfang.html
 湖北卫视,http://www.guangbomi.com/tv/hubei/weishi.html
+吉林卫视,http://www.guangbomi.com/tv/jl/weishi.html
+江苏卫视,http://www.guangbomi.com/tv/js/weishi.html
 江西卫视,http://www.guangbomi.com/tv/jx/weishi.html
-贵州卫视,http://www.guangbomi.com/tv/gz/weishi.html
-重庆卫视,http://www.guangbomi.com/tv/cq/weishi.html
-三沙卫视,http://www.guangbomi.com/tv/hainan/sstv.html
+辽宁卫视,http://www.guangbomi.com/tv/ln/weishi.html
+山东卫视,http://www.guangbomi.com/tv/sd/weishi.html
+四川卫视,http://www.guangbomi.com/tv/sc/weishi.html
+天津卫视,http://www.guangbomi.com/tv/tj/weishi.html
+浙江卫视,http://www.guangbomi.com/tv/zj/weishi.html
 云南卫视,http://www.guangbomi.com/tv/yn/weishi.html
-陕西卫视,http://www.guangbomi.com/tv/sx/weishi.html
+广西卫视,http://www.guangbomi.com/tv/gx/weishi.html
+海南卫视,http://www.guangbomi.com/tv/hainan/weishi.html
 内蒙古卫视,http://www.guangbomi.com/tv/nmg/weishi.html
-新疆卫视,http://www.guangbomi.com/tv/xj/weishi.html
-延边卫视,http://www.guangbomi.com/tv/jl/ybws.html
-大湾区卫视,http://www.guangbomi.com/tv/gd/TVS2.html
-优漫卡通卫视,http://www.guangbomi.com/tv/js/ymkt.html
-西藏卫视,http://www.guangbomi.com/tv/xz/weishi.html
-深圳卫视,http://www.guangbomi.com/tv/gd/sz-weishi.html
-星空卫视,http://www.guangbomi.com/tv/hk/xkws.html
-南通公共,http://www.guangbomi.com/tv/js/jsnt3.html
+宁夏卫视,http://www.guangbomi.com/tv/nx/weishi.html
 青海卫视,http://www.guangbomi.com/tv/qh/weishi.html
-西藏藏语卫视,http://www.guangbomi.com/tv/xz/zangyu.html
-厦门卫视,http://www.guangbomi.com/tv/fj/xiamen.html
-济南少儿,http://www.guangbomi.com/tv/sd/jinanshaoer.html
-内蒙古蒙古语卫视,http://www.guangbomi.com/tv/nmg/mgy.html
-安多卫视,http://www.guangbomi.com/tv/qh/adws.html
-云南公共,http://www.guangbomi.com/tv/yn/yngg.html
-农林卫视,http://www.guangbomi.com/tv/sx/nlws.html
-康巴卫视,http://www.guangbomi.com/tv/sc/kbtv.html
-香港卫视,http://www.guangbomi.com/tv/hk/hks.html
-凤凰卫视中文台,http://www.guangbomi.com/tv/hk/ifeng1.html
-澳亚卫视,http://www.guangbomi.com/tv/hk/imastv.html
-
-广东卫视,https://m.gdtv.cn/tvChannelDetail/43
-大湾区卫视,https://m.gdtv.cn/tvChannelDetail/51
-CCTV中国气象频道	,http://www.guangbomi.com/tv/zy/CCTV-qx.html
-CGTN阿拉伯语频道	,http://www.guangbomi.com/tv/zy/CGTN-a.html
-CGTN俄语频道	,http://www.guangbomi.com/tv/zy/cgtn-r.html
-CGTN西班牙语频道	,http://www.guangbomi.com/tv/zy/CGTN-e.html
-CCTV4K超高清频道	,http://www.guangbomi.com/tv/zy/CCTV4K.html
-CCTV4中文国际(欧洲)	,http://www.guangbomi.com/tv/zy/CCTV4ouzhou.html
-CCTV4中文国际(美洲)	,http://www.guangbomi.com/tv/zy/CCTV4meizhou.html
-CCTV发现之旅频道	,http://www.guangbomi.com/tv/zy/CCTV-faxian.html
-CCTV国学33	,http://www.guangbomi.com/tv/zy/CCTV-guoxue.html
-CCTV央视台球频道	,http://www.guangbomi.com/tv/zy/CCTV-taiqiu.html
-CCTV新科动漫频道	,http://www.guangbomi.com/tv/zy/CCTV-xkdm.html
-CCTV世界地理频道	,http://www.guangbomi.com/tv/zy/CCTV-dili.html
-CCTV女性时尚频道	,http://www.guangbomi.com/tv/zy/CCTV-nxss.html
-CCTV证券资讯频道	,http://www.guangbomi.com/tv/zy/CCTV-zq.html
-CCTV卫生健康频道	,http://www.guangbomi.com/tv/zy/CCTV-wsjk.html
-CCTV老故事频道	,http://www.guangbomi.com/tv/zy/CCTV-gushi.html
-CCTV电视指南频道	,http://www.guangbomi.com/tv/zy/CCTVgw.html
-CCTV高尔夫网球	,http://www.guangbomi.com/tv/zy/CCTV-gaowang.html
-CCTV书画频道	,http://www.guangbomi.com/tv/zy/CCTV-shuhua.html
-CCTV中学生频道	,http://www.guangbomi.com/tv/zy/CCTV-zxs.html
-CCTV怀旧剧场频道	,http://www.guangbomi.com/tv/zy/CCTV-hjjc.html
-CCTV央视文化精品	,http://www.guangbomi.com/tv/zy/CCTV-whjp.html
-CCTV第一剧场	,http://www.guangbomi.com/tv/zy/CCTV-dyjc.html
-CCTV兵器科技频道	,http://www.guangbomi.com/tv/zy/CCTV-bingqi.html
-
+山西卫视,http://www.guangbomi.com/tv/sxi/weishi.html
+陕西卫视,http://www.guangbomi.com/tv/sx/weishi.html
+新疆卫视,http://www.guangbomi.com/tv/xj/weishi.html
+西藏卫视,http://www.guangbomi.com/tv/xz/weishi.html
