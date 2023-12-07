@@ -519,4 +519,5 @@ CGTN俄语,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/361.html
 
 广东卫视,https://m.gdtv.cn/tvChannelDetail/43
 大湾区卫视,https://m.gdtv.cn/tvChannelDetail/51
+cctv1广播迷,http://www.guangbomi.com/tv/zy/cctv1.html
 cctv2好趣,http://tv.haoqu99.com/1/347.html
