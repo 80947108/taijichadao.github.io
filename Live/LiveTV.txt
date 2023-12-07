@@ -627,4 +627,28 @@ CCTV4中文国际(美洲),http://www.guangbomi.com/tv/zy/CCTV4meizhou.html
 
 广东卫视,https://m.gdtv.cn/tvChannelDetail/43
 大湾区卫视,https://m.gdtv.cn/tvChannelDetail/51
+CCTV中国气象频道	http://www.guangbomi.com/tv/zy/CCTV-qx.html
+CGTN阿拉伯语频道	http://www.guangbomi.com/tv/zy/CGTN-a.html
+CGTN俄语频道	http://www.guangbomi.com/tv/zy/cgtn-r.html
+CGTN西班牙语频道	http://www.guangbomi.com/tv/zy/CGTN-e.html
+CCTV4K超高清频道	http://www.guangbomi.com/tv/zy/CCTV4K.html
+CCTV4中文国际(欧洲)	http://www.guangbomi.com/tv/zy/CCTV4ouzhou.html
+CCTV4中文国际(美洲)	http://www.guangbomi.com/tv/zy/CCTV4meizhou.html
+CCTV发现之旅频道	http://www.guangbomi.com/tv/zy/CCTV-faxian.html
+CCTV国学频道	http://www.guangbomi.com/tv/zy/CCTV-guoxue.html
+CCTV央视台球频道	http://www.guangbomi.com/tv/zy/CCTV-taiqiu.html
+CCTV新科动漫频道	http://www.guangbomi.com/tv/zy/CCTV-xkdm.html
+CCTV世界地理频道	http://www.guangbomi.com/tv/zy/CCTV-dili.html
+CCTV女性时尚频道	http://www.guangbomi.com/tv/zy/CCTV-nxss.html
+CCTV证券资讯频道	http://www.guangbomi.com/tv/zy/CCTV-zq.html
+CCTV卫生健康频道	http://www.guangbomi.com/tv/zy/CCTV-wsjk.html
+CCTV老故事频道	http://www.guangbomi.com/tv/zy/CCTV-gushi.html
+CCTV电视指南频道	http://www.guangbomi.com/tv/zy/CCTVgw.html
+CCTV高尔夫网球	http://www.guangbomi.com/tv/zy/CCTV-gaowang.html
+CCTV书画频道	http://www.guangbomi.com/tv/zy/CCTV-shuhua.html
+CCTV中学生频道	http://www.guangbomi.com/tv/zy/CCTV-zxs.html
+CCTV怀旧剧场频道	http://www.guangbomi.com/tv/zy/CCTV-hjjc.html
+CCTV央视文化精品	http://www.guangbomi.com/tv/zy/CCTV-whjp.html
+CCTV第一剧场	http://www.guangbomi.com/tv/zy/CCTV-dyjc.html
+CCTV兵器科技频道	http://www.guangbomi.com/tv/zy/CCTV-bingqi.html
 
