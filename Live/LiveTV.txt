@@ -696,6 +696,7 @@ CCTV1综合,https://qist.cc/live/gzyd.php?id=cctv1
 CCTV2财经,https://qist.cc/live/gitv.php?id=cctv2md
 CCTV3综艺,https://qist.cc/live/aikan.php?id=cctv3
 CCTV4中文国际,https://tv.cctv.com/live/cctv4/
+广播迷,http://www.guangbomi.com/tv/zy/CCTV13.html
 湖南经视,http://www.yangshizhibo.com/dianshizhibo/geshengpindao/hunanpindao/250.html
 湖南娱乐,http://www.yangshizhibo.com/dianshizhibo/geshengpindao/hunanpindao/248.html
 湖南电影,http://www.yangshizhibo.com/dianshizhibo/geshengpindao/hunanpindao/245.html
@@ -709,4 +710,3 @@ CCTV4中文国际,https://tv.cctv.com/live/cctv4/
 快乐垂钓,http://www.yangshizhibo.com/dianshizhibo/geshengpindao/hunanpindao/240.html
 长沙新闻,http://www.yangshizhibo.com/dianshizhibo/geshengpindao/hunanpindao/237.html
 长沙政法,http://www.yangshizhibo.com/dianshizhibo/geshengpindao/hunanpindao/236.html
-央视频,https://www.yangshipin.cn/#/tv/home?pid=600002521
