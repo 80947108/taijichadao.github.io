@@ -446,6 +446,20 @@ CCTV4k,http://www.guangbomi.com/tv/zy/CCTV4K.html
 西藏卫视,http://www.yangshizhibo.com/dianshizhibo/weishipindao/390.html
 西藏卫视,http://tv.haoqu99.com/2/xizang.html
 西藏卫视,http://www.guangbomi.com/tv/xz/weishi.html
+湖南经视,https://live.mgtv.com?channelId=280
+湖南娱乐,https://live.mgtv.com?channelId=344
+湖南电影,https://live.mgtv.com?channelId=221
+湖南都市,https://live.mgtv.com?channelId=346
+湖南电视剧,https://live.mgtv.com?channelId=484
+金鹰纪实,https://live.mgtv.com?channelId=316
+湖南爱晚,https://live.mgtv.com?channelId=261
+金鹰卡通,https://live.mgtv.com?channelId=287
+国际频道,https://live.mgtv.com?channelId=229
+先锋乒羽,https://live.mgtv.com?channelId=329
+茶频道,https://live.mgtv.com?channelId=578
+快乐垂钓,https://live.mgtv.com?channelId=218
+长沙新闻,https://live.mgtv.com?channelId=269
+长沙政法,https://live.mgtv.com?channelId=254
 金鹰纪实,http://www.yangshizhibo.com/dianshizhibo/geshengpindao/hunanpindao/241.html
 金鹰纪实,http://tv.haoqu99.com/3/hunan/jyjs.html
 金鹰卡通,http://www.yangshizhibo.com/dianshizhibo/geshengpindao/hunanpindao/242.html
@@ -470,7 +484,6 @@ CCTV4k,http://www.guangbomi.com/tv/zy/CCTV4K.html
 茶频道,http://tv.haoqu99.com/3/hunan/tea.html
 快乐垂钓,http://www.yangshizhibo.com/dianshizhibo/geshengpindao/hunanpindao/240.html
 快乐垂钓,http://tv.haoqu99.com/3/hunan/klcd.html
-芒果测试,https://live.mgtv.com/?channelId=344
 
 📺其它,#genre#
 凤凰资讯,http://
