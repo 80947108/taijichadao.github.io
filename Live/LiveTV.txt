@@ -450,8 +450,8 @@ CCTV4k,http://www.guangbomi.com/tv/zy/CCTV4K.html
 金鹰纪实,http://tv.haoqu99.com/3/hunan/jyjs.html
 金鹰卡通,http://www.yangshizhibo.com/dianshizhibo/geshengpindao/hunanpindao/242.html
 金鹰卡通,http://tv.haoqu99.com/3/hunan/jykt.html
-湖南经视,http://www.yangshizhibo.com/dianshizhibo/geshengpindao/hunanpindao/250.html/parse
-湖南经视2,http://tv.haoqu99.com/3/hunan/hnjs.html/parse
+湖南经视,http://www.yangshizhibo.com/dianshizhibo/geshengpindao/hunanpindao/250.html
+湖南经视,http://tv.haoqu99.com/3/hunan/hnjs.html
 湖南娱乐,http://www.yangshizhibo.com/dianshizhibo/geshengpindao/hunanpindao/248.html
 湖南娱乐,http://tv.haoqu99.com/3/hunan/hnyl.html
 湖南电影,http://www.yangshizhibo.com/dianshizhibo/geshengpindao/hunanpindao/245.html
