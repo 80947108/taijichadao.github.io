@@ -296,7 +296,7 @@ CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 哈哈炫动,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001232/index.m3u8
 嘉佳卡通,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001227/index.m3u8
 
-📺parse,#genre#
+📺嗅探/parse,#genre#
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 CCTV1综合,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/383.html
