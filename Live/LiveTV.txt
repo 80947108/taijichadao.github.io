@@ -470,6 +470,7 @@ CCTV4k,http://www.guangbomi.com/tv/zy/CCTV4K.html
 茶频道,http://tv.haoqu99.com/3/hunan/tea.html
 快乐垂钓,http://www.yangshizhibo.com/dianshizhibo/geshengpindao/hunanpindao/240.html
 快乐垂钓,http://tv.haoqu99.com/3/hunan/klcd.html
+芒果测试,https://live.mgtv.com/?channelId=344
 
 📺其它,#genre#
 凤凰资讯,http://
