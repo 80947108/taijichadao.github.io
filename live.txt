@@ -1,40 +1,7 @@
-{
-  "lives": [
-    {
-      "name": "精选",
-      "url": "https://taijichadao.github.io/Live/LiveTV.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "精选2",
-      "url": "https://taijichadao.github.io/Live/LiveTV.bmp",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "Dxawi线路",
-      "url": "https://dxawi.github.io/0/tvlive.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "Qist线路",
-      "url": "https://taijichadao.github.io/qist_tvbox/tvlive.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "范明明",
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "MV",
-      "url": "https://taijichadao.github.io/Live/mv.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
-  ]
-}
+BM
+      ?  |               €  ?  ?                      BGRs€迈(`? 呺@33€ff&@ff牂?<
+?$\?                           mkjlmkjumkjnmkjnmkjnmkjnmkknmkjnmkjnnkjnmkj{mkj2nkj ghh mkjzijjyqo khimjj
+lkk
+mkkmjifjeolk lki2mkj]sup khh mkjvmkkljj kjj mjj mkk mkk mji kkh mkj lkj3lkj`qom hgg mkjtmkj mkj mkk                 efh pmk lkjnlkjsvpl jii mkjCmkjYrs?mkk pff         mkj lki mkjmkj|mkjykjikji ljj	mkkgmkj0mlk mki mji mhi mkj ihfmkjcmki5lji=mkj[ljjmkj lkjmkjmnji'llimih mhinkjmkiOmkjUnhhhhhmkjbmkj:mmk mjimkjrmkj塵ji&mji mhimjjXmkj檓kk8lskmkj mkj&nkjqmkj#mkjllkjCljjmfgkkk cjj lii	mjj%mljemkjMldfmkjmkjqmkjtmki0mjk lkj mgh kkk iii lji mkj nmimkjemjj2ljkmjj+mkjwiflljj llh                 nlj mkj mkk1mkj[olk mjj mkjwkkilki                     jff mkj mkj9mkjUnkj jjj mkjrmkj$mkj mkk mkj mkj nkj nkj mji gddmjielji*lji kkk mkjglki/mji%mkk3mkjmkjnkjnli)mkj5mihmkjnljhkjg     nkjlmki\mkjnmkkZmjjbmkjamkibnkj\mkjfmkjWnkjrmkjmkj     mkjImkjvmjjnlk kigmkj
+mji
+p墑 lkkmkjQmkjljjljj     fuGSTnFU**ew0KICAibGl2ZXMiOiBbDQogICAgew0KICAgICAgIm5hbWUiOiAi57K+6YCJIiwNCiAgICAgICJ1cmwiOiAiaHR0cHM6Ly90YWlqaWNoYWRhby5naXRodWIuaW8vTGl2ZS9MaXZlVFYudHh0IiwNCiAgICAgICJlcGciOiAiaHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei8/Y2g9e25hbWV9JmRhdGU9e2RhdGV9IiwNCiAgICAgICJsb2dvIjogImh0dHBzOi8vZXBnLjExMjExNC54eXovbG9nby97bmFtZX0ucG5nIg0KICAgIH0sDQogICAgew0KICAgICAgIm5hbWUiOiAiRHhhd2nnur/ot68iLA0KICAgICAgInVybCI6ICJodHRwczovL2R4YXdpLmdpdGh1Yi5pby8wL3R2bGl2ZS50eHQiLA0KICAgICAgImVwZyI6ICJodHRwczovL2VwZy4xMTIxMTQueHl6Lz9jaD17bmFtZX0mZGF0ZT17ZGF0ZX0iLA0KICAgICAgImxvZ28iOiAiaHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9sb2dvL3tuYW1lfS5wbmciDQogICAgfSwNCiAgICB7DQogICAgICAibmFtZSI6ICJRaXN057q/6LevIiwNCiAgICAgICJ1cmwiOiAiaHR0cHM6Ly90YWlqaWNoYWRhby5naXRodWIuaW8vcWlzdF90dmJveC90dmxpdmUudHh0IiwNCiAgICAgICJlcGciOiAiaHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei8/Y2g9e25hbWV9JmRhdGU9e2RhdGV9IiwNCiAgICAgICJsb2dvIjogImh0dHBzOi8vZXBnLjExMjExNC54eXovbG9nby97bmFtZX0ucG5nIg0KICAgIH0sDQogICAgew0KICAgICAgIm5hbWUiOiAi6IyD5piO5piOIiwNCiAgICAgICJ1cmwiOiAiaHR0cHM6Ly9saXZlLmZhbm1pbmdtaW5nLmNvbS90di9tM3UvaXB2Ni5tM3UiLA0KICAgICAgImVwZyI6ICJodHRwczovL2VwZy4xMTIxMTQueHl6Lz9jaD17bmFtZX0mZGF0ZT17ZGF0ZX0iLA0KICAgICAgImxvZ28iOiAiaHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9sb2dvL3tuYW1lfS5wbmciDQogICAgfSwNCiAgICB7DQogICAgICAibmFtZSI6ICJNViIsDQogICAgICAidXJsIjogImh0dHBzOi8vdGFpamljaGFkYW8uZ2l0aHViLmlvL0xpdmUvbXYudHh0IiwNCiAgICAgICJlcGciOiAiaHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei8/Y2g9e25hbWV9JmRhdGU9e2RhdGV9IiwNCiAgICAgICJsb2dvIjogImh0dHBzOi8vZXBnLjExMjExNC54eXovbG9nby97bmFtZX0ucG5nIg0KICAgIH0NCiAgXQ0KfQ==
