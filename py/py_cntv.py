@@ -12,14 +12,18 @@ from base.spider import Spider
 class Spider(Spider):  # 元类 默认的元类 type
 	def getName(self):
 		return "中央电视台"
+
 	def init(self,extend=""):
 		print("============{0}============".format(extend))
 		pass
-	def isVideoFormat(self,url):
+
+	def isVideoFormat(self, url):
 		pass
+
 	def manualVideoCheck(self):
 		pass
-	def homeContent(self,filter):
+
+	def homeContent(self, filter):
 		result = {}
 		cateManual = {
 			"央视大全": "CCTV"
@@ -50,7 +54,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		}
 		return result
 
-	def categoryContent(self, tid, pg, ext):
+	def categoryContent(self, tid, pg, filter, ext):
 		result = {}
 		params = {
 			'n': '20',
@@ -89,6 +93,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 				"vod_remarks": ''
 			})
 		lenvodList = len(vodList)
+		pg = int(pg)
 		if lenvodList * pg < data['response']['numFound']:
 			pagecount = pg + 1
 		else:
@@ -204,7 +209,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		}
 		return result
 
-	def playerContent(self, flag, pid):
+	def playerContent(self, flag, pid, vipFlags):
 		result = {}
 		url = f"https://vdn.apps.cntv.cn/api/getHttpVideoInfo.do?pid={pid}"
 		data = requests.get(url, headers=self.header, timeout=10).json()
