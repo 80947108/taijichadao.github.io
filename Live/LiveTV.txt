@@ -426,7 +426,6 @@ TVBS新闻台,http://
 湖南电影,http://
 湖南都市,http://
 湖南电视剧,http://
-金鹰纪实,http://
 湖南爱晚,http://
 金鹰卡通,http://
 湖南国际,http://
@@ -650,10 +649,6 @@ TVBS新闻台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MB6B36407828364
 📺嗅探/parse,#genre#
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-凤凰资讯,http://everydaytv.top/play-2-11-0.html
-凤凰中文,http://everydaytv.top/play-2-10-0.html
-翡翠台,http://everydaytv.top/play-2-7-0.html
-澳视澳门,http://everydaytv.top/play-4-4-1.html
 TVBS,http://everydaytv.top/play-3-162-0.html
 TVBS新闻台,http://everydaytv.top/play-3-167-0.html
 东森新闻,http://everydaytv.top/play-3-43-0.html
