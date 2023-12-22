@@ -1,10 +1,7 @@
 #coding=utf-8
 #!/usr/bin/python
-import re
 import sys
 import time
-import json
-import requests
 from urllib.parse import unquote, quote
 sys.path.append('..')
 from base.spider import Spider
@@ -13,8 +10,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 	def getName(self):
 		return "中央电视台"
 
-	def init(self,extend=""):
-		print("============{0}============".format(extend))
+	def init(self, extend):
 		pass
 
 	def isVideoFormat(self, url):
@@ -35,7 +31,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 				'type_id': cateManual[k]
 			})
 		result['class'] = classes
-		if(filter):
+		if filter:
 			import datetime
 			result['filters'] = self.config['filter']
 			currentYear = datetime.datetime.now().year
@@ -54,11 +50,11 @@ class Spider(Spider):  # 元类 默认的元类 type
 		}
 		return result
 
-	def categoryContent(self, tid, pg, filter, ext):
+	def categoryContent(self, cid, page, filter, ext):
 		result = {}
 		params = {
 			'n': '20',
-			'p': pg,
+			'p': page,
 			't': 'json',
 			'serviceId': 'tvcctv'
 		}
@@ -71,12 +67,15 @@ class Spider(Spider):  # 元类 默认的元类 type
 				year = ext['year']
 			elif key == 'month':
 				month = ext['month']
+		url = 'https://api.cntv.cn/lanmu/columnSearch?'
+		for key in params:
+			url += f'{key}={params[key]}&'
+		url = url.strip('&')
 		if year == '':
 			prefix = ''
 		else:
 			prefix = year + month
-		url = 'https://api.cntv.cn/lanmu/columnSearch'
-		data = requests.get(url, params=params, headers=self.header, timeout=10).json()
+		data = self.fetch(url, headers=self.header, timeout=10).json()
 		vodList = data['response']['docs']
 		videos = []
 		for vod in vodList:
@@ -93,28 +92,25 @@ class Spider(Spider):  # 元类 默认的元类 type
 				"vod_remarks": ''
 			})
 		lenvodList = len(vodList)
-		pg = int(pg)
-		if lenvodList * pg < data['response']['numFound']:
-			pagecount = pg + 1
+		page = int(page)
+		if lenvodList * page < data['response']['numFound']:
+			pagecount = page + 1
 		else:
-			pagecount = pg
+			pagecount = page
 		result['list'] = videos
-		result['page'] = pg
+		result['page'] = page
 		result['pagecount'] = pagecount
 		result['limit'] = lenvodList
 		result['total'] = lenvodList
 		return result
 
-	def detailContent(self, ids):
-		ids = unquote(ids[0])
-		aid = ids.split('###')
-		logo = aid[3]
-		lastVideo = aid[2]
-		if lastVideo.startswith('http'):
-			r = requests.get(lastVideo, headers=self.header, timeout=5)
-			lastVideo = re.search(r'var guid = \"(.*?)\"', r.content.decode()).group(1)
-		title = aid[1]
-		date = aid[0]
+	def detailContent(self, did):
+		did = unquote(did[0])
+		didList = did.split('###')
+		date = didList[0]
+		title = didList[1]
+		lastVideo = didList[2]
+		logo = didList[3]
 		if date == '':
 			content = '仅展示近100期节目，其余节目通过筛选访问\n'
 		else:
@@ -125,8 +121,11 @@ class Spider(Spider):  # 元类 默认的元类 type
 			'guid': lastVideo,
 			'serviceId': 'tvcctv'
 		}
-		url = "https://api.cntv.cn/video/videoinfoByGuid"
-		data = requests.get(url, params=params, headers=self.header, timeout=10).json()
+		url = "https://api.cntv.cn/video/videoinfoByGuid?"
+		for key in params:
+			url += f'{key}={params[key]}&'
+		url = url.strip('&')
+		data = self.fetch(url, headers=self.header, timeout=10).json()
 		name = data['channel']
 		topicId = data['ctid']
 		content = content + data['vset_brief']
@@ -139,8 +138,11 @@ class Spider(Spider):  # 元类 默认的元类 type
 			'd': date,
 			'id': topicId
 		}
-		url = "https://api.cntv.cn/NewVideo/getVideoListByColumn"
-		data = requests.get(url, params=params, headers=self.header, timeout=10).json()
+		url = "https://api.cntv.cn/NewVideo/getVideoListByColumn?"
+		for key in params:
+			url += f'{key}={params[key]}&'
+		url = url.strip('&')
+		data = self.fetch(url, headers=self.header, timeout=10).json()
 		vodList = data['data']['list']
 		videoList = []
 		for video in vodList:
@@ -150,7 +152,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		if len(date) == 0:
 			date = time.strftime("%Y", time.localtime(time.time()))
 		vod = {
-			"vod_id": ids,
+			"vod_id": did,
 			"vod_name": date + " " + title,
 			"vod_pic": logo,
 			"type_name": name,
@@ -169,50 +171,16 @@ class Spider(Spider):  # 元类 默认的元类 type
 		return result
 
 	def searchContent(self, key, quick):
-		params = {
-			'page': '1',
-			'type': 'video',
-			'sort': 'relevance',
-			'qtext': key,
-			'vtime': '-1',
-			'channel': '',
-			'datepid': '1',
-			'pageflag': '0',
-			'qtext_str': key,
-			'pageSize': '20',
-		}
-		url = 'https://search.cctv.com/ifsearch.php'
-		data = requests.get(url, headers=self.header, params=params, verify=False, timeout=5).json()
-		vodList = data['list']
-		videos = []
-		for vod in vodList:
-			date = ''
-			columnName = ''
-			name = vod['all_title']
-			pic = vod['imglink']
-			m = re.search(r'《(.*?)》.*?(\d+).*?', name)
-			if m:
-				columnName = m.group(1)
-				date = m.group(2)
-			if columnName == '':
-				continue
-			sid = date + '###' + columnName + '###' + vod['urllink'] + '###' + pic
-			remark = vod['channel']
-			videos.append({
-				"vod_id": quote(sid),
-				"vod_name": name,
-				"vod_pic": pic,
-				"vod_remarks": remark
-			})
-		result = {
-			'list': videos
-		}
+		return self.searchContentPage(key, quick, '1')
+
+	def searchContentPage(self, key, quick, page):
+		result = {}
 		return result
 
 	def playerContent(self, flag, pid, vipFlags):
 		result = {}
 		url = f"https://vdn.apps.cntv.cn/api/getHttpVideoInfo.do?pid={pid}"
-		data = requests.get(url, headers=self.header, timeout=10).json()
+		data = self.fetch(url, headers=self.header, timeout=10).json()
 		url = data['hls_url'].strip()
 		result["parse"] = 0
 		result["playUrl"] = ''
@@ -230,4 +198,4 @@ class Spider(Spider):  # 元类 默认的元类 type
 	}
 	
 	def localProxy(self, param):
-		return [200, "video/MP2T", action, ""]
+		return [200, "video/MP2T", {}, ""]
