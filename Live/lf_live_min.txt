@@ -10,6 +10,9 @@ https://taijichadao.github.io/Live/LiveTV.txt
 #Radio-精选
 https://taijichadao.github.io/Live/radio.txt
 
+#MV
+https://taijichadao.github.io/Live/mv_16w.txt
+
 #TV-收集
 https://taijichadao.github.io/Live/LiveTV_collect.txt
 
