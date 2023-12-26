@@ -666,6 +666,7 @@ ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec
 TVBS,http://everydaytv.top/play-3-162-0.html
 TVBS,https://yeslivetv.com/channels/tvbs56/
 TVBS新闻台,http://everydaytv.top/play-3-167-0.html
+TVBS新闻台,video://https://yeslivetv.com/channels/tvbs55/
 东森新闻,http://everydaytv.top/play-3-43-0.html
 中天新闻,http://everydaytv.top/play-3-194-0.html
 寰宇新聞台,http://everydaytv.top/play-3-89-0.html
@@ -673,6 +674,9 @@ TVBS新闻台,http://everydaytv.top/play-3-167-0.html
 湖南经视,https://live.mgtv.com/?channelId=280
 湖南经视,http://www.yangshizhibo.com/dianshizhibo/geshengpindao/hunanpindao/250.html
 湖南经视,http://tv.haoqu99.com/3/hunan/hnjs.html
+湖南都市,https://live.mgtv.com/?channelId=346
+湖南都市,http://www.yangshizhibo.com/dianshizhibo/geshengpindao/hunanpindao/249.html
+湖南都市,http://tv.haoqu99.com/3/hunan/hnds.html
 湖南娱乐,https://live.mgtv.com/?channelId=344
 湖南娱乐,http://www.yangshizhibo.com/dianshizhibo/geshengpindao/hunanpindao/248.html
 湖南娱乐,http://tv.haoqu99.com/3/hunan/hnyl.html
@@ -680,15 +684,13 @@ TVBS新闻台,http://everydaytv.top/play-3-167-0.html
 湖南电影,https://live.mgtv.com/?channelId=221
 湖南电影,http://www.yangshizhibo.com/dianshizhibo/geshengpindao/hunanpindao/245.html
 湖南电影,http://tv.haoqu99.com/3/hunan/xxdy.html
-湖南都市,https://live.mgtv.com/?channelId=346
-湖南都市,http://www.yangshizhibo.com/dianshizhibo/geshengpindao/hunanpindao/249.html
-湖南都市,http://tv.haoqu99.com/3/hunan/hnds.html
 湖南电视剧,https://live.mgtv.com/?channelId=484
 湖南电视剧,http://www.yangshizhibo.com/dianshizhibo/geshengpindao/hunanpindao/246.html
 湖南电视剧,http://tv.haoqu99.com/3/hunan/hndsj.html
 湖南爱晚,https://live.mgtv.com/?channelId=261
 湖南爱晚,http://www.yangshizhibo.com/dianshizhibo/geshengpindao/hunanpindao/247.html
 湖南爱晚,http://tv.haoqu99.com/3/hunan/hngg.html
+湖南国际,https://live.mgtv.com/?channelId=229
 湖南国际,http://www.yangshizhibo.com/dianshizhibo/geshengpindao/hunanpindao/244.html
 湖南国际,http://tv.haoqu99.com/3/hunan/hngj.html
 先锋乒羽,https://live.mgtv.com/?channelId=329
