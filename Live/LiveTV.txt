@@ -661,12 +661,17 @@ TVBS新闻台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MB6B36407828364
 📺嗅探,#genre#
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+翡翠台,http://everydaytv.top/play-2-7-0.html
 TVBS,http://everydaytv.top/play-3-162-0.html
 TVBS,https://yeslivetv.com/channels/tvbs56/
 TVBS新闻台,http://everydaytv.top/play-3-167-0.html
 TVBS新闻台,https://yeslivetv.com/channels/tvbs55/
 东森新闻,http://everydaytv.top/play-3-43-0.html
 中天新闻,http://everydaytv.top/play-3-194-0.html
+台视新闻,http://everydaytv.top/play-3-160-0.html
+中视新闻,http://everydaytv.top/play-3-193-0.html
+三立新闻,http://everydaytv.top/play-3-143-0.html
+民视新闻台,http://everydaytv.top/play-3-131-0.html
 寰宇新聞台,http://everydaytv.top/play-3-89-0.html
 纬来体育,http://play.sportsteam1234.com/play/wen.php?id=vl&id2=
 湖南经视,https://live.mgtv.com/?channelId=280
