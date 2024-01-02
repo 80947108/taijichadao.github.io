@@ -114,6 +114,7 @@ CCTV13新闻,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001328/in
 CCTV13新闻,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV13新闻,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031108/1.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=3
 CCTV13新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+CCTV13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV14少儿,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/4/224/3221228292/index.m3u8
 CCTV14少儿,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/index.m3u8
 CCTV14少儿,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -465,6 +466,11 @@ TVBS新闻台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MB6B36407828364
 中天新闻,http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 中天新闻,http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 中天新闻,http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
+公视,http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
+公视,http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0
+公视,http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
+公视,http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
+公视,http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4
 茶频道,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001234/index.m3u8
 茶频道,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031209/1.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3
 快乐垂钓,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8
@@ -668,10 +674,13 @@ TVBS新闻台,http://everydaytv.top/play-3-167-0.html
 TVBS新闻台,https://yeslivetv.com/channels/tvbs55/
 东森新闻,http://everydaytv.top/play-3-43-0.html
 中天新闻,http://everydaytv.top/play-3-194-0.html
+台视,http://everydaytv.top/play-3-158-0.html
 台视新闻,http://everydaytv.top/play-3-160-0.html
-中视新闻,http://everydaytv.top/play-3-193-0.html
-三立新闻,http://everydaytv.top/play-3-143-0.html
+民视,http://everydaytv.top/play-3-126-0.html
 民视新闻台,http://everydaytv.top/play-3-131-0.html
+华视,http://everydaytv.top/play-3-86-0.html
+公视,http://everydaytv.top/play-3-70-0.html
+中视新闻,http://everydaytv.top/play-3-193-0.html
 寰宇新聞台,http://everydaytv.top/play-3-89-0.html
 纬来体育,http://play.sportsteam1234.com/play/wen.php?id=vl&id2=
 湖南经视,https://live.mgtv.com/?channelId=280
