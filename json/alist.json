@@ -1,20 +1,14 @@
 {
-  "小兵": "https://6vv.app",
-  "小雅": "http://alist.xiaoya.pro",
-  "杜比": "https://dubi.tk",
-  "帥鵬": "https://hi.shuaipeng.wang",
-  "星夢": "https://pan.bashroot.top",
-  "晴園": "https://alist.52qy.repl.co",
-  "梓澪": "https://zi0.cc",
-  "秋雨": "https://share.laowang.me",
-  "米奇": "https://anime.mqmmw.ga",
-  "觸光": "https://pan.ichuguang.com",
-  "一只魚": "https://alist.youte.ml",
-  "七米藍": "https://al.chirmyram.com",
-  "浩瀚吧": "https://8023.haohanba.cn",
-  "雲播放": "https://quanzi.laoxianghuijia.cn",
-  "姬路白雪": "https://pan.jlbx.xyz",
-  "神族九帝": "https://alist.shenzjd.com",
-  "資源小站": "https://960303.xyz",
-  "Disk": "http://124.222.140.243:8080"
+    "vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
+    "drives": [
+        {"name": "小雅1","server": "http://124.71.206.236:5678"},
+        {"name": "小雅2","server": "http://203.104.39.26:5678"},
+        {"name": "xiaoya","server": "http://alist.xiaoya.pro"}
+
+//http://124.70.181.110:5678
+//http://39.108.140.37:5678
+//http://49.232.128.44:5678
+
+    ]
 }
+
