@@ -1,21 +1,8 @@
 Radio综合,#genre#
-Today’s Hits,http://rfcmedia.streamguys1.com/MusicPulsePremium.mp3
-Pop Hits,http://rfcmedia.streamguys1.com/newpophitspremium.mp3
-Alternative Hits,http://rfcmedia.streamguys1.com/alternativehitspremium.mp3
-Country Hits,http://rfcmedia.streamguys1.com/countryhitspremium.mp3
-Country Roads,http://rfcmedia.streamguys1.com/countryroadspremium.mp3
-Relax & Unwind,http://rfcmedia.streamguys1.com/relaxationpremium.mp3
-Smooth Jazz,http://rfcmedia.streamguys1.com/smoothjazzpremium.mp3
-The Hit List,http://rfcmedia.streamguys1.com/srhitlist.mp3
-Dance One,http://rfcmedia.streamguys1.com/srdanceone.mp3
-Disco Beats,http://rfcmedia.streamguys1.com/srdiscobeats.mp3
-Today's Country Hits,http://rfcmedia.streamguys1.com/srtodayscountryhits.mp3
-Coffee House ☕️,http://rfcmedia.streamguys1.com/coffeehousepremium.mp3
 Big B Radio - 中文流行,http://cpop.bigbradio.net/s
 Big B Radio - 韩语流行,http://kpop.bigbradio.net/s
 Big B Radio - 日语流行,http://jpop.bigbradio.net/s
 Big B Radio - 亚洲流行,http://apop.bigbradio.net/s
-Modern Radio,http://play.redefine.ltd/Stream1/FM1058-1.m3u8
 电音电台,http://play.redefine.ltd/Stream3/FM1058-3.m3u8
 古典音乐台,http://play.redefine.ltd/Stream2/FM1058-2.m3u8
 河南新闻广播,https://stream.hndt.com/live/xinwen/playlist.m3u8
@@ -42,13 +29,6 @@ Big Radio,https://stream.hndt.com/live/gudian/playlist.m3u8
 福州交通之声,http://live.zohi.tv/audio/s10001-FM876/index.m3u8
 福州新闻广播,http://live.zohi.tv/audio/s10001-FM944/index.m3u8
 开州之声,http://183.64.174.171:10124/tlgb.m3u8
-山西健康之声广播,rtmp://radiolive.sxrtv.com/live/jiankang
-山西农村广播,rtmp://radiolive.sxrtv.com/live/nongcun
-山西文艺广播·好听1015,rtmp://radiolive.sxrtv.com/live/wenyi
-山西交通广播,rtmp://radiolive.sxrtv.com/live/jiaotong
-山西经济广播,rtmp://radiolive.sxrtv.com/live/jingji
-山西综合广播,rtmp://radiolive.sxrtv.com/live/zonghe
-山西故事广播,rtmp://radiolive.sxrtv.com/live/gushi
 欢乐调频,http://starfish.bj.aliyun.007.qingting.fm:8000/huanletiaopin
 房山电台,http://live.funhillrm.com/3/sd/live.m3u8
 BBC World Service,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio=320000.m3u8
@@ -1029,7 +1009,6 @@ Nice FM,http://netlive.zhxwzx.com/live/1047.m3u8
 深圳交通广播,http://satellitepull.cnr.cn/live/wxszjjpl/playlist.m3u8
 深圳新闻广播先锋898,http://satpili-live-hls.mp.sztv.com.cn/satlive/sat_FM898.m3u8
 海南新闻广播,http://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
-海南交通广播,rtmp://satellitepull.cnr.cn/live/wxhainjtgb
 四川经济广播,http://satellitepull.cnr.cn/live/wxscjjgb/playlist.m3u8
 四川文艺广播,http://satellitepull.cnr.cn/live/wxscwygb/playlist.m3u8
 四川新闻广播,http://satellitepull.cnr.cn/live/wxsclyshgb/playlist.m3u8
@@ -1220,7 +1199,6 @@ KFM981,http://live.cooltv.top/tv/news1296.php?id=9
 南京cool radio,http://hls.njgb.com/live_hls/8/playlist.m3u8
 北京音乐广播,https://brtv-radiolive.rbc.cn/alive/fm974.m3u8
 芒果时空音乐电台,http://live.cooltv.top/tv/ytradio.php?id=524
-摩登音乐台,rtmp://satellitepull.cnr.cn/live/wx32hunwygb
 芒果音乐台,http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
 南宁乡村生活广播经典1049,http://hls.nntv.cn/nnradio/FM1049.m3u8
 南宁故事广播快乐895,http://hls.nntv.cn/nnradio/FM895.m3u8
@@ -1232,7 +1210,6 @@ KFM981,http://live.cooltv.top/tv/news1296.php?id=9
 山东经典音乐广播,http://live.cooltv.top/tv/ytradio.php?id=703
 陕西音乐广播·快乐988,http://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
 陕西青少广播·好听1055,http://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
-崂山921,rtmp://jsylivealone.iqilu.com/laoshan/laoshan_audio
 经典948,http://live.cooltv.top/tv/iqilu.php?id=948
 甘肃青春调频,http://live.cooltv.top/tv/ytradio.php?id=485
 甘肃都市调频,http://live.cooltv.top/tv/ytradio.php?id=484

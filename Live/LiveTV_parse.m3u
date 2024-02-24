@@ -83,26 +83,6 @@ video://https://www.yangshipin.cn/#/tv/home?pid=600002509
 video://https://www.yangshipin.cn/#/tv/home?pid=600002506
 #EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="video://https://epg.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视
 video://https://www.yangshipin.cn/#/tv/home?pid=600002481
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="video://https://epg.112114.xyz/logo/凤凰资讯.png" group-title="其它",凤凰资讯
-video://http://everydaytv.top/play-2-11-0.html
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="video://https://epg.112114.xyz/logo/凤凰中文.png" group-title="其它",凤凰中文
-video://http://everydaytv.top/play-2-10-0.html
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="video://https://epg.112114.xyz/logo/翡翠台.png" group-title="其它",翡翠台
-video://http://everydaytv.top/play-2-7-0.html
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="video://https://epg.112114.xyz/logo/TVBS.png" group-title="其它",TVBS
-video://http://everydaytv.top/play-3-162-0.html
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="video://https://epg.112114.xyz/logo/TVBS.png" group-title="其它",TVBS
-video://https://yeslivetv.com/channels/tvbs56/
-#EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="video://https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="其它",TVBS新闻台
-video://http://everydaytv.top/play-3-167-0.html
-#EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="video://https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="其它",TVBS新闻台
-video://https://yeslivetv.com/channels/tvbs55/
-#EXTINF:-1,tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="video://https://epg.112114.xyz/logo/东森新闻.png" group-title="其它",东森新闻
-video://http://everydaytv.top/play-3-43-0.html
-#EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="video://https://epg.112114.xyz/logo/中天新闻.png" group-title="其它",中天新闻
-video://http://everydaytv.top/play-3-194-0.html
-#EXTINF:-1,tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="video://https://epg.112114.xyz/logo/寰宇新闻台.png" group-title="其它",寰宇新闻台
-video://http://everydaytv.top/play-3-89-0.html
 #EXTINF:-1,tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="video://https://epg.112114.xyz/logo/纬来体育.png" group-title="其它",纬来体育
 video://http://play.sportsteam1234.com/play/wen.php?id=vl&id2=
 #EXTINF:-1,tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="video://https://epg.112114.xyz/logo/湖南经视.png" group-title="其它",湖南经视

@@ -5,34 +5,13 @@
 0
 
 #TV-精选
-https://taijichadao.github.io/Live/LiveTV.txt
+./LiveTV.txt
 
 #Radio-精选
-https://taijichadao.github.io/Live/radio.txt
+./radio.txt
 
-#MV
-https://taijichadao.github.io/Live/mv_16w.txt
-
-#TV-收集
-https://taijichadao.github.io/Live/LiveTV_collect.txt
-
-#Radio-收集
-https://taijichadao.github.io/Live/radio_collect.txt
-
-#TV-重庆有线
-https://taijichadao.github.io/IPTV-URL/cqyx.m3u
-
-#TV-百视通
-https://taijichadao.github.io/IPTV-URL/bestv.m3u
-
-#TV-蜀小果
-https://taijichadao.github.io/Live/sxg.txt
-
-#TV-贵州移动
-https://taijichadao.github.io/Live/gzyd.txt
-
-#TV-央视频
-https://taijichadao.github.io/IPTV-URL/msp.m3u
+#TV-酒店源
+https://taijichadao.github.io/tv/itvlist.txt
 
 #TV-Qist接口
 https://taijichadao.github.io/qist_tvbox/tvlive.txt
