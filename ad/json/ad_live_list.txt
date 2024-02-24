@@ -1,0 +1,16 @@
+#lf_IPTV
+0
+
+#lf_RADIO
+0
+
+#AD源
+./adult.txt
+
+#Eighteen源
+./18av_list.txt
+
+
+
+
+
