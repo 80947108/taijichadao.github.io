@@ -286,7 +286,7 @@ CCTV5+体育赛事,http://[2409:8087:7000:20::203]:80/dbiptv.sn.chinamobile.com/
 📺其它,#genre#
 凤凰资讯,http://
 凤凰中文,http://
-TVBS,http://
+TVBS HD,http://
 TVBS新闻台,http://
 东森新闻,http://
 金鹰纪实,http://
