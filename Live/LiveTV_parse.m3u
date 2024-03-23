@@ -4,7 +4,7 @@ video://https://yangshipin.cn/#/tv/home?pid=600001859
 #EXTINF:-1,tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="video://https://epg.112114.xyz/logo/CCTV2财经.png" group-title="央视",CCTV2财经
 video://https://yangshipin.cn/#/tv/home?pid=600001800
 #EXTINF:-1,tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" tvg-logo="video://https://epg.112114.xyz/logo/CCTV3综艺.png" group-title="央视",CCTV3综艺
-http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" tvg-logo="video://https://epg.112114.xyz/logo/CCTV3综艺.png" group-title="央视",CCTV3综艺
 video://https://yangshipin.cn/#/tv/home?pid=600001801
 #EXTINF:-1,tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" tvg-logo="video://https://epg.112114.xyz/logo/CCTV4中文国际.png" group-title="央视",CCTV4中文国际
@@ -12,13 +12,13 @@ video://https://yangshipin.cn/#/tv/home?pid=600001814
 #EXTINF:-1,tvg-id="CCTV5体育" tvg-name="CCTV5体育" tvg-logo="video://https://epg.112114.xyz/logo/CCTV5体育.png" group-title="央视",CCTV5体育
 video://https://yangshipin.cn/#/tv/home?pid=600001818
 #EXTINF:-1,tvg-id="CCTV6电影" tvg-name="CCTV6电影" tvg-logo="video://https://epg.112114.xyz/logo/CCTV6电影.png" group-title="央视",CCTV6电影
-http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/ott.mobaibox.com/PLTV/4/224/3221228123/index.m3u8
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001859/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,tvg-id="CCTV6电影" tvg-name="CCTV6电影" tvg-logo="video://https://epg.112114.xyz/logo/CCTV6电影.png" group-title="央视",CCTV6电影
 video://https://yangshipin.cn/#/tv/home?pid=600001802
 #EXTINF:-1,tvg-id="CCTV7国防军事" tvg-name="CCTV7国防军事" tvg-logo="video://https://epg.112114.xyz/logo/CCTV7国防军事.png" group-title="央视",CCTV7国防军事
 video://https://yangshipin.cn/#/tv/home?pid=600004092
 #EXTINF:-1,tvg-id="CCTV8电视剧" tvg-name="CCTV8电视剧" tvg-logo="video://https://epg.112114.xyz/logo/CCTV8电视剧.png" group-title="央视",CCTV8电视剧
-http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/4/224/3221227473/index.m3u8
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,tvg-id="CCTV8电视剧" tvg-name="CCTV8电视剧" tvg-logo="video://https://epg.112114.xyz/logo/CCTV8电视剧.png" group-title="央视",CCTV8电视剧
 video://https://yangshipin.cn/#/tv/home?pid=600001803
 #EXTINF:-1,tvg-id="CCTV9纪录" tvg-name="CCTV9纪录" tvg-logo="video://https://epg.112114.xyz/logo/CCTV9纪录.png" group-title="央视",CCTV9纪录
@@ -83,8 +83,6 @@ video://https://www.yangshipin.cn/#/tv/home?pid=600002509
 video://https://www.yangshipin.cn/#/tv/home?pid=600002506
 #EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="video://https://epg.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视
 video://https://www.yangshipin.cn/#/tv/home?pid=600002481
-#EXTINF:-1,tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="video://https://epg.112114.xyz/logo/纬来体育.png" group-title="其它",纬来体育
-video://http://play.sportsteam1234.com/play/wen.php?id=vl&id2=
 #EXTINF:-1,tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="video://https://epg.112114.xyz/logo/湖南经视.png" group-title="其它",湖南经视
 video://https://live.mgtv.com/?channelId=280
 #EXTINF:-1,tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="video://https://epg.112114.xyz/logo/湖南经视.png" group-title="其它",湖南经视
