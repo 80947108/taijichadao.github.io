@@ -1,6 +1,5 @@
 18AV無碼,#genre#
 carib-002,https://fc.maa1808.com/c/fpsvmyqlej/fpsvmyqlej.m3u8
-精选-003,https://tongdao.serv00.net/video/001.mp4
 carib-004,https://fc.maa1808.com/f/xuyanbincr/xuyanbincr.m3u8
 carib-146,https://fc.maa1808.com/c/nofftnyelj/nofftnyelj.m3u8
 carib-182,https://fc.maa1808.com/f/tveemkomvr/tveemkomvr.m3u8
