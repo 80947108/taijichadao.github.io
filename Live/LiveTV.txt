@@ -283,6 +283,22 @@ CCTV5+体育赛事,http://[2409:8087:7000:20::203]:80/dbiptv.sn.chinamobile.com/
 西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
 西藏卫视,http://[2409:8087:7001:20:2::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226212/index.m3u8
 
+📺地方,#genre#
+parse=1
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+湖南经视,https://live.mgtv.com/?channelId=280
+湖南都市,https://live.mgtv.com/?channelId=346
+湖南娱乐,https://live.mgtv.com/?channelId=344
+湖南电影,https://live.mgtv.com/?channelId=221
+湖南电视剧,https://live.mgtv.com/?channelId=484
+湖南爱晚,https://live.mgtv.com/?channelId=261
+湖南国际,https://live.mgtv.com/?channelId=229
+先锋乒羽,https://live.mgtv.com/?channelId=329
+茶频道,https://live.mgtv.com/?channelId=578
+快乐垂钓,https://live.mgtv.com/?channelId=218
+长沙新闻,https://live.mgtv.com/?channelId=269
+长沙政法,https://live.mgtv.com/?channelId=254
+
 📺其它,#genre#
 凤凰资讯,http://
 凤凰中文,http://
@@ -296,8 +312,10 @@ TVBS新闻台,http://
 快乐垂钓,http://
 凤凰资讯,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 凤凰中文,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
 TVBS,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=ME2E6545230665452306&ct=19234&tsum=ff0df01c2935843c8c4543428728ce28
 TVBS新闻台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MB6B3640782836407828&ct=19234&tsum=315ac9a0876bc361c6715ac6d5a96777
 东森新闻,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290
@@ -332,19 +350,3 @@ CHC高清电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLT
 CHC动作电影,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC动作电影,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000017/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000017&livemode=1&stbId=3
 CHC动作电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-
-📺地方,#genre#
-parse=1
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-湖南经视,https://live.mgtv.com/?channelId=280
-湖南都市,https://live.mgtv.com/?channelId=346
-湖南娱乐,https://live.mgtv.com/?channelId=344
-湖南电影,https://live.mgtv.com/?channelId=221
-湖南电视剧,https://live.mgtv.com/?channelId=484
-湖南爱晚,https://live.mgtv.com/?channelId=261
-湖南国际,https://live.mgtv.com/?channelId=229
-先锋乒羽,https://live.mgtv.com/?channelId=329
-茶频道,https://live.mgtv.com/?channelId=578
-快乐垂钓,https://live.mgtv.com/?channelId=218
-长沙新闻,https://live.mgtv.com/?channelId=269
-长沙政法,https://live.mgtv.com/?channelId=254
