@@ -19,6 +19,9 @@ https://taijichadao.github.io/qist_tvbox/tvlive.txt
 #TV-Dxawi接口
 https://dxawi.github.io/0/tvlive.txt
 
+#百事通
+./百事通.txt
+
 #IPTV_ipv6
 https://taijichadao.github.io/IPTV-URL/IPTV.m3u
 
