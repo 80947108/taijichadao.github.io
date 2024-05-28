@@ -19,6 +19,9 @@ https://taijichadao.github.io/qist_tvbox/tvlive.txt
 #TV-Dxawi接口
 https://dxawi.github.io/0/tvlive.txt
 
+#港澳台
+./港澳台.txt
+
 #百事通
 ./百事通.txt
 
