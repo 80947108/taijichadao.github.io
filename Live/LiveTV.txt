@@ -22,7 +22,7 @@ CCTV15音乐,https://yangshipin.cn/tv/home?pid=600001815
 CCTV16奥林匹克,https://yangshipin.cn/tv/home?pid=600098637
 CCTV17农业农村,https://yangshipin.cn/tv/home?pid=600001810
 CCTV5+体育赛事,https://yangshipin.cn/tv/home?pid=600001817
-CCTV4k,https://yangshipin.cn/tv/home?pid=600002264
+CCTV4K,https://yangshipin.cn/tv/home?pid=600002264
 
 📡卫视,#genre#
 parse=1
