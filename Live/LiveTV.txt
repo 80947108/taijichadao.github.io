@@ -65,19 +65,19 @@ ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec
 长沙政法,https://live.mgtv.com/?channelId=254
 
 📺其它,#genre#
-鳳凰資訊,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/HFib76ySpbU&type=mpd
-TVBS HD,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=YvdcZ_jpLXE&type=mpd
-TVBS新聞,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=2mCSYvcfhtc&type=mpd
-TVBS NEWS,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=m_dhMSvUCIc&type=mpd
-中天新聞,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=oIgbl7t0S_w&type=mpd
-東森新聞,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=LuQ4S-i5zoE&type=mpd
-民視新聞,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=ylYJSBUgaMA&type=mpd
-華視新聞,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=wM0g8EoUZ_E&type=mpd
-台視新聞,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=xL0ch83RAK8&type=mpd
-中視新聞,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=TCnaIE_SAtM&type=mpd
-寰宇新聞,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=NhZXUwlY2dU&type=mpd
-公視新聞,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=quwqlazU-c8&type=mpd
-鏡新聞mnews,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=5n0y6b0Q25o&type=mpd
-三立LIVE新闻,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=FoBfXvlOR6I&type=mpd
-三立+,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=oZdzzvxTfUY&type=mpd
-公視,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=quwqlazU-c8&type=mpd
+鳳凰資訊,https://y2b.880824.xyz/live?url=https://www.youtube.com/live/HFib76ySpbU&type=mpd
+TVBS HD,https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=YvdcZ_jpLXE&type=mpd
+TVBS新聞,https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=2mCSYvcfhtc&type=mpd
+TVBS NEWS,https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=m_dhMSvUCIc&type=mpd
+中天新聞,https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=oIgbl7t0S_w&type=mpd
+東森新聞,https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=LuQ4S-i5zoE&type=mpd
+民視新聞,https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=ylYJSBUgaMA&type=mpd
+華視新聞,https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=wM0g8EoUZ_E&type=mpd
+台視新聞,https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=xL0ch83RAK8&type=mpd
+中視新聞,https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=TCnaIE_SAtM&type=mpd
+寰宇新聞,https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=NhZXUwlY2dU&type=mpd
+公視新聞,https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=quwqlazU-c8&type=mpd
+鏡新聞mnews,https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=5n0y6b0Q25o&type=mpd
+三立LIVE新闻,https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=FoBfXvlOR6I&type=mpd
+三立+,https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=oZdzzvxTfUY&type=mpd
+公視,https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=quwqlazU-c8&type=mpd
