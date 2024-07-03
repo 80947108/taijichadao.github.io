@@ -1,0 +1,57 @@
+{
+"spider":"https://taijichadao.github.io/CatVodSpider/jar/custom_spider.jar",
+
+"lives":[
+{"name":"范明明","type":0,"url":"https://taijichadao.github.io/live/tv/m3u/index.m3u","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"精选","type":0,"url":"https://taijichadao.github.io/Live/LiveTV.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://taijichadao.github.io/live/tv/{name}.png"},
+{"name":"酒店源","type":0,"url":"https://taijichadao.github.io/tv/itvlist.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://taijichadao.github.io/live/tv/{name}.png"},
+{"name":"MV","type":0,"url":"https://taijichadao.github.io/Live/mv.txt"}
+],
+
+"sites":[
+{"key":"lf_search_min","name":"首页","type":3,"searchable":1,"changeable":1,"api":"https://taijichadao.github.io/lufei/lf_search_min.js"},
+{"key":"csp_豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"ext": "https://taijichadao.github.io/json/douban.json"},
+{"key":"lf_电视电台","name":"电视电台","type":3,"searchable":1,"changeable":1,"api":"https://taijichadao.github.io/lufei/lf_live_min.js","ext":"https://taijichadao.github.io/Live/lf_live_min.txt"},
+{"key":"drpy_广播迷","name":"广播迷","type":3,"searchable":1,"changeable":0,"api":"https://taijichadao.github.io/dr_py/libs/drpy2.min.js","ext":"https://taijichadao.github.io/drpy/js/广播迷.js"},
+{"key":"csp_哔哩","name":"哔哩","type":3,"api":"csp_Bili","searchable":1,"changeable":0,"ext":{"json":"https://taijichadao.github.io/json/bili.json","cookie":"https://taijichadao.github.io/json/bili_cookie.json"}},
+{"key":"cctv_spider","name":"央视网","type":3,"api":"https://taijichadao.github.io/py/cctv_spider.py","searchable":1,"changeable":1,"ext":"https://taijichadao.github.io/py/cctv_spider.json"},
+{"key":"py_cntv","name":"CCTV栏目大全","type":3,"searchable":1,"changeable":1,"api":"https://taijichadao.github.io/py/py_cntv.py"},
+{"key":"看球","name":"看球","type":3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type":"list"}},
+
+//道长drpy项目源
+{"key":"drpy_JRKAN直播","name":"JRKAN直播","type":3,"searchable":1,"changeable":0,"style":{"type":"list"},"api":"https://taijichadao.github.io/dr_py/libs/drpy2.min.js","ext":"https://taijichadao.github.io/drpy/js/JRKAN直播.js"},
+{"key":"drpy_88看球","name":"88看球","type":3,"searchable":1,"changeable":0,"style":{"type":"list"},"api":"https://taijichadao.github.io/hipy-server/app/t4/files/drpy_libs/drpy2.min.js","ext":"https://taijichadao.github.io/hipy-server/app/t4/files/drpy_js/88看球.js"},
+{"key":"drpy_荐片","name":"🚀荐片","type":3,"searchable":1,"changeable":1,"api":"https://taijichadao.github.io/dr_py/libs/drpy2.min.js","ext":"https://taijichadao.github.io/dr_py/js/荐片.js"},
+{"key":"drpy_爱看机器人","name":"👾爱看机器人","type":3,"searchable":1,"changeable":1,"api":"https://taijichadao.github.io/dr_py/libs/drpy2.min.js","ext":"https://taijichadao.github.io/drpy/js/爱看机器人.js"},
+//{"key":"drpy_ikanbot2","name":"👾iKanBot","type":3,"searchable":1,"changeable":1,"api":"https://taijichadao.github.io/dr_py/libs/drpy2.min.js","ext":"https://taijichadao.github.io/dr_py/js/ikanbot2.js"},
+{"key":"drpy_南瓜影视","name":"南瓜影视","type":3,"searchable":1,"changeable":1,"api":"https://taijichadao.github.io/dr_py/libs/drpy2.min.js","ext":"https://taijichadao.github.io/dr_py/js/南瓜影视.js"},
+{"key":"drpy_人人影视","name":"人人影视","type":3,"searchable":1,"changeable":1,"api":"https://taijichadao.github.io/dr_py/libs/drpy2.min.js","ext":"https://taijichadao.github.io/dr_py/js/人人影视.js"},
+{"key":"drpy_360影视","name":"360影视","type":3,"searchable":1,"changeable":1,"api":"https://taijichadao.github.io/dr_py/libs/drpy2.min.js","ext":"https://taijichadao.github.io/dr_py/js/360影视.js"},
+{"key":"drpy_腾云驾雾","name":"腾讯","type":3,"searchable":1,"changeable":1,"api":"https://taijichadao.github.io/dr_py/libs/drpy2.min.js","ext":"https://taijichadao.github.io/dr_py/js/腾云驾雾.js"},
+{"key":"drpy_奇珍异兽","name":"爱奇艺","type":3,"searchable":1,"changeable":1,"api":"https://taijichadao.github.io/dr_py/libs/drpy2.min.js","ext":"https://taijichadao.github.io/dr_py/js/奇珍异兽.js"},
+{"key":"drpy_优酷","name":"优酷","type":3,"searchable":1,"changeable":1,"api":"https://taijichadao.github.io/dr_py/libs/drpy2.min.js","ext":"https://taijichadao.github.io/dr_py/js/优酷.js"},
+{"key":"drpy_百忙无果","name":"芒果","type":3,"searchable":1,"changeable":1,"api":"https://taijichadao.github.io/dr_py/libs/drpy2.min.js","ext":"https://taijichadao.github.io/dr_py/js/百忙无果.js"},
+
+//{"key":"drpy_豆瓣","name":"豆瓣_drpy","type":3,"searchable":1,"changeable":1,"api":"https://taijichadao.github.io/dr_py/libs/drpy2.min.js","ext":"https://taijichadao.github.io/drpy/js/drpy.js"},
+
+//csp爬虫项目源
+{"key":"csp_荐片","name":"荐片csp","type":3,"api":"csp_Jianpian","searchable":1,"changeable":1,"ext": "https://taijichadao.github.io/CatVodSpider/json/jianpian.json"},
+
+//XBPQ、XBiu项目源
+//{"key":"人人_XBPQ","name":"人人_XBPQ","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"https://taijichadao.github.io/jar/XBPQ.jar","ext":"https://www.rttks.com/rrtop/{cateId}/page/{catePg}.html"},
+//{"key":"人人_XBiu","name":"人人_XBiu","type":3,"api":"csp_XBiu","searchable":1,"changeable":1,"jar":"https://taijichadao.github.io/jar/XBiu.jar","ext":"https://www.rttks.com/rrtop/{cateId}/page/{catePg}.html"},
+
+{"key":"push_agent","name":"推送","type":3,"searchable":0,"changeable":0,"api":"csp_Push"}
+
+],
+
+"parses":[
+{"name":"JSONPlayer","url":"https://jx.jsonplayer.com/player/?url="},
+{"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url="},
+{"name":"虾米2","type":0,"url":"https://jx.xmflv.cc/?url="},
+{"name":"冰豆","type":0,"url":"https://bd.jx.cn/?url="},
+{"name":"m3u8.tv","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
+{"name":"777解析","type":0,"url":"https://jx.777jiexi.com/player/?url="}
+]
+
+}
